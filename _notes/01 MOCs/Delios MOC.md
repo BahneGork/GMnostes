@@ -1,7 +1,11 @@
----title: Delios MOCtags: notesseason: summertoc: truecomments: true---
 ---
-title: {{title}}
+title: Delios MOC
+tags: notes
+season: summer
+toc: true
+comments: true
 ---
+
 #MOC #location #civilizationhub
 Main: [[The Bedegaarn Barony MOC|Bedegaarn Barony]]
 Related: [[Click claw moors]] - [[Misty Falls]]
