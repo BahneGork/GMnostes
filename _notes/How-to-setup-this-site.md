@@ -1,3 +1,4 @@
+---title: How-to-setup-this-sitetags: notesseason: summertoc: truecomments: true---
 ---
 title: How to setup this site
 tags: Theme
