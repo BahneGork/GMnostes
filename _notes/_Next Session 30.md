@@ -1,9 +1,17 @@
----title: _Next Session 30tags: notesseason: summertoc: truecomments: true---
+---
+title: Next Session 30
+tags: notes
+season: summer
+toc: true
+comments: true
+---
+
 # Session 30 - Next 
-#next 
+
+## session details
 Date: Lørdag 18 Sep 2021
 Game date: 8th?
-Tags:
+
 Main:[[Campaign]] Related:
 Next:[[_Next Session 31]]
 Prev:[[Logged - Session 29]]
@@ -80,21 +88,9 @@ aspect
 aspect
 
 ### NPCs
-* 
-* 
-* 
-* 
+
 
 ### Monsters
-* 
-* 
-* 
-* 
+
 
 ### Loot
-* 
-* 
-* 
-* 
-* 
-* 
