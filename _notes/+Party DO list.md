@@ -1,4 +1,12 @@
----title: +Party DO listtags: notesseason: summertoc: truecomments: true---
+---
+title: +Party DO list
+tags: notes
+season: summer
+toc: true
+comments: true
+---
+# Party to list
+
 #partyrdolist #living
 
 
