@@ -1,6 +1,10 @@
----title: The Bedegaarn Barony MOCtags: notesseason: summertoc: truecomments: true---
 ---
-alias: 'Bedegaarn Barony'
+title: The Bedegaarn Barony MOC
+tags: notes
+season: summer
+toc: true
+comments: true
+alias:
 ---
 
 #MOC #Barony #bedegaarnBaroni #Region 
