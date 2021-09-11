@@ -1,2 +1,8 @@
----title: Auriliatags: notesseason: summertoc: truecomments: true---
+---
+title: Aurilia
+tags: notes
+season: summer
+---
+ 
+# Aurilia
 #retainers 

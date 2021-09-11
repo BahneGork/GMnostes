@@ -1,4 +1,10 @@
----title: Assumi Avalandetags: notesseason: summertoc: truecomments: true---
+---
+title: Assumi Avalande
+tags: notes
+season: summer
+---
+ 
+# Assumi Avalande
 ---
 alias: 'Assumi'
 type: 'npc'

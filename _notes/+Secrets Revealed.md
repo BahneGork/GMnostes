@@ -1,4 +1,9 @@
----title: +Secrets Revealedtags: notesseason: summertoc: truecomments: true---
+---
+title: +Secrets Revealed
+tags: notes
+season: summer
+---
+
 # Secrets Revealed about Time 
 Main:
 Related: [[The black oak fight]]

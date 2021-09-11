@@ -1,4 +1,10 @@
----title: Daughters of MEG workbenchtags: notesseason: summertoc: truecomments: true---
+---
+title: Daughters of MEG workbench
+tags: notes
+season: summer
+---
+ 
+# Daughters of MEG workbench
 They make dolls for children
 one can see out of the dolls mouth
 one can hear out of the dolls eyes

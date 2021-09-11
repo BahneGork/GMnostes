@@ -1,4 +1,10 @@
----title: REMEMBER HOW TO spell lists classestags: notesseason: summertoc: truecomments: true---
+---
+title: REMEMBER HOW TO spell lists classes
+tags: notes
+season: summer
+---
+ 
+# REMEMBER HOW TO spell lists classes
 
 foreveryone — Today at 5:21 PM
 I had to do that as well

@@ -1,4 +1,10 @@
----title: Misty Fallstags: notesseason: summertoc: truecomments: true---
+---
+title: Misty Falls
+tags: notes
+season: summer
+---
+
+# Misty Falls
 #location #bedegaarnBaroni #subregion
 Main: [[The Bedegaarn Barony MOC]] 
 Related: [[Duchies n Baronies of Ursia MOC]]

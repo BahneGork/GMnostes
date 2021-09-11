@@ -1,4 +1,10 @@
----title: Osric Schneidertags: notesseason: summertoc: truecomments: true---
+---
+title: Osric Schneider
+tags: notes
+season: summer
+---
+ 
+# Osric Schneider
 ---
 alias: 'Osric the townspeaker'
 

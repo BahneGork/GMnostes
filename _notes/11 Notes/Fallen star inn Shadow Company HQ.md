@@ -1,4 +1,10 @@
----title: Fallen star inn Shadow Company HQtags: notesseason: summertoc: truecomments: true---
+---
+title: Fallen star inn Shadow Company HQ
+tags: notes
+season: summer
+---
+ 
+# Fallen star inn Shadow Company HQ
 # Fallen star inn Shadow Company HQ
 Main: [[The Shadow Company MOC]]
 Related: [[Fallen star inn - first visit]]

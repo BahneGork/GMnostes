@@ -1,4 +1,10 @@
----title: Brumor stålfodtags: notesseason: summertoc: truecomments: true---
+---
+title: Brumor stï¿½lfod
+tags: notes
+season: summer
+---
+ 
+# Brumor stï¿½lfod
 ---
 alias: 'brumor'
 type: 'pc'

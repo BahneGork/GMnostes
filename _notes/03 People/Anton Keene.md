@@ -1,4 +1,10 @@
----title: Anton Keenetags: notesseason: summertoc: truecomments: true---
+---
+title: Anton Keene
+tags: notes
+season: summer
+---
+ 
+# Anton Keene
 ---
 alias: 'anton'
 type: 'pc'

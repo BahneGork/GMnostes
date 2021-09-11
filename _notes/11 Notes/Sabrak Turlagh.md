@@ -1,4 +1,10 @@
----title: Sabrak Turlaghtags: notesseason: summertoc: truecomments: true---
+---
+title: Sabrak Turlagh
+tags: notes
+season: summer
+---
+ 
+# Sabrak Turlagh
 #dwarven #language #title
 
 *Sabrak Thurlagh* equals something along the lines of "The flawed ones in the fields of broken dreams". 

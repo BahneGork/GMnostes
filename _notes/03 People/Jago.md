@@ -1,2 +1,8 @@
----title: Jagotags: notesseason: summertoc: truecomments: true---
+---
+title: Jago
+tags: notes
+season: summer
+---
+ 
+# Jago
 #npc #delios #shopkeeper

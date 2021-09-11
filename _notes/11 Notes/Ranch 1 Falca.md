@@ -1,4 +1,10 @@
----title: Ranch 1 Falcatags: notesseason: summertoc: truecomments: true---
+---
+title: Ranch 1 Falca
+tags: notes
+season: summer
+---
+ 
+# Ranch 1 Falca
 ---
 alias:'ranch 1, ranch falca, falca'
 ---

@@ -1,4 +1,10 @@
----title: lumber ranchestags: notesseason: summertoc: truecomments: true---
+---
+title: lumber ranches
+tags: notes
+season: summer
+---
+ 
+# lumber ranches
 ---
 alias: 'lumber ranch families, Delios lumber farms, Delios Ranches'
 ---

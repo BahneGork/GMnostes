@@ -1,4 +1,10 @@
----title: Sessions MOCtags: notesseason: summertoc: truecomments: true---
+---
+title: Sessions MOC
+tags: notes
+season: summer
+---
+ 
+# Sessions MOC
 #moc #sessions #logs
 Main: [[Arendur Rising Campaign MOC]]
 Related: [[]]

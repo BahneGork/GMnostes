@@ -1,4 +1,10 @@
----title: Crimson Companytags: notesseason: summertoc: truecomments: true---
+---
+title: Crimson Company
+tags: notes
+season: summer
+---
+ 
+# Crimson Company
 Cedric Belmont
 Brumor Stålfod
 Assumi Avalande

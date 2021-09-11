@@ -1,4 +1,10 @@
----title: The white tusk tribetags: notesseason: summertoc: truecomments: true---
+---
+title: The white tusk tribe
+tags: notes
+season: summer
+---
+ 
+# The white tusk tribe
 ---
 alias: 'white tusks'
 status: 'neutral'

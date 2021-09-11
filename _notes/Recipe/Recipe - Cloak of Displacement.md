@@ -1,4 +1,5 @@
----title: Recipe - Cloak of Displacementtags: notesseason: summertoc: truecomments: true---
+---title: Recipe - Cloak of Displacementtags: notesseason: summer--- 
+# Recipe - Cloak of Displacement
 #magicitemformula #recipe 
 ### Cloak of Displacement
 

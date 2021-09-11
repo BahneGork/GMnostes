@@ -1,4 +1,10 @@
----title: Ashmar Downstags: notesseason: summertoc: truecomments: true---
+---
+title: Ashmar Downs
+tags: notes
+season: summer
+---
+ 
+# Ashmar Downs
 #location #teleportcircle #blueguardians
 
 # Ashmar Downs

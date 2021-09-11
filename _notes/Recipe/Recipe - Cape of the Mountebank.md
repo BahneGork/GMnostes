@@ -1,4 +1,5 @@
----title: Recipe - Cape of the Mountebanktags: notesseason: summertoc: truecomments: true---
+---title: Recipe - Cape of the Mountebanktags: notesseason: summer--- 
+# Recipe - Cape of the Mountebank
 #magicitemformula #recipe 
 ### Cape of the Mountebank
 

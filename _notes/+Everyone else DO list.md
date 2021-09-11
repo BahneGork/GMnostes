@@ -1,4 +1,10 @@
----title: +Everyone else DO listtags: notesseason: summertoc: truecomments: true---
+---
+title: +Everyone else DO list
+tags: notes
+season: summer
+---
+ 
+# +Everyone else DO list
 #everyoneelse #dolist #living 
 Main: [[people MOC]] Related: [[Dangers MOC]], [[Factions MOC]], [[Sessions MOC]]
 # Allies

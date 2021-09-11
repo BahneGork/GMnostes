@@ -1,4 +1,10 @@
----title: framed black canvastags: notesseason: summertoc: truecomments: true---
+---
+title: framed black canvas
+tags: notes
+season: summer
+---
+ 
+# framed black canvas
 #item 
 The black portrait was created by [[Galdi Maera]] 45 years ago.
 

@@ -1,4 +1,5 @@
----title: Recipe - Arrow of slayingtags: notesseason: summertoc: truecomments: true---
+---title: Recipe - Arrow of slayingtags: notesseason: summer--- 
+# Recipe - Arrow of slaying
 #magicitemformula #recipe
 
 ### Arrow of Slaying

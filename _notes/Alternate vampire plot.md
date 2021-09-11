@@ -1,4 +1,9 @@
----title: Alternate vampire plottags: notesseason: summertoc: truecomments: true---
+---
+title: Alternate vampire plot
+tags: notes
+season: summer
+---
+# Alternate vampire plot
 1) A victim of the vampire got loose as a vampire spawn. He attacked either a farm animal or a servant or a lumberjack at the ranch farm. 
 
 Somehow? the ranchers subdued the vampire spawn and the resident alchemist is now tapping it's blood, feeding it slaves, to create elixirs that boosts the work efficiency of the lumberjacks.

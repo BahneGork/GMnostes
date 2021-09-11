@@ -1,4 +1,10 @@
----title: Lord wolfgang landortags: notesseason: summertoc: truecomments: true---
+---
+title: Lord wolfgang landor
+tags: notes
+season: summer
+---
+ 
+# Lord wolfgang landor
 #npc #delios 
 
 [[Lord Wolfgang Landor.jpg]]

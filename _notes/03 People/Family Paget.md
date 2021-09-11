@@ -1,4 +1,10 @@
----title: Family Pagettags: notesseason: summertoc: truecomments: true---
+---
+title: Family Paget
+tags: notes
+season: summer
+---
+ 
+# Family Paget
 ---
 alias: 'lumber family paget'
 ---
@@ -13,7 +19,7 @@ Head Butler: [[Gerad Egger]]
 Children:
 
 # estate
-Lumber ranch located south of the [[click claw moors]] and the [[Fallen star inn - first visit]].
+Lumber ranch located south of the [[Click claw moors]] and the [[Fallen star inn - first visit]].
 **Buildings**
 - stables
 - lumber house

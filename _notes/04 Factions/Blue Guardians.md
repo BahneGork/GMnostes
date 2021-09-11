@@ -1,4 +1,10 @@
----title: Blue Guardianstags: notesseason: summertoc: truecomments: true---
+---
+title: Blue Guardians
+tags: notes
+season: summer
+---
+ 
+# Blue Guardians
 #faction #wizardguild 
 Main: [[Factions MOC]]
 Related: [[Assumi Avalande|Assumi]]

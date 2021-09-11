@@ -1,4 +1,10 @@
----title: Cedric Belmotetags: notesseason: summertoc: truecomments: true---
+---
+title: Cedric Belmote
+tags: notes
+season: summer
+---
+ 
+# Cedric Belmote
 ---
 alias: 'cedric'
 type: 'pc'

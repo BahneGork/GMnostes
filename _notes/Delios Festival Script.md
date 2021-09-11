@@ -2,9 +2,9 @@
 title: Delios Festival Script
 tags: notes
 season: summer
-toc: true
-comments: true
 ---
+
+# Delios Festival Script
 #script #delios #festival
 [[Delios]] [[annual founders celebration|founders festival]]
 
@@ -44,5 +44,7 @@ Byen summer af energi hele dagen, folk har travlt med at gøre færdig og lukke 
 	- et blåt og rødt stripet telt, 3x6meter, der står et klap ud skilt hvorpå der er malet en håndflade med et øje inden i og nedenunder står der "Madam Constance"
 	- en rød dart kaste stand, vind random crap. Betjent af 
 	- en høj gul, hammer slag, ingen præmier
+	- 
+		
 	
 

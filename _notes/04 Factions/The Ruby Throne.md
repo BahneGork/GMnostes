@@ -1,4 +1,10 @@
----title: The Ruby Thronetags: notesseason: summertoc: truecomments: true---
+---
+title: The Ruby Throne
+tags: notes
+season: summer
+---
+ 
+# The Ruby Throne
 Merchant Guild
 Controls almost all trade in and out of [[Arendur]]
 they have not assimilated crafts guilds yet.

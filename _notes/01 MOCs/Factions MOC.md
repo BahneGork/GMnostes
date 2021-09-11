@@ -1,4 +1,10 @@
----title: Factions MOCtags: notesseason: summertoc: truecomments: true---
+---
+title: Factions MOC
+tags: notes
+season: summer
+---
+ 
+# Factions MOC
 #MOC #factions #reputation
 
 §"reputation"

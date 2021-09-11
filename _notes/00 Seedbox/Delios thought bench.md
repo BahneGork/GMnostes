@@ -1,4 +1,10 @@
----title: Delios thought benchtags: notesseason: summertoc: truecomments: true---
+---
+title: Delios thought bench
+tags: notes
+season: summer
+---
+ 
+# Delios thought bench
 #workbench
 # Delios Community
 Production center

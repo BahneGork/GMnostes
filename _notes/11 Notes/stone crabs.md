@@ -1,4 +1,10 @@
----title: stone crabstags: notesseason: summertoc: truecomments: true---
+---
+title: stone crabs
+tags: notes
+season: summer
+---
+ 
+# stone crabs
 #monster #Mistyfalls #clickclawmoors
 
 Main: [[Click claw moors]]

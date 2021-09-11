@@ -1,4 +1,10 @@
----title: Avartheltags: notesseason: summertoc: truecomments: true---
+---
+title: Avarthel
+tags: notes
+season: summer
+---
+ 
+# Avarthel
 #npc #druid
 Main: [[people MOC]]]  Related: [[blackwood]] - 
 # Avarthel - Teslions druid

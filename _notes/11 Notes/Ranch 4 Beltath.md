@@ -1,4 +1,10 @@
----title: Ranch 4 Beltathtags: notesseason: summertoc: truecomments: true---
+---
+title: Ranch 4 Beltath
+tags: notes
+season: summer
+---
+ 
+# Ranch 4 Beltath
 ---
 alias: 'Ranch 4, Beltath, Ranch Beltath, Ranch Paget, Paget Ranch'
 ---

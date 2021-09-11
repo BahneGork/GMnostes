@@ -2,13 +2,10 @@
 title: +Party DO list
 tags: notes
 season: summer
-toc: true
-comments: true
 ---
-# Party to list
+
 
 #partyrdolist #living
-
 
 ###### Session 29 - 14 aug 2021 - day 7th month 5 - 19:00
 - [ ]  Brumor: a female dwarf!? [[Duerif Redblade]] With a big huge ancient dwarven axe!? I will chat about that marvelous axe!

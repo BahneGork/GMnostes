@@ -1,4 +1,10 @@
----title: Throg'wastags: notesseason: summertoc: truecomments: true---
+---
+title: Throg'was
+tags: notes
+season: summer
+---
+ 
+# Throg'was
 ## “Throg’was”
 [[Throg’was]] translates to “those who seek to regain our honor”
 ## what are they

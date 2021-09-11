@@ -1,4 +1,10 @@
----title: Frekka Flammehårtags: notesseason: summertoc: truecomments: true---
+---
+title: Frekka Flammehï¿½r
+tags: notes
+season: summer
+---
+ 
+# Frekka Flammehï¿½r
 ---
 alias: 'Frekka'
 type: 'pc'

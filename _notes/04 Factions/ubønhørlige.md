@@ -1,4 +1,10 @@
----title: ubønhørligetags: notesseason: summertoc: truecomments: true---
+---
+title: ubï¿½nhï¿½rlige
+tags: notes
+season: summer
+---
+ 
+# ubï¿½nhï¿½rlige
 #ord
 Lader sig ikke ombestemme eller formilde.
 synonym: ubÃ¸jelig, nÃ¥delÃ¸s

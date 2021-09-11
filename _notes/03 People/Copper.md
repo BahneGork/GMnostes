@@ -1,2 +1,8 @@
----title: Coppertags: notesseason: summertoc: truecomments: true---
+---
+title: Copper
+tags: notes
+season: summer
+---
+ 
+# Copper
 #retainers #shadowcompany #dragonborn 

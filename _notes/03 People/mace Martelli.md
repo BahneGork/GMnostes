@@ -1,4 +1,10 @@
----title: mace Martellitags: notesseason: summertoc: truecomments: true---
+---
+title: mace Martelli
+tags: notes
+season: summer
+---
+ 
+# mace Martelli
 #npc #martelli #delios #lumberranch 
 
 Main: [[Family Martelli]], [[Ranch 1 Falca]]

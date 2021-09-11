@@ -1,4 +1,10 @@
----title: Grozon “Hillsmasher”tags: notesseason: summertoc: truecomments: true---
+---
+title: Grozon ï¿½Hillsmasherï¿½
+tags: notes
+season: summer
+---
+ 
+# Grozon ï¿½Hillsmasherï¿½
 #npc #dwarf #people 
 Main: [[Throg'was]]
 Related: 

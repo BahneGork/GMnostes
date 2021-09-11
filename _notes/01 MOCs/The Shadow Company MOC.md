@@ -1,4 +1,10 @@
----title: The Shadow Company MOCtags: notesseason: summertoc: truecomments: true---
+---
+title: The Shadow Company MOC
+tags: notes
+season: summer
+---
+ 
+# The Shadow Company MOC
 #playerfaction #playercharacters 
 
 # The Shadow Company 

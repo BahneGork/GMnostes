@@ -1,6 +1,12 @@
----title: Michelltags: npcseason: summertoc: truecomments: truealias: Michell the servant---
+---
+title: Michell
+tags: notes
+season: summer
+---
+
+# Michell
 #npc #Delios #lordChilton
-# Lord ChiltonMain: [[Lord Chilton haugwitz]]
+Main: [[Lord Chilton haugwitz]]
 Related: [[Delios]]
 
 [[Michell.jpg]]

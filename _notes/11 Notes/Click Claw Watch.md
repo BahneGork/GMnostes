@@ -1,4 +1,10 @@
----title: Click Claw Watchtags: notesseason: summertoc: truecomments: true---
+---
+title: Click Claw Watch
+tags: notes
+season: summer
+---
+ 
+# Click Claw Watch
 #location #keep #Mistyfalls 
 Main: [[Misty Falls]]
 

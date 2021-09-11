@@ -1,4 +1,10 @@
----title: Family Aguillartags: notesseason: summertoc: truecomments: true---
+---
+title: Family Aguillar
+tags: notes
+season: summer
+---
+ 
+# Family Aguillar
 #npc #faction #lumberranch #delios 
 
 Main: 

@@ -1,4 +1,10 @@
----title: sunken citadeltags: notesseason: summertoc: truecomments: true---
+---
+title: sunken citadel
+tags: notes
+season: summer
+---
+ 
+# sunken citadel
 #location
 The citadel was once a Tiamat stronghold.
 

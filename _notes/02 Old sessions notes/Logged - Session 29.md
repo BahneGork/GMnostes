@@ -1,4 +1,10 @@
----title: Logged - Session 29tags: notesseason: summertoc: truecomments: true---
+---
+title: Logged - Session 29
+tags: notes
+season: summer
+---
+ 
+# Logged - Session 29
 # Session 29 - Next 
 #next 
 Date: Lørdag 14 august 2021

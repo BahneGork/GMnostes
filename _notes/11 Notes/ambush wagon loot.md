@@ -1,4 +1,10 @@
----title: ambush wagon loottags: notesseason: summertoc: truecomments: true---
+---
+title: ambush wagon loot
+tags: notes
+season: summer
+---
+ 
+# ambush wagon loot
 # ambush wagon loot
 -   A small statue the size of an forearm, a woman torso and blazing fire underbody. Artist [Heimir Vass](https://www.notion.so/Heimir-Vass-1faf2511a12f46b5ab75a18b199a960c)
 -   papers proof of [[family the Shatz]]. Deed to a manor house outside of Delios [Rose Point Manor](https://www.notion.so/Rose-Point-Manor-aa72272a7c6a44a088b0b4465d1d9ff4)

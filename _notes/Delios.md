@@ -2,8 +2,6 @@
 title: Delios
 tags: notes
 season: summer
-toc: true
-comments: true
 ---
 
 # Delios
@@ -15,7 +13,7 @@ https://v6p9d9t4.ssl.hwcdn.net/html/3654655/bin/index.html?size=19&seed=13759557
 
 # Town defences
 1 watch tower facing north
-1 watch tower facing southeast, watching towards the [[Click Claw Moors]] and [[blackwood]]
+1 watch tower facing southeast, watching towards the [[Click claw moors]] and [[blackwood]]
 Wooden wall around the town proper, outskirts not behind wall.
 
 # POI's

@@ -1,4 +1,10 @@
----title: Delios Founders Festival Topic of Conversationtags: notesseason: summertoc: truecomments: true---
+---
+title: Delios Founders Festival Topic of Conversation
+tags: notes
+season: summer
+---
+ 
+# Delios Founders Festival Topic of Conversation
 # Delios Founders Festival Topic of Conversation
 Main:
 Related: [[annual founders celebration]]

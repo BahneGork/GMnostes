@@ -1,4 +1,10 @@
----title: Duke Armatage Volantistags: notesseason: summertoc: truecomments: true---
+---
+title: Duke Armatage Volantis
+tags: notes
+season: summer
+---
+ 
+# Duke Armatage Volantis
 ---
 alias: 'Black eagle knight'
 ---

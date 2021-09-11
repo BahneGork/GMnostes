@@ -1,4 +1,5 @@
----title: USED - Recipe - Bag of Holdingtags: notesseason: summertoc: truecomments: true---
+---title: USED - Recipe - Bag of Holdingtags: notesseason: summer--- 
+# USED - Recipe - Bag of Holding
 #magicitemformula #recipe 
 
 ### Bag of Holding

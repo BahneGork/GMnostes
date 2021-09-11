@@ -1,4 +1,10 @@
----title: Locatins MOCtags: notesseason: summertoc: truecomments: true---
+---
+title: Locatins MOC
+tags: notes
+season: summer
+---
+ 
+# Locatins MOC
 #MOC 
 Related: [[people MOC]]
 

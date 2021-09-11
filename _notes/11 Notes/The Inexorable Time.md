@@ -1,4 +1,10 @@
----title: The Inexorable Timetags: notesseason: summertoc: truecomments: true---
+---
+title: The Inexorable Time
+tags: notes
+season: summer
+---
+ 
+# The Inexorable Time
 #npc 
 Related: [[Haudh Ninlaith]]  
 # Time a Knight of Axiom

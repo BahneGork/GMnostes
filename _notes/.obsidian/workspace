@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "6c4927ed75102ab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bdd4e284830a967",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 Seedbox/Timeline.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89eafe4992333357",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ae30b5bcb597403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1890e6916a3c88a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8f6e628a4be703a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e49565e751df22a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6335b8a2db2fd525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe2152ddfb88859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Seedbox/Timeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5bdd4e284830a967",
+  "lastOpenFiles": [
+    "00 Seedbox/Timeline.md",
+    "00 Seedbox/Time as a concept in Diamor.md",
+    "00 Seedbox/The real agenda of JAWBREAKER.md",
+    "00 Seedbox/The Dragon Wars.md",
+    "00 Seedbox/REMEMBER HOW TO spell lists classes.md",
+    "00 Seedbox/Random Secrets.md",
+    "00 Seedbox/Random hooks.md",
+    "00 Seedbox/Delios thought bench.md",
+    "00 Seedbox/Daughters of MEG workbench.md",
+    "00 Seedbox/Crafting.md"
+  ]
+}

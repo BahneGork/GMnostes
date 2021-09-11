@@ -1,4 +1,10 @@
----title: Duchies n Baronies of Ursia MOCtags: notesseason: summertoc: truecomments: true---
+---
+title: Duchies n Baronies of Ursia MOC
+tags: notes
+season: summer
+---
+ 
+# Duchies n Baronies of Ursia MOC
 #MOC #Regions 
 Main: [[+home]]
 

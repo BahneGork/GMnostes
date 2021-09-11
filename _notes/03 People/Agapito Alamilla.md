@@ -1,4 +1,10 @@
----title: Agapito Alamillatags: notesseason: summertoc: truecomments: true---
+---
+title: Agapito Alamilla
+tags: notes
+season: summer
+---
+ 
+# Agapito Alamilla
 #npc #delios #theblackportrait
 
 Main: [[Black portrait inn]]

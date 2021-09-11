@@ -1,4 +1,10 @@
----title: House Omerotags: notesseason: summertoc: truecomments: true---
+---
+title: House Omero
+tags: notes
+season: summer
+---
+ 
+# House Omero
 #majorhouse #arendur #noble 
 Main: [[Factions MOC]]
 Related: [[+Everyone else DO list]], [[people MOC]]

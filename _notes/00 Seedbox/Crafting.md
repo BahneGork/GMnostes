@@ -1,4 +1,10 @@
----title: Craftingtags: notesseason: summertoc: truecomments: true---
+---
+title: Crafting
+tags: notes
+season: summer
+---
+ 
+# Crafting
 [[Crafting]]
 [[Recipes]]
 [[formula]]

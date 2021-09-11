@@ -1,4 +1,10 @@
----title: worker elixirstags: notesseason: summertoc: truecomments: true---
+---
+title: worker elixirs
+tags: notes
+season: summer
+---
+ 
+# worker elixirs
 # worker elixirs
 Main:
 Related: [[lumber ranches]]

@@ -1,4 +1,10 @@
----title: Haudh Ninlaithtags: notesseason: summertoc: truecomments: true---
+---
+title: Haudh Ninlaith
+tags: notes
+season: summer
+---
+ 
+# Haudh Ninlaith
 #location #Mistyfalls #bedegaarnBaroni 
 Main: [[Logged - Session 26]]
 # Haudh Ninlaith

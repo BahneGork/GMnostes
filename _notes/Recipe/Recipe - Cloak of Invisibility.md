@@ -1,4 +1,5 @@
----title: Recipe - Cloak of Invisibilitytags: notesseason: summertoc: truecomments: true---
+---title: Recipe - Cloak of Invisibilitytags: notesseason: summer--- 
+# Recipe - Cloak of Invisibility
 #magicitemformula #recipe 
 ### Cloak of Invisibility
 

@@ -1,4 +1,10 @@
----title: Random Secretstags: notesseason: summertoc: truecomments: true---
+---
+title: Random Secrets
+tags: notes
+season: summer
+---
+ 
+# Random Secrets
 # Random Secrets
 Main:
 Related: [[Fallen star inn - first visit]]

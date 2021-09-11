@@ -1,4 +1,10 @@
----title: Dangers MOCtags: notesseason: summertoc: truecomments: true---
+---
+title: Dangers MOC
+tags: notes
+season: summer
+---
+ 
+# Dangers MOC
 #MOC #Dangers
 
 Main: [[Arendur Rising Campaign MOC]]

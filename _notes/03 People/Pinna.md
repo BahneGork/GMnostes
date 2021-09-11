@@ -1,2 +1,8 @@
----title: Pinnatags: notesseason: summertoc: truecomments: true---
+---
+title: Pinna
+tags: notes
+season: summer
+---
+ 
+# Pinna
 #retainers 

@@ -1,4 +1,10 @@
----title: The nature of magic item Formulastags: notesseason: summertoc: truecomments: true---
+---
+title: The nature of magic item Formulas
+tags: notes
+season: summer
+---
+ 
+# The nature of magic item Formulas
 #thinking 
 Main: [[Recipes]]
 Related: [[loot]]

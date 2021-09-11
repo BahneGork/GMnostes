@@ -1,4 +1,10 @@
----title: Teleportation Circlestags: notesseason: summertoc: truecomments: true---
+---
+title: Teleportation Circles
+tags: notes
+season: summer
+---
+ 
+# Teleportation Circles
 #location #powernode 
 Main: [[POI MOC]]
 Related: [[Blue Guardians]]

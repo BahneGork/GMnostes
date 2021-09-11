@@ -1,4 +1,10 @@
----title: Everending Staircasetags: notesseason: summertoc: truecomments: true---
+---
+title: Everending Staircase
+tags: notes
+season: summer
+---
+ 
+# Everending Staircase
 #location 
 Main: [[Logged - Session 26]]
 

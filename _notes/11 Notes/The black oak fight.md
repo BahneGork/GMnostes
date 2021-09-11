@@ -1,4 +1,10 @@
----title: The black oak fighttags: notesseason: summertoc: truecomments: true---
+---
+title: The black oak fight
+tags: notes
+season: summer
+---
+ 
+# The black oak fight
 ## Set the Scene 
 **visibility**: Clear sunny day 
 smells and sounds: sounds of battle, savage warcries, metallic clangs and horses.

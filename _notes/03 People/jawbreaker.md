@@ -1,4 +1,10 @@
----title: jawbreakertags: notesseason: summertoc: truecomments: true---
+---
+title: jawbreaker
+tags: notes
+season: summer
+---
+ 
+# jawbreaker
 ---
 alias: 'warmaster'
 ---tags: #🗣  

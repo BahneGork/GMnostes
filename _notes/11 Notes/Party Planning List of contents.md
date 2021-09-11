@@ -1,4 +1,10 @@
----title: Party Planning List of contentstags: notesseason: summertoc: truecomments: true---
+---
+title: Party Planning List of contents
+tags: notes
+season: summer
+---
+ 
+# Party Planning List of contents
 # Party Planning List of contents
 Main:
 Related: [[annual founders celebration]]

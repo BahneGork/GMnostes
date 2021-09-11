@@ -1,4 +1,5 @@
----title: Recipe - Daern’s Instant Fortresstags: notesseason: summertoc: truecomments: true---
+---title: Recipe - Daern’s Instant Fortresstags: notesseason: summer--- 
+# Recipe - Daern’s Instant Fortress
 #magicitemformula #recipe 
 ### Daernâ€™s Instant Fortress
 

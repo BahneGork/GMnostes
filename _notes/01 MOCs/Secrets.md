@@ -1,2 +1,8 @@
----title: Secretstags: notesseason: summertoc: truecomments: true---
+---
+title: Secrets
+tags: notes
+season: summer
+---
+ 
+# Secrets
 Secrets
