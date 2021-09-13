@@ -6,7 +6,7 @@ season: summer
  #npc #delios 
 
 [[Lord Chilton Haugwitz.jpg]]
-/:![[Lord Chilton Haugwitz.jpg]](/img/Lord%20Chilton%20haugwitz)
+![[Lord Chilton Haugwitz.jpg]](/assets/img/Lord%20Chilton%20haugwitz)
 A noble man from [[aachen]] port town south of Kvalec.
 
 He is visiting for the festival, he heard about it while seeing to some business in [[Bedegaarn]].
