@@ -1,11 +1,7 @@
 ---
 title: Ranch 1 Falca
-tags: notes
+tags: location, delios
 season: summer
----
- 
-# Ranch 1 Falca
----
 alias:'ranch 1, ranch falca, falca'
 ---
 #location #production #resources #bedegaarnBaroni #Mistyfalls #delios
@@ -13,5 +9,4 @@ alias:'ranch 1, ranch falca, falca'
 Main: [[Family Martelli]]
 Related: [[lumber ranches|Delios Ranches]]
 
-# Ranch Falca
 ![[Family Martelli]]

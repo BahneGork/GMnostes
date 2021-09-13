@@ -1,11 +1,7 @@
 ---
 title: The Bedegaarn Barony MOC
-tags: notes
+tags: MOC
 season: summer
----
- 
-# The Bedegaarn Barony MOC
----
 alias: 'Bedegaarn Barony'
 ---
 

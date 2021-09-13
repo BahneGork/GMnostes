@@ -1,10 +1,10 @@
 ---
 title: Azarumme empire
-tags: notes
+tags: faction
 season: summer
 ---
  
-# Azarumme empire
+
 #ancienthistory #location #bedegaarnBaroni 
 Main: [[Kingdoms and Empires MOC]]
 

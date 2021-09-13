@@ -1,8 +1,7 @@
 ---
 title: Aurilia
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Aurilia
+
 #retainers 

@@ -1,12 +1,11 @@
 ---
 title: Josie Harrt
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Josie Harrt
 #npc #delios 
-# Josie Harrt
+
 Main:
 Related: [[Delios thought bench]]
 [[Josie harrt.jpg]]

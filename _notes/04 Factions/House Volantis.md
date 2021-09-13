@@ -1,10 +1,10 @@
 ---
 title: House Volantis
-tags: notes
+tags: faction
 season: summer
 ---
  
-# House Volantis
+
 #npc #faction #majorhouse #arendur  
 
 Main:[[Factions MOC]]

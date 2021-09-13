@@ -1,11 +1,9 @@
 ---
 title: Delios Founders Festival Guest List
-tags: notes
+tags: notes, party, guest list
 season: summer
 ---
  
-# Delios Founders Festival Guest List
-# Delios Founders Festival Guest List
 Main:
 Related: [[annual founders celebration]]
 

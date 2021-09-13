@@ -1,10 +1,10 @@
 ---
 title: Harl Lasalle
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Harl Lasalle
+
 #npc #history #arendur 
 Main:[[The black oak fight]]
 Related:[[people MOC]], [[Logged -  Session 28]]

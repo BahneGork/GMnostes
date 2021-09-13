@@ -1,10 +1,10 @@
 ---
 title: Irina Delaque
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Irina Delaque
+
 #npc #female #delios 
 Main: [[people MOC]]
 Related: [[Lord Vermil]] [[Delios]]

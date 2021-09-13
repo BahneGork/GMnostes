@@ -1,11 +1,7 @@
 ---
 title: Eyes of the many headed snake
-tags: notes
+tags: faction
 season: summer
----
- 
-# Eyes of the many headed snake
----
 alias: 'eyes of arendur', 'The Medusa'
 ---
 #faction 

@@ -1,10 +1,9 @@
 ---
 title: Thomas spada
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Thomas spada
+
 tags: #🗣  #npc #blackbriar 
 2021-06-21
 07:50

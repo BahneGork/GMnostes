@@ -1,10 +1,9 @@
 ---
 title: Mellik
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Mellik
+
 #npc
 An old dwarf adventurer who sponsors [[Crimson Company]]
 

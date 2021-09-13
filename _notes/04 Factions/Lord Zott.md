@@ -1,10 +1,10 @@
 ---
 title: Lord Zott
-tags: notes
+tags: faction
 season: summer
 ---
  
-# Lord Zott
+
 #god 
 Main: [[Factions MOC]]
 Related: [[Carthach ó Caskill]]

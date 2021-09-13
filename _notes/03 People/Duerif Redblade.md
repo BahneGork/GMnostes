@@ -1,10 +1,9 @@
 ---
 title: Duerif Redblade
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Duerif Redblade
+
 #npc #people #dwarf 
 Main: [[people MOC]]
 Related: [[Fallen star inn - first visit]]

@@ -1,10 +1,9 @@
 ---
 title: Lord Vermil
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Lord Vermil
+
 #npc #delios #people 
 Main: [[Delios]]
 Related: [[Jago]] [[Ranch Falca]] [[Ramon Chartrand - Alkymist]] [[Family Martelli]]

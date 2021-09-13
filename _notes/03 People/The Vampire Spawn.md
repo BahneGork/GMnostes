@@ -1,10 +1,9 @@
 ---
 title: The Vampire Spawn
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# The Vampire Spawn
+
 #npc #vampire #delios 
 Main: [[Lord Vermil]]
 Related: [[Ranch 1 Falca]] [[Delios]]

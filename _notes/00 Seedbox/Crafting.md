@@ -4,7 +4,7 @@ tags: notes
 season: summer
 ---
  
-# Crafting
+
 [[Crafting]]
 [[Recipes]]
 [[formula]]

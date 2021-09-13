@@ -1,10 +1,10 @@
 ---
 title: The Fulcrom
-tags: notes
+tags: faction
 season: summer
 ---
  
-# The Fulcrom
+
 #faction #Minorguild
 member of [[The Ruby Throne]] major guild
 

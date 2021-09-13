@@ -1,8 +1,7 @@
 ---
 title: Copper
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Copper
+
 #retainers #shadowcompany #dragonborn 

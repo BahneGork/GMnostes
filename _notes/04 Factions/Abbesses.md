@@ -1,16 +1,11 @@
 ---
 title: Abbesses
-tags: notes
+tags: faction
 season: summer
----
- 
-# Abbesses
----
 alias: 'the hard house, Harrt house'
 ---
 
 #faction #npc #delios 
-# The Abbesses
 A gang of women mostly have banded together to run prostetution.
 It started with a simple whorehouse [[The Hart House]] and a "madam" [[Josie Harrt]] from [[Arendur]] on the western outskirts of [[Delios]] by the lake 4 years ago.
 

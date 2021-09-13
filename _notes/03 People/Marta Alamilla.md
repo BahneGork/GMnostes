@@ -1,10 +1,9 @@
 ---
 title: Marta Alamilla
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Marta Alamilla
+
 #npc #delios #theblackportrait  
 
 [[Marta Alamilla.png]]

@@ -1,11 +1,7 @@
 ---
 title: Duke Armatage Volantis
-tags: notes
+tags: npc
 season: summer
----
- 
-# Duke Armatage Volantis
----
 alias: 'Black eagle knight'
 ---
 

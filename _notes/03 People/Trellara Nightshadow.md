@@ -1,12 +1,9 @@
 ---
 title: Trellara Nightshadow
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Trellara Nightshadow
-
-# Trellara Nightshadow
 tags: #🗣 #npc #wildelf #blackwood
 2021-07-12
 17:30

@@ -1,10 +1,10 @@
 ---
 title: Kingdoms and Empires MOC
-tags: notes
+tags: MOC
 season: summer
 ---
  
-# Kingdoms and Empires MOC
+
 #MOC 
 Main: [[+home]]
 

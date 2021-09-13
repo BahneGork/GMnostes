@@ -1,15 +1,12 @@
 ---
 title: Narae
-tags: notes
+tags: npc
 season: summer
----
- 
-# Narae
----
 alias: 'Narae'
 type: 'pc'
 status: 'retainer'
 ---
+
 #playercharacters #nissen 
 Main: [[playercharacters]]
 

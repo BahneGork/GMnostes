@@ -1,10 +1,10 @@
 ---
 title: Angel the executioner
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Angel the executioner
+
 tags: #🗣  #npc #tearknight  #delios 
 2021-08-24
 21:51

@@ -1,10 +1,9 @@
 ---
 title: Minka Fischer
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Minka Fischer
+
 #npc  #🗣 #delios 
 Main: [[people MOC]]
 Related: [[Anden tavern]], [[Delios]]

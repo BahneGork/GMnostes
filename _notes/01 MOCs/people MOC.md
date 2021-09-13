@@ -1,10 +1,9 @@
 ---
 title: people MOC
-tags: notes
+tags: MOC
 season: summer
 ---
  
-# people MOC
 #people #list 
 
 [[Kvalec names]]

@@ -1,10 +1,9 @@
 ---
 title: Everending Staircase
-tags: notes
+tags: notes, location
 season: summer
 ---
- 
-# Everending Staircase
+
 #location 
 Main: [[Logged - Session 26]]
 

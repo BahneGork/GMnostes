@@ -1,10 +1,10 @@
 ---
 title: Akacia names
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Akacia names
+
 #names #akacia
 
 # Akacia names

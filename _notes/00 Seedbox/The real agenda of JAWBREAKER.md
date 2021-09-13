@@ -3,8 +3,7 @@ title: The real agenda of JAWBREAKER
 tags: notes
 season: summer
 ---
- 
-# The real agenda of JAWBREAKER
+
 #thinking #plot
 
 Main: 

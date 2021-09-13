@@ -1,10 +1,10 @@
 ---
 title: The Lodge
-tags: notes
+tags: faction
 season: summer
 ---
  
-# The Lodge
+
 The Lodge
 
 #MajorGuild  

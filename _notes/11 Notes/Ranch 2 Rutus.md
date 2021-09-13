@@ -1,11 +1,7 @@
 ---
 title: Ranch 2 Rutus
-tags: notes
+tags: location, delios
 season: summer
----
- 
-# Ranch 2 Rutus
----
 alias:'ranch 2, ranch rutus, rutus'
 ---
 #location #production #resources #bedegaarnBaroni #Mistyfalls #delios
@@ -13,5 +9,5 @@ alias:'ranch 2, ranch rutus, rutus'
 Main: [[Family Planck]]
 Related: [[lumber ranches|Delios Ranches]]
 
-# Ranch Rutus
+
 ![[Family Planck]]

@@ -2,10 +2,6 @@
 title: The Dragon Wars
 tags: notes
 season: summer
----
- 
-# The Dragon Wars
----
 alias: 'Dragon wars'
 ---
 #dragonborn #tiamat #dragons #history 

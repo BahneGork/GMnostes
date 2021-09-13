@@ -1,13 +1,10 @@
 ---
 title: jawbreaker
-tags: notes
+tags: npc
 season: summer
----
- 
-# jawbreaker
----
 alias: 'warmaster'
----tags: #🗣  
+---
+#🗣  
 2021-06-17
 08:08
 

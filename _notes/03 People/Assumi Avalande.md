@@ -1,15 +1,12 @@
 ---
 title: Assumi Avalande
-tags: notes
+tags: npc
 season: summer
----
- 
-# Assumi Avalande
----
 alias: 'Assumi'
 type: 'npc'
 status: 'retainer'
 ---
+
 #playercharacters #nissen
 
 Main: [[The Heroes MOC]]

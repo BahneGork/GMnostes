@@ -1,11 +1,10 @@
 ---
 title: Fallen star inn - first visit
-tags: notes
+tags: notes, location
 season: summer
 ---
  
-# Fallen star inn - first visit
-[[Fallen star inn Shadow Company HQ]]
+Related: [[Fallen star inn Shadow Company HQ]]
 
 ## Patrons
 ### Table 1

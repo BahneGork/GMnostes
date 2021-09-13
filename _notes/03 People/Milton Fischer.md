@@ -1,10 +1,9 @@
 ---
 title: Milton Fischer
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Milton Fischer
+
 tags: #🗣  #npc #people #tavern #delios 
 2021-07-12
 16:53

@@ -4,7 +4,6 @@ tags: notes
 season: summer
 ---
  
-# Logged - Session 26
 #logged
 
 # Session 26 - Next 

@@ -1,13 +1,11 @@
 ---
 title: The Shadow Company MOC
-tags: notes
+tags: MOC
 season: summer
 ---
  
-# The Shadow Company MOC
 #playerfaction #playercharacters 
 
-# The Shadow Company 
 A mercenary company last known to operate under the [[Dragon wars]].
 
 Last known survivor [[Copper]].

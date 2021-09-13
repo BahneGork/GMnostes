@@ -1,10 +1,10 @@
 ---
 title: Factions MOC
-tags: notes
+tags: MOC
 season: summer
 ---
  
-# Factions MOC
+
 #MOC #factions #reputation
 
 §"reputation"

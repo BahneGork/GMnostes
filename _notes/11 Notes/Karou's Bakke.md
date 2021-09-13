@@ -1,15 +1,11 @@
 ---
 title: Karou's Bakke
-tags: notes
+tags: location
 season: summer
 ---
- 
-# Karou's Bakke
-#location #bedegaarnBaroni #Mistyfalls 
+ #location #bedegaarnBaroni #Mistyfalls 
 
 Main: [[Arendur Rising Campaign MOC|Campaign]] Related: [[Askagars spire]], [[Nails]], [[Misty Falls]]
-
-# Karou's bakke
 
 ### Placering
 Karou's bakke ligger i nær området af [[Castle Blackspear]]

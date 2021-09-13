@@ -1,10 +1,9 @@
 ---
 title: Click Claw Watch
-tags: notes
+tags: location, keep
 season: summer
 ---
- 
-# Click Claw Watch
+
 #location #keep #Mistyfalls 
 Main: [[Misty Falls]]
 

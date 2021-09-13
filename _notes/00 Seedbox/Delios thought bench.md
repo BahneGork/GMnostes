@@ -4,7 +4,7 @@ tags: notes
 season: summer
 ---
  
-# Delios thought bench
+
 #workbench
 # Delios Community
 Production center

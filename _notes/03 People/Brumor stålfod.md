@@ -1,11 +1,7 @@
 ---
-title: Brumor st�lfod
-tags: notes
+title: Brumor stålfod
+tags: pc
 season: summer
----
- 
-# Brumor st�lfod
----
 alias: 'brumor'
 type: 'pc'
 status: 'active'
@@ -13,7 +9,7 @@ status: 'active'
 #playercharacters #steffen
 Main: [[playercharacters]]
 
-# Brumor Stålfod
+
 
 # Motivation
 - do good in the world

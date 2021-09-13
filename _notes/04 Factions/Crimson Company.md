@@ -1,10 +1,10 @@
 ---
 title: Crimson Company
-tags: notes
+tags: faction
 season: summer
 ---
  
-# Crimson Company
+
 Cedric Belmont
 Brumor Stålfod
 Assumi Avalande

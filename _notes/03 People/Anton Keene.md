@@ -1,19 +1,15 @@
 ---
 title: Anton Keene
-tags: notes
+tags: pc
 season: summer
----
- 
-# Anton Keene
----
 alias: 'anton'
 type: 'pc'
 status: 'active'
 ---
+
 #playercharacters #Jens 
 Main: [[playercharacters]]
 
-# Anton Keene 
 race: Human
 alignment: good
 classes: wizard

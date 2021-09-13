@@ -1,10 +1,9 @@
 ---
 title: the sorrowful lady
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# the sorrowful lady
+
 #npc #dead #history 
 related:
 [[Tapestry of Grief]]

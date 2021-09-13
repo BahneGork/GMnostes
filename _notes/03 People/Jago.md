@@ -1,8 +1,8 @@
 ---
 title: Jago
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Jago
+
 #npc #delios #shopkeeper

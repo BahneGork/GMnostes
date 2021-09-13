@@ -1,11 +1,9 @@
 ---
 title: Party Planning List of contents
-tags: notes
+tags: notes, party, party planning
 season: summer
 ---
  
-# Party Planning List of contents
-# Party Planning List of contents
 Main:
 Related: [[annual founders celebration]]
 

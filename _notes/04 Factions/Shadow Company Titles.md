@@ -1,12 +1,12 @@
 ---
 title: Shadow Company Titles
-tags: notes
+tags: faction
 season: summer
 ---
  
-# Shadow Company Titles
+
 #faction  #playerfaction 
-# The Shadow Company titles
+
 [[Commander]]
 [[Quartermaster]]
 [[Standard bearer]]

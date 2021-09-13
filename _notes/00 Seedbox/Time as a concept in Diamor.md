@@ -3,8 +3,7 @@ title: Time as a concept in Diamor
 tags: notes
 season: summer
 ---
- 
-# Time as a concept in Diamor
+
 #thinking 
 
 Main: 

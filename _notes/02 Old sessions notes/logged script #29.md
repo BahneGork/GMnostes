@@ -4,7 +4,6 @@ tags: notes
 season: summer
 ---
  
-# logged script #29
 #next #scriptsession28
 
 # Fallen star inn

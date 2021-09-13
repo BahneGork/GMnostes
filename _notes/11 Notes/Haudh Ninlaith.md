@@ -1,13 +1,12 @@
 ---
 title: Haudh Ninlaith
-tags: notes
+tags: notes, location
 season: summer
 ---
  
-# Haudh Ninlaith
 #location #Mistyfalls #bedegaarnBaroni 
 Main: [[Logged - Session 26]]
-# Haudh Ninlaith
+
 *Chapel of the sorrowful lady*
 
 ## The Black Eagle Knight

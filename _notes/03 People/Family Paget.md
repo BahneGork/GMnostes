@@ -1,11 +1,7 @@
 ---
 title: Family Paget
-tags: notes
+tags: npc
 season: summer
----
- 
-# Family Paget
----
 alias: 'lumber family paget'
 ---
 #faction #npc #location #delios 

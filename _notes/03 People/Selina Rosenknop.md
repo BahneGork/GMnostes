@@ -1,10 +1,9 @@
 ---
 title: Selina Rosenknop
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Selina Rosenknop
+
 #npc #cleric
 Main:[[people MOC]]
 Related: [[Worlock the fierce]] 

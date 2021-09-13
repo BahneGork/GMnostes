@@ -1,8 +1,7 @@
 ---
-title: Judith M�ller
-tags: notes
+title: Judith Müller
+tags: npc
 season: summer
 ---
  
-# Judith M�ller
 #retainers #shadowcompany #unitofficer

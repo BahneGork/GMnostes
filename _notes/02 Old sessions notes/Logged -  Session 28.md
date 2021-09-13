@@ -4,7 +4,6 @@ tags: notes
 season: summer
 ---
  
-# Logged -  Session 28
 # Session 28 - logged
 #logged 
 Date: 12 jul 2021

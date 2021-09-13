@@ -1,10 +1,9 @@
 ---
 title: Kvalec names
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Kvalec names
 #names #kvalec 
 Main: [[people MOC]]
 # Kvalec    

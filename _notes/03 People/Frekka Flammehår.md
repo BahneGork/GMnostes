@@ -1,15 +1,12 @@
 ---
-title: Frekka Flammeh�r
-tags: notes
+title: Frekka Flammehår
+tags: pc
 season: summer
----
- 
-# Frekka Flammeh�r
----
-alias: 'Frekka'
-type: 'pc'
+alis: 'Frekka'
+type: pc
 status: 'active'
 ---
+ 
 #playercharacters  #nissen
 
 Main: [[playercharacters]]

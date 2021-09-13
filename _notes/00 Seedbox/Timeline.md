@@ -2,12 +2,7 @@
 title: Timeline
 tags: notes
 season: summer
----
- 
-# Timeline
----
-tags: ⚙️
-aliases: 
+alias: 
 cssclass:
 ---
 %% This note requires the data view plugin %%

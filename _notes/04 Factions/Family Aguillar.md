@@ -1,10 +1,10 @@
 ---
 title: Family Aguillar
-tags: notes
+tags: faction
 season: summer
 ---
  
-# Family Aguillar
+
 #npc #faction #lumberranch #delios 
 
 Main: 

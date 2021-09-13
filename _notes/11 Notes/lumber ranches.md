@@ -2,10 +2,6 @@
 title: lumber ranches
 tags: notes
 season: summer
----
- 
-# lumber ranches
----
 alias: 'lumber ranch families, Delios lumber farms, Delios Ranches'
 ---
 #location #npc #faction 

@@ -1,8 +1,7 @@
 ---
 title: Pinna
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Pinna
+
 #retainers 

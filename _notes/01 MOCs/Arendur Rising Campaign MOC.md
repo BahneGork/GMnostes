@@ -1,11 +1,7 @@
 ---
 title: Arendur Rising Campaign MOC
-tags: notes
+tags: MOC
 season: summer
----
- 
-# Arendur Rising Campaign MOC
----
 alias: [Campaign]
 ---
 Main: Related:

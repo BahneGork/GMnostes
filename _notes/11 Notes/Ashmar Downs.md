@@ -1,13 +1,13 @@
 ---
 title: Ashmar Downs
-tags: notes
+tags: location, teleportationcirle
 season: summer
 ---
  
-# Ashmar Downs
+
 #location #teleportcircle #blueguardians
 
-# Ashmar Downs
+
 Main:[[Teleportation Circles]]
 Related: [[Blue Guardians]], [[Bedegaarn Barony]]
 

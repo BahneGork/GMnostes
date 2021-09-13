@@ -1,11 +1,9 @@
 ---
 title: Throg'was
-tags: notes
+tags: npc
 season: summer
 ---
- 
-# Throg'was
-## “Throg’was”
+
 [[Throg’was]] translates to “those who seek to regain our honor”
 ## what are they
 the dwarves seeking the builder runes are an elite unit of moradin “hammers”, they are trying to conceal their “status” and blend in as travelling merchants trying to strike out away from Arendur trade. 

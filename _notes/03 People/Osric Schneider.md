@@ -1,13 +1,8 @@
 ---
 title: Osric Schneider
-tags: notes
+tags: npc
 season: summer
----
- 
-# Osric Schneider
----
 alias: 'Osric the townspeaker'
-
 ---
 #npc #delios 
 

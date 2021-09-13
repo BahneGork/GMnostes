@@ -1,11 +1,7 @@
 ---
 title: The white tusk tribe
-tags: notes
+tags: faction
 season: summer
----
- 
-# The white tusk tribe
----
 alias: 'white tusks'
 status: 'neutral'
 ---

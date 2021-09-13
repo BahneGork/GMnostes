@@ -1,10 +1,10 @@
 ---
 title: House Arpad
-tags: notes
+tags: faction
 season: summer
 ---
  
-# House Arpad
+
 #npc #faction #noble  #clickclawmoors 
 
 Main: [[Misty Falls]]

@@ -1,18 +1,19 @@
 ---
 title: Sessions MOC
-tags: notes
+tags: MOC
 season: summer
 ---
  
-# Sessions MOC
 #moc #sessions #logs
 Main: [[Arendur Rising Campaign MOC]]
 Related: [[]]
 
 # Next
-[[Logged - Session 29]]
+[[_Next Session 30]]
+
 
 # logged
+[[Logged - Session 29]]
 [[Logged -  Session 28]]
 [[Logged - Session 27]]
 [[Logged - Session 26]]

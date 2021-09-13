@@ -1,10 +1,10 @@
 ---
 title: Duchies n Baronies of Ursia MOC
-tags: notes
+tags: MOC
 season: summer
 ---
  
-# Duchies n Baronies of Ursia MOC
+
 #MOC #Regions 
 Main: [[+home]]
 

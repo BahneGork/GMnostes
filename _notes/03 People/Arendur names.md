@@ -1,10 +1,10 @@
 ---
 title: Arendur names
-tags: notes
+tags: npc
 season: summer
 ---
  
-# Arendur names
+
 #names #arendur 
 
 # Arendur names

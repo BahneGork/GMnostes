@@ -1,11 +1,9 @@
 ---
 title: Anden tavern
-tags: notes
+tags:  location, tavern
 season: summer
 ---
- 
-# Anden tavern
-#location #tavern 
+ #location #tavern 
 Main: [[Delios]]
 Related: [[Misty Falls]], [[blackwood]],[[Bedegaarn Barony]]
 

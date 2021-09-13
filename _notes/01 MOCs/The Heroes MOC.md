@@ -1,13 +1,10 @@
 ---
 title: The Heroes MOC
-tags: notes
+tags: MOC
 season: summer
 ---
- 
-# The Heroes MOC
-#MOC #players #playercharacters #playerfaction #retainers 
+ #MOC #players #playercharacters #playerfaction #retainers 
 Main: [[Arendur Rising Campaign MOC|Campaign]] Related:
-# The Heroes MOC
 
 ## Player faction
 [[The Shadow Company MOC]]

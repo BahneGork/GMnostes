@@ -1,8 +1,6 @@
 ---
 title: Secrets
-tags: notes
+tags: MOC
 season: summer
 ---
- 
-# Secrets
-Secrets
+

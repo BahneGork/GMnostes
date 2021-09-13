@@ -1,6 +1,6 @@
 ---
 title: Misty Falls Region map
-tags: notes
+tags: region map
 season: summer
 ---
  

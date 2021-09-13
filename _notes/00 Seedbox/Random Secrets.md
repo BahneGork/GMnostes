@@ -4,8 +4,7 @@ tags: notes
 season: summer
 ---
  
-# Random Secrets
-# Random Secrets
+
 Main:
 Related: [[Fallen star inn - first visit]]
 
