@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 Seedbox/Timeline.md",
+            "file": "03 People/Lord Chilton haugwitz.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "black",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Seedbox/Timeline.md",
+                "file": "03 People/Lord Chilton haugwitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5bdd4e284830a967",
   "lastOpenFiles": [
+    "03 People/Lord Chilton haugwitz.md",
+    "03 People/Kvalec names.md",
+    "03 People/Lord Chilton Haugwitz.jpg",
+    "03 People/Duerif Redblade.md",
+    "duerif22.png",
+    "+Party DO list.md",
     "00 Seedbox/Timeline.md",
     "00 Seedbox/Time as a concept in Diamor.md",
     "00 Seedbox/The real agenda of JAWBREAKER.md",
-    "00 Seedbox/The Dragon Wars.md",
-    "00 Seedbox/REMEMBER HOW TO spell lists classes.md",
-    "00 Seedbox/Random Secrets.md",
-    "00 Seedbox/Random hooks.md",
-    "00 Seedbox/Delios thought bench.md",
-    "00 Seedbox/Daughters of MEG workbench.md",
-    "00 Seedbox/Crafting.md"
+    "00 Seedbox/The Dragon Wars.md"
   ]
 }

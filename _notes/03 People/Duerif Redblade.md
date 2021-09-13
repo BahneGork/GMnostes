@@ -8,7 +8,7 @@ season: summer
 #npc #people #dwarf 
 Main: [[people MOC]]
 Related: [[Fallen star inn - first visit]]
-
+![[duerif redblade.png]]
 # Looks
 Bald head, capped (maybe fused?) with a metal skull cap that bears a large dwarven rune etching "Sabrak Thurlagh" - *Flawed one in the fields of broken dreams*
 She has ruby red eyes and more than one nasty scar in her face, a split lip, split eyebrow and missing the lower bit of her right ear.
