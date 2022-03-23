@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 People/Lord Chilton haugwitz.md",
+            "file": "templates/front matter.md",
             "mode": "source"
           }
         }
@@ -47,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2b79173bad03d1f3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 People/Lord Chilton haugwitz.md",
+                "file": "templates/front matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +84,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "275508d587952cb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/front matter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c32a14cdb16921f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "474f16238ba48a93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/front matter.md"
               }
             }
           }
@@ -88,15 +129,15 @@
   },
   "active": "5bdd4e284830a967",
   "lastOpenFiles": [
+    "templates/front matter.md",
+    "next strong start.md",
+    "Mistyfalls subregion lists.md",
+    "Misty Falls.md",
+    "Michell.md",
+    "Lady Isabel Castilla.md",
+    "Delios Festival random lists.md",
+    "Delios.md",
     "03 People/Lord Chilton haugwitz.md",
-    "03 People/Lord Vermil.md",
-    "03 People/Lord Davide.md",
-    "03 People/keyleigh dufaigh.md",
-    "03 People/Lord Chilton Haugwitz.jpg",
-    "11 Notes/Ranch 2 Rutus.md",
-    "11 Notes/Ranch 1 Falca.md",
-    "11 Notes/Party Planning List of contents.md",
-    "11 Notes/Osric's Gold button.md",
-    "11 Notes/Misty Falls Region map.md"
+    "templates/Untitled.md"
   ]
 }
