@@ -1,3 +1,6 @@
+---
+title: People
+---
 # People mentioned or encountered
 [[Preston]]
 [[Mellik]]

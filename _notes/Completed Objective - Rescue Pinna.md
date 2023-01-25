@@ -1,3 +1,8 @@
+---
+title: "Rescue Siertianna & Pinna from Lady Dagger caves"
+---
+#completed #objective #pinna #ladydagger
+
 Rescuing Pinna from the sacrification ritual of Lady Dagger, saved her life and recovered much loot.
 
 A new contact was made, [[Bayard - spy of  'the eyes']] from  [[Eyes of the many headed snake]]

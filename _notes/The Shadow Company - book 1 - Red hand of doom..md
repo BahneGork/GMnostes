@@ -1,3 +1,6 @@
+---
+title: "The shadow company book 1"
+---
 # The Shadow Company book 1 - Red hand of doom.
 ## Oozebusters and Boss kiters
 Goblin huler tæt på Arendur. 

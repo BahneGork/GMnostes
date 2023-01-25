@@ -1,9 +1,11 @@
 ---
+title: "Active mission Misante Zardanti"
 type: PC quest
 questgiver: [[Rochefort Scheneschal of House Zardanti]]
 session: 3
 questgiverlocation: [[Arendur]]
 ---
+#active #housezardanti #mission
 
 Mission:: Find Misante Zardanti, dead or alive.
 

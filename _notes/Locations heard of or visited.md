@@ -1,3 +1,6 @@
+---
+title: "Locations"
+---
 # Locations heard of or visited
 - Det sunkne Citadel
 - Teslions - den sidste by før grænsen

@@ -1,3 +1,6 @@
+---
+title: "+Secrets Revealed"
+---
 # +Secrets Revealed
 
 ```dataview
