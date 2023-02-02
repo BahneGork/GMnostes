@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-shadow-company/bible/player-vault/missions/completed-objective-rescue-pinna/","title":"Rescue Siertianna & Pinna from Lady Dagger caves"}
+{"dg-publish":true,"permalink":"/the-shadow-company/bible/player-vault/missions/completed-objective-rescue-pinna/","title":"Completed Objective - Rescue Pinna"}
 ---
 
 #completed #objective #pinna #ladydagger
