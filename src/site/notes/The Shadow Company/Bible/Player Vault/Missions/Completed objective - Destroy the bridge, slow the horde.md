@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-shadow-company/bible/player-vault/missions/completed-objective-destroy-the-bridge-slow-the-horde/","title":"Completed objective - Destroy Skull gorge bridge"}
+{"dg-publish":true,"permalink":"/the-shadow-company/bible/player-vault/missions/completed-objective-destroy-the-bridge-slow-the-horde/","title":"Destroy Skull gorge bridge"}
 ---
 
 #completed #objective #blackwood #skullgorge
