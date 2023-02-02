@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-shadow-company/bible/player-vault/missions/active-mission-misante-zardanti/","title":"Active mission Misante Zardanti"}
+{"dg-publish":true,"permalink":"/the-shadow-company/bible/player-vault/missions/active-mission-misante-zardanti/","title":"Misante Zardanti"}
 ---
 
 #active #housezardanti #mission
