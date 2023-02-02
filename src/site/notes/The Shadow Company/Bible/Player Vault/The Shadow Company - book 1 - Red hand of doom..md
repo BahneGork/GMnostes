@@ -4,13 +4,13 @@
 
 # The Shadow Company book 1 - Red hand of doom.
 ## Oozebusters and Boss kiters
-- Goblin huler tæt på Arendur. 
-- En gruppe lejesoldater - Blackdaggers fra Kvalec, var hyret af en jenkins til at hente en statue-idol i skoven. De havde betalt en lokal bondedreng til at gøre det istedet. Alle døde.
-- Goblin boss Krazkar besejret, Goblin Warlock Moogzt undslap.
+- Goblin huler tæt på [[14 Locations/Ursia/Arendur/Arendur\|Arendur]]. 
+- En gruppe lejesoldater - Blackdaggers fra [[Kvalec\|Kvalec]], var hyret af en jenkins til at hente en [[statue-idol\|statue-idol]] i skoven. De havde betalt en lokal bondedreng til at gøre det istedet. Alle døde.
+- [[Goblin boss Krazkar\|Goblin boss Krazkar]] besejret, [[Goblin Warlock Moogzt\|Goblin Warlock Moogzt]] undslap.
 - Røde hånd gobliner, samme hær som invaderede dværge miner for 5 år siden.
 - En våd raspende stemme i et fremmed sprog.
 - Warlock havde noter om et portal projekt.
-- Goblin boss havde tegning af et skjold.
+- Goblin boss havde [[Shield drawing 1.jpg|Tegning af et skjold]]
 - En lokal ranger kvinde var blevet ofret, hendes journal indeholdt hendes opdagelser på hendes færd rundt omkring. En af dem var en svævende opal obelisk med lilla energi, den var vokset mellem 2 besøg. En anden medrejsende rørte ved stenen og blev opslugt af stenen. Alle indikationer om hvordan man finder stenen er blevet streget over. 
 - Ranger kvinden havde en tattoovering af en oprejst bjørn på sin ryg og en ottekantet træmønt.
 - [[The Shadow Company/Bible/Player Vault/Missions/Active mission - misante zardanti\|Active mission - misante zardanti]] - fugle kranie halskæde fundet i hulerne.
