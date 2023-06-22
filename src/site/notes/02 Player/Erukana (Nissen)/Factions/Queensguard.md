@@ -31,4 +31,3 @@ Queen’s Guard er repræsenteret i mange lande men er **stærkest** i [[Anaksa\
 **FJENDER:**
 
 [[Ridderne af Blodrosen\|Ridderne af Blodrosen]]
-
