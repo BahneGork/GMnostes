@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/02-player/erukana-nissen/setting-lore/erukana-kingdom/"}
+---
+
+#erukana #kingdom 
+
+
+>[!info] # Erukana the Kingdom
+>Erukana is the northern realm of Ceynor, a large continent comprised of several realms and many different nationalities and races. Erukana is a loose collection of baronies dukedoms that all swear fealty to the distant King that in theory governs Erukana.
+From large acres of farmland to towering mountains and deep lush forests, Eurkana is selfreliant in terms of manufacture and lifestock. Due to the towering mountains and the rich deposits of many different sort of ores, the realm is both rich and prosperous. 
+The baronies and dukedoms are more often than not rivals, sometimes even going as far as having skirmishes and even wars to determine where borders are lined up. However, thus far, the realms have come together each and every time that an enemy has threatened the combined realm. 
+
+# Map of the kingdom 
+
+![ErukanaMap.jpg](/img/user/10%20Attachments/ErukanaMap.jpg)
