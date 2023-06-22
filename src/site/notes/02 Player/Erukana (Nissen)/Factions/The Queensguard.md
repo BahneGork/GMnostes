@@ -14,3 +14,17 @@ Ordnen består af to grene. Den militære gren [[Knights of the River\|Knights o
 
 Den anden gren [[Hands of the Queen\|Hands of the Queen]] af ordenen er deres agenter. Dette kan være alt fra præster til barder, musikanter eller blot folk der er drevet af at vil det bedste for deres land. Denne grens opgaver er mangfoldige, men med et primært fokus på at *helbrede* skader påført af mørke kræfter, at *overvåge* mørke kræfter og at støtte andre riger og lande med *rådgivning*.
 
+## Ordnen idag 
+Queen’s Guard er repræsenteret i mange lande men er **stærkest** i [[Anaksa\|Anaksa]] riget, [[den endeløse ørken\|den endeløse ørken]] i det fjerne sydvest. I mange andre lande, herunder [[Erukana\|Erukana]], er ordenen repræsenteret i de fleste storbyer med mindre eller større [[Queensguard Chapterhouse\|Queensguard Chapterhouse]] som oftest er kendetegnet ved at de ligger i *udkanten* af byerne og er *en lille befæstet landsby i sig selv med en borg og mur som beskytter dem*. Deres indtægter sker igennem donationer fra lande og ledere, samt deres *egen produktion af primært landbrug og silke og krydderier fra [[Anaksa\|Anaksa]]*. Som en orden der er drevet af godhed, er de allieret med de fleste mennesker og dværge riger i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]. Dog alligevel er deres indflydelse stærkt reduceret i alle lande undtagen [[Anaksa\|Anaksa]]. Mange egenrådige ledere bruger deres rådgivning and assistance, da der ikke har været en overordnet trussel imod [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] verdenen i det sidste århundrede. Derfor anses ordenens tilstedeværelse som en *gene* og nogle steder *direkte uønsket*. Befolkningen generelt dog, anser Queen’s Guard ordenen med stor respekt og kærlighed, men der er langt imellem at folk og fæ som ikke bor tæt på et Chapterhouse, ser dem.
+
+## Lederne idag
+
+*[[Lord Chaptermaster Cerilian Archhold\|Lord Chaptermaster Cerilian Archhold]] - [[Highguard Chapterhouse\|Highguard Chapterhouse]]* i Anaksa. Leder af den militære gren [[Knights of the River\|Knights of the River]]
+
+*[[Lord Magnus Flamehand\|Lord Magnus Flamehand]] -  [[Highguard Chapterhouse\|Highguard Chapterhouse]]* i Anaksa, leder af den agenterne ”[[Hands of the Queen\|Hands of the Queen]]”.
+
+## Erukana 
+[[Queensguard Chapterhuset I Erukana\|Queensguard Chapterhuset I Erukana]] er en saga blot. Det lå tæt på hovedstaden [[Wolfenburg\|Wolfenburg]] nær den [[østlige kyst\|østlige kyst]], men blev for et årti siden udsat for et angreb af en fjende som rigets konge den dag i dag bearbejder en stamme af orker som bor i bakkelandet omkring [[Wolfenburg\|Wolfenburg]], og at det skete fordi Ridderne i Chapterhuset var begyndt at vige godhedens sti og mistet velsignelsen af deres guder. Stille og roligt er Queen’s Guard ridderne forsvundet fra [[Erukana\|Erukana]], dog menes det er der fortsat er et *hemmeligt keep et sted i den sydvestlige del af Erukana.*
+
+## Fjender
+[[Ridderne af Blodrosen\|Ridderne af Blodrosen]]
