@@ -12,7 +12,7 @@
 [[02 Player/Erukana (Nissen)/People/Erukana party characters\|Erukana party characters]]
 
 ## Factions & VIP
-The [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
+The [[The Queensguard\|The Queensguard]]
 [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]]
 [[02 Player/Erukana (Nissen)/Factions/Emerald enclave\|Emerald enclave]]
 [[02 Player/Erukana (Nissen)/People/Kong Janus af Erukana\|Kong Janus af Erukana]]
