@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-web-journal/"}
+{"dg-publish":true,"permalink":"/home-web-journal/","tags":["gardenEntry"]}
 ---
 
 #campaignindex
