@@ -5,3 +5,6 @@
 #erukana 
 
 - #[[02 Player/Erukana (Nissen)/Locations/Locations\|Locations]] is tagged on locations notes we have visited.
+
+
+
