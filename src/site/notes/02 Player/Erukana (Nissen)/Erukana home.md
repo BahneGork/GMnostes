@@ -6,10 +6,13 @@
 
 # Main hub of Erukana Vault. 
 
+![ErukanaMap.jpg|350](/img/user/10%20Attachments/ErukanaMap.jpg)
+
 ## The world 
 [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]], on either Krynn or Toril
 [[02 Player/Erukana (Nissen)/Locations/Locations\|Locations]] visited
 [[02 Player/Erukana (Nissen)/People/Erukana party characters\|Erukana party characters]]
+
 
 ## Factions & VIP
 The [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
