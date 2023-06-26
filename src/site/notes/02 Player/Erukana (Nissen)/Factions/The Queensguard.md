@@ -16,6 +16,45 @@ Ordnen består af to grene. Den militære gren [[Knights of the River\|Knights o
 
 Den anden gren [[Hands of the Queen\|Hands of the Queen]] af ordenen er deres agenter. Dette kan være alt fra præster til barder, musikanter eller blot folk der er drevet af at vil det bedste for deres land. Denne grens opgaver er mangfoldige, men med et primært fokus på at *helbrede* skader påført af mørke kræfter, at *overvåge* mørke kræfter og at støtte andre riger og lande med *rådgivning*.
 
+### Ranks 
+
+#### Squire/Væbner
+Det første skridt i at opnår Knighthood i Queen’s Guard. De fleste starter i deres pre-teenager alder og går i lære hos en eksisterende ridder af ordenen. Nogle starter dog senere, hvis en eksisterende ridder ser, i dem, en vordende ridder. Man fortsætter med at være squire indtil ens mentor mener man er klar til at stå på egne ben. Er ens mentor ikke længere i stand, er det det enkelte Chapterhus ledelse der står for beslutningen.
+
+Squires kan også udnævnes med ekstra titler, opgaver og beføjelser:
+
+- [[Mastersergeant of arms\|Mastersergeant of arms]] (træner af Sergeants)
+- [[Sectionmaster\|Sectionmaster]] (Har ansvaret for at styre et kompagni Sergeants i kamp)
+- Knight/Ridder (tituleres som Sir/Madam)
+
+#### Knight 
+Den rang du opnå når din tid som væbner er afsluttet. 
+Langt største delen af ordenens medlemmer er knight og de kommer i alle former for sociale og adelige titler. 
+Der findes Knights som har slået sig ned som smede og bønder, såvel som der findes Knights der ud over at tjene ordenen, også ejer landområder anerkendt af det rige som de er en del af. 
+Når du har tjent ordenen som **en Knight i mindst et år**, er man bevilget til at være mentor for en væbner.
+
+##### Knights kan også udnævnes med ekstra titler, opgaver og beføjelser:
+- [[Quartermaster of the Hold \|Quartermaster of the Hold ]](har ansvaret for våbenkammeret)
+- [[Knight Commander of the House guard\|Knight Commander of the House guard]] (har ansvaret for at træne, vedligeholde Chapterhusets Sergeants).
+
+#### Lord/Lady
+
+**Lord/Lady Knights** opnås ved at have udført flere exceptionelle deeds for ordenen eller i ordenens navn. Lord-/Ladyship besluttes af **konklaven** som mødes årligt i [[Anaksa\|Anaksa]], hvor **Chapterhusets Masters** mødes med Chaptermasteren og i sjældne tilfælde [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Dronning Neferata]]  . Det er ud fra Lord/Lady knights at en ny Chapterhus master vælges.
+
+##### Lord/ladies kan også udnævnes med ekstra titler, opgaver og beføjelser:
+- Samme opgaver som Knights
+- [[Lord/lady of the Keep\|Lord/lady of the Keep]] (styre everyday livet i Chapterhuset)
+- [[Lord/lady of the Coin\|Lord/lady of the Coin]] (kun i størrere Chapterhuse)
+- [[Queensguard Ambassadører\|Queensguard Ambassadører]].
+
+#### Lord Commander
+
+[[Lord Commander of the Queensguard\|Lord Commander of the Queensguard]] er et [[Queensguard Chapterhus\|Queensguard Chapterhus]] suveræne leder og sammen med de forskellige andre stillinger (knight commander, Lord/Lady of the keep/Coin) tager de, de vigtige beslutninger i Chapterhuset. Lord Commanderen har det overordnet ansvar for at Chapterhuset overholder alle de love og regler ([[the measure\|the measure]]) som ordenen lever og ånder efter.
+
+Der er som sådan ingen regler for hvornår man kan komme i betragtning til at udnævnes til Lord Commander, men en aspirant skal vælges af de øverste rangeret i et chapterhus og derefter skal aspiranten sendes til [[Anaksa\|Anaksa]] for at gennemgå et [[Queensguard Lord Command Promotion Ritual\|ritual]] sammen med [[02 Player/Erukana (Nissen)/People/Queen Neferata\| Dronning Neferata]]. 
+
+Hvis aspiranten lykkedes det, er han eller hun velsignet af Ordenens guder og hermed udnævnt til Lord Commander for resten af sit liv.
+
 ## Ordnen idag 
 Queen’s Guard er repræsenteret i mange lande men er **stærkest** i [[Anaksa\|Anaksa]] riget, [[den endeløse ørken\|den endeløse ørken]] i det fjerne sydvest. I mange andre lande, herunder [[Erukana\|Erukana]], er ordenen repræsenteret i de fleste storbyer med mindre eller større [[Queensguard Chapterhouse\|Queensguard Chapterhouse]] som oftest er kendetegnet ved at de ligger i *udkanten* af byerne og er *en lille befæstet landsby i sig selv med en borg og mur som beskytter dem*. Deres indtægter sker igennem donationer fra lande og ledere, samt deres *egen produktion af primært landbrug og silke og krydderier fra [[Anaksa\|Anaksa]]*. Som en orden der er drevet af godhed, er de allieret med de fleste mennesker og dværge riger i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]. Dog alligevel er deres indflydelse stærkt reduceret i alle lande undtagen [[Anaksa\|Anaksa]]. Mange egenrådige ledere bruger deres rådgivning and assistance, da der ikke har været en overordnet trussel imod [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] verdenen i det sidste århundrede. Derfor anses ordenens tilstedeværelse som en *gene* og nogle steder *direkte uønsket*. Befolkningen generelt dog, anser Queen’s Guard ordenen med stor respekt og kærlighed, men der er langt imellem at folk og fæ som ikke bor tæt på et Chapterhouse, ser dem.
 
