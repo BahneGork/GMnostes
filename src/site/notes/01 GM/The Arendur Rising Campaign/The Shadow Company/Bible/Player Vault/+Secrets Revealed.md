@@ -55,7 +55,7 @@ The mausoleum changed
 
 Related: [[01 GM/The Arendur Rising Campaign/Prep next/02 Old sessions notes 2/Logged - Session 27\|01 GM/The Arendur Rising Campaign/Prep next/02 Old sessions notes 2/Logged - Session 27]]
 3.  [Warchief Saarvith](app://obsidian.md/Warchief%20Saarvith) is very loose with his underlings, believes his dragon does all the intimidation for him. He lacks courage when the dragon is not near.~~
-4.  The old wizard[[01 GM/The Arendur Rising Campaign/03 People/Nails\|Nails]] at [[01 GM/The Arendur Rising Campaign/14 Locations/Ursia/Bedegaarn Barony/Misty falls/Karou's Bakke\|Karou's Bakke]]has not been seen or heard for several months now. Usually once a month is normal. His tower is known as [Askagars spire](app://obsidian.md/Askagars%20spire).
+4.  The old wizard[[01 GM/The Arendur Rising Campaign/03 People/Nails\|Nails]] at [[01 GM/The Arendur Rising Campaign/14 Locations/Ursia/Bedegaarn Barony/Blackwood/Karou's Bakke\|Karou's Bakke]]has not been seen or heard for several months now. Usually once a month is normal. His tower is known as [Askagars spire](app://obsidian.md/Askagars%20spire).
 5. [Prior Thorne](app://obsidian.md/Prior%20Thorne) is an imposter, 
 
 Related: [[01 GM/The Arendur Rising Campaign/Prep next/02 Old sessions notes 2/Logged - Session 26\|01 GM/The Arendur Rising Campaign/Prep next/02 Old sessions notes 2/Logged - Session 26]]
