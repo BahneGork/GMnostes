@@ -5,7 +5,11 @@
 #playercharacters #erukanapc
 
 # Clarabel Lancaster
-![female warrior squire-clarabel.png|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png)
+
+| Portrait                                     | Class  | Race |
+| -------------------------------------------- | ------ | ---- |
+| ![[female warrior squire-clarabel.png\|200]] | Cleric | Human     |
+
 
 
 # Ability Scores
