@@ -5,7 +5,7 @@
 #playercharacters #erukanapc
 
 
-![female warrior squire-clarabel.png|left  wsmall](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png)
+![female warrior squire-clarabel.png|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png)
 
 
 # Ability Scores
