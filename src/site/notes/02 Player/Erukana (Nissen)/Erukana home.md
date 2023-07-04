@@ -10,7 +10,7 @@
 
 ## The world 
 [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]], on either Krynn or Toril
-[[02 Player/Erukana (Nissen)/Locations/Locations\|Locations]] visited
+[[02 Player/Erukana (Nissen)/Locationsvisited/Locationsvisited\|Locationsvisited]] visited
 [[02 Player/Erukana (Nissen)/People/Erukana party characters\|Erukana party characters]]
 
 
