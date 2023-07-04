@@ -7,7 +7,7 @@
 # Clarabel Lancaster
 
 
- ![[female warrior squire-clarabel.png\|200]] 
+ ![female warrior squire-clarabel.png|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png) 
  Squire of [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]], Knight in waiting 
  Cleric of War - Bahamut
  Human  
