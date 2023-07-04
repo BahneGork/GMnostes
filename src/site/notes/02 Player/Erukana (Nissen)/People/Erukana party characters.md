@@ -13,7 +13,7 @@
 
 # Winston Wildwood 
 
-![[Winston Wildwood.png\|200]]
+![Winston Wildwood.png|200](/img/user/10%20Attachments/Winston%20Wildwood.png)
 Squire of [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]], Knight in waiting 
 Fighter - Battlemaster 
 Gnome 
@@ -28,7 +28,7 @@ Gnome
 
 # Nibar Brassbit 
 
-![[Nibar the gnome wizard.png\|200]]
+![Nibar the gnome wizard.png|200](/img/user/10%20Attachments/Nibar%20the%20gnome%20wizard.png)
 Wizard - Evoker 
 Gnome 
 
@@ -41,7 +41,7 @@ Gnome
 # Clarabel Lancaster
 
 
- ![[female warrior squire-clarabel.png\|200]] 
+ ![female warrior squire-clarabel.png|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png) 
  Squire of [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]], Knight in waiting 
  Cleric of War - Bahamut
  Human  
