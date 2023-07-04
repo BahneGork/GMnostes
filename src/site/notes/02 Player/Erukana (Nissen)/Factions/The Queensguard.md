@@ -4,7 +4,7 @@
 
 #erukana #faction 
 
-![Queens_guard_crest.jpg](/img/user/10%20Attachments/Queens_guard_crest.jpg)
+![Queens_guard_crest.jpg|300](/img/user/10%20Attachments/Queens_guard_crest.jpg)
 
 # The Queensguard Knighthood. 
 Queen’s Guard er en orden er riddere og følgere af [[Dronningen af Anaksa\|Dronningen af Anaksa]] riget. Ordnen har sit ophav flere århundrede tilbage i tiden hvor [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] var en verden plaget af mørke kræfter. [[Anaksa\|Anaksa]] riget var på det tidspunkt det eneste land som holdte ud mod mørket og dette var primært på grund af en kvinde som hed [[Neferata\|Neferata]]. Af årsager man den dag i dag ikke kender helt præcist, blev [[Neferata\|Neferata]] velsignet af to guder efter hun hengav sig til sin gudinde ved at lade sig bade i en hellig del af [[Deltafloden\|Deltafloden]] i [[Anaksa\|Anaksa]].
@@ -39,7 +39,7 @@ Når du har tjent ordenen som **en Knight i mindst et år**, er man bevilget til
 
 #### Lord/Lady
 
-**Lord/Lady Knights** opnås ved at have udført flere exceptionelle deeds for ordenen eller i ordenens navn. Lord-/Ladyship besluttes af **konklaven** som mødes årligt i [[Anaksa\|Anaksa]], hvor **Chapterhusets Masters** mødes med Chaptermasteren og i sjældne tilfælde [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Dronning Neferata]]  . Det er ud fra Lord/Lady knights at en ny Chapterhus master vælges.
+**Lord/Lady Knights** opnås ved at have udført flere exceptionelle deeds for ordenen eller i ordenens navn. Lord-/Ladyship besluttes af **konklaven** som mødes årligt i [[Anaksa\|Anaksa]], hvor **Chapterhusets Masters** mødes med Chaptermasteren og i sjældne tilfælde [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Dronning Neferata]]  . Det er ud fra Lord/Lady knights at en ny Chapterhus master vælges.
 
 ##### Lord/ladies kan også udnævnes med ekstra titler, opgaver og beføjelser:
 - Samme opgaver som Knights
@@ -51,12 +51,12 @@ Når du har tjent ordenen som **en Knight i mindst et år**, er man bevilget til
 
 [[Lord Commander of the Queensguard\|Lord Commander of the Queensguard]] er et [[Queensguard Chapterhus\|Queensguard Chapterhus]] suveræne leder og sammen med de forskellige andre stillinger (knight commander, Lord/Lady of the keep/Coin) tager de, de vigtige beslutninger i Chapterhuset. Lord Commanderen har det overordnet ansvar for at Chapterhuset overholder alle de love og regler ([[the measure\|the measure]]) som ordenen lever og ånder efter.
 
-Der er som sådan ingen regler for hvornår man kan komme i betragtning til at udnævnes til Lord Commander, men en aspirant skal vælges af de øverste rangeret i et chapterhus og derefter skal aspiranten sendes til [[Anaksa\|Anaksa]] for at gennemgå et [[Queensguard Lord Command Promotion Ritual\|ritual]] sammen med [[02 Player/Erukana (Nissen)/People/Queen Neferata\| Dronning Neferata]]. 
+Der er som sådan ingen regler for hvornår man kan komme i betragtning til at udnævnes til Lord Commander, men en aspirant skal vælges af de øverste rangeret i et chapterhus og derefter skal aspiranten sendes til [[Anaksa\|Anaksa]] for at gennemgå et [[Queensguard Lord Command Promotion Ritual\|ritual]] sammen med [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\| Dronning Neferata]]. 
 
 Hvis aspiranten lykkedes det, er han eller hun velsignet af Ordenens guder og hermed udnævnt til Lord Commander for resten af sit liv.
 
 ## Ordnen idag 
-Queen’s Guard er repræsenteret i mange lande men er **stærkest** i [[Anaksa\|Anaksa]] riget, [[den endeløse ørken\|den endeløse ørken]] i det fjerne sydvest. I mange andre lande, herunder [[Erukana\|Erukana]], er ordenen repræsenteret i de fleste storbyer med mindre eller større [[Queensguard Chapterhouse\|Queensguard Chapterhouse]] som oftest er kendetegnet ved at de ligger i *udkanten* af byerne og er *en lille befæstet landsby i sig selv med en borg og mur som beskytter dem*. Deres indtægter sker igennem donationer fra lande og ledere, samt deres *egen produktion af primært landbrug og silke og krydderier fra [[Anaksa\|Anaksa]]*. Som en orden der er drevet af godhed, er de allieret med de fleste mennesker og dværge riger i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]. Dog alligevel er deres indflydelse stærkt reduceret i alle lande undtagen [[Anaksa\|Anaksa]]. Mange egenrådige ledere bruger deres rådgivning and assistance, da der ikke har været en overordnet trussel imod [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] verdenen i det sidste århundrede. Derfor anses ordenens tilstedeværelse som en *gene* og nogle steder *direkte uønsket*. Befolkningen generelt dog, anser Queen’s Guard ordenen med stor respekt og kærlighed, men der er langt imellem at folk og fæ som ikke bor tæt på et Chapterhouse, ser dem.
+Queen’s Guard er repræsenteret i mange lande men er **stærkest** i [[Anaksa\|Anaksa]] riget, [[den endeløse ørken\|den endeløse ørken]] i det fjerne sydvest. I mange andre lande, herunder [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], er ordenen repræsenteret i de fleste storbyer med mindre eller større [[Queensguard Chapterhouse\|Queensguard Chapterhouse]] som oftest er kendetegnet ved at de ligger i *udkanten* af byerne og er *en lille befæstet landsby i sig selv med en borg og mur som beskytter dem*. Deres indtægter sker igennem donationer fra lande og ledere, samt deres *egen produktion af primært landbrug og silke og krydderier fra [[Anaksa\|Anaksa]]*. Som en orden der er drevet af godhed, er de allieret med de fleste mennesker og dværge riger i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]. Dog alligevel er deres indflydelse stærkt reduceret i alle lande undtagen [[Anaksa\|Anaksa]]. Mange egenrådige ledere bruger deres rådgivning and assistance, da der ikke har været en overordnet trussel imod [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] verdenen i det sidste århundrede. Derfor anses ordenens tilstedeværelse som en *gene* og nogle steder *direkte uønsket*. Befolkningen generelt dog, anser Queen’s Guard ordenen med stor respekt og kærlighed, men der er langt imellem at folk og fæ som ikke bor tæt på et Chapterhouse, ser dem.
 
 ## Lederne idag
 
@@ -64,8 +64,8 @@ Queen’s Guard er repræsenteret i mange lande men er **stærkest** i [[Anaksa\
 
 *[[Lord Magnus Flamehand\|Lord Magnus Flamehand]] -  [[Highguard Chapterhouse\|Highguard Chapterhouse]]* i Anaksa, leder af den agenterne ”[[Hands of the Queen\|Hands of the Queen]]”.
 
-## Erukana 
-[[Queensguard Chapterhuset I Erukana\|Queensguard Chapterhuset I Erukana]] er en saga blot. Det lå tæt på hovedstaden [[Wolfenburg\|Wolfenburg]] nær den [[østlige kyst\|østlige kyst]], men blev for et årti siden udsat for et angreb af en fjende som rigets konge den dag i dag bearbejder en stamme af orker som bor i bakkelandet omkring [[Wolfenburg\|Wolfenburg]], og at det skete fordi Ridderne i Chapterhuset var begyndt at vige godhedens sti og mistet velsignelsen af deres guder. Stille og roligt er Queen’s Guard ridderne forsvundet fra [[Erukana\|Erukana]], dog menes det er der fortsat er et *hemmeligt keep et sted i den sydvestlige del af Erukana.*
+## Angrebet på Chapterhouse Erukana 
+[[Queensguard Chapterhuset I Erukana\|Queensguard Chapterhuset I Erukana]] er en saga blot. Det lå tæt på hovedstaden [[Wolfenburg\|Wolfenburg]] nær den [[østlige kyst\|østlige kyst]], men blev for et årti siden udsat for et angreb af en fjende som rigets konge den dag i dag bebrejder en stamme af orker som bor i bakkelandet omkring [[Wolfenburg\|Wolfenburg]], og at det skete fordi Ridderne i Chapterhuset var begyndt at vige godhedens sti og mistet velsignelsen af deres guder. Stille og roligt er Queen’s Guard ridderne forsvundet fra [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], dog menes det er der fortsat er et *hemmeligt keep et sted i den sydvestlige del af Erukana*. De få riddere der stadig vandrer i riget, foretager deres egen [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]].
 
 ## Fjender
 [[Ridderne af Blodrosen\|Ridderne af Blodrosen]]
