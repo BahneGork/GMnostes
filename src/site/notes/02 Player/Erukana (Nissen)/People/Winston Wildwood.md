@@ -5,4 +5,7 @@
 #erukanapc #erukana 
 
 # Winston Wildwood 
-![Winston Wildwood.png|200](/img/user/10%20Attachments/Winston%20Wildwood.png)
+
+| Portrait                       | Class         | Race         |
+| ------------------------------ | ------------- | ------------ |
+| ![[Winston Wildwood.png\|200]] | Fighter | Gnome |
