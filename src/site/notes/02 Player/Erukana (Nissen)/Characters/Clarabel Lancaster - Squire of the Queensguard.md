@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/characters/clarabel-lancaster-squire-of-the-queensguard/"}
 ---
 
-#playercharacters 
+#playercharacters #erukanapc
 
 
 ![female warrior squire-clarabel.png|left  wsmall](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png)
