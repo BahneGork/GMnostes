@@ -5,4 +5,4 @@
 #erukanapc #erukana 
 
 # Winston Wildwood 
-![Winston Wildwood.png](/img/user/10%20Attachments/Winston%20Wildwood.png)
+![Winston Wildwood.png|200](/img/user/10%20Attachments/Winston%20Wildwood.png)
