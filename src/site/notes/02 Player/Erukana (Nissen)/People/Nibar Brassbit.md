@@ -6,6 +6,6 @@
 
 # Nibar Brassbit 
 
-| Portrait                             | Class  | Race |
-| ------------------------------------ | ------ | ---- |
-| ![[Nibar the gnome wizard.png\|200]] | Wizard | Gnome     |
+![[Nibar the gnome wizard.png\|200]]
+Wizard - Evoker 
+Gnome 
