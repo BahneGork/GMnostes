@@ -4,7 +4,7 @@
 
 #erukana #ancestry
 
-**Slette folket**
+# **[[02 Player/Erukana (Nissen)/Factions/Slette folket\|Slette folket]]**
 
 *Slette folket er stammer af både fastboende og migrerende stammer som har boet og rejst igennem Ceynor siden mennesket først kom til verdenen. Betragtet som vilde og uciviliseret af byfolket og de civiliseret racer i Ceynor, anses stemme folket for at være uregerlige og i mange tilfælde ikke til at stole på. Alle anerkender dem dog som frygtindgydende krigere.*
 
@@ -17,7 +17,7 @@ Af de mest kendte stammerne findes:
 -    Warpaw stammen. Kendt for deres krigere som aldrig trættes, maler sig med krigsmaling og er uden frygt. Nogle mener at Warpaw stammen har formået at give sig selv bjørnens styrke og enkelte menes at ride i kamp på ryggen af store sorte og røde bjørne. Overhøvdingen Hrothgar som er valgt af alle Slette stammerne, som deres leder, styrer Slette folket løst.
 -    Hvidhvalen, som findes primært på kystlinjen og er kendt for deres kendskab til farvandet primært omkring Erukana. Deres største indtægt er perler som de dykker ned og henter.
 
-**HORDEN**
+# **[[02 player/erukana (nissen)/factions/Horden\|Horden]]**
 **HVEM ER DE:**
 Horden er en fælles betegnelse for krigeriske racer som oftest ses for fjendtlige for alle civiliseret og lovlydige racer. Orker, gobliner, gnolls, trolde, kobolder og kæmper. De færdes som generelt overalt i Ceynor og Erukana er ingen undtagelse. 
 
