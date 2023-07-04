@@ -6,6 +6,7 @@
 
 # Winston Wildwood 
 
-| Portrait                       | Class         | Race         |
-| ------------------------------ | ------------- | ------------ |
-| ![[Winston Wildwood.png\|200]] | Fighter | Gnome |
+![[Winston Wildwood.png\|200]]
+Squire of [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]], Knight in waiting 
+Fighter - Battlemaster 
+Gnome 
