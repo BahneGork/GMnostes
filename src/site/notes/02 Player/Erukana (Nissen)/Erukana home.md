@@ -4,7 +4,7 @@
 
 #erukana 
 
-# Main hub of Erukana Vault. 
+# Main hub of Erukana. 
 
 [![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](Erukana.md)
 
@@ -19,11 +19,13 @@ The [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
 [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]]
 [[02 Player/Erukana (Nissen)/Factions/Emerald enclave\|Emerald enclave]]
 [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
+[[02 Player/Erukana (Nissen)/People/1.People DB folder\|1.People DB folder]]
 
 ## Open loops
-[[02 Player/Erukana (Nissen)/Journal/Erukana Unanswered Questions\|Erukana Unanswered Questions]]
+[[02 Player/Erukana (Nissen)/Journal/Erukana Quests and Questions\|Erukana Quests and Questions]]
 [[02 Player/Erukana (Nissen)/Journal/Erukana Party Agenda\|Erukana Party Agenda]]
 [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Personal Agenda]]
+[[Clue Board-1.canvas|Clue Board-1]]
 
 ## Active Missions 
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
