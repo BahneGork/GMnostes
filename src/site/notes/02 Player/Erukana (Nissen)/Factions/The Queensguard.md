@@ -68,4 +68,4 @@ Queen’s Guard er repræsenteret i mange lande men er **stærkest** i [[Anaksa\
 [[Queensguard Chapterhuset I Erukana\|Queensguard Chapterhuset I Erukana]] er en saga blot. Det lå tæt på hovedstaden [[Wolfenburg\|Wolfenburg]] nær den [[østlige kyst\|østlige kyst]], men blev for et årti siden udsat for et angreb af en fjende som rigets konge den dag i dag bebrejder en stamme af orker som bor i bakkelandet omkring [[Wolfenburg\|Wolfenburg]], og at det skete fordi Ridderne i Chapterhuset var begyndt at vige godhedens sti og mistet velsignelsen af deres guder. Stille og roligt er Queen’s Guard ridderne forsvundet fra [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], dog menes det er der fortsat er et *hemmeligt keep et sted i den sydvestlige del af Erukana*. De få riddere der stadig vandrer i riget, foretager deres egen [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]].
 
 ## Fjender
-[[Ridderne af Blodrosen\|Ridderne af Blodrosen]]
+[[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]
