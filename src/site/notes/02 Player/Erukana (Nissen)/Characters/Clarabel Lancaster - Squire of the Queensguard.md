@@ -62,7 +62,7 @@ cantrips: [[No Graph/5e Reference/spells/Guiding Bolt\|Guiding Bolt]] (4d6 + adv
 # Notes 
 
 Tilbragt det meste af hendes liv i Queensguard [[Chapterhuset i Erukana\|Chapterhuset i Erukana]]
-Squire under [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] sammen med [[02 Player/Erukana (Nissen)/People/Winston Wildwood\|Winston Wildwood]]
+Squire under [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] sammen med [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]
 Queensguard Ordenen angrebet for ca 10 år siden
 Træner [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]]
 Mentor [[Lord Barriston Samuel\| Lord of the keep - Samuel bariston]]
