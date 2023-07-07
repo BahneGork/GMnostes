@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/welles/"}
 ---
 
-#erukana 
+#erukana #Barony 
 
 # Welles
 Main:
