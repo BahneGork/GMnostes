@@ -6,7 +6,7 @@
 
 
 # Mistville 
-Small village in [[02 Player/Erukana (Nissen)/Locations/Welles\|Welles]] near the board of [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]].
+Small village in [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] near the board of [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]].
 
 VIP: [[Archibald Oddsmoke\|Archibald Oddsmoke]] 
 
