@@ -21,9 +21,12 @@ For rejsen tilbage til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelo
 
 Reward:: 20gp pr member
 
-## Clues & Locations 
-- [x] statue was sold in the market of [[Segrave\|Segrave]] ✅ 2023-07-05
-- [x] buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] ✅ 2023-07-05
+## Location Clues
+- statue was sold in the market of [[Segrave\|Segrave]]
+- buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
+
+## People Clues 
+- art collector, gnome, [[Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
 
 ## Objectives & Goals 
 - [x] Statue located ✅ 2023-07-04
