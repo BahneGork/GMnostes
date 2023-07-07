@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/states-and-baronies-of-erukana/"}
 ---
 
-#erukana 
+#erukana #barony #states
 
 # Dukedoms
 [[02 Player/Erukana (Nissen)/Locations/Bortreau\|Bortreau]]
