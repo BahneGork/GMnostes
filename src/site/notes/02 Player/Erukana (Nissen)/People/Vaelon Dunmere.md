@@ -6,7 +6,7 @@
 
 # Vaelon Dunmere
 
-Known by: [[02 Player/Erukana (Nissen)/People/Erukana party characters\|Erukana party characters]]
+Known by: [[02 Player/Erukana (Nissen)/Characters/Erukana party characters\|Erukana party characters]]
 Faction: Unknown
 
 ![Pasted image 20230703214113.png| 200](/img/user/10%20Attachments/Pasted%20image%2020230703214113.png)
