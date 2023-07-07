@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/baroniet-eresby/","tags":["Locationsvisited"]}
 ---
 
-#erukana 
+#erukana #Barony 
 
 # Baroniet Eresby
 Main:
