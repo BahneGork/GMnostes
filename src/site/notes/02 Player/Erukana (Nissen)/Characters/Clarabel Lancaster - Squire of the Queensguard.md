@@ -6,13 +6,11 @@
 
 **Motivation: Bevise sit værd (overfor andre specifikke måske? overfor sig selv?)**
 
-# [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]]
+# Clarabel Lancaster
  ![female warrior squire-clarabel.png|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png) 
  Squire of [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]], Knight in waiting 
  [[No Graph/5e Reference/Cleric\|Cleric]] of [[War Domain\|War Domain]] - [[Bahamut\|Bahamut]]
  [[No Graph/5e Reference/Human\|Human]]  
-
----------------------------------------------------------
 
 
 # Ability Scores
