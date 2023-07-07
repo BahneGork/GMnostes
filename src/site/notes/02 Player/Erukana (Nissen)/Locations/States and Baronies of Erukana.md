@@ -5,23 +5,23 @@
 #erukana #barony #states
 
 # Dukedoms
-[[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau\|Hertugdømmet Bortreau]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau\|Hertugdømmet Bortreau]]
 
 # Baronies
-[[02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere\|Baroniet Blackmere]]
+- [[02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere\|Baroniet Blackmere]]
 
-[[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]
+- [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]
 
-[[02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray\|Baroniet Mowbray]]
+- [[02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray\|Baroniet Mowbray]]
 
-[[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]
+- [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]
 
-[[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+- [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 
 # States 
-[[Silverstream\|Silverstream]]
+- [[Silverstream\|Silverstream]]
 
-[[Slatestone\|Slatestone]]
+- [[Slatestone\|Slatestone]]
 
-[[Ellin Thalor\|Ellin Thalor]]
+- [[Ellin Thalor\|Ellin Thalor]]
 
