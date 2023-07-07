@@ -3,3 +3,12 @@
 ---
 
 #erukanamission  #erukana 
+
+# Investigating the attack on The Queensguard Erukana Chapterhouse 
+
+
+## Location Clues 
+
+
+
+## People Clues 
