@@ -7,6 +7,8 @@
 # Baroniet Eresby
 Main:
 Related: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]
+Skik og kultur: [[02 Player/Erukana (Nissen)/Locations/skik og kultur i Eresby\|skik og kultur i Eresby]]
+
 
 Baroniet Eresby
 
@@ -29,3 +31,5 @@ Grundet kroens berømmelse er der over de sidste halvt hundrede år, flyttet fol
 HANDEL OG ALLIANCER
 
 Viden, kuriositeter, landbrug, bomuld 
+
+
