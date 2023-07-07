@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/valence/"}
 ---
 
-#erukana 
+#erukana #barony
 
 # Valence
 Main:
