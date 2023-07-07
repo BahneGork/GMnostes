@@ -9,7 +9,7 @@
 
 Gruppen fandt via ledetråde frem til at Statuen var gået tabt under en flytning mellem [[Pembroke\|Pembroke]] og [[Wolfenburg\|Wolfenburg]], hvor også *en af familiens døtre var omkommet under et angreb.*
 
-Sporene pegede mod, at statuen var blevet købt på markedet i [[Segrave\|Segrave]] af en kunstsamler som har sin sommerresidens i den lille idylliske landsby [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] som ligger tæt på grænsen i [[02 Player/Erukana (Nissen)/Locations/Welles\|Welles]] mod [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]].
+Sporene pegede mod, at statuen var blevet købt på markedet i [[Segrave\|Segrave]] af en kunstsamler som har sin sommerresidens i den lille idylliske landsby [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] som ligger tæt på grænsen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] mod [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]].
 
 I landsbyen mødte de kunstsamleren, som viste sig at være en ældre gnome og tidligere købmand, der nu har trukket sig tilbage og lever af hans formue. Gnomen hedder [[Archibald Oddsmoke\|Archibald Oddsmoke]] og var rigt klædt i røde og grønne klæder. 
 
@@ -22,13 +22,15 @@ For rejsen tilbage til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelo
 Reward:: 20gp pr member
 
 ## Location Clues
-- statue was sold in the market of [[Segrave\|Segrave]]
-- buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
+- statue was sold in the market of [[Segrave\|Segrave]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] 
+- buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 
 ## People Clues 
 - art collector, gnome, [[Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
 
+
 ## Objectives & Goals 
 - [x] Statue located ✅ 2023-07-04
 - [x] Statue reclaimed ✅ 2023-07-04
+	- [x] pay [[Archibald Oddsmoke\|Archibald Oddsmoke]] 
 - [ ] Statue handed off to [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
