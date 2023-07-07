@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/erukana-home/"}
 ---
 
-#erukana 
+#erukana #campaign #worldhomenote
 
 # Main hub of Erukana. 
 
@@ -11,7 +11,7 @@
 ## The world 
 [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]], on either Krynn or Toril
 [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Locationsvisited\|Locationsvisited]] visited
-[[02 Player/Erukana (Nissen)/People/Erukana party characters\|Erukana party characters]]
+[[02 Player/Erukana (Nissen)/Characters/Erukana party characters\|Erukana party characters]]
 
 
 ## Factions & VIP
