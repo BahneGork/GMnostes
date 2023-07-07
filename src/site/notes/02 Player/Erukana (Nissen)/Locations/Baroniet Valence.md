@@ -5,10 +5,10 @@
 #erukana #barony
 
 # Valence
-Main:
-Related: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]
+Main: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]
+Skik, brug og kultur: [[02 Player/Erukana (Nissen)/Locations/Skik og kultur i Valence og Blackmere baronierne\|Skik og kultur i Valence og Blackmere baronierne]]
 
-Baroniet Valence
+## Baroniet Valence
 
 BESKRIVELSE:
 
