@@ -4,7 +4,7 @@
 
 #erukanapc #erukana #playercharacters 
 
-# [[02 Player/Erukana (Nissen)/Characters/Flemming Mountain Dwarf\|Flemming Mountain Dwarf]]
+# Flemming Mountain Dwarf
 
 ![Pasted image 20230704222412.png|200](/img/user/10%20Attachments/Pasted%20image%2020230704222412.png)
 
