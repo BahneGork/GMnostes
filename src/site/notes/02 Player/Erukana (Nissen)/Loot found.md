@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/loot-found/"}
 ---
 
-#loot #playernotes #erukana 
+#erukanaloot #playernotes #erukana 
 
 
 # Loot found 
