@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/blackmere/"}
 ---
 
-#erukana 
+#erukana #Barony 
 
 # Baroniet Blackmere
 Main:
