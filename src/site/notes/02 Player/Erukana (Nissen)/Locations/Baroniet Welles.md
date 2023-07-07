@@ -5,8 +5,8 @@
 #erukana #Barony 
 
 # Welles
-Main:
-Related: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]
+Main:[[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]
+Related:  [[02 Player/Erukana (Nissen)/Locations/skik og kultur i Welles\|skik og kultur i Welles]] 
 
 Baroniet Welles
 
