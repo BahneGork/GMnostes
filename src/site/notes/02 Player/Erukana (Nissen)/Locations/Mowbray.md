@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/mowbray/"}
 ---
 
-#erukana 
+#erukana #Barony 
 
 # Baroniet Mowbray
 Main:
