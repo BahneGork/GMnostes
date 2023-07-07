@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/mission-board/"}
 ---
 
-#missions #playernotes #erukana 
+#erukanamissions #playernotes #erukana 
 
 Mission template: [[No Graph/Templates/Campaign/New Mission - player\|New Mission - player]]
 
