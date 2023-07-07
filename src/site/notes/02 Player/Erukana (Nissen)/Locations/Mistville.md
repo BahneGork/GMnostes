@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/mistville/","tags":["Locationsvisited"]}
 ---
 
-#village #location #[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Locationsvisited\|Locationsvisited]] #erukana 
+#village #location #[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Locationsvisited\|Locationsvisited]] #erukana #wellesbarony
+
 
 # Mistville 
 Small village in [[02 Player/Erukana (Nissen)/Locations/Welles\|Welles]] near the board of [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]].
