@@ -8,14 +8,14 @@ Mission template: [[No Graph/Templates/Campaign/New Mission - player\|New Missio
 
 # Active Missions
 
-| File                                                                                                                                          | faction         | reward         |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------- |
-| [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]] | The Queensguard | \-             |
-| [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]]                     | Vaelon Dunmere  | 20gp pr member |
+| File                                                                                                                                          | faction         | reward |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------ |
+| [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]] | The Queensguard | \-     |
 
 { .block-language-dataview}
 
 # Completed Missions 
+- [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]]
 
 { .block-language-dataview}
 
