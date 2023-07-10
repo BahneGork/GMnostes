@@ -18,6 +18,7 @@ Orkerne bliver lagt anstændigt på rækker og brændt.
 
 Der er et trækspor med menneske blod og små fod spor med klo mærker, mange, som fører væk fra skoven og ind i bakkerne. Af frygt for at der er nogen der stadig er i live og har brug for redning, fortsætter jagten på sporet hele natten.
 
+Ved en hule indgang..
 
 # NPCs 
 
