@@ -6,7 +6,7 @@
 
 # Main hub of Erukana. 
 
-[![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](Erukana.md)
+[![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](Erukana Map.md)
 
 
 
