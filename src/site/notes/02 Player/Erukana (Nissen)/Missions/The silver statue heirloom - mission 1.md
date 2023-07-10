@@ -22,15 +22,15 @@ For rejsen tilbage til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelo
 Reward:: 20gp pr member
 
 ## Location Clues
-- statue was sold in the market of [[Segrave\|Segrave]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] 
-- buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+- statue was sold in the market of [[Segrave\|Segrave]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] #erukanasecretsnclues
+- buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] #erukanasecretsnclues 
 
 ## People Clues 
-- art collector, gnome, [[Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
+- art collector, gnome, [[Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]  #erukanasecretsnclues 
 
 
 ## Objectives & Goals 
 - [x] Statue located ✅ 2023-07-04
 - [x] Statue reclaimed ✅ 2023-07-04
 	- [x] pay [[Archibald Oddsmoke\|Archibald Oddsmoke]] 
-- [ ] Statue handed off to [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
+- [x] Statue handed off to [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] ✅ 2023-07-10
