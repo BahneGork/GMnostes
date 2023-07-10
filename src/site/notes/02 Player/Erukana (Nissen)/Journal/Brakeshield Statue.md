@@ -8,4 +8,4 @@ en ca. tyve centimeter høj statue af sølv, indgraveret med et familiesymbol, d
 
 Quest objective for [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] 
 
-
+Delivered to [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] on the 12th of Flamerule 
