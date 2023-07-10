@@ -6,7 +6,7 @@
 
 # Main hub of Erukana. 
 
-[![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](Erukana Map.md)
+[![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](ErukanaMap.md)
 
 
 
@@ -17,7 +17,7 @@
 | [[02 Player/Erukana (Nissen)/Loot found\|Loot found]]                  | [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]   | [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]]                                   | [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Personal Agenda]]                   |
 |                                 | [[02 Player/Erukana (Nissen)/Erukana Tag list\|Erukana Tag list]]                 | [[02 Player/Erukana (Nissen)/Factions/Emerald enclave\|Emerald enclave]]                              | [[Clue Board-1.canvas\|Clue Board-1]] |
 |                                 | [[02 Player/Erukana (Nissen)/Setting lore/Setting lore index\|Setting lore index]]               | [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]                        |                                       |
-|                                 | [[02 Player/Erukana (Nissen)/Locations/Erukana Map\|Erukana Map]]                      |                                                  |                                       |
+|                                 | [[02 Player/Erukana (Nissen)/Locations/ErukanaMap\|ErukanaMap]]                      |                                                  |                                       |
 
 
 # Active Missions 
@@ -25,4 +25,4 @@ The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] 
 
 # Sessions 
-[[080723 - Changer of time session 1\|080723 - Changer of time session 1]]
+[[02 Player/Erukana (Nissen)/080723 - Changer of time session 1\|080723 - Changer of time session 1]]
