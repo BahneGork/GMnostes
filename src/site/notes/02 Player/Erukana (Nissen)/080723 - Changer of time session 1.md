@@ -11,7 +11,7 @@ På vej hjem til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bron
 Foran et buskads i kanten af en skov, der egner sig til et flaskehals baghold, ligger 10-20 døde Orker og en enkelt Sellsword. Manden har en hemmelig pung under armen med lidt mønter og et papir med en opgave fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. ([[Timescroll Missionen\|Timescroll Missionen]])  
 Manden bar et [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] #erukanasecretsnclues 
 
-Orkerne har primitive amuletter med en rød ulvetand. Nosul genkender dem som [[Rød tan stammen\|Rød tan stammen]], de er meget langt væk hjemmefra. #erukanasecretsnclues 
+Orkerne har primitive amuletter med en rød ulvetand. Nosul genkender dem som [[Rød tand stammen\|Rød tand stammen]], de er meget langt væk hjemmefra. #erukanasecretsnclues 
 
 Orkerne bliver lagt anstændigt på rækker og brændt.
 5 økser tages med for at sælge #erukana/lootfound 
@@ -39,8 +39,8 @@ Vi blev angrebet af en [[No Graph/5e Reference/spells/Sleep\|Sleep]], [[02 Playe
 
 Vi følte os overskygget, som stod vi under en bro, hviskeren ville have os til at fjerne [[den store stemme\|den store stemme]] og ville derefter tillade os at forlade hulerne igen.
 Hviskeren fortalte yderligere:
-- længere inde var der **[[gamle glemte dværge haller\|gamle glemte dværge haller]]**, med masser af viden.
-- [[den store stemme\|den store stemme]] havde scroll og "en anden ting i vil få brug for senere"
+- længere inde var der **[[gamle glemte dværge haller\|gamle glemte dværge haller]]**, med masser af viden. #erukanasecretsnclues 
+- [[den store stemme\|den store stemme]] havde scroll og "en anden ting i vil få brug for senere" #erukanasecretsnclues 
 
 vi aftalte at bringe [[hviskeren i mørket\|hviskeren i mørket]] [[den store stemme\|den store stemme]]. 
 
@@ -52,16 +52,17 @@ Vi fortsatte vores færd via den tunnel hvor der var et svagt violet lysskær.
 vi fandt en [[plante med blå blade\|plante med blå blade]] **(13 uses)**, som kan laves til pulp med [[jernurt\|jernurt]], som kan heale. *(Flemming har detaljerne).*
 
 Vi fortsatte længere ind i hule systemet og kom til en hule hvor den ene ende blev til behandlet/bygget vægge, med en lukket dør uden håndtag.
-Her inde stod en kobold i lilla kåbe, med opaler i sin hud/kæbe, og talte det [[sorte sprog\|sorte sprog]]. 
+Her inde stod en kobold i lilla kåbe, med opaler i sin hud/kæbe, og talte det [[sorte sprog\|sorte sprog]]. #erukanasecretsnclues 
 Winston og Clarabel bekendtgører deres tilstedeværelse overfor den *korrupteret kobold.*
 
 Kobolden forsøger at advare os om fælder, men kamp bryder ud.
 
-Da Clarabel's warhammer brækker kobolden's kæbe og nakke, begynder alle ædelstenene i dens hud at flække og den eksploderer i [[sorte flammer.\|sorte flammer.]]  Alle undtagen [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] falder bevidstløse til jorden, men med Clarabel's healer kit *(minus 3 charges)* får [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] alle stabiliseret og vi holder en **LONG REST**
+Da Clarabel's warhammer brækker kobolden's kæbe og nakke, begynder alle ædelstenene i dens hud at flække og den eksploderer i [[sorte flammer.\|sorte flammer.]]  #erukanasecretsnclues 
+Alle undtagen [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] falder bevidstløse til jorden, men med Clarabel's healer kit *(minus 3 charges)* får [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] alle stabiliseret og vi holder en **LONG REST**
 **125 xp**
 
 - Vi samlede loot fra et arbejds bord i hulen. 
-- Døren uden håndtag er forseglet med magi, kobolden prøvede muligvis at åbne den.
+- Døren uden håndtag er forseglet med magi, kobolden prøvede muligvis at åbne den. #erukanasecretsnclues 
 
 Derefter rejste vi tilbage (hjem) til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
 
@@ -69,18 +70,18 @@ Derefter rejste vi tilbage (hjem) til [[02 Player/Erukana (Nissen)/Locations/The
 
 Da vi ankommer på [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] bemærker vi 3 personer der står lidt ud:
 - en ældre herre der halter på venstre ben, rige klæder, i rustning og bevæbnet, fremstår som en veteran.
-		- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] bemærker han bærer en [[amulet af en rose ranke\|amulet af en rose ranke]].
+		- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] bemærker han bærer en [[amulet af en rose ranke\|amulet af en rose ranke]]. #erukanasecretsnclues 
 - en Elver mand i rige klæder på en lille scene der spiller musik.
 - en kvinde i en kåbe med hætten oppe, sølvern hår, skjold og sværd. 
-- en mand i kulsort rustning kommer ind og taler med [[den ældre veteran\|den ældre veteran]] på et tidspunkt og smutter igen.
+- en mand i kulsort rustning kommer ind og taler med [[den ældre veteran\|den ældre veteran]] på et tidspunkt og smutter igen. #erukanasecretsnclues 
 
 ### Debriefing
 [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] belønner os med 200gp for at overbringe ham [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]] og afslutte [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] 
-Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hentede fra [[familien Narsi\|familien Narsi]] i [[soltice\|soltice]]. 
+Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hentede fra [[familien Narsi\|familien Narsi]] i [[soltice\|soltice]].  #erukanasecretsnclues 
 - Baronen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]  er den som har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]  til  [[Timescroll Missionen\|Timescroll Missionen]] , vi beder om at mødes med [[Baron Zhaarko\|Baron Zhaarko]]  eller [[Baroni Zhaarkos udsending\|Baroni Zhaarkos udsending]]
 - vi fortæller [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] at vi ikke vil overdrage skriftrullen til baronen og at vi selv har en interesse i den. 
 - vi tilbydes 1000gp for at aflevere den til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
-- vi beder [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] om at skaffe os adgang til [[Baronesse Avalande\|Baronesse Avalande]]  i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] på en eller anden facon, da hun er den eneste han kender til som også har en tattoovering som os.
+- vi beder [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] om at skaffe os adgang til [[Baronesse Avalande\|Baronesse Avalande]]  i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] på en eller anden facon, da hun er den eneste han kender til som også har en tattoovering som os. #erukanasecretsnclues 
 
 ## Hourglass tinkering 
 Vi undersøger det mystiske timeglas som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] rodede med i hulerne. Det har safir blåt sand og ringe rundt om timeglasset der bevæger sig når [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] "aktiverer" det.
@@ -133,4 +134,5 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - [[Baronesse Avalande\|Baronesse Avalande]]  har også en blå tattoovering som resten af gruppen 
 - Kobold infused med gemstones eksploderer når den dør 
 - Der er en magisk forseglet dør ind til dværge hallerne i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
-- 
+- [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] 
+- [[rød tands klanen\|rød tands klanen]] er langt væk hjemmefra 
