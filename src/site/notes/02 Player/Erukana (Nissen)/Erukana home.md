@@ -25,4 +25,5 @@ The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] 
 
 # Sessions 
+[[02 Player/Erukana (Nissen)/130723 - Changer of time session 2\|130723 - Changer of time session 2]]
 [[02 Player/Erukana (Nissen)/080723 - Changer of time session 1\|080723 - Changer of time session 1]]
