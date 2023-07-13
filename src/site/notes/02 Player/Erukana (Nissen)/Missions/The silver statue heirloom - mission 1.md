@@ -5,7 +5,7 @@
 #erukanamission  #erukana #missiontype-retrieval
 
 # The silver statue heirloom
-**Objective::** en ca. tyve centimeter høj statue af sølv, indgraveret med et familiesymbol, der viser at statuen har tilhørt [[Brakeshield familien\|Brakeshield familien]]
+**Objective::** [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]], en ca. tyve centimeter høj statue af sølv, en bjørn med en smaragd i panden og gevirer. Indgraveret med et familiesymbol, der viser at statuen har tilhørt [[Brakeshield familien\|Brakeshield familien]]
 
 Gruppen fandt via ledetråde frem til at Statuen var gået tabt under en flytning mellem [[Pembroke\|Pembroke]] og [[Wolfenburg\|Wolfenburg]], hvor også *en af familiens døtre var omkommet under et angreb.*
 
