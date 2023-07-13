@@ -16,7 +16,7 @@ Welles er et lille baroni og holder sig primært for sig selv. Skønt de hører 
 
 RULER
 
-[[Baronesse Avalande\|Baronesse Avalande]]
+[[02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande\|Court of Baronesse Avalande]]
 
 NOTABLE LOKATIONER
 
