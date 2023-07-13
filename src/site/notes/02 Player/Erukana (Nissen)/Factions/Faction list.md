@@ -11,5 +11,7 @@
 - [[02 Player/Erukana (Nissen)/Factions/Slette folket\|Slette folket]]
 - [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]]
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
+- [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]]
+- [[02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande\|Court of Baronesse Avalande]]
 
 { .block-language-dataview}
