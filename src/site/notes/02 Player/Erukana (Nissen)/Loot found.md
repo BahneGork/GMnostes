@@ -9,7 +9,7 @@
 
 - Sort vest med sølvknapper #erukana/lootfound
 - lange støvler med høje hæle #erukana/lootfound
-- Bog #erukana/lootfound
+- [[Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound
 - 2 Scrolls  #erukana/lootfound
 - [[Silver coin of luck\|Silver coin of luck]] #erukana/lootfound
 - [[Neverending ink bottle\|Neverending ink bottle]] #erukana/lootfound
