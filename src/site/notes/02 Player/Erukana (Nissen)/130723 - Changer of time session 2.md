@@ -23,12 +23,12 @@ Pung med mønter fra kobold wizard rum:  11sp 7cp
 		- 10sp for at finde ud af om hvad der beskytter skriftrullen. 
 		- svar dagen efter 
 		- recharge healer kit - 3/10 af fuld pris 15sp
-		- jernurt - skal blandes med [[02 Player/Erukana (Nissen)/Natteblommer\|Natteblommer]] 
+		- jernurt - skal blandes med [[02 Player/Erukana (Nissen)/Journal/Natteblommer\|Natteblommer]] 
 	- Tiran dag 2 (9th of flamerule)
 		- kan ikke bryde magien 
 			- søg tårnene eller Erinborg, 4-5 dage til Erinborg 
 
-# Møde med [[02 Player/Erukana (Nissen)/Baroni Zhaarkos udsending\|Baroni Zhaarkos udsending]]
+# Møde med [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
 
 Dagsorden 15th flamerule, Marie Duvall 
 
