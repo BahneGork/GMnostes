@@ -19,8 +19,8 @@ Orkerne bliver lagt anstændigt på rækker og brændt.
 Der er et trækspor med menneske blod og små fod spor med klo mærker, mange, som fører væk fra skoven og ind i bakkerne. Af frygt for at der er nogen der stadig er i live og har brug for redning, fortsætter jagten på sporet hele natten.
 
 ## [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
-Ved en hule indgang møder vi 2 [[No Graph/5e Reference/monsters/Kobold\|Kobold]] vagter fra [[Dark Gem klanen\|Dark Gem klanen]], en bliver skudt i ryggen af [[02 Player/Erukana (Nissen)/Characters/Flemming Mountain Dwarf\|Flemming Mountain Dwarf]] da de flygter, den anden dødeligt såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] 's crossbow. 
-[[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Flemming Mountain Dwarf\|Flemming Mountain Dwarf]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
+Ved en hule indgang møder vi 2 [[No Graph/5e Reference/monsters/Kobold\|Kobold]] vagter fra [[Dark Gem klanen\|Dark Gem klanen]], en bliver skudt i ryggen af [[02 Player/Erukana (Nissen)/Characters/Vargoth\|Vargoth]] da de flygter, den anden dødeligt såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] 's crossbow. 
+[[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Vargoth\|Vargoth]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
 Vi får overbevist kolden om at den skal fortælle resten at vi er kommet for at få de mennesker tilbage som de har hentet ved de døde orker, samt deres ting da vi leder efter en meget vigtig ting [[Timescroll Missionen\|Timescroll Missionen]].
 
 Efter at have ventet 10-15min går vi ind i hulen, stopper ved koboldernes barrikader og venter endnu længere på at de kommer med de faldne mennesker, som vi nu tror er en gruppe der arbejder for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. Da de 3 lig er fremskaffet, eftersøger vi dem og finder ud af at der ikke er nogen scroll på dem. Vi beder kobolderne komme med den, men [[den store stemme\|den store stemme]] har taget den og den tør de ikke gå imod. Nogle kobolder hvisker til hinanden om de skal give os til [[hviskeren i mørket\|hviskeren i mørket]].
@@ -35,7 +35,7 @@ Vi gik ind i affaldsrummet først...
 
 1 lille hule og en stor hule forbundet som et stort rum, det lille forrest og det store bagerst. For enden af det store var der endnu en tunnel, men den var det sorteste sort vi nogensinde havde set. Indgangen til denne tunnel var dækket af tykt og stort edderkoppe spind og pupper i forskellige størrelser. Dette var en indgang til [[hviskeren i mørket\|hviskeren i mørket]]. 
 
-Vi blev angrebet af en [[No Graph/5e Reference/spells/Sleep\|Sleep]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  og [[02 Player/Erukana (Nissen)/Characters/Flemming Mountain Dwarf\|Flemming Mountain Dwarf]]  bukkede under og mens vi andre forsøgte at vække dem blev vi indhyllet i magisk mørke. Hviskeren kom ud..... 
+Vi blev angrebet af en [[No Graph/5e Reference/spells/Sleep\|Sleep]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  og [[02 Player/Erukana (Nissen)/Characters/Vargoth\|Vargoth]]  bukkede under og mens vi andre forsøgte at vække dem blev vi indhyllet i magisk mørke. Hviskeren kom ud..... 
 
 Vi følte os overskygget, som stod vi under en bro, hviskeren ville have os til at fjerne [[den store stemme\|den store stemme]] og ville derefter tillade os at forlade hulerne igen.
 Hviskeren fortalte yderligere:
@@ -78,7 +78,7 @@ Da vi ankommer på [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Br
 ### Debriefing
 [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] belønner os med 200gp for at overbringe ham [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]] og afslutte [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] 
 Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hentede fra [[familien Narsi\|familien Narsi]] i [[soltice\|soltice]].  #erukanasecretsnclues 
-- Baronen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]  er den som har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]  til  [[Timescroll Missionen\|Timescroll Missionen]] , vi beder om at mødes med [[Baron Zhaarko\|Baron Zhaarko]]  eller [[Baroni Zhaarkos udsending\|Baroni Zhaarkos udsending]]
+- Baronen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]  er den som har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]  til  [[Timescroll Missionen\|Timescroll Missionen]] , vi beder om at mødes med [[Baron Zhaarko\|Baron Zhaarko]]  eller [[02 Player/Erukana (Nissen)/Baroni Zhaarkos udsending\|Baroni Zhaarkos udsending]]
 - vi fortæller [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] at vi ikke vil overdrage skriftrullen til baronen og at vi selv har en interesse i den. 
 - vi tilbydes 1000gp for at aflevere den til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
 - vi beder [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] om at skaffe os adgang til [[Baronesse Avalande\|Baronesse Avalande]]  i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] på en eller anden facon, da hun er den eneste han kender til som også har en tattoovering som os. #erukanasecretsnclues 
@@ -115,7 +115,7 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 # Loot 
 - Sort vest med sølvknapper #erukana/lootfound 
 - lange støvler med høje hæle #erukana/lootfound
-- Bog #erukana/lootfound  
+- [[Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound  
 - 2 Scrolls  #erukana/lootfound
 - [[Silver coin of luck\|Silver coin of luck]] #erukana/lootfound
 - [[Neverending ink bottle\|Neverending ink bottle]] #erukana/lootfound
