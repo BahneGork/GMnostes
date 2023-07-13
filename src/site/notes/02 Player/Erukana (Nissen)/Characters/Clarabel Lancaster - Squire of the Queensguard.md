@@ -2,19 +2,20 @@
 {"dg-publish":true,"permalink":"/02-player/erukana-nissen/characters/clarabel-lancaster-squire-of-the-queensguard/"}
 ---
 
+
 #playercharacters #erukanapc #erukana 
 
 **Motivation: Bevise sit værd (overfor andre specifikke måske? overfor sig selv?)**
 
 # Clarabel Lancaster
- ![female warrior squire-clarabel.png|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png) 
+ ![female warrior squire-clarabel.png|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png) ![Pasted image 20230703212842.png|400](/img/user/10%20Attachments/Pasted%20image%2020230703212842.png)
  Squire of [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]], Knight in waiting 
  [[No Graph/5e Reference/Cleric\|Cleric]] of [[War Domain\|War Domain]] - [[Bahamut\|Bahamut]]
  [[No Graph/5e Reference/Human\|Human]]  
 
 
 # Ability Scores
-### Level: 1
+### Level: 2
 
 | stat | score | Mod | Proficient? | Save | ROLL|
 | ---- | ----- | --- | ----------- | ---- |---|
@@ -40,18 +41,20 @@ simple weapons, marital weapons, light armor, medium armor, heavy armor, shields
 
 - [[Warhammer\|Warhammer]]  +5  1d8+3 / 1d10+3
 	- Precise strike 1/turn (profbonus times/longrest): advantage + 1d8 dmg, charge spent on missed attack.
+		- [ ] charge 1
+		- [ ] charge 2
 	- Inspired attack: When making attack action, you can make 1 weapon attack as bonus action  (charge = wis. mod.)
 		- [ ] charge 1
 		- [ ] charge 2
-		- [ ] charge 3
 - [[spear\|spear]] 5ft. 20ft/60ft +5 1d6+3 /1d8+3 piercing
 [[No Graph/5e Reference/Spellcasting\|Spellcasting]]: [[No Graph/5e Reference/spells/Bless\|Bless]] , [[No Graph/5e Reference/spells/Cure Wounds\|Cure Wounds]] , [[No Graph/5e Reference/spells/Divine Favor\|Divine Favor]] (+1d4 dmg), [[No Graph/5e Reference/spells/Inflict Wounds\|Inflict Wounds]] , [[No Graph/5e Reference/spells/Shield of Faith\|Shield of Faith]] (+2 ac)
 cantrips: [[No Graph/5e Reference/spells/Guiding Bolt\|Guiding Bolt]] (4d6 + advantage), [[No Graph/5e Reference/spells/Mending\|Mending]] , [[No Graph/5e Reference/spells/Sacred Flame\|Sacred Flame]] 
 - [ ] slot 1
 - [ ] slot 2
+- [ ] slot 3
 
 # Defences 
-
+HP: 13
 - [[chainmail\|chainmail]]
 - [[a shield\|a shield]]
 - [[No Graph/5e Reference/spells/Shield of Faith\|Shield of Faith]]  +2 AC 10min, concentration, bonus action, 60ft
@@ -103,5 +106,5 @@ Hendes hår skifter farve efter hendes humør, alla en "mood ring".
 
 [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster DndBeyondSheet\|Clarabel Lancaster DndBeyondSheet]]
 
-![Pasted image 20230703212842.png](/img/user/10%20Attachments/Pasted%20image%2020230703212842.png)
+
 
