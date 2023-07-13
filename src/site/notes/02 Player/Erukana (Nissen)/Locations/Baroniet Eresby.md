@@ -18,7 +18,7 @@ Alligevel er området populært for folk og rejsende.
 
 RULER
 
-[[Baron Zhaarko\|Baron Zhaarko]] af Eresby
+[[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]] af Eresby
 
 NOTABLE LOKATIONER
 
@@ -26,7 +26,7 @@ NOTABLE LOKATIONER
 
 [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze keg]] (ca. 8.500 indbyggere) – En rejse kro og destination for handelsfolk på vej igennem landet. 
 Grundet kroens berømmelse er der over de sidste halvt hundrede år, flyttet folk til og opbygget en åben by. 
-[[Baron Zhaarko\|Baron Zhaarko]] har tilladt dette, skønt byens folk ikke betaler skatter til ham.
+[[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]] har tilladt dette, skønt byens folk ikke betaler skatter til ham.
 
 HANDEL OG ALLIANCER
 
