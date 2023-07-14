@@ -22,3 +22,13 @@
 
 ## The Queensguard survivors 
 - [ ] Where are the other survivors?
+
+
+# [[Baron Zhaarko\|Baron Zhaarko]] 
+- Who is Baron Zhaarko, what can we find out about him?
+- What sickness is his son afflicted by?
+- Who is [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]  and what does her title "of Miragehill" signify?
+
+
+# [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
+- 
