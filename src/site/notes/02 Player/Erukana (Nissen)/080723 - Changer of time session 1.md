@@ -113,8 +113,8 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
 
 # Loot 
-- Sort vest med sølvknapper #erukana/lootfound 
-- lange støvler med høje hæle #erukana/lootfound
+- [[Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound 
+- [[lange støvler med høje hæle \|lange støvler med høje hæle ]]#erukana/lootfound
 - [[Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound  
 - 2 Scrolls  #erukana/lootfound
 - [[Silver coin of luck\|Silver coin of luck]] #erukana/lootfound
@@ -130,8 +130,8 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 # Secrets n Clues discovered 
 - Der er gamle dværge haller længere inde i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
 - [[hviskeren i mørket\|hviskeren i mørket]] kender til dværge hallerne
-- Familien Narsi i Solstice havde timescroll og timeglasset 
-- [[Baronesse Avalande\|Baronesse Avalande]]  har også en blå tattoovering som resten af gruppen 
+- [[Familien Narsi\|Familien Narsi]] i [[Solstice\|Solstice]] havde timescroll og timeglasset 
+- [[Baronesse Avalande\|Baronesse Avalande]]  har også en [[blå tattoovering\|blå tattoovering]] som resten af gruppen 
 - Kobold infused med gemstones eksploderer når den dør 
 - Der er en magisk forseglet dør ind til dværge hallerne i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
 - [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] 
