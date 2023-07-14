@@ -35,9 +35,14 @@ Dagsorden 15th flamerule, Marie Duvall
 1. Hvorfor leder baronen efter de her ting? 
 	1. Motiv? vil bruge [[timeglasset\|timeglasset]] til at kurere sin syge søn 
 2. vil vi skille os af med skrift rullen? 
-	1. vi vil være tilstede når skritrulle og selv læse den.
-3. vil vi skille os af med [[timeglasset\|timeglasset]] ? Nej. 
-4. vi tilbød at være sammen om at løse op for skriftrullen og bruge genstanden til at hjælpe den syge søn. 
+	1. vi vil være tilstede når skritrulle og selv læse den. 
+		1. Marie mener baronen siger nej.
+3. vil vi skille os af med [[timeglasset\|timeglasset]] ? Nej, ikke før vi ved hvilke konsekvenser det har at bruge genstanden.
+4. vi tilbød at være sammen om at løse op for skriftrullen og bruge genstanden til at hjælpe den syge søn.
+	1. Marie mener baronen siger nej.
+
+# Next action 
+Få en opgave af [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] så vi har noget at lave på vej ned til [[Baronesse Avalande\|Baronesse Avalande]] 
 
 # Nede i krostuen igen 
 
