@@ -7,8 +7,8 @@
 
 # Loot found 
 
-- Sort vest med sølvknapper #erukana/lootfound
-- lange støvler med høje hæle #erukana/lootfound
+- [[Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound
+- [[lange støvler med høje hæle \|lange støvler med høje hæle ]]#erukana/lootfound
 - [[Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound
 - 2 Scrolls  #erukana/lootfound
 - [[Silver coin of luck\|Silver coin of luck]] #erukana/lootfound
