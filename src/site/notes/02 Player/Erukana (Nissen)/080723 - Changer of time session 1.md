@@ -8,7 +8,7 @@
 På vej hjem til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] fra [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] beslutter gruppen sig for at søge mod en røgsøjle i horisonten for læ for natten. Men kort efter at de har vendt snuden vestpå ser de en flok fugle kredse og sender [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] afsted for at se det an. 
 
 ## Fallen ambush 
-Foran et buskads i kanten af en skov, der egner sig til et flaskehals baghold, ligger 10-20 døde Orker og en enkelt Sellsword. Manden har en hemmelig pung under armen med lidt mønter og et papir med en opgave fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. ([[Timescroll Missionen\|Timescroll Missionen]])  
+Foran et buskads i kanten af en skov, der egner sig til et flaskehals baghold, ligger 17 døde Orker og en enkelt Sellsword. Manden har en hemmelig pung under armen med lidt mønter og et papir med en opgave fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. ([[Timescroll Missionen\|Timescroll Missionen]])  
 Manden bar et [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] #erukanasecretsnclues 
 
 Orkerne har primitive amuletter med en rød ulvetand. [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] genkender dem som [[Rød tand stammen\|Rød tand stammen]], de er meget langt væk hjemmefra. #erukanasecretsnclues 
@@ -23,7 +23,7 @@ Ved en hule indgang møder vi 2 [[No Graph/5e Reference/monsters/Kobold\|Kobold]
 [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
 Vi får overbevist kolden om at den skal fortælle resten at vi er kommet for at få de mennesker tilbage som de har hentet ved de døde orker, samt deres ting da vi leder efter en meget vigtig ting [[Timescroll Missionen\|Timescroll Missionen]].
 
-Efter at have ventet 10-15min går vi ind i hulen, stopper ved koboldernes barrikader og venter endnu længere på at de kommer med de faldne mennesker, som vi nu tror er en gruppe der arbejder for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. Da de 3 lig er fremskaffet, eftersøger vi dem og finder ud af at der ikke er nogen scroll på dem. Vi beder kobolderne komme med den, men [[den store stemme\|den store stemme]] har taget den og den tør de ikke gå imod. Nogle kobolder hvisker til hinanden om de skal give os til [[hviskeren i mørket\|hviskeren i mørket]].
+Efter at have ventet 10-15min går vi ind i hulen, stopper ved koboldernes barrikader og venter endnu længere på at de kommer med de faldne mennesker, som vi nu tror er en gruppe der arbejder for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. Da de 3 lig er fremskaffet, eftersøger vi dem og finder ud af at der ikke er nogen scroll på dem. Vi beder kobolderne komme med den, men [[den store stemme\|den store stemme]] har taget den og den tør de ikke gå imod. Nogle kobolder hvisker til hinanden om de skal give os til [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]].
 
 [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  intimederer kobolderne, uden trusler og [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] ytre til sidst "bring os skriftrullen eller vi må tage den med magt", inden længe ligger der 8 døde kobolder. Clarabel's hår skifter til rødt i kampens hede.
 
@@ -33,7 +33,7 @@ Vi gik ind i affaldsrummet først...
 
 ### Affaldsrummet
 
-1 lille hule og en stor hule forbundet som et stort rum, det lille forrest og det store bagerst. For enden af det store var der endnu en tunnel, men den var det sorteste sort vi nogensinde havde set. Indgangen til denne tunnel var dækket af tykt og stort edderkoppe spind og pupper i forskellige størrelser. Dette var en indgang til [[hviskeren i mørket\|hviskeren i mørket]]. 
+1 lille hule og en stor hule forbundet som et stort rum, det lille forrest og det store bagerst. For enden af det store var der endnu en tunnel, men den var det sorteste sort vi nogensinde havde set. Indgangen til denne tunnel var dækket af tykt og stort edderkoppe spind og pupper i forskellige størrelser. Dette var en indgang til [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]]. 
 
 Vi blev angrebet af en [[No Graph/5e Reference/spells/Sleep\|Sleep]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]  bukkede under og mens vi andre forsøgte at vække dem blev vi indhyllet i magisk mørke. Hviskeren kom ud..... 
 
@@ -42,7 +42,7 @@ Hviskeren fortalte yderligere:
 - længere inde var der **[[gamle glemte dværge haller\|gamle glemte dværge haller]]**, med masser af viden. #erukanasecretsnclues 
 - [[den store stemme\|den store stemme]] havde scroll og "en anden ting i vil få brug for senere" #erukanasecretsnclues 
 
-vi aftalte at bringe [[hviskeren i mørket\|hviskeren i mørket]] [[den store stemme\|den store stemme]]. 
+vi aftalte at bringe [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]], [[den store stemme\|den store stemme]]. 
 
 **SHORT REST**
 
@@ -98,13 +98,13 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - [[den ældre veteran\|den ældre veteran]] 
 - kulsort rustnings klædt mand 
 - Elver musiker 
-- [[hviskeren i mørket\|hviskeren i mørket]] 
+- [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] 
 - [[den store stemme\|den store stemme]] 
 
 # Monsters 
 - [[dark gem kobolder\|dark gem kobolder]]
 - korrupteret kobold 
-- [[hviskeren i mørket\|hviskeren i mørket]] 
+- [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] 
 - rødtands orker 
 
 # Locations 
@@ -129,7 +129,7 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 
 # Secrets n Clues discovered 
 - Der er gamle dværge haller længere inde i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
-- [[hviskeren i mørket\|hviskeren i mørket]] kender til dværge hallerne
+- [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] kender til dværge hallerne
 - [[Familien Narsi\|Familien Narsi]] i [[Solstice\|Solstice]] havde timescroll og timeglasset 
 - [[Baronesse Avalande\|Baronesse Avalande]]  har også en [[blå tattoovering\|blå tattoovering]] som resten af gruppen 
 - Kobold infused med gemstones eksploderer når den dør 
