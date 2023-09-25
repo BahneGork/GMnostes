@@ -5,7 +5,7 @@
 #chronicles #book1 #story 
 # The Shadow Company book 1 - Red hand of doom.
 ## Oozebusters and Boss kiters
-1. Goblin huler tæt på [[01 GM/The Arendur Rising Campaign/14 Locations/Ursia/Arendur/Arendur\|Arendur]]. 
+1. Goblin huler tæt på [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/14 Locations/Ursia/Arendur/Arendur\|Arendur]]. 
 2. En gruppe lejesoldater - Blackdaggers fra [[Kvalec\|Kvalec]], var hyret af en jenkins til at hente en [[statue-idol\|statue-idol]] i skoven. De havde betalt en lokal bondedreng til at gøre det istedet. Alle døde.
 3. [[Goblin boss Krazkar\|Goblin boss Krazkar]] besejret, [[Goblin Warlock Moogzt\|Goblin Warlock Moogzt]] undslap.
 4. Røde hånd gobliner, samme hær som invaderede dværge miner for 5 år siden.
@@ -15,8 +15,8 @@
 8. En lokal ranger kvinde var blevet ofret, hendes journal indeholdt hendes opdagelser på hendes færd rundt omkring. En af dem var en svævende opal obelisk med lilla energi, den var vokset mellem 2 besøg. En anden medrejsende rørte ved stenen og blev opslugt af stenen. Alle indikationer om hvordan man finder stenen er blevet streget over. 
 9. Ranger kvinden havde en tattoovering af en oprejst bjørn på sin ryg og en ottekantet træmønt.
 10. [[01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Active mission - misante zardanti\|Active mission - misante zardanti]] - fugle kranie halskæde fundet i hulerne.
-11. [[01 GM/The Arendur Rising Campaign/04 Factions/House Zardanti\|House Zardanti]] er et minor nobel hus.
-12. Guilden [[01 GM/The Arendur Rising Campaign/04 Factions/The Fulcrom\|The Fulcrom]] hyrer [[01 GM/The Arendur Rising Campaign/03 People/Mellik\|Mellik]]'s hold til at undersøge Gobliner sydpå.
+11. [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/04 Factions/House Zardanti\|House Zardanti]] er et minor nobel hus.
+12. Guilden [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/04 Factions/The Fulcrom\|The Fulcrom]] hyrer [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Mellik\|Mellik]]'s hold til at undersøge Gobliner sydpå.
 13. På vej gennem underdark, redder gruppen dværgen [[01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Oxbar\|Oxbar]] og hans underjordiske ekspedition.
 14. I [[det sunkne citadel\|det sunkne citadel]], finder gruppen en stor gruppering af røde hånd gobliner under [[Warchief Ratbag\|Warchief Ratbag]].
 15. en elver troldkvinde, [[01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Sunkiller\|Sunkiller]], opholder sig med goblinerne og afslører at [[Assumi\|Assumi]] faktisk er en halv elver.
@@ -24,7 +24,7 @@
 17. I bunden af citadellet stod et [[dødt træ\|dødt træ]] med en sø af blod og warlock goblins var i færd med at åbne en portal til [[feydark\|feydark]].
 18. Besatte eller hjernevasket eventyrer kæmpede ved siden af goblinerne, Assumi genkendte [[01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Sharwyn\|Sharwyn]] som studerede magi sammen med hende i Arendur.
 19. [[Nathaniel\|Nathaniel]] udslettede det døde træ med en phoenix fjerpen, men gik selv op i flammer. 
-20. Op ad asken steg [[01 GM/The Arendur Rising Campaign/03 People/Playercharacters/Nat\|Nat]], en yngre udgave fra en anden tidslinie.
+20. Op ad asken steg [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Playercharacters/Nat\|Nat]], en yngre udgave fra en anden tidslinie.
 21. Ud fra alle [[dokumenterne fra Ratbag\|dokumenterne fra Ratbag]], drog gruppen til [[skullgorge\|skullgorge]] broen.
 22. I en kamp mod gobliner og den grønne drage som Meepo vogtede, ødelagde gruppen broen og forsinkede den røde hånds horde i flere dage.
 23. På vej til Teslions kæmpede gruppen mod en hydra og fandt udstyr fra en Steelknight.
@@ -33,7 +33,7 @@
 26. Den sorte lilje orden er ikke vellidt. 
 27. Unge Nat bliver oppasset af Måneridderen og hendes 8 håndlagere og får lidt øretæver.
 28. Lady dagger kidnappede Pinna og Siertianna fra Teslions, i håb om at lokke de nytilkomne helte ned til hendes ritual så hun kunne ofre dem og hidkalde Blod Sønnen, Blod kongen. En champion af Erythnul god of war-slaughter & chaos. Dagger var åbenbart klar over at der var en goblin hær på vej og mente at Blod kongen kunne stå imod dem og bagefter kræve sit oprindelige krav på erobring. Hun spekulerede i forvejen om de 2 wizards i Teslions kunne bruges til ritualet, men da eventyr gruppen kom og erklærede at de bl.a. havde besejret en drage mente hun at hendes ofring ville være endnu mere sikker hvis hun kunne ofre alle 6.
-29. I hulerne møder gruppen også [[01 GM/The Arendur Rising Campaign/03 People/Bayard - spy of  'the eyes'\|Bayard - spy of  'the eyes']], [[01 GM/The Arendur Rising Campaign/03 People/Aurilia\|Aurilia]] og [["Goblin"\|"Goblin"]] blod jægeren.
+29. I hulerne møder gruppen også [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Bayard - spy of  'the eyes'\|Bayard - spy of  'the eyes']], [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Aurilia\|Aurilia]] og [["Goblin"\|"Goblin"]] blod jægeren.
 30. En masse købmands karavaners loot bliver også fundet.
 31. I en sprække, under lady daggers huler var en vault med en zombie beholder. Døren indtil hoved kammeret var stadig lukket og forseglet. 
 32. På døren var der bl.a. teksten "**Ved Kiri-Joliths kraft og Helgen Worlocks autoritet skal denne boks/vault forblive låst. Lad begge deres hellige vrede nedslå enhver der fjerner ondskaben der her er gemt væk fra verdenen.**"
@@ -63,7 +63,7 @@
 56. Senere på vejen træder gruppen tilbage i tiden til et overfald på en tidligere hertug, den sorte ørn og redder ham fra at dø. Hertugen giver dem en ring som forbliver i deres varetægt efter de vender tilbage. Mausoleummet har ændret sig og har nu 2 gravsteder og er velholdt og pænt.
 57. Ikke langt derfra er en landevejs kro Fallen star, hvor en hvid Owlbear med vinger er staldet op. Soldater i sort og rødt med sort klæde for næse og mund står udenfor. Gruppen overfaldes af teleporterende monsters og unge nat løber ind i det største af dem og aktiverer en genstand mens han råber at gruppen skal få troldmanden Anton til Blackspear.
 58. Anton og Frekka slår følge med gruppen.
-59. En elver pige bekender sig som "ejer" af owlbearen, hun sidder sammen med en halfling dame og hun leder efter druiden fra Teslions - [[01 GM/The Arendur Rising Campaign/03 People/Avarthel\|Avarthel]] 
+59. En elver pige bekender sig som "ejer" af owlbearen, hun sidder sammen med en halfling dame og hun leder efter druiden fra Teslions - [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Avarthel\|Avarthel]] 
 60. En ridder under Regent Hexton endevender kroen i sin jagt på Urvæket et tyve laug. Asketræ ridderen. Sir Claudio.
 61. Gruppen rejser videre til Delios, på vejen passerer de Click Claw Watch, et fort bygget tilbage fra Ork krigen som beskytter vejen igennem bakkelandet op mod Delios.
 62. I Delios er der festival, alle der er noget i området undtagen Regent Hexton, deltager. 
@@ -80,12 +80,12 @@
 73. Raven sword completes the Ritual of Law, Pearl fortress Crumbles.
 74. Efterladt af Perle borgen, ligger 2 skikkelser på jorden, den ene er Pippa.
 75. En kæmpe orm bryder op ad jorden og angriber gruppen.
-76. [[01 GM/The Arendur Rising Campaign/03 People/Playercharacters/Cedric Belmote\|cedric]] tager Ravne sværdet
+76. [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Playercharacters/Cedric Belmote\|cedric]] tager Ravne sværdet
 77. Skikkelsen der ikke var [[Pippa\|Pippa]] rejser sig, viser sig at være en kvinde og hidkalder sit våben og deltager i kampen mod ormen.
 78. Undervejs i kampen hidkalder kvinden en djævel, en bone devil.
-79. Da ormen er død, fortsætter Brumor, Frekka og Anton ved at angribe den hidkaldte djævel. Kvinden overtales til sidst af [[01 GM/The Arendur Rising Campaign/03 People/Playercharacters/Cedric Belmote\|cedric]] til at bortmane djævelen, men Frekka hopper våben først i fjæset på hende.
+79. Da ormen er død, fortsætter Brumor, Frekka og Anton ved at angribe den hidkaldte djævel. Kvinden overtales til sidst af [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Playercharacters/Cedric Belmote\|cedric]] til at bortmane djævelen, men Frekka hopper våben først i fjæset på hende.
 80. Da støvet har lagt sig, forlader Frekka og Brumor stedet for at finde en vej hjem.
-81. Kvinden præsentere sig som [[01 GM/The Arendur Rising Campaign/03 People/Lady Dazran\|Lady Dazran]]  og hun kender til en måde at komme hjem på. De skal finde [[01 GM/The Arendur Rising Campaign/Prep next/12 Adventures & Events/Raven kings sword/The vortex portal beast of Rirroneth\|The vortex portal beast of Rirroneth]]
+81. Kvinden præsentere sig som [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Lady Dazran\|Lady Dazran]]  og hun kender til en måde at komme hjem på. De skal finde [[01 GM/The Arendur Rising Campaign/Prep next/12 Adventures & Events/Raven kings sword/The vortex portal beast of Rirroneth\|The vortex portal beast of Rirroneth]]
 82. Lady Dazran er en Ridder af helvede, hun er Lady af tittel og betragter sig selv som adelig og lawful.
 83. Cedric går i total blodrus under kampen med portal bæstet, det antages at være det nye sværd - Ravne kongens sværd - der er skyld i det.
 84. En portal hjem åbnes og gruppen træder igennem. 
