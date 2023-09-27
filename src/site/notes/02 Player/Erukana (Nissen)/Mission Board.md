@@ -15,7 +15,9 @@ Mission template: [[No Graph/Templates/Campaign/New Mission - player\|New Missio
 { .block-language-dataview}
 
 # Completed Missions 
-- [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]]
+| File                                                                                                                      | faction        | reward |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ |
+| [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] | Vaelon Dunmere | 200gp  |
 
 { .block-language-dataview}
 
