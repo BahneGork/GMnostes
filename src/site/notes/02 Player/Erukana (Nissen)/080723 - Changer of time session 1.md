@@ -11,7 +11,7 @@ På vej hjem til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bron
 Foran et buskads i kanten af en skov, der egner sig til et flaskehals baghold, ligger 17 døde Orker og en enkelt Sellsword. Manden har en hemmelig pung under armen med lidt mønter og et papir med en opgave fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. ([[Timescroll Missionen\|Timescroll Missionen]])  
 Manden bar et [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] #erukanasecretsnclues 
 
-Orkerne har primitive amuletter med en rød ulvetand. [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] genkender dem som [[Rød tand stammen\|Rød tand stammen]], de er meget langt væk hjemmefra. #erukanasecretsnclues 
+Orkerne har primitive amuletter med en rød ulvetand. [[02 Player/Erukana (Nissen)/Characters/Nusul\|Nusul]] genkender dem som [[Rød tand stammen\|Rød tand stammen]], de er meget langt væk hjemmefra. #erukanasecretsnclues 
 
 Orkerne bliver lagt anstændigt på rækker og brændt.
 5 økser tages med for at sælge #erukana/lootfound 
@@ -19,8 +19,8 @@ Orkerne bliver lagt anstændigt på rækker og brændt.
 Der er et trækspor med menneske blod og små fod spor med klo mærker, mange, som fører væk fra skoven og ind i bakkerne. Af frygt for at der er nogen der stadig er i live og har brug for redning, fortsætter jagten på sporet hele natten.
 
 ## [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
-Ved en hule indgang møder vi 2 [[No Graph/5e Reference/monsters/Kobold\|Kobold]] vagter fra [[Dark Gem klanen\|Dark Gem klanen]], en bliver skudt i ryggen af [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] da de flygter, den anden dødeligt såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] 's crossbow. 
-[[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
+Ved en hule indgang møder vi 2 [[No Graph/5e Reference/monsters/Kobold\|Kobold]] vagter fra [[Dark Gem klanen\|Dark Gem klanen]], en bliver skudt i ryggen af [[02 Player/Erukana (Nissen)/Characters/Nusul\|Nusul]] da de flygter, den anden dødeligt såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] 's crossbow. 
+[[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Nusul\|Nusul]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
 Vi får overbevist kolden om at den skal fortælle resten at vi er kommet for at få de mennesker tilbage som de har hentet ved de døde orker, samt deres ting da vi leder efter en meget vigtig ting [[Timescroll Missionen\|Timescroll Missionen]].
 
 Efter at have ventet 10-15min går vi ind i hulen, stopper ved koboldernes barrikader og venter endnu længere på at de kommer med de faldne mennesker, som vi nu tror er en gruppe der arbejder for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. Da de 3 lig er fremskaffet, eftersøger vi dem og finder ud af at der ikke er nogen scroll på dem. Vi beder kobolderne komme med den, men [[den store stemme\|den store stemme]] har taget den og den tør de ikke gå imod. Nogle kobolder hvisker til hinanden om de skal give os til [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]].
@@ -35,7 +35,7 @@ Vi gik ind i affaldsrummet først...
 
 1 lille hule og en stor hule forbundet som et stort rum, det lille forrest og det store bagerst. For enden af det store var der endnu en tunnel, men den var det sorteste sort vi nogensinde havde set. Indgangen til denne tunnel var dækket af tykt og stort edderkoppe spind og pupper i forskellige størrelser. Dette var en indgang til [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]]. 
 
-Vi blev angrebet af en [[No Graph/5e Reference/spells/Sleep\|Sleep]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]  bukkede under og mens vi andre forsøgte at vække dem blev vi indhyllet i magisk mørke. Hviskeren kom ud..... 
+Vi blev angrebet af en [[No Graph/5e Reference/spells/Sleep\|Sleep]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  og [[02 Player/Erukana (Nissen)/Characters/Nusul\|Nusul]]  bukkede under og mens vi andre forsøgte at vække dem blev vi indhyllet i magisk mørke. Hviskeren kom ud..... 
 
 Vi følte os overskygget, som stod vi under en bro, hviskeren ville have os til at fjerne [[den store stemme\|den store stemme]] og ville derefter tillade os at forlade hulerne igen.
 Hviskeren fortalte yderligere:
@@ -85,7 +85,7 @@ Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hen
 
 ## Hourglass tinkering 
 Vi undersøger det mystiske timeglas som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] rodede med i hulerne. Det har safir blåt sand og ringe rundt om timeglasset der bevæger sig når [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] "aktiverer" det.
-Vi finder ud af at vi alle 4 har en safir blå tattoovering, [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] lyser op og bliver varm når han aktiverer [[timeglasset\|timeglasset]].
+Vi finder ud af at vi alle 4 har en safir blå tattoovering, [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] lyser op og bliver varm når han aktiverer [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]].
 Da Winston rører ved det sendes vi en time tilbage i tiden, men ikke alt er som det var før. 
 Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi kendte til før.
 - [[den ældre veteran\|den ældre veteran]]  halter nu på højre ben.
@@ -113,14 +113,14 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
 
 # Loot 
-- [[Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound 
+- [[02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound 
 - [[lange støvler med høje hæle \|lange støvler med høje hæle ]]#erukana/lootfound
-- [[Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound  
+- [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound  
 - 2 Scrolls  #erukana/lootfound
-- [[Silver coin of luck\|Silver coin of luck]] #erukana/lootfound
-- [[Neverending ink bottle\|Neverending ink bottle]] #erukana/lootfound
-- [[timeglasset\|timeglasset]]  #erukana/lootfound
-- [[Timescroll\|Timescroll]]  #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/Silver coin of luck\|Silver coin of luck]] #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]] #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]]  #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]  #erukana/lootfound
 - 1 Perle (100gp) #erukana/lootfound
 - Pung med mønter #erukana/lootfound
 - 3 røde potions  #erukana/lootfound
