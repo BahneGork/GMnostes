@@ -19,7 +19,7 @@ De to dage gik og handlen med Hr. Oddsmoke gik igennem. I bemærkede at Gnomen v
 
 For rejsen tilbage til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon]] besluttede I jer for at drage nord over bakkerne, da det ville spare jer for en tre-fire dage.
 
-Reward:: 20gp pr member
+Reward:: 200gp
 
 ## Location Clues
 - statue was sold in the market of [[Segrave\|Segrave]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] #erukanasecretsnclues
