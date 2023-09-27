@@ -33,11 +33,11 @@ Pung med mønter fra kobold wizard rum:  11sp 7cp
 Dagsorden 15th flamerule, Marie Duvall 
 
 1. Hvorfor leder baronen efter de her ting? 
-	1. Motiv? vil bruge [[timeglasset\|timeglasset]] til at kurere sin syge søn 
+	1. Motiv? vil bruge [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]] til at kurere sin syge søn 
 2. vil vi skille os af med skrift rullen? 
 	1. vi vil være tilstede når skritrulle og selv læse den. 
 		1. Marie mener baronen siger nej.
-3. vil vi skille os af med [[timeglasset\|timeglasset]] ? Nej, ikke før vi ved hvilke konsekvenser det har at bruge genstanden.
+3. vil vi skille os af med [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]] ? Nej, ikke før vi ved hvilke konsekvenser det har at bruge genstanden.
 4. vi tilbød at være sammen om at løse op for skriftrullen og bruge genstanden til at hjælpe den syge søn.
 	1. Marie mener baronen siger nej.
 
