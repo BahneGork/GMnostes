@@ -47,8 +47,7 @@ simple weapons, marital weapons, light armor, medium armor, heavy armor, shields
 		- [ ] charge 1
 		- [ ] charge 2
 - [[spear\|spear]] 5ft. 20ft/60ft +5 1d6+3 /1d8+3 piercing
-[[No Graph/5e Reference/Spellcasting\|Spellcasting]]: [[No Graph/5e Reference/spells/Bless\|Bless]] , [[No Graph/5e Reference/spells/Cure Wounds\|Cure Wounds]] , [[No Graph/5e Reference/spells/Divine Favor\|Divine Favor]] (+1d4 dmg), [[No Graph/5e Reference/spells/Inflict Wounds\|Inflict Wounds]] , [[No Graph/5e Reference/spells/Shield of Faith\|Shield of Faith]] (+2 ac)
-cantrips: [[No Graph/5e Reference/spells/Guiding Bolt\|Guiding Bolt]] (4d6 + advantage), [[No Graph/5e Reference/spells/Mending\|Mending]] , [[No Graph/5e Reference/spells/Sacred Flame\|Sacred Flame]] 
+[[No Graph/5e Reference/Spellcasting\|Spellcasting]]: [[02 Player/Erukana (Nissen)/Characters/Cleric spells\|Cleric spells]]  
 - [ ] slot 1
 - [ ] slot 2
 - [ ] slot 3
