@@ -11,8 +11,8 @@
 - [[02 Player/Erukana (Nissen)/Setting lore/Deities of Ceynor\|Deities of Ceynor]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Erukana - Kingdom\|Erukana - Kingdom]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Game Planning\|Game Planning]]
-- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Queen Neferata]]
+- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
 - [[02 Player/Erukana (Nissen)/Setting lore/The Undead and the populace view\|The Undead and the populace view]]
 
 { .block-language-dataview}
