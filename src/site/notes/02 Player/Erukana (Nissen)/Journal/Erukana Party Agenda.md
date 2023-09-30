@@ -8,9 +8,13 @@
 
 ## [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
 - [ ] Få en opgave af [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
+- [ ] Se om vi kan finde landkort til vores rejse 
+- [ ] skaffe forsyninger til turen 
+- [ ] Be til vores guder om sikker rejse
+- [ ] 
 
 ## Next action 
-- [ ] Rejse til [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] og vente på [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] får skaffet os adgang til [[Baronesse Avalande\|Baronesse Avalande]] 
+- [ ] Rejse til Byen [[Coleville\|Coleville]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] og finde vej til [[Baronesse Avalande\|Baronesse Avalande]] 
 - [ ] udføre evt. opgave for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
 
 
