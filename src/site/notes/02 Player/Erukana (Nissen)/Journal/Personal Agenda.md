@@ -7,14 +7,10 @@
 # Personal Todo list
 
 ## Next Actions 
-- [ ] Forlad [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] og tag til [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
-
-
-## Waiting For
-- [ ] Nyt [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] job i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
 - [ ] 
 
-
+## Waiting For
+- [ ] træne scimitar brug for at opnå Defense bonus 
 
 # Completed
 - [x] Get back to [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] with the [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Silver statuette]] ✅ 2023-07-14
