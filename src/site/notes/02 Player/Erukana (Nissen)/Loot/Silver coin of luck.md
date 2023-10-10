@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/loot/silver-coin-of-luck/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Silver coin of luck/"}
 ---
 
-#erukana #erukanaloot 
+#erukana #erukanaloot #vargoth 
 
 # Silvercoin of luck 
 
