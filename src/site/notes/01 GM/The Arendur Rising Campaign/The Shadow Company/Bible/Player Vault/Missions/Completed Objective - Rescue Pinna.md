@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-gm/the-arendur-rising-campaign/the-shadow-company/bible/player-vault/missions/completed-objective-rescue-pinna/","title":"Completed Objective - Rescue Pinna"}
+{"dg-publish":true,"permalink":"/01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Completed Objective - Rescue Pinna/","title":"Completed Objective - Rescue Pinna"}
 ---
 
 #completed #objective #pinna #ladydagger
