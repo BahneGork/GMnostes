@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/loot/lange-stovler-med-hoje-haele/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle/"}
 ---
 
 #erukana #erukanaloot 
