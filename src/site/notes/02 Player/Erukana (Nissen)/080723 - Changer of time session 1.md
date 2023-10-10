@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/080723-changer-of-time-session-1/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/080723 - Changer of time session 1/"}
 ---
 
 #erukana #erukanasessionlog 
@@ -11,7 +11,7 @@ På vej hjem til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bron
 Foran et buskads i kanten af en skov, der egner sig til et flaskehals baghold, ligger 17 døde Orker og en enkelt Sellsword. Manden har en hemmelig pung under armen med lidt mønter og et papir med en opgave fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. ([[Timescroll Missionen\|Timescroll Missionen]])  
 Manden bar et [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] #erukanasecretsnclues 
 
-Orkerne har primitive amuletter med en rød ulvetand. [[02 Player/Erukana (Nissen)/Characters/Nusul\|Nusul]] genkender dem som [[Rød tand stammen\|Rød tand stammen]], de er meget langt væk hjemmefra. #erukanasecretsnclues 
+Orkerne har primitive amuletter med en rød ulvetand. [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] genkender dem som [[02 Player/Erukana (Nissen)/Factions/Rød tand stammen\|Rød tand stammen]], de er meget langt væk hjemmefra. #erukanasecretsnclues 
 
 Orkerne bliver lagt anstændigt på rækker og brændt.
 5 økser tages med for at sælge #erukana/lootfound 
@@ -19,8 +19,8 @@ Orkerne bliver lagt anstændigt på rækker og brændt.
 Der er et trækspor med menneske blod og små fod spor med klo mærker, mange, som fører væk fra skoven og ind i bakkerne. Af frygt for at der er nogen der stadig er i live og har brug for redning, fortsætter jagten på sporet hele natten.
 
 ## [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
-Ved en hule indgang møder vi 2 [[No Graph/5e Reference/monsters/Kobold\|Kobold]] vagter fra [[Dark Gem klanen\|Dark Gem klanen]], en bliver skudt i ryggen af [[02 Player/Erukana (Nissen)/Characters/Nusul\|Nusul]] da de flygter, den anden dødeligt såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] 's crossbow. 
-[[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Nusul\|Nusul]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
+Ved en hule indgang møder vi 2 [[No Graph/5e Reference/monsters/Kobold\|Kobold]] vagter fra [[Dark Gem klanen\|Dark Gem klanen]], en bliver skudt i ryggen af [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] da de flygter, den anden dødeligt såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] 's crossbow. 
+[[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
 Vi får overbevist kolden om at den skal fortælle resten at vi er kommet for at få de mennesker tilbage som de har hentet ved de døde orker, samt deres ting da vi leder efter en meget vigtig ting [[Timescroll Missionen\|Timescroll Missionen]].
 
 Efter at have ventet 10-15min går vi ind i hulen, stopper ved koboldernes barrikader og venter endnu længere på at de kommer med de faldne mennesker, som vi nu tror er en gruppe der arbejder for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. Da de 3 lig er fremskaffet, eftersøger vi dem og finder ud af at der ikke er nogen scroll på dem. Vi beder kobolderne komme med den, men [[den store stemme\|den store stemme]] har taget den og den tør de ikke gå imod. Nogle kobolder hvisker til hinanden om de skal give os til [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]].
@@ -35,7 +35,7 @@ Vi gik ind i affaldsrummet først...
 
 1 lille hule og en stor hule forbundet som et stort rum, det lille forrest og det store bagerst. For enden af det store var der endnu en tunnel, men den var det sorteste sort vi nogensinde havde set. Indgangen til denne tunnel var dækket af tykt og stort edderkoppe spind og pupper i forskellige størrelser. Dette var en indgang til [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]]. 
 
-Vi blev angrebet af en [[No Graph/5e Reference/spells/Sleep\|Sleep]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  og [[02 Player/Erukana (Nissen)/Characters/Nusul\|Nusul]]  bukkede under og mens vi andre forsøgte at vække dem blev vi indhyllet i magisk mørke. Hviskeren kom ud..... 
+Vi blev angrebet af en [[No Graph/5e Reference/spells/Sleep\|Sleep]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]  bukkede under og mens vi andre forsøgte at vække dem blev vi indhyllet i magisk mørke. Hviskeren kom ud..... 
 
 Vi følte os overskygget, som stod vi under en bro, hviskeren ville have os til at fjerne [[den store stemme\|den store stemme]] og ville derefter tillade os at forlade hulerne igen.
 Hviskeren fortalte yderligere:
