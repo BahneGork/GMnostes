@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/skik-og-kultur-i-valence-og-blackmere-baronierne/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Skik og kultur i Valence og Blackmere baronierne/"}
 ---
 
 #erukana #valence #blackmere #people 
