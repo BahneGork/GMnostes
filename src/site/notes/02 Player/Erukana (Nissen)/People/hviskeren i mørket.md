@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/people/hviskeren-i-morket/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/hviskeren i mørket/"}
 ---
 
 #erukana #erukana/monster #erukana/npc 
