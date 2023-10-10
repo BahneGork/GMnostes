@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/setting-lore/erukana-kingdom/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Erukana - Kingdom/"}
 ---
 
 #erukana #kingdom 
