@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/loot/bog-med-sort-sprog/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Bog med sort sprog/"}
 ---
 
 #erukana #erukanaloot 
