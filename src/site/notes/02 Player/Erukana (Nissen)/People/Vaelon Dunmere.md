@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/people/vaelon-dunmere/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vaelon Dunmere/"}
 ---
 
 #npc #questgiver #erukana #thebronzekeg
