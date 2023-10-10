@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/journal/samtale-med-silvara-dawnspire-knights-ab-errants/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Samtale med Silvara Dawnspire -Knights ab-errants/"}
 ---
 
 #erukana #playernotes #erukana-rumours #pregame-erukana
