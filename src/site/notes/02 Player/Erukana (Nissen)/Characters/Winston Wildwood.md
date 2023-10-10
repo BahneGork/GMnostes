@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/characters/winston-wildwood/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Winston Wildwood/"}
 ---
 
 #erukanapc #erukana #playercharacters 
