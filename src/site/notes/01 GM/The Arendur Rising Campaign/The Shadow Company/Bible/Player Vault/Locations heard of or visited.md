@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-gm/the-arendur-rising-campaign/the-shadow-company/bible/player-vault/locations-heard-of-or-visited/","title":"Locations"}
+{"dg-publish":true,"permalink":"/01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Locations heard of or visited/","title":"Locations"}
 ---
 
 # Locations heard of or visited
