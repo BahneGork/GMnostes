@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/characters/clarabel-lancaster-squire-of-the-queensguard/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard/"}
 ---
 
 
