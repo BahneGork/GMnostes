@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/people/marie-louise-duvall-af-miragehill/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill/"}
 ---
 
 #erukana #npc 
