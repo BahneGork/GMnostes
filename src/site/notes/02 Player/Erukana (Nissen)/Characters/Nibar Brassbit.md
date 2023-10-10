@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/characters/nibar-brassbit/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Nibar Brassbit/"}
 ---
 
 #erukanapc #erukana #playercharacters 
