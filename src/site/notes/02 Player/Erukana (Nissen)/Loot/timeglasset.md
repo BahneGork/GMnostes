@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/loot/timeglasset/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/timeglasset/"}
 ---
 
 #erukana #erukanaloot 
