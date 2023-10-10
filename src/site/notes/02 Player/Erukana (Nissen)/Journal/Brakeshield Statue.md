@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/journal/brakeshield-statue/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Brakeshield Statue/"}
 ---
 
 #questitem #item #statue #brakeshield #mistville #segrave #erukana #wellesbarony #questobjective
