@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/baroniet-eresby/","tags":["Locationsvisited"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Eresby/","tags":["Locationsvisited"]}
 ---
 
 #erukana #Barony 
