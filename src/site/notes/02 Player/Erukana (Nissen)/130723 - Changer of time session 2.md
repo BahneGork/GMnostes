@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/130723-changer-of-time-session-2/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/130723 - Changer of time session 2/"}
 ---
 
 #erukana #erukanasessionlog 
