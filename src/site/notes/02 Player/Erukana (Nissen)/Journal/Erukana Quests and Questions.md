@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/journal/erukana-quests-and-questions/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Erukana Quests and Questions/"}
 ---
 
 #erukana 
