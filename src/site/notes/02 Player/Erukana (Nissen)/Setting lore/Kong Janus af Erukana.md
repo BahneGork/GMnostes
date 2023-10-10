@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/setting-lore/kong-janus-af-erukana/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana/"}
 ---
 
 #npc #erukana 
