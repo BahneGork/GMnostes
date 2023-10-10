@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-gm/the-arendur-rising-campaign/the-shadow-company/bible/player-vault/missions/active-mission-misante-zardanti/","title":"Misante Zardanti"}
+{"dg-publish":true,"permalink":"/01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Active mission - misante zardanti/","title":"Misante Zardanti"}
 ---
 
 #active #housezardanti #mission
