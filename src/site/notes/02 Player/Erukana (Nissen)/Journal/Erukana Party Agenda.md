@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/journal/erukana-party-agenda/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Erukana Party Agenda/"}
 ---
 
 #erukana 
