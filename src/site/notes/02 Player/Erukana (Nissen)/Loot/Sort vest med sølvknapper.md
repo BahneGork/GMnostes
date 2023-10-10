@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/loot/sort-vest-med-solvknapper/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper/"}
 ---
 
 
