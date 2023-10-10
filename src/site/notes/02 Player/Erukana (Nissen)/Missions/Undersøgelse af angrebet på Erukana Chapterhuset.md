@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/missions/undersogelse-af-angrebet-pa-erukana-chapterhuset/","title":"undersøgelse af angrebet på erukana chapterhouse"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset/","title":"undersøgelse af angrebet på erukana chapterhouse"}
 ---
 
 #erukanamission  #erukana 
