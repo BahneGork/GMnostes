@@ -14,5 +14,6 @@
 - [[02 Player/Erukana (Nissen)/Factions/Slette folket\|Slette folket]]
 - [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]]
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
+- [[02 Player/Erukana (Nissen)/Factions/blå nomader\|blå nomader]]
 
 { .block-language-dataview}
