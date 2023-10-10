@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/bla-nomader/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/blå nomader/"}
 ---
 
 #erukana #erukana/faction 
