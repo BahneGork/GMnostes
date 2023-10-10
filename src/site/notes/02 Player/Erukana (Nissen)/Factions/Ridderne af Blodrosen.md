@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/factions/ridderne-af-blodrosen/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen/"}
 ---
 
 #erukana #faction #erukana-foe
