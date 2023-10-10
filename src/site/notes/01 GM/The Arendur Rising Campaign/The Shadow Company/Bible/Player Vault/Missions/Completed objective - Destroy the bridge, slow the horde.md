@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-gm/the-arendur-rising-campaign/the-shadow-company/bible/player-vault/missions/completed-objective-destroy-the-bridge-slow-the-horde/","title":"Completed objective - Destroy the bridge, slow the horde"}
+{"dg-publish":true,"permalink":"/01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Completed objective - Destroy the bridge, slow the horde/","title":"Completed objective - Destroy the bridge, slow the horde"}
 ---
 
 #completed #objective #blackwood #skullgorge
