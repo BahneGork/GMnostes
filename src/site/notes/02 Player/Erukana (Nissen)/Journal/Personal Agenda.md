@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/journal/personal-agenda/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Personal Agenda/"}
 ---
 
 #erukana #clarabel 
