@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/loot/neverending-ink-bottle/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Neverending ink bottle/"}
 ---
 
 # Neverending ink bottle 
