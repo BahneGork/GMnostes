@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/characters/faelles-konto-the-bronze-keg/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Fælles konto the bronze keg/"}
 ---
 
 #erukana 
