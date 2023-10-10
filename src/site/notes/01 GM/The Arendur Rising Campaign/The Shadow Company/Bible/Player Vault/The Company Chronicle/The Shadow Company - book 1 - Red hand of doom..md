@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-gm/the-arendur-rising-campaign/the-shadow-company/bible/player-vault/the-company-chronicle/the-shadow-company-book-1-red-hand-of-doom/","title":"The shadow company book 1"}
+{"dg-publish":true,"permalink":"/01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/The Company Chronicle/The Shadow Company - book 1 - Red hand of doom./","title":"The shadow company book 1"}
 ---
 
 #chronicles #book1 #story 
@@ -85,7 +85,7 @@
 78. Undervejs i kampen hidkalder kvinden en djævel, en bone devil.
 79. Da ormen er død, fortsætter Brumor, Frekka og Anton ved at angribe den hidkaldte djævel. Kvinden overtales til sidst af [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Playercharacters/Cedric Belmote\|cedric]] til at bortmane djævelen, men Frekka hopper våben først i fjæset på hende.
 80. Da støvet har lagt sig, forlader Frekka og Brumor stedet for at finde en vej hjem.
-81. Kvinden præsentere sig som [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Lady Dazran\|Lady Dazran]]  og hun kender til en måde at komme hjem på. De skal finde [[01 GM/The Arendur Rising Campaign/Prep next/12 Adventures & Events/Raven kings sword/The vortex portal beast of Rirroneth\|The vortex portal beast of Rirroneth]]
+81. Kvinden præsentere sig som [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Lady Dazran\|Lady Dazran]]  og hun kender til en måde at komme hjem på. De skal finde [[01 GM/The Arendur Rising Campaign/12 Adventures & Events/Raven kings sword/The vortex portal beast of Rirroneth\|The vortex portal beast of Rirroneth]]
 82. Lady Dazran er en Ridder af helvede, hun er Lady af tittel og betragter sig selv som adelig og lawful.
 83. Cedric går i total blodrus under kampen med portal bæstet, det antages at være det nye sværd - Ravne kongens sværd - der er skyld i det.
 84. En portal hjem åbnes og gruppen træder igennem. 
