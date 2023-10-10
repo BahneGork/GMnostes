@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/factions/solvhanden/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Sølvhånden/"}
 ---
 
 #erukana #faction #trade #merchants
