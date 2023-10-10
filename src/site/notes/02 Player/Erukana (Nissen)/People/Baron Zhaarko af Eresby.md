@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/people/baron-zhaarko-af-eresby/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby/"}
 ---
 
 #erukana #erukana/baron #erukana/npc
