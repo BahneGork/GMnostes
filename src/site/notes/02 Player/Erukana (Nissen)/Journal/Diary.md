@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/journal/diary/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Diary/"}
 ---
 
 # Diary of Clarabel Lancaster 
