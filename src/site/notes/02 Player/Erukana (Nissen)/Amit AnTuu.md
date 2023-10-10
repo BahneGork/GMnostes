@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/amit-an-tuu/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Amit AnTuu/"}
 ---
 
 #erukana/npc 
