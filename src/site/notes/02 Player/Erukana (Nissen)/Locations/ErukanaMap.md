@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/erukana-map/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/ErukanaMap/"}
 ---
 
 #erukana #regionmap 
