@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/characters/clarabel-lancaster-dnd-beyond-sheet/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster DndBeyondSheet/"}
 ---
 
 
