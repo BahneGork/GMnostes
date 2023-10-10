@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/missions/the-silver-statue-heirloom-mission-1/","title":"The silver statue heirloom"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1/","title":"The silver statue heirloom"}
 ---
 
 #erukanamission  #erukana #missiontype-retrieval
