@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/people/cret-maart/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Cret Maart/"}
 ---
 
 #erukana #npc #halforc #rødtandklan
