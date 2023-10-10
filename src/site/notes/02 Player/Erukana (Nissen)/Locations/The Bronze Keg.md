@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/the-bronze-keg/","tags":["Locationsvisited"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/The Bronze Keg/","tags":["Locationsvisited"]}
 ---
 
 #erukana #inn #tradepost #homebase #[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Locationsvisited\|Locationsvisited]] #location #eresbybarony
