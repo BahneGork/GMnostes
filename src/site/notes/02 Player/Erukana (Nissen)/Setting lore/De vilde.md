@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/setting-lore/de-vilde/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/De vilde/"}
 ---
 
 #erukana #ancestry
