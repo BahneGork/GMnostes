@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/skik-og-kultur-i-botreaux/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Skik og kultur i Botreaux/"}
 ---
 
 #erukana #kultur #botreaux-duchy
