@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/people/madam-silvara-dawnspire/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire/"}
 ---
 
 #npc #erukana #thequeensguard 
