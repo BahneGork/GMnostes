@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-gm/the-arendur-rising-campaign/the-shadow-company/bible/player-vault/missions/completed-mission-gutbuster-ooze/","title":"Completed mission - Gutbuster Ooze"}
+{"dg-publish":true,"permalink":"/01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Completed mission - Gutbuster Ooze/","title":"Completed mission - Gutbuster Ooze"}
 ---
 
 #completed #mission #gutbusterooze #goblins
