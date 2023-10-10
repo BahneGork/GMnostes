@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/300923-changer-of-time-session-3/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/300923 - Changer of time session 3/"}
 ---
 
 # Leaving Kegville 
