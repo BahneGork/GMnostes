@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/locations/skik-og-kultur-i-baroniet-mowbray/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/skik og kultur i baroniet Mowbray/"}
 ---
 
 #erukana #kultur #mowbray-barony
