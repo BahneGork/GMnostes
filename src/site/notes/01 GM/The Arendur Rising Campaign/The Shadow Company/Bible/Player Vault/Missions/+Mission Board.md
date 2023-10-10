@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-gm/the-arendur-rising-campaign/the-shadow-company/bible/player-vault/missions/mission-board/","title":"Mission Board"}
+{"dg-publish":true,"permalink":"/01 GM/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/+Mission Board/","title":"Mission Board"}
 ---
 
 #missions
