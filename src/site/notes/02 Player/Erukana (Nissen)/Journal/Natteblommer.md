@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-player/erukana-nissen/journal/natteblommer/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Natteblommer/"}
 ---
 
 #erukana #lootfound #herbalism 
