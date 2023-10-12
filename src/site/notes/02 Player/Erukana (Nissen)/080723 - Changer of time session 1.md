@@ -123,8 +123,8 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]  #erukana/lootfound
 - 1 Perle (100gp) #erukana/lootfound
 - Pung med mønter #erukana/lootfound
-- 3 røde potions  #erukana/lootfound
-- 1 grøn potion  #erukana/lootfound
+- 3 Healing røde potions  #erukana/lootfound
+- 1 poison/acid grøn potion  #erukana/lootfound
 
 
 # Secrets n Clues discovered 
