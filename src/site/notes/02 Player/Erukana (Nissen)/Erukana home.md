@@ -6,7 +6,7 @@
 
 # Main hub of Erukana. 
 
-[![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](ErukanaMap.md)
+[![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](Erukana-annotated.png)
 
 | \# The Party                    | \# The world                         | \# Factions & People                             | \# Open loops                         |
 | ------------------------------- | ------------------------------------ | ------------------------------------------------ | ------------------------------------- |
