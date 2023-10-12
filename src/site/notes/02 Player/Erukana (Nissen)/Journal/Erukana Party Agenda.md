@@ -2,20 +2,19 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Erukana Party Agenda/"}
 ---
 
-#erukana 
-
+#erukana #erukana/partyagenda
 # Todo list
+- [ ] Rejse til Byen [[Coleville\|Coleville]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] og finde vej til [[Baronesse Avalande\|Baronesse Avalande]] 
 
-## [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
-- [ ] Få en opgave af [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
-- [ ] Se om vi kan finde landkort til vores rejse 
-- [ ] skaffe forsyninger til turen 
-- [ ] Be til vores guder om sikker rejse
-- [ ] 
 
 ## Next action 
-- [ ] Rejse til Byen [[Coleville\|Coleville]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] og finde vej til [[Baronesse Avalande\|Baronesse Avalande]] 
-- [ ] udføre evt. opgave for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
+- Group meeting
+- 2 dages hvile?
+- [ ] nye forsyninger
+- [ ] snakke med Nerrin, få regionens gossip, måske om hun ved noget om det udøde væsen.
+- [ ] spørge om vej til Colville tværs over landet, sydøst, ikke vejene. 
+- [ ] Skal vi tilbyde Borgmesteren vores service som "problemløsere", bl.a. i kraft af vores ridder orden?
+
 
 
 # Completed 
