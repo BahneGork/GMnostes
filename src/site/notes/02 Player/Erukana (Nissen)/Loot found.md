@@ -38,9 +38,9 @@
 | [[02 Player/Erukana (Nissen)/Loot/boots of the ancients\|boots of the ancients]]             | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 |
 | [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                         | \-                                                                                                              |
 | [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]]                             | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
-| [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]]                     | \-                                                                                                              |
 | [[02 Player/Erukana (Nissen)/Loot/Warhawk\|Warhawk]]                                         | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
-| [[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]                                   | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
+| [[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]                                   | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 |
+| [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]]                     | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
 
 { .block-language-dataview}
 
