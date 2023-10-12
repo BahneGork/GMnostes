@@ -36,22 +36,6 @@ simple weapons, marital weapons, light armor, medium armor, heavy armor, shields
 | [[No Graph/5e Reference/Survival skill\|Survival skill]]  | +4  | `dice: 1d20+4 ` |
 | [[No Graph/5e Reference/Medicine skill\|Medicine skill]]  | +4  | `dice: 1d20+4`  |
 | [[No Graph/5e Reference/Religion skill\|Religion skill]]  | +3  | `dice: 1d20+4`  | 
-
-# Engagement
-
-- [[Warhammer\|Warhammer]]  +5  1d8+3 / 1d10+3
-	- Precise strike 1/turn (profbonus times/longrest): advantage + 1d8 dmg, charge spent on missed attack.
-		- [ ] charge 1
-		- [ ] charge 2
-	- Inspired attack: When making attack action, you can make 1 weapon attack as bonus action  (charge = wis. mod.)
-		- [ ] charge 1
-		- [ ] charge 2
-- [[spear\|spear]] 5ft. 20ft/60ft +5 1d6+3 /1d8+3 piercing
-[[No Graph/5e Reference/Spellcasting\|Spellcasting]]: [[02 Player/Erukana (Nissen)/Characters/Cleric spells\|Cleric spells]]  
-- [ ] slot 1
-- [ ] slot 2
-- [ ] slot 3
-
 # Defences 
 HP: 13
 - [[chainmail\|chainmail]]
