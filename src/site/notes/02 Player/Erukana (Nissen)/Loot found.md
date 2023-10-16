@@ -31,6 +31,7 @@
 | File                                                                                            | Character                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]]                   | \-                                                                                                              |
+| [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                         | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
 | [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]]                             | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
 | [[02 Player/Erukana (Nissen)/Loot/Silver coin of luck\|Silver coin of luck]]                 | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
 | [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]                                   | \-                                                                                                              |
@@ -40,7 +41,6 @@
 | [[02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle\|lange støvler med høje hæle]] | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
 | [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]]                                 | \-                                                                                                              |
 | [[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]                                   | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 |
-| [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                         | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
 
 { .block-language-dataview}
 
