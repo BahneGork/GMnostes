@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Mage armor wand/"}
 ---
 
-#erukanaloot #erukana 
+#erukana #erukanaloot 
 
 # Mage armor wand
+
+## Description
 
 lille stykke træ - sort - graveret tegn indlagt med guld, wand of [Mage Armor](http://localhost/Mage%20Armor) 3/day attunement
 
