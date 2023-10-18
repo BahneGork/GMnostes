@@ -4,7 +4,9 @@
 
 #erukana #erukanaloot 
 
-# Warhawk 
+# Warhawk
+
+## Description
 
 [[Zazmir scimitars\|Zazmir scimitars]], ukendt metal, grants proficiency to wielder, versatile, 1d10/1d12, meget skarpe, +1 dmg, non-magical, finesse (use str/dex to hit or dmg)  
 Rødt læder med sølvtråde på skæftet
