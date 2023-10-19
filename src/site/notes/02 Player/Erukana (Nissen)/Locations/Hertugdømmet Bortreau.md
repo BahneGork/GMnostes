@@ -30,4 +30,4 @@ NOTABLE LOKATIONER
 Handel og alliancer
 Elver og Dværge handelsvare, heste, landburg. 
 
-Skik og kultur: [[02 Player/Erukana (Nissen)/Locations/Skik og kultur i Botreaux\|Skik og kultur i Botreaux]]
+Skik og kultur: [[02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Botreaux\|Skik og kultur i Botreaux]]
