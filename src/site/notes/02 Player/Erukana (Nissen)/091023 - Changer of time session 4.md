@@ -39,7 +39,7 @@ Vargoth & Clarabel stayed with the horses inside the cave when yellow eyes and 4
 	- der er også tøj til 7-8 mennesker 
 	- Nibar "rengør" liget på opfordring af Clarabel 
 	- Nibar bruger detect magic 
-		- støvler, [[02 Player/Erukana (Nissen)/Loot/boots of the ancients\|boots of the ancients]], +2 dex tæller ikke mod max dex på armor. #erukana/lootfound #winston 
+		- støvler, [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]], +2 dex tæller ikke mod max dex på armor. #erukana/lootfound #winston 
 		- håndøkse, [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]] d6 dmg - attunement, +1 magisk våben, advantage mod elementals #erukana/lootfound #vargoth 
 		- [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]] statuen, virker i månelys, 1/dagen, alle indenfor "campfire" healer den 1d4 ability dmg og indtil næste dag har man advantage på Wisdom og Charisma.  #erukana/lootfound #Nibar 
 	- Clarabel foreslår at statuen ligner de folk vi så i Bronze keg inden vi tog afsted, 2 meter høje og meget slanke.
