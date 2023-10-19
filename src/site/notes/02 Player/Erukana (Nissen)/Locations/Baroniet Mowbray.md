@@ -6,7 +6,7 @@
 
 # Baroniet Mowbray
 Main: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]
-Related: [[02 Player/Erukana (Nissen)/Locations/skik og kultur i baroniet Mowbray\|skik og kultur i baroniet Mowbray]]
+Related: [[02 Player/Erukana (Nissen)/Setting lore/skik og kultur i baroniet Mowbray\|skik og kultur i baroniet Mowbray]]
 
 Baroniet Mowbray
 
