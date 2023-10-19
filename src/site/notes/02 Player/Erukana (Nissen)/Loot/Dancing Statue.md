@@ -5,7 +5,7 @@
 #erukana #erukanaloot 
 
 # Dancing Statue
-
+![Pasted image 20231019202244.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019202244.png)
 ## Description
 
 med adamatitum eller mithril furer i. En dansende elver med længere arme og ben. 
