@@ -6,6 +6,7 @@
 
 # Farlig bog med farligt sort sprog 
 
+![Pasted image 20231019204952.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019204952.png)
 Dette er en ond bog, med et ondt sprog for onde væsener.
 Det gør ondt at læse den hvis man ikke er ond. 
 Den er skrevet på Darkspeak.½
