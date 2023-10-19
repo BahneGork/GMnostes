@@ -24,4 +24,4 @@ HANDEL OG ALLIANCER
 Alle typer af handel både indefra og udefra Erukana’s grænser 
 
 
-Skik, brug og kultur: [[02 Player/Erukana (Nissen)/Locations/Skik og kultur i Valence og Blackmere baronierne\|Skik og kultur i Valence og Blackmere baronierne]]
+Skik, brug og kultur: [[02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Valence og Blackmere baronierne\|Skik og kultur i Valence og Blackmere baronierne]]
