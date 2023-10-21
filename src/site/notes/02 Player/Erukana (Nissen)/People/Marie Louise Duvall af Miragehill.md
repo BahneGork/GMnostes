@@ -4,7 +4,7 @@
 
 #erukana #npc 
 # Baron Zhaarko's Ambassadør
-![Marie louise duvall of miragehill.png](/img/user/10%20Attachments/Marie%20louise%20duvall%20of%20miragehill.png)
+![Marie louise duvall of miragehill.png|undefined](/img/user/10%20Attachments/Marie%20louise%20duvall%20of%20miragehill.png)
 
 Marie har i flere år fungeret som baronens højre hånd. Hun påtager sig de dagligdags beslutninger som ikke behøver at komme forbi baronen og ud over det, fungerer hun som [[Baron Zhaarko\|Baron Zhaarko]]'s ambassadør og diplomat. Det er derfor primært hende som håndterer møder for baronen.
 
