@@ -14,7 +14,7 @@ mapmaker master Orson #erukana/npc
 - Besked til Queensguard members
 	mapmaker assistant Eamon stockwood #erukana/npc 	
 	
-	![Pasted image 20230930111007.png](/img/user/10%20Attachments/Pasted%20image%2020230930111007.png)
+	![Pasted image 20230930111007.png|undefined](/img/user/10%20Attachments/Pasted%20image%2020230930111007.png)
 
 Rejser ud fra Kegville om eftermiddagen d. 17th Flamerule 
 
