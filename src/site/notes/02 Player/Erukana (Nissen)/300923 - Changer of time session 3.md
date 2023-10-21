@@ -37,7 +37,7 @@ Rationer:
 	- Gruppen sadler op alle 4, 2 på hver hest og ridder i kamp.
 		- 3 hill giants, 2 døde giants, 1 giant slap væk med en vogn 
 	- [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]] leder af de "[[02 Player/Erukana (Nissen)/Factions/blå nomader\|blå nomader]]"
-	- søster til Amit, [[Yasmina AnTuu\|Yasmina AnTuu]]
+	- søster til Amit, [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
 	- tilbyder at reparere vogn og rejse med nomaderne til [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
 	- Amit tilbyder gruppen rewards for at redde dem. 
 		- heirlooms fra de døde nomader 
