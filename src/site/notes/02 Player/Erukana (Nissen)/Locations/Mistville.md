@@ -10,6 +10,8 @@ Small village in [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baronie
 
 VIP: [[Archibald Oddsmoke\|Archibald Oddsmoke]] 
 
+![Pasted image 20231021195108.png|1300](/img/user/10%20Attachments/Pasted%20image%2020231021195108.png)
+
 ## [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]]
 We found the [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]] here, in the posession of [[Archibald Oddsmoke\|Archibald Oddsmoke]] 
 
