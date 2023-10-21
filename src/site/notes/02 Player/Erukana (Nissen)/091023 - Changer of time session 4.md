@@ -31,7 +31,7 @@ Vargoth & Clarabel stayed with the horses inside the cave when yellow eyes and 4
 - vi finder en død dame, der har været død længe.
 - Clara kan lugte blodet langt fra og jo tættere på hun kommer jo stærkere er det. Råddet giver hende kvalme og hun kaster op.
 - Winston undersøger liget og en stor backpack. 
-	- et brev ![Brevet på døde Celia - Erukana.png|undefined](/img/user/10%20Attachments/Brevet%20p%C3%A5%20d%C3%B8de%20Celia%20-%20Erukana.png)
+	- et brev ![Brevet på døde Celia - Erukana.png|undefined](/img/user/02%20Player/Erukana%20(Nissen)/Journal/Brevet%20p%C3%A5%20d%C3%B8de%20Celia%20-%20Erukana.png)
 	- 3 tradebars
 	- en pung med mønter
 	- håndøkse, meget skarp 
