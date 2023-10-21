@@ -10,7 +10,7 @@
 
 | \# The Party                    | \# The world                         | \# Factions & People                             | \# Open loops                         |
 | ------------------------------- | ------------------------------------ | ------------------------------------------------ | ------------------------------------- |
-| [[02 Player/Erukana (Nissen)/Characters/Erukana party characters\|Erukana party characters]] | [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]], on either Krynn or Toril | [[02 Player/Erukana (Nissen)/People/1.People DB folder\|1.People DB folder]] - [[02 Player/Erukana (Nissen)/People/2. Erukana People List\|2. Erukana People List]] | [[02 Player/Erukana (Nissen)/Journal/Erukana Quests and Questions\|Erukana Quests and Questions]]      |
+| [[02 Player/Erukana (Nissen)/Characters/Erukana party characters\|Erukana party characters]] | [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]], on either Krynn or Toril | [[02 Player/Erukana (Nissen)/People/1.People DB folder\|1.People DB folder]] - [[02 Player/Erukana (Nissen)/2. Erukana People List\|2. Erukana People List]] | [[02 Player/Erukana (Nissen)/Journal/Erukana Quests and Questions\|Erukana Quests and Questions]]      |
 | [[02 Player/Erukana (Nissen)/Characters/XP log\|XP log]]                      | [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Locationsvisited\|Locationsvisited]] visited         | [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]                              | [[02 Player/Erukana (Nissen)/Journal/Erukana Party Agenda\|Erukana Party Agenda]]              |
 | [[02 Player/Erukana (Nissen)/Loot found\|Loot found]]                  | [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]   | [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]]                                   | [[Clue Board-1.canvas\|Clue Board-1]]                   |
 | [Penge kassen](https://docs.google.com/spreadsheets/d/1X6DGQd9KXZYHPHzU_ZLQowYHiRTAPz3oIMXviP7aCSU/edit?usp=sharing)                                | [[02 Player/Erukana (Nissen)/Erukana Tag list\|Erukana Tag list]]                 | [[02 Player/Erukana (Nissen)/Factions/Emerald enclave\|Emerald enclave]]                              |  |
@@ -22,6 +22,7 @@ The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]]
 
 # Sessions 
+[[301023 - Changer of time session 5\|301023 - Changer of time session 5]]
 [[02 Player/Erukana (Nissen)/091023 - Changer of time session 4\|091023 - Changer of time session 4]]
 [[02 Player/Erukana (Nissen)/300923 - Changer of time session 3\|300923 - Changer of time session 3]]
 [[02 Player/Erukana (Nissen)/130723 - Changer of time session 2\|130723 - Changer of time session 2]]
