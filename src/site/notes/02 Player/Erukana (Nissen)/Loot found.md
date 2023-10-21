@@ -10,6 +10,9 @@
 - winston: "[[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]". Clara: sølvtråde i læder skæftet - "[[02 Player/Erukana (Nissen)/Loot/Warhawk\|Warhawk]]" #erukana/lootfound
 - [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]] lille stykke træ - sort - graveret tegn indlagt med guld, wand of [[No Graph/5e Reference/spells/Mage Armor\|Mage Armor]] 3/day attunement #erukana/lootfound
 - [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]] (attunement), rødt skæfte, halv buet klinge meget skarp. Slashing damage istedet for piercing. God i en spellcasters hænder.  +1 spell DC hvis wielding while spellcasting.  #erukana/lootfound
+- støvler, [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]], +2 dex tæller ikke mod max dex på armor. #erukana/lootfound #winston
+- håndøkse, [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]] d6 dmg - attunement, +1 magisk våben, advantage mod elementals #erukana/lootfound #vargoth
+- [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]] statuen, virker i månelys, 1/dagen, alle indenfor "campfire" healer den 1d4 ability dmg og indtil næste dag har man advantage på Wisdom og Charisma.  #erukana/lootfound #Nibar
 - [[02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound
 - [[lange støvler med høje hæle \|lange støvler med høje hæle ]]#erukana/lootfound
 - [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound
@@ -22,9 +25,6 @@
 - Pung med mønter #erukana/lootfound
 - 3 Healing røde potions  #erukana/lootfound
 - 1 poison/acid grøn potion  #erukana/lootfound
-- støvler, [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]], +2 dex tæller ikke mod max dex på armor. #erukana/lootfound #winston
-- håndøkse, [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]] d6 dmg - attunement, +1 magisk våben, advantage mod elementals #erukana/lootfound #vargoth
-- [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]] statuen, virker i månelys, 1/dagen, alle indenfor "campfire" healer den 1d4 ability dmg og indtil næste dag har man advantage på Wisdom og Charisma.  #erukana/lootfound #Nibar
 
 { .block-language-dataview}
 
