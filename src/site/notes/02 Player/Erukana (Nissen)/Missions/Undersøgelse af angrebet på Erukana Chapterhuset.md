@@ -9,7 +9,7 @@
 Erukana Chapterhouse lå i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau\|Hertugdømmet Bortreau]], lidt udenfor [[Wolfenburg\|Wolfenburg]].
 
 ## Location Clues 
-![Pasted image 20231011073201.png|undefined](/img/user/10%20Attachments/Pasted%20image%2020231011073201.png)
+Vi tror et hemmeligt Queensguard møde finder sted om ca 2 måneders tid ![Pasted image 20231011073201.png|undefined](/img/user/10%20Attachments/Pasted%20image%2020231011073201.png)
 
 
 ## People Clues 
