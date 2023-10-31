@@ -3,9 +3,9 @@
 ---
 
 #erukanamission 
-# Get audience with [[Baronesse Avalande\|Baronesse Avalande]]  
+# Get audience with [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  
 
-We have taken it upon ourselves to seek out and gain an audience with [[Baronesse Avalande\|Baronesse Avalande]]  of [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]  
+We have taken it upon ourselves to seek out and gain an audience with [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  of [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]  
 
 - [ ] Ask her what she knows of the tattoo's/birthmarks we all share
 - [ ] Ask her what she knows of the hourglass
