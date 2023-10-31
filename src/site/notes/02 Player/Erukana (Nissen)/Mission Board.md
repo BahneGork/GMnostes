@@ -10,8 +10,8 @@ Mission template: [[No Graph/Templates/Campaign/New Mission - player\|New Missio
 
 | File                                                                                                                                          | faction         | reward |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------ |
-| [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]]                                                   | \-              | \-     |
 | [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]] | The Queensguard | \-     |
+| [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]]                                                   | \-              | \-     |
 
 { .block-language-dataview}
 
