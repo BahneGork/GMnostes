@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/091023 - Changer of time session 4/"}
 ---
 
+#erukana #erukanasessionlog 
+
 # Session 4 - Changer of Time 
 start location:  Cave in a forest 
 start date:  23rd of Flamerule
