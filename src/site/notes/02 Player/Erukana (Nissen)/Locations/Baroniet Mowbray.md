@@ -11,7 +11,10 @@ Related: [[02 Player/Erukana (Nissen)/Setting lore/skik og kultur i baroniet Mow
 Baroniet Mowbray
 
 BESKRIVELSE:
-Morbray er en af to baronier kendt for deres frodige marker og vidder. De er kendetegnet ved deres landbrug og deres modige soldater. Landet i sig selv er ikke specielt interessant, men det grænser op til bjergene i vest og elver riget i nord. Af de grunde alene, er der en del rejsende igennem området som er med til at bringe velstand til Mowbray.
+Mowbray er en af to baronier kendt for deres frodige marker og vidder. 
+De er kendetegnet ved deres landbrug og deres modige soldater og våben og rustninger. 
+Landet i sig selv er ikke specielt interessant, men det grænser op til bjergene i vest og elver riget i nord. 
+Af de grunde alene, er der en del rejsende igennem området som er med til at bringe velstand til Mowbray.
 Baronen vedligeholder en større hær, både på grund af de konstante trusler som findes i bjergene, men samtidig som en vigtig indtægts kilde til baroniet. De lejer gerne deres soldater til forskellige kampagne både ude og inden for Erukana.
 
 RULER
