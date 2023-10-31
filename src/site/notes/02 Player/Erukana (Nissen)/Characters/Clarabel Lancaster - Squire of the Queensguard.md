@@ -15,7 +15,7 @@
 
 
 # Ability Scores
-### Level: 2
+### Level: 3
 
 | stat | score | Mod | Proficient? | Save | ROLL|
 | ---- | ----- | --- | ----------- | ---- |---|
@@ -27,7 +27,7 @@
 | Cha  | 15    | 2   | x           | 4    |`dice: 1d20+2`
 
 # Skills 
-##### Languages: Common, [[Erukan\|Erukan]], [[Anakteh\|Anakteh]](ikke af ophav), Dwarvish 
+##### Languages: Common, [[Erukan\|Erukan]], [[Anakteh\|Anakteh]] (ikke af ophav), Dwarvish 
 simple weapons, marital weapons, light armor, medium armor, heavy armor, shields
 
 | Skill               | Mod | Roll            |
@@ -85,7 +85,21 @@ På [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] mød
 - Honor and Forbearance for oneself. (edited)
 
 Hendes hår skifter farve efter hendes humør, alla en "mood ring".
-
+1. Rød - Vrede eller Lidenskab  
+2. Blå - Ro eller Tristhed  
+3. Grøn - Tilfredshed eller Misundelse  
+4. Gul - Glæde eller Spænding  
+5. Lilla - Kreativitet eller Mysterium  
+6. Orange - Optimisme eller Ivrig  
+7. Sort - Melankoli eller Introspektion  
+8. Hvid - Sindsro eller Renhed  
+9. Rosa - Kærlighed eller Legesyge  
+10. Grå - Beslutsomhed eller Kedsomhed  
+11. Guld - Selvtillid eller Succes  
+12. Sølv - Elegance eller Ynde  
+13. Brun - Jordnærhed eller Praktiskhed  
+14. Turkis - Balance eller Harmoni  
+15. Violet - Spiritualitet eller Visdom
 
 [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster DndBeyondSheet\|Clarabel Lancaster DndBeyondSheet]]
 
