@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/300923 - Changer of time session 3/"}
 ---
 
+#erukana #erukanasessionlog 
+
 # Leaving Kegville 
 
 Dato: 17th i uge 2 i Flamerule 
