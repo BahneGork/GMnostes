@@ -81,7 +81,7 @@ Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hen
 - Baronen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]  er den som har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]  til  [[Timescroll Missionen\|Timescroll Missionen]] , vi beder om at mødes med [[Baron Zhaarko\|Baron Zhaarko]]  eller [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
 - vi fortæller [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] at vi ikke vil overdrage skriftrullen til baronen og at vi selv har en interesse i den. 
 - vi tilbydes 1000gp for at aflevere den til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
-- vi beder [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] om at skaffe os adgang til [[Baronesse Avalande\|Baronesse Avalande]]  i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] på en eller anden facon, da hun er den eneste han kender til som også har en tattoovering som os. #erukanasecretsnclues 
+- vi beder [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] om at skaffe os adgang til [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] på en eller anden facon, da hun er den eneste han kender til som også har en tattoovering som os. #erukanasecretsnclues 
 
 ## Hourglass tinkering 
 Vi undersøger det mystiske timeglas som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] rodede med i hulerne. Det har safir blåt sand og ringe rundt om timeglasset der bevæger sig når [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] "aktiverer" det.
@@ -131,7 +131,7 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - Der er gamle dværge haller længere inde i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]  #erukanasecretsnclues 
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] kender til dværge hallerne #erukanasecretsnclues 
 - [[Familien Narsi\|Familien Narsi]] i [[Solstice\|Solstice]] havde timescroll og timeglasset  #erukanasecretsnclues 
-- [[Baronesse Avalande\|Baronesse Avalande]]  har også en [[blå tattoovering\|blå tattoovering]] som resten af gruppen  #erukanasecretsnclues 
+- [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  har også en [[blå tattoovering\|blå tattoovering]] som resten af gruppen  #erukanasecretsnclues 
 - Kobold infused med gemstones eksploderer når den dør  #erukanasecretsnclues 
 - Der er en magisk forseglet dør ind til dværge hallerne i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]  #erukanasecretsnclues 
 - Død eventyrer ved ork ambush havde [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]]  på sin tabard #erukanasecretsnclues 
