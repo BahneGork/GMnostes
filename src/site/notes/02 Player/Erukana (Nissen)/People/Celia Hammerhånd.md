@@ -10,6 +10,6 @@ Vi tog hendes lig med til [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mist
 
 
 Relateret: 
-[[02 Player/Erukana (Nissen)/091023 - Changer of time session 4\|091023 - Changer of time session 4]]
+[[091023 - Changer of time session 4\|091023 - Changer of time session 4]]
 [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]
 [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
