@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Constance Fortright/"}
 ---
 
+#erukana/npc 
 # [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] Smed 
 
 ![Pasted image 20231021194936.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021194936.png)
