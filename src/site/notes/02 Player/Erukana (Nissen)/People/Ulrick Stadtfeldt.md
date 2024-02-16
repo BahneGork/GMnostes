@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt/"}
 ---
 
+#erukana/npc #erukana/villain
 # Præst af [[Chauntea\|Chauntea]] i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
 
 ![Pasted image 20231021193240.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021193240.png)
