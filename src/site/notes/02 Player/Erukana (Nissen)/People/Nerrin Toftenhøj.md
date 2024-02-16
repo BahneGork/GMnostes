@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Nerrin Toftenhøj/"}
 ---
 
+#erukana/npc 
 # Nerrin Toftenhøj
 
 ![Pasted image 20231021135704.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021135704.png)
