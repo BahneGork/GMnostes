@@ -6,7 +6,7 @@
 
 # Kobold caves of the dark gem clan 
 
-- Vi udforsker hulerne i session 1 - [[02 Player/Erukana (Nissen)/080723 - Changer of time session 1\|080723 - Changer of time session 1]]
+- Vi udforsker hulerne i session 1 - [[080723 - Changer of time session 1\|080723 - Changer of time session 1]]
 - Vi finder time glasset og time-scrollen her. 
 - Vi møder [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] i disse huler, som fortæller at der er glemte dværge haller længere inde/nede som holder masser af hemmeligheder.
 - Vi fandt [[02 Player/Erukana (Nissen)/Journal/Natteblommer\|Natteblommer]] i en af hulerne som kan laves til healing pulp med [[jernurt\|jernurt]] 
