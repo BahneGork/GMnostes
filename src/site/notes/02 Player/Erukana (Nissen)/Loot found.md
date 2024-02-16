@@ -6,7 +6,6 @@
 
 
 # Loot found 
-
 - [[02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound
 - [[lange støvler med høje hæle \|lange støvler med høje hæle ]]#erukana/lootfound
 - [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound
