@@ -27,7 +27,9 @@
 | Cha  | 15    | 2   | x           | 4    |`dice: 1d20+2`
 
 # Skills 
-##### Languages: Common, [[Erukan\|Erukan]], [[Anakteh\|Anakteh]] (ikke af ophav), Dwarvish 
+###### Languages: 
+Common, [[Erukan\|Erukan]], [[Anakteh\|Anakteh]] (ikke af ophav), Dwarvish 
+
 simple weapons, marital weapons, light armor, medium armor, heavy armor, shields
 
 | Skill               | Mod | Roll            |
