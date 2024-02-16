@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Petyr Gottmann/"}
 ---
 
+#erukana/npc 
 # Marskal af [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
 
 ![Pasted image 20231021195400.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021195400.png)
