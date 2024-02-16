@@ -4,7 +4,7 @@
 
 # Pensioneret købmand og Excentrikker 
 
-![Pasted image 20231021195636.png|undefined](/img/user/10%20Attachments/Pasted%20image%2020231021195636.png)
+![Pasted image 20231021195636.png](/img/user/10%20Attachments/Pasted%20image%2020231021195636.png)
 
 En lille ældre gnome, der med hans rigdom har trukket sig tilbage fra hans mangeårige eventyr som købmand i Wolfenborg. 
 Hans passion er kunstværker og oldgamle artefakter. En smule excentrisk men ganske flink.
