@@ -8,7 +8,7 @@
 
 
 Relateret:
-[[02 Player/Erukana (Nissen)/300923 - Changer of time session 3\|300923 - Changer of time session 3]]
+[[300923 - Changer of time session 3\|300923 - Changer of time session 3]]
 [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
 [[Zazmir stamme\|Zazmir stamme]]
 [[Zazmir scimitars\|Zazmir scimitars]]
