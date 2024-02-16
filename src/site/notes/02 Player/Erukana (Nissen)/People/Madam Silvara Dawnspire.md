@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire/"}
 ---
 
-#npc #erukana #thequeensguard 
+#erukana/npc  #thequeensguard 
 
 Know by: [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]], [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster - Squire of the Queensguard]]
 Faction: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
