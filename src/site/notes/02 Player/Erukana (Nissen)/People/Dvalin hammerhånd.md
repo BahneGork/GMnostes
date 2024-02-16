@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dvalin hammerhånd/"}
 ---
 
+#erukana/npc 
 # Dvalin Hammerhånd 
 ![Pasted image 20231021134746.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021134746.png)
 
