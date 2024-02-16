@@ -8,10 +8,11 @@ Mission template: [[No Graph/Templates/Campaign/New Mission - player\|New Missio
 
 # Active Missions
 
-| File                                                                                                                                          | faction         | reward |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------ |
-| [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]] | The Queensguard | \-     |
-| [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]]                                                   | \-              | \-     |
+| File                                                                                                                                          | faction            | reward |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ |
+| [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]]                                                   | \-                 | \-     |
+| [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]] | The Queensguard    | \-     |
+| [[02 Player/Erukana (Nissen)/Missions/Find Sorte Rose Lejren\|Find Sorte Rose Lejren]]                                                     | Mistville Marshals | \-     |
 
 { .block-language-dataview}
 
