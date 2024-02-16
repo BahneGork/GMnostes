@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celia Hammerhånd/"}
 ---
 
+#erukana/npc 
 # Celia Hammerhånd
 
 Fundet død i hvad vi formoder var [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] 's  varulve huler ude i skoven nær [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
