@@ -15,4 +15,4 @@ Vi fandt en lettere skjult vej ud af hulerne som endte ca en times tid fra byen 
 Relateret
 [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]
 [[02 Player/Erukana (Nissen)/People/Celia Hammerhånd\|Celia Hammerhånd]] 
-[[02 Player/Erukana (Nissen)/091023 - Changer of time session 4\|091023 - Changer of time session 4]]
+[[091023 - Changer of time session 4\|091023 - Changer of time session 4]]
