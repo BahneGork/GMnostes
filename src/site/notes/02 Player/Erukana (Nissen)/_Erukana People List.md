@@ -1,0 +1,37 @@
+---
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana People List/"}
+---
+
+#erukana #npc #list 
+
+# People of Erukana 
+- [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]]
+- [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]]
+- [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]]
+- [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
+- [[02 Player/Erukana (Nissen)/People/Celia Hammerhånd\|Celia Hammerhånd]]
+- [[02 Player/Erukana (Nissen)/People/Constance Fortright\|Constance Fortright]]
+- [[02 Player/Erukana (Nissen)/People/Cret Maart\|Cret Maart]]
+- [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]
+- [[02 Player/Erukana (Nissen)/People/Egil Nordlys\|Egil Nordlys]]
+- [[02 Player/Erukana (Nissen)/People/Hjalmer Dynn\|Hjalmer Dynn]]
+- [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]]
+- [[02 Player/Erukana (Nissen)/People/Lizzie Gottmann\|Lizzie Gottmann]]
+- [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]]
+- [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
+- [[02 Player/Erukana (Nissen)/People/Merryn Foehammer\|Merryn Foehammer]]
+- [[02 Player/Erukana (Nissen)/People/Nerrin Toftenhøj\|Nerrin Toftenhøj]]
+- [[02 Player/Erukana (Nissen)/People/Petyr Gottmann\|Petyr Gottmann]]
+- [[02 Player/Erukana (Nissen)/People/Qenes Markmoon\|Qenes Markmoon]]
+- [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]
+- [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
+- [[02 Player/Erukana (Nissen)/People/Verner Mistvale\|Verner Mistvale]]
+- [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
+
+{ .block-language-dataview}
+
+# People from the lore of Erukana 
+- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
+- [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Queen Neferata]]
+
+{ .block-language-dataview}
