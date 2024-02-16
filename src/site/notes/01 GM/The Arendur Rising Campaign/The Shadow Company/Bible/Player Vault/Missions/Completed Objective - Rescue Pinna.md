@@ -11,4 +11,4 @@ Pinna is now a retainer of Assumi
 
 A red hand goblin letter was recovered amongst all the loot.
 ![goblinletter from daggers study.png|500](/img/user/10%20Attachments/goblinletter%20from%20daggers%20study.png)
-![bayard.jpg|undefined](/img/user/10%20Attachments/bayard.jpg)
+![bayard.jpg](/img/user/10%20Attachments/bayard.jpg)
