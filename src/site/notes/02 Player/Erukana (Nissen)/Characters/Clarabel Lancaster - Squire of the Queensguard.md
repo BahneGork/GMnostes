@@ -17,14 +17,14 @@
 # Ability Scores
 ### Level: 3
 
-| stat | score | Mod | Proficient? | Save | ROLL|
-| ---- | ----- | --- | ----------- | ---- |---|
-| Str  | 16    | 3   |             | 3    | `dice: 1d20+2`
-| Dex  | 9     | -1  |             | -1   |`dice: 1d20-1`
-| Con  | 11    | 0   |             | 0    |`dice: 1d20+0`
-| Int  | 13    | 1   |             | 1    |`dice: 1d20+1`
-| Wis  | 15    | 2   | x           | 4    |`dice: 1d20+2`
-| Cha  | 15    | 2   | x           | 4    |`dice: 1d20+2`
+| stat | score | Mod | Proficient? | Save | ROLL           |
+| ---- | ----- | --- | ----------- | ---- | -------------- |
+| Str  | 17    | 3   |             | 3    | `dice: 1d20+2` |
+| Dex  | 9     | -1  |             | -1   | `dice: 1d20-1` |
+| Con  | 11    | 0   |             | 0    | `dice: 1d20+0` |
+| Int  | 14    | 2   |             | 2    | `dice: 1d20+1` |
+| Wis  | 15    | 2   | x           | 4    | `dice: 1d20+2` |
+| Cha  | 15    | 2   | x           | 4    | `dice: 1d20+2` |
 
 # Skills 
 ###### Languages: 
