@@ -25,7 +25,7 @@
 - 3 Healing røde potions  #erukana/lootfound
 - 1 poison/acid grøn potion  #erukana/lootfound
 - læder rustning #erukana/lootfound
-- [[02 Player/Erukana (Nissen)/mace af sort stål\|mace af sort stål]] #vargot #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]] #vargot #erukana/lootfound
 - [[amulet - keypass\|amulet - keypass]] #nibar #erukana/lootfound
 - guld ring #erukana/lootfound
 - pung med mønter (37) #erukana/lootfound
@@ -39,7 +39,7 @@
 | [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]]             | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 |
 | [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]]                           | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
 | [[02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle\|lange støvler med høje hæle]] | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
-| [[02 Player/Erukana (Nissen)/mace af sort stål\|mace af sort stål]]                          | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
+| [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]]                     | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
 | [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                         | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
 | [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]]           | \-                                                                                                              |
 | [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]]                             | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
@@ -58,7 +58,7 @@
 | [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]]             | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 | boots            | yes            |
 | [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]]                           | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | Wonderous item   | no             |
 | [[02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle\|lange støvler med høje hæle]] | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] | \-               | \-             |
-| [[02 Player/Erukana (Nissen)/mace af sort stål\|mace af sort stål]]                          | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           | Weapon, mace     | yes            |
+| [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]]                     | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           | Weapon, mace     | yes            |
 | [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                         | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | wand             | yes            |
 | [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]]           | \-                                                                                                              | Wonderous item   | \-             |
 | [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]]                             | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | weapon, dagger   | yes            |
