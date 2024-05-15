@@ -29,7 +29,7 @@ Vi tænker at spejlet er en måde at kommunikere med noget som er i fangeskab.
 Vi vælger at gå på opdagelse ud i mørket og rejser ud i det i flere dage. Vi løber tør for det sidste mad og finder et skelet på vejen, som vi looter. 
 
 - læder rustning #erukana/lootfound 
-- [[02 Player/Erukana (Nissen)/mace af sort stål\|mace af sort stål]] #vargot #erukana/lootfound 
+- [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]] #vargot #erukana/lootfound 
 - [[amulet - keypass\|amulet - keypass]] #nibar #erukana/lootfound 
 - guld ring #erukana/lootfound 
 - pung med mønter (37) #erukana/lootfound 
