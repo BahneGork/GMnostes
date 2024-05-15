@@ -9,6 +9,7 @@
 - [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]]
 - [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]]
 - [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
+- [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]]
 - [[02 Player/Erukana (Nissen)/People/Celia Hammerhånd\|Celia Hammerhånd]]
 - [[02 Player/Erukana (Nissen)/People/Constance Fortright\|Constance Fortright]]
 - [[02 Player/Erukana (Nissen)/People/Cret Maart\|Cret Maart]]
