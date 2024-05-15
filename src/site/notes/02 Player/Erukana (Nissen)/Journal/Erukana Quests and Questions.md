@@ -7,8 +7,10 @@
 # Questions
 ## Blodrosen 
 - [ ] hvor har Blodrose ordnen lejr?
-- [ ] er det [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]]  de har fanget? 
+	- [[Det Røde pas\|Det Røde pas]] ?? Bjergkæden syd-øst for [[Feywood\|Feywood]]
+	- 
 - [ ] hvad har familien De'Evers hjulpet dem med gennem årene?
+- [x] er det [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]]  de har fanget? JA ✅ 2024-05-15
 ## Erukana Chapterhouse
 - [ ] Who attacked?
 - [ ] Why was it attacked?
@@ -22,7 +24,7 @@
 
 # [[Baron Zhaarko\|Baron Zhaarko]] 
 - [ ] Who is Baron Zhaarko, what can we find out about him?
-- [ ] What sickness is his son afflicted by?
+- [x] What sickness is his son afflicted by? ✅ 2024-05-15
 - [x] Who is [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]  and what does her title "of Miragehill" signify? ✅ 2023-09-29
 
 
