@@ -15,7 +15,7 @@
 
 
 # Ability Scores
-### Level: 3
+### Level: 4
 
 | stat | score | Mod | Proficient? | Save | ROLL           |
 | ---- | ----- | --- | ----------- | ---- | -------------- |
@@ -32,12 +32,13 @@ Common, [[Erukan\|Erukan]], [[Anakteh\|Anakteh]] (ikke af ophav), Dwarvish
 
 simple weapons, marital weapons, light armor, medium armor, heavy armor, shields
 
-| Skill               | Mod | Roll            |
-| ------------------- | --- | --------------- |
-| [[No Graph/5e Reference/Athletics skill\|Athletics skill]] | +5  | `dice: 1d20+4`  |
-| [[No Graph/5e Reference/Survival skill\|Survival skill]]  | +4  | `dice: 1d20+4 ` |
-| [[No Graph/5e Reference/Medicine skill\|Medicine skill]]  | +4  | `dice: 1d20+4`  |
-| [[No Graph/5e Reference/Religion skill\|Religion skill]]  | +3  | `dice: 1d20+4`  | 
+| Skill                        | Mod | Roll            |     |
+| ---------------------------- | --- | --------------- | --- |
+| [[No Graph/5e Reference/Athletics skill\|Athletics skill]]          | +5  | `dice: 1d20+4`  |     |
+| [[No Graph/5e Reference/Survival skill\|Survival skill]]           | +4  | `dice: 1d20+4 ` |     |
+| [[No Graph/5e Reference/Medicine skill\|Medicine skill]]           | +4  | `dice: 1d20+4`  |     |
+| [[No Graph/5e Reference/Religion skill\|Religion skill]]           | +3  | `dice: 1d20+4`  |     |
+| Medicine - poison adv /1 day | +4  |                 |     |
 # Defences 
 HP: 13
 - [[chainmail\|chainmail]]
