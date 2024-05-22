@@ -32,7 +32,6 @@ Find og dræb et Feywood Beast.
 - brug syre eller ild og lok den ud af vandet 
 - følg hærvejen indtil skoven bliver sumpet, følg en sti dybere østpå ved ruiner af en fæstning.
 - 4 dages vandring den ene vej 
-- 
 ## Related Locations 
 [[Feywood\|Feywood]] 
 [[Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
