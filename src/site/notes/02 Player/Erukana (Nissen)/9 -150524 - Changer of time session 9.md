@@ -53,3 +53,4 @@
 - Hydra angriber ruinerne!! 
 ![Pasted image 20240515211858.png|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)
 - Da [[No Graph/5e Reference/monsters/Hydra\|Hydra]] er slagtet er der et hjerte tilbage, lava agtigt, som Clara samler op. 
+- Hydra hjertet ![Pasted image 20240522202250.png](/img/user/10%20Attachments/Pasted%20image%2020240522202250.png)
