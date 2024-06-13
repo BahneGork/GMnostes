@@ -16,8 +16,8 @@
 - [[02 Player/Erukana (Nissen)/Setting lore/skik og kultur i baroniet Mowbray\|skik og kultur i baroniet Mowbray]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Botreaux\|Skik og kultur i Botreaux]]
 - [[02 Player/Erukana (Nissen)/Setting lore/skik og kultur i Eresby\|skik og kultur i Eresby]]
-- [[02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Valence og Blackmere baronierne\|Skik og kultur i Valence og Blackmere baronierne]]
-- [[02 Player/Erukana (Nissen)/Setting lore/The Undead and the populace view\|The Undead and the populace view]]
 - [[02 Player/Erukana (Nissen)/Setting lore/skik og kultur i Welles\|skik og kultur i Welles]]
+- [[02 Player/Erukana (Nissen)/Setting lore/The Undead and the populace view\|The Undead and the populace view]]
+- [[02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Valence og Blackmere baronierne\|Skik og kultur i Valence og Blackmere baronierne]]
 
 { .block-language-dataview}
