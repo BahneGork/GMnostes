@@ -17,11 +17,13 @@
 | [[02 Player/Erukana (Nissen)/Missions/Mission rewards\|Mission rewards]]                                | [[02 Player/Erukana (Nissen)/Setting lore/Setting lore index\|Setting lore index]]               | [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]                        |                                       |
 | [Loot Sheet drive](https://loot.xcv.dk)                                | [[02 Player/Erukana (Nissen)/Locations/ErukanaMap\|ErukanaMap]]                      |                                                  |                                       |
 
+![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
 # Active Missions 
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]]
 
 # Sessions 
+[[02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11\|11 - 130624 - Changer of time session 11]]
 [[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10\|10 - 220524 - Changer of time session 10]]
 [[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|9 -150524 - Changer of time session 9]]
 [[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8\|8-160324 - Changer of time session 8]]
