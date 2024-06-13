@@ -64,14 +64,15 @@
 - Rustningen kan hidkaldes, kan aktiveres i 12 runder 1/dag hver dag i 10 dage. Derefter skal den hvile udenfor og suge natten. Old gammel livvagt for Skyggehånden. "Kehl".  Efter de første 12 runder, ligger der en miniature rustning i Clarabels hånd på størrelse med et fingerbøl. Kan gives ordre. 
 - Winston beder til Paladine om guidance, for han føler sig ude på dybt vand.
 
-#### Dag 4 - 10th highsun 
+#### Dag 5 - 11th highsun 
 - Råddenskaben er så begyndt at forsvinde fra området 
 - Vi går ned og kigger på det andet tårn og den skrift der stod. 
 - Vi bruger papir og kul fra bålet og prøver at lavet et aftryk af teksten 
 - B L x x  K  x x x A R 
 - black  listar, Ishtar, Friar... BLACKSPEAR 
-- Sir Seillings mausoleum syd på, Winstons drøm 
+- [[Sir Seillings mausoleum \|Sir Seillings mausoleum ]]syd på, Winstons drøm 
 - Korrupteret ubalanceret skov syd på Vargoth's syn 
 - Vi drager syd på i skoven Feywood 
 - da vi forlader sumpen med ruinerne har vi fornemmelsen af at vi forlader en "hinde" og ruinen bag os er væk. 
+
 
