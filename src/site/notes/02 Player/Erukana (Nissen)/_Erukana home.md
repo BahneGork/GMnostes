@@ -24,6 +24,7 @@ The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]]
 
 # Sessions 
+[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley\|12 - 200624 - Changer of time session 12 - downtime Astley]]
 [[02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11\|11 - 130624 - Changer of time session 11]]
 [[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10\|10 - 220524 - Changer of time session 10]]
 [[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|9 -150524 - Changer of time session 9]]
