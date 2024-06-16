@@ -4,7 +4,7 @@
 
 #erukana #campaign #worldhomenote
 
-# Main hub of Erukana. 
+# Main hub of Erukana 
 
 [![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](Erukana-annotated.png)
 
@@ -18,6 +18,7 @@
 | [Loot Sheet drive](https://loot.xcv.dk)                                | [[02 Player/Erukana (Nissen)/Locations/ErukanaMap\|ErukanaMap]]                      |                                                  |                                       |
 
 ![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
+
 # Active Missions 
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]]
