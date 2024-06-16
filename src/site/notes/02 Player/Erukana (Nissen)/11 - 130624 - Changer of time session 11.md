@@ -7,13 +7,13 @@
 # Corruption of Feywood 
 ![Pasted image 20240613192833.png|300](/img/user/10%20Attachments/Pasted%20image%2020240613192833.png)
 
-#### Dag 7 of the expedition into Feywood 
+#### Dag 7 of the expedition into Feywood  13th highsun
 - 5 dages rationer tilbage 
 - der er begyndt at lugte brændt
 - Guard order: Clarabell, Winston, Vargoth, Nibar 
 - Winston sover uroligt & dybt 
 - Clarabel kommer tilbage til leren som varulv og skifter form tilbage til menneske og kan intet huske
-#### Dag 8
+#### Dag 8 - 14th highsun 
 - Clara sætter et lille shrine op og beder om visdom og vejledning fra sin gud 
 - Vargoth mærke smerte fra naturen jo tættere vi kommer på det afbrændte skov
 - lyden af et vandfald nærmer sig 
@@ -22,5 +22,5 @@
 - Vargoth får jord elementalens øje som er en slags gemstone.
 - Vargoth kan kommunikere med stenen 
 
-#### Dag 9 
+#### Dag 12 - 18th highsun - Downtime Astley
 
