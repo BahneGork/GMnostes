@@ -32,7 +32,7 @@
 { .block-language-dataview}
 
 # People from the lore of Erukana 
-- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Queen Neferata]]
+- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
 
 { .block-language-dataview}
