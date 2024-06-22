@@ -12,6 +12,5 @@
 Rødt læder med sølvtråde på skæftet 
 
 
-
 [[300923 - Changer of time session 3\|300923 - Changer of time session 3]]
 [[02 Player/Erukana (Nissen)/Loot found\|Loot found]] 

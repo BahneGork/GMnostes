@@ -89,3 +89,7 @@
 82. Lady Dazran er en Ridder af helvede, hun er Lady af tittel og betragter sig selv som adelig og lawful.
 83. Cedric går i total blodrus under kampen med portal bæstet, det antages at være det nye sværd - Ravne kongens sværd - der er skyld i det.
 84. En portal hjem åbnes og gruppen træder igennem. 
+85. Gensyn med Ravne kongen 
+86. Cedric overtager Ravne kongens sværd 
+87. Ravne kongen belønner gruppen med et banner 
+88. 
