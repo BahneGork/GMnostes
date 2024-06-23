@@ -10,6 +10,8 @@
 - [[02 Player/Erukana (Nissen)/Locations/Dvalin Werewolf caves\|Dvalin Werewolf caves]]
 - [[02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves\|Dark Gem Kobold clan caves]]
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]
+- [[02 Player/Erukana (Nissen)/Vinterskov\|Vinterskov]]
+- [[02 Player/Erukana (Nissen)/Grøndalen\|Grøndalen]]
 
 { .block-language-dataview}
 
