@@ -35,6 +35,8 @@ der var også besøg af 4 folk fra [[mistport\|mistport]], for et 1 år siden.
 de havde et trekantet symbol på flere af deres ting (bahamuts symbol)
 Frostulf og Grima har set dragen
 
+![Vinterskov - Grøndalen - Erukana.png|700](/img/user/10%20Attachments/Vinterskov%20-%20Gr%C3%B8ndalen%20-%20Erukana.png)
+
 # In the death of Night 
 Mens vi sover bliver byen til råddenskab og udøde.
 Det viste sig at være en grøn sten der spredte grøn tåge, den smadrede vi. 
@@ -46,6 +48,9 @@ Winston bliver angrebet af 3 korrupteret egern
 Senere bliver vi alle angrebet af 3 korrupteret rådyr
 Clarabel bruger locate object for at finde de 4 eventyrers trekantet bahamut symbol.
 Vi finder de 4 eventyrer som udøde, der uden provokation angriber os.
+![Grøndalen-Erukana.png|600](/img/user/10%20Attachments/Gr%C3%B8ndalen-Erukana.png)
+
+
 # adventuring party vision
 
 Kigger igennem en andens øjne, inde i en grotte hvor nogen chanter. I midten af grotten ser jeg 4 høje personer i en cirkel med spredte arme, i mørke kåber. Mørke kugler svæver omkring med energi til de chantende personer. op ad jorden skyder mørke lilla farvet tentakler.

@@ -92,4 +92,26 @@
 85. Gensyn med Ravne kongen 
 86. Cedric overtager Ravne kongens sværd 
 87. Ravne kongen belønner gruppen med et banner 
-88. 
+88. Ravne kongen fortæller at Lady Dazran nu kan gå igang med at etablere en fremskudt base ude i domænet Rirroneth og erobre planet tilbage til LAW fra CHAOS.
+89. På vejen tilbage til Delios fra graven møder gruppen en mand på flugt fra Asketræ ridderen's soldater, Anton kaster usynlighed på ham og gruppen forsøger at lade som om de ikke har set noget overfor soldaterne.
+90. Tilbage i Delios træner gruppen og bliver bedre (level 8)
+91. Cedric sværger sin Oath of Vengeance overfor [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Saint Elowen Brightsword of Paladine\|Saint Elowen Brightsword of Paladine]], men det er [[01 GM/The Arendur Rising Campaign/01 Running the game/Prep next/Next notes/Xerathal - Sword of the Raven King\|Xerathal - Sword of the Raven King]] der tager imod hans ed.
+92. Cedric indgår en pagt med sværdet [[01 GM/The Arendur Rising Campaign/01 Running the game/Prep next/Next notes/Xerathal - Sword of the Raven King\|Xerathal]] om at bytte om på sine kræfter som paladin og eldritch knight, han tror han beder til [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Saint Elowen Brightsword of Paladine\|Saint Elowen Brightsword of Paladine]]
+93. Brumor bliver udvalgt af [[silverbeard\|silverbeard]] til hans [[01 GM/GM Screen/Silver Sentienl\|Silver Sentienl]] orden 
+94. Brumor mødes med en anden dværg, fra den [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Throg'was\|Throg'was]] der har rejst rundt i området. Hun fortæller at dværge helten [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Grozon “Hillsmasher”\|Grozon “Hillsmasher”]] er blevet taget til fange af den sorte drage [[01 GM/The Arendur Rising Campaign/01 Running the game/Prep next/Next notes/Regilarix - black dragon\|Regilarix - black dragon]] i Castle Blackspear ruinerne. 
+95. Dværgen gruppen leder efter en dværge rune som goblinerne stjal fra deres vault for 5 år siden. En rune som dværgene lavede i hemmelighed, der kan rive den store mur ned som dværgene byggede rundt om Arendur. Det er meget vigtigt at menneskerne ikke finder ud af at denne rune eksisterer, da det kan underminere alliancen.
+96. Frekka træner i at ramme vitale områder (champion critt 19-20)
+97. Anton skaber en ny kontakt i en gammel bog butik, der køber og sælger bøger.
+98. Anton opdager nogle nye spells 
+99. Anton bruger tid med [[Egas Mannon\|Egas Mannon]] og lærer hvordan tal og matematik kan væves ind i sin magi. 
+100. [[Egas Mannon\|Egas Mannon]] giver Anton [[01 GM/The Arendur Rising Campaign/Handouts/book of the raven\|book of the raven]] som bl.a. indeholder et kort 
+101. Gruppen sværger deres ed til Skyggekompagniet
+102. Hver får tildelt en titel i organisationen
+103. [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Lord Davide Castilla\|Lord Davide Castilla]] opsøger gruppen og beder om hjælp til at fange en snigmorder der har voldt hans organisation megen problemer, til gengæld vil han tilbyde sin højre hånd's hjælp og service til at få deres egen organisation på benene og et kort over Castle Blackspear 
+104. Gruppen kæmper med og fanger en edderkop der kan magi og overdrager den til [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Lord Davide Castilla\|Lord Davide Castilla]] 
+105. Aurilia tager til headquarters med [[01 GM/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Antero Calaman\|Antero Calaman]] og jævnfør hans rådgivning vil hun uddele titler og opgaver og få HQ op og køre.
+106. Gruppen begiver sig ud på en expedition mod Castle Blackspear, de vil slå ruten rundt forbi en ranger der har overlevet en kamp med den sorte drage de har hørt bor der nu. 
+107. Ved det døde bjerg, giver gruppen sig i kast med at udryde udøde zombier og skeletter. De går ind i bjerget og udryder en horde af ghouls. Et mægtigt monster vækkes til live og Brumor går ned. 
+108. Cedric forsøger at få Brumor ud og [[01 GM/The Arendur Rising Campaign/01 Running the game/Prep next/Next notes/Xerathal - Sword of the Raven King\|Xerathal - Sword of the Raven King]] tilbyder ham hjælp "men det kommer til at koste". 
+109. Brumor er død og Cedric får muligheden for at bringe ham tilbage, men han må opgive et level og indgå en aftale med [[Asmodeus\|Asmodeus]] the archdevil.
+110. Gruppen tager tilbage til [[Delios\|Delios]] for at slikke deres sår
