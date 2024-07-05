@@ -20,6 +20,8 @@
 
 ![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
 
+# Current date: 6th Marpenoth - leaffall
+# Current location: Grøndalen, Nordheim 
 # Active Missions 
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]]

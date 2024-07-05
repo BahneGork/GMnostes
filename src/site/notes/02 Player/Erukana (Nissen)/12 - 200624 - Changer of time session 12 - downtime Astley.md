@@ -66,3 +66,5 @@ Winston og Clara træner med scimitars
 	- Sigismund fald, Seiling og kongen blev begravet samme sted
 - kender Edmund til Azur ordnen ? 
 	- den tidligere baronesse var medlem azur/safir ordenen 
+
+# End date: 3rd Marpenoth (leaffall)
