@@ -18,14 +18,14 @@ img {
 }
 
 .content {
-    max-width: 1700px;
+    max-width: 1200px;
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
     margin-top: 90px;
     position: relative;
 
-    @media (max-width: 1800px) {
+    @media (max-width: 1200px) {
         margin-top: 75px;
     }
 }
