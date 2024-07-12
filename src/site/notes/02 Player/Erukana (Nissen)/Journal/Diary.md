@@ -49,8 +49,3 @@ in thy name i spill their blood,
 by thy power i bring the storm, 
 Talos, let me be the fury of your storms!"
 
-Første gang min gud manifistere sig på nogen måde, gør han det for at fortælle han er skuffet... til en cleric.. arggh... hvor hun i forvejen stod og vaklede. Jeg nåede frem til at for at undgå fortvivlelse og håbløshed var hun nød til at lade vreden, bæstet tage over. Ydermere har hun altid forkyndet at vi dødelige har vores egen vilje og der ikke er noget der hedder skæbne. og bahamut viste her at det var ikke tilfældet.. "gør nu som jeg siger" mere eller mindre :D 
-
-det var lidt svært lige at lure hvad jeg skulle gøre
-ALT hvad der lugter og minder om Bahamut bringer nu kun vrede
-Ordnen, pligter, loyalitet, beskyttelse af de svage osv
