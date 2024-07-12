@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1/"}
 ---
 
-# TESTTESTTEST
-
 #erukana #erukanasessionlog 
 
 # On the 6th of Flamerule in the Barony of Eresby

@@ -18,3 +18,39 @@ If Nibar hadn't survived that explosion and used my healing kit on us, we would 
 We found some ancient barred dwarven doors and [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] told us that it knows about those dwarven halls.
 
 The kobold leader had all the belongings of the dead adventurer group, among those were an odd piece. An hour glass with blue sand, held between two bands that could revolve around it.
+
+
+# Alter rummet i templet i [[02 Player/Erukana (Nissen)/Grøndalen\|Grøndalen]] i [[Nordheim\|Nordheim]].
+Jeg bad en bøn til Bahamut og forsøgte at kanalisere hans hellighed imod en Necromancers magiske barriere som holdte os ude af alter rummet hvor kilden til korruptionen i templet befandt sig. 
+
+Mine frænder begyndte at aktivere tidsrejse artifactet, som altid har flyttet os i enten tid eller rum og jeg ville ikke forlade templet, men rense det i min gud, bahamut's navn.
+
+Men Bahamut manifistrede sig i et tåget skikkelse og rystede på hovedet af mig. 
+
+Jeg har skuffet min gud, min tro var manglende. 
+
+I al den tid har jeg troet at jeg tjente min gud, at min tro var stærk, at jeg trådte den rette sti og fulgte de rette råd. At min indsigt var velsignet og ret. 
+
+Har jeg været forkert på den i al den tid? 
+Har Bahamut været utilfreds med min vej og nu var det dråben der fik bægeret til at flyde over?
+
+Har min tro på lov og orden været ... falsk? 
+
+"Jeg var loyal, jeg var pligt, 
+jeg gik i lyset, i troen.
+Nu forårsaget, loyaliteten forrådt, bliver jeg til vrede.
+JEG forsager DIG! Jeg er vrede og utæmmet bæst!
+Med denne ed omfavner jeg kaos og storm!"
+
+"Talos lord of Storms, 
+hear the fury in my blood,
+take mine enemy as sacrifice,
+in thy name i spill their blood,
+by thy power i bring the storm, 
+Talos, let me be the fury of your storms!"
+
+Første gang min gud manifistere sig på nogen måde, gør han det for at fortælle han er skuffet... til en cleric.. arggh... hvor hun i forvejen stod og vaklede. Jeg nåede frem til at for at undgå fortvivlelse og håbløshed var hun nød til at lade vreden, bæstet tage over. Ydermere har hun altid forkyndet at vi dødelige har vores egen vilje og der ikke er noget der hedder skæbne. og bahamut viste her at det var ikke tilfældet.. "gør nu som jeg siger" mere eller mindre :D 
+
+det var lidt svært lige at lure hvad jeg skulle gøre
+ALT hvad der lugter og minder om Bahamut bringer nu kun vrede
+Ordnen, pligter, loyalitet, beskyttelse af de svage osv

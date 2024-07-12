@@ -3,7 +3,7 @@
 ---
 
 
-#playercharacters #erukanapc #erukana 
+#erukanapc #playercharacters #erukanapc #erukana 
 
 **Motivation: Bevise sit værd (overfor andre specifikke måske? overfor sig selv?)**
 
@@ -13,6 +13,7 @@
  [[No Graph/5e Reference/Cleric\|Cleric]] of [[War Domain\|War Domain]] - [[Bahamut\|Bahamut]]
  [[No Graph/5e Reference/Human\|Human]]  
 
+Time Tattoo på venstre skuldre.
 
 # Ability Scores
 ### Level: 4
