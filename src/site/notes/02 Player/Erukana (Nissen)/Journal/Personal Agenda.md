@@ -6,11 +6,16 @@
 
 # Personal Todo list
 ## Next Actions 
-- [ ] 
-- [ ] 
+- [ ] Talk with [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] about the beast, nature, the great game of the gods, free will etc.. 
+- [ ] Free the people of Astley from the tyranny of the blood rose and their evil goddess
+- [ ] remove a piece of power, Astley, from the clutches of the dark lady Takhisis
+- [ ] if possible remove agents of power from Takhisis's board.
+- [ ] Understand and unlock the full potential of the beast within gifted by Mielikki, so that i may become the best predator i can be 
 ## Character reflections 
-- [ ] Reflect on Reckless & Rash combat behavior
-- [ ] Reflect on control vs rage 
+- [ ] Reflections on gods, their power, their need of mortals 
+- [ ] Reflect on the natural laws, predator and prey 
+- [ ] How the Queensguard failed and why 
+- [ ] A stronger less restricted version of the Queensguard that can defeat 
 ## Waiting For
 - [ ] træne scimitar brug for at opnå Defense bonus 
 
