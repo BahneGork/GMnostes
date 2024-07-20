@@ -42,10 +42,28 @@ Nu forårsaget, loyaliteten forrådt, bliver jeg til vrede.
 JEG forsager DIG! Jeg er vrede og utæmmet bæst!
 Med denne ed omfavner jeg kaos og storm!"
 
-"Talos lord of Storms, 
-hear the fury in my blood,
-take mine enemy as sacrifice,
-in thy name i spill their blood,
-by thy power i bring the storm, 
-Talos, let me be the fury of your storms!"
+# Guderne & mig 
+Jeg nægter at være en marionet dukke for guderne. 
+De har mere brug for os end vi har brug for dem. 
+Hvis min gud forsager mig og en anden gud begaver mig, så lad det være deres spil. 
+Jeg vælger det der giver mig størst styrke i kampen for min egen skæbne & frihed. 
+
+Deres regler styrker deres spil og deres magt over os.
+Jeg laver mine egne regler nu, misforstået loyalitet til guderne er netop dette, misforstået. 
+Queens garden levede efter regler inspireret af regler sat af guder og se hvad det har bragt dem, de er væk, udryddet. Queens garden er ude af stand til at kæmpe for frihed og undertrykkelse, de lå selv under for undertrykkelse og var bundet af misforstået ære og regler. 
+
+Bæstet inden i er af naturen, naturen er det vi alle kommer fra. Måske er det naturen der gemmer den uendelige sandhed og guderne der forsøger at tæmme den til deres eget formål som vi aldrig selv får at se. 
+Måske er det i naturen vi skal lede efter vejledning om rigtigt og forkert, selv i naturen er der altid et rovdyr der er større og nogen er altid byttet. 
+
+Mennesket har tæmmet de fleste dyr og rovdyr, selv monsters er blevet lagt ned af mennesker. 
+Er Guder det næste rovdyr i rækken? Nej, guder er kun lige så stærke som deres følgere. 
+De har brug for os, derfor skænker de os gaver i håbet om at vi giver dem mere magt. 
+
+Naturens lov, de stærke sejrer, selv guderne er underlagt denne lov. 
+
+Mielikki har gjort mig stærkere men givet mig friheden til at vælge.
+Bahamut forsøgte at bruge mig i sit spil om magten. 
+
+Jeg er bæstet, jeg er rovdyret, jeg er champion af naturens lov. 
+
 
