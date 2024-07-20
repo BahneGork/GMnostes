@@ -66,4 +66,6 @@ Bahamut forsøgte at bruge mig i sit spil om magten.
 
 Jeg er bæstet, jeg er rovdyret, jeg er champion af naturens lov. 
 
+Jo bedre et rovdyr jeg er, jo bedre kan jeg bekæmpe korruption, tyranni, undertrykkelse af frihed. 
+
 
