@@ -42,7 +42,8 @@ Nu forårsaget, loyaliteten forrådt, bliver jeg til vrede.
 JEG forsager DIG! Jeg er vrede og utæmmet bæst!
 Med denne ed omfavner jeg kaos og storm!"
 
-# Guderne & mig 
+# Clarabel's tanker 
+## Guderne & mig 
 Jeg nægter at være en marionet dukke for guderne. 
 De har mere brug for os end vi har brug for dem. 
 Hvis min gud forsager mig og en anden gud begaver mig, så lad det være deres spil. 
@@ -62,7 +63,7 @@ De har brug for os, derfor skænker de os gaver i håbet om at vi giver dem mere
 Naturens lov, de stærke sejrer, selv guderne er underlagt denne lov. 
 
 Mielikki har gjort mig stærkere men givet mig friheden til at vælge.
-Bahamut forsøgte at bruge mig i sit spil om magten. 
+Bahamut forsøgte at bruge mig i sit spil om magten, at styre mine handlinger og forsagede mig da jeg nægtede.
 
 Jeg er bæstet, jeg er rovdyret, jeg er champion af naturens lov. 
 
