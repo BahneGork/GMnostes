@@ -4,7 +4,64 @@
 
 #erukana #clarabel 
 
-# Personal Todo list
+# Clara Motivations 
+
+## Motivations 
+- Fight Opression 
+- Oppose divine manipulation 
+- Be the strongest Predator/Hunter i can be
+
+# Goals
+
+## Long term goal
+- 
+### Short term goals
+- 
+
+## Mid term goal 
+- 
+### Short term goals 
+- 
+## Unlock my inner beast - Mid term goal 
+- Unlock the full potential of my inner beast 
+### Short term goals
+- [ ] Talk with Celedrial about the gift 
+- [ ] Seek a connection with nature 
+- [ ] Commune with Nature about the inner beast 
+- [ ] Find others like me and learn from them 
+## Defeat purple plague invasion - Long term goal 
+- Defeat the purple plague invasion
+### Short term goal 
+- [ ] Find out what the purple plague is 
+- [ ] Find out who is behind it
+- [ ] Find out why it is happening 
+- [ ] Find out how it can be stopped 
+- [ ] Gather intelligence on the blood rose in Astley 
+
+## Sir Seillings Mausoleum - Mid term goal
+- Explore [[Sir Seillings mausoleum\|Sir Seillings mausoleum]]
+### Short term goals 
+- [ ] Find out it's location 
+- [ ] Research the history of Sir Selling 
+## Establish Intelligence gathering - Mid term goal
+- Create an intelligence gathering organization
+### Short term goals
+- [ ] Get assistance of a former knight, now priest of Paladine on how to get started 
+- [ ] Find new short term goals, once we have heard from him 
+## Unseat the Blood rose from power in Astley - Mid term goals 
+- Unseat the blood rose in Astley 
+### Short term goals
+- [ ] Find out which persons are of interest in unseating the blood rose from power 
+- [ ] Find out what those persons weaknesses, desires, wants, needs are 
+## Learn about our Tattoo's - Mid term goal 
+- Find out how/why we have our tattoo's  
+### Short term goal 
+- [ ] [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]] 
+- [ ] Question Avalande on the Azure order and our tattoo's 
+- [ ] Search the arcane tower ruins for clues 
+
+
+
 ## Next Actions 
 - [ ] Talk with [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] about the beast, nature, the great game of the gods, free will etc.. 
 - [ ] Free the people of Astley from the tyranny of the blood rose and their evil goddess
@@ -15,7 +72,7 @@
 - [ ] Reflections on gods, their power, their need of mortals 
 - [ ] Reflect on the natural laws, predator and prey 
 - [ ] How the Queensguard failed and why 
-- [ ] A stronger less restricted version of the Queensguard that can defeat 
+- [ ] A stronger less restricted version of the Queensguard that won't fail 
 ## Waiting For
 - [ ] træne scimitar brug for at opnå Defense bonus 
 
