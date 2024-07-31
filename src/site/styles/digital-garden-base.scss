@@ -14,18 +14,18 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: 80%;
 }
 
 .content {
-    max-width: 700px;
+    max-width: 900px;
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
     margin-top: 90px;
     position: relative;
 
-    @media (max-width: 1200px) {
+    @media (max-width: 900px) {
         margin-top: 75px;
     }
 }
@@ -64,7 +64,7 @@ ul.task-list {
 .sidebar {
     position: fixed;
     top: 75px;
-    right: 17px;
+    right: 25px;
     height: 100%;
     min-width: 25px;
     display: flex;
@@ -72,7 +72,7 @@ ul.task-list {
     max-width: 550px;
 
     .graph {
-        width: 620px;
+        width: 320px;
         min-height: 320px;
 
         #link-graph {
@@ -91,7 +91,7 @@ ul.task-list {
         height: calc(100vmin - 100px);
         width: calc(100vmin - 100px);
         min-height: 350px;
-        min-width: 650px;
+        min-width: 320px;
         transform: translate(-50%, -50%);
         z-index: 9999;
         display: block;
