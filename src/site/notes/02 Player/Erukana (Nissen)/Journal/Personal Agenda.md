@@ -19,9 +19,11 @@
 - 
 
 ## Mid term goal 
-- 
+- Ally our organisation with Fafnir's 
 ### Short term goals 
-- 
+- [ ] Intelligence gathering organisation up and running 
+- [ ] Have a sit down with Fafnir
+- [ ] come to terms for an alliance 
 ## Unlock my inner beast - Mid term goal 
 - Unlock the full potential of my inner beast 
 ### Short term goals
