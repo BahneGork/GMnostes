@@ -60,11 +60,7 @@ Winston og Clara træner med scimitars
 - tidligere Queensguard 
 - præst af paladine 
 - Queensguarden er gået i skjul, jagtet, tilnærmelsesvis udryddet 
-- tjener af kong Norgassa, [[Sir Seillings mausoleum\|Sir Seillings mausoleum]] 
-	- kongen var lidt af en tyran 
-	- Sir Seilling kunne guide kongen til mere nænsomme retninger 
-	- Sigismund fald, Seiling og kongen blev begravet samme sted
-- kender Edmund til Azur ordnen ? 
+-[[02 player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] ? 
 	- den tidligere baronesse var medlem azur/safir ordenen 
 
 # End date: 3rd Marpenoth (leaffall)

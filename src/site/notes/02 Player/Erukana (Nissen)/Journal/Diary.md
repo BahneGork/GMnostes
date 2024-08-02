@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Diary/"}
 ---
 
+#clarabel #erukanapc #pc/journal 
+
+Relevant links: [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Personal Agenda]]
 # Diary of Clarabel Lancaster 
 
 6th of Flamerule in the Barony of Eresby

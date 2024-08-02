@@ -40,16 +40,24 @@
 - [ ] Find out how it can be stopped 
 - [ ] Gather intelligence on the blood rose in Astley 
 
-## Sir Seillings Mausoleum - Mid term goal
+## Sir Seilings Mausoleum - Mid term goal
 - Explore [[Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 ### Short term goals 
-- [ ] Find out it's location 
-- [ ] Research the history of Sir Selling 
+- [x] Find out it's location ✅ 2024-08-02
+- [x] Research the history of Sir Seiling ✅ 2024-08-02
+	- [x] [[02 player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] research ✅ 2024-08-02
+- [ ] Prepare the expedition
+- [ ] Start the expedition 
+- [ ] Find the tomb
+- [ ] Enter the tomb
+- [ ] Find out what Winston is supposed to do there 
 ## Establish Intelligence gathering - Mid term goal
 - Create an intelligence gathering organization
 ### Short term goals
 - [ ] Get assistance of a former knight, now priest of Paladine on how to get started 
 - [ ] Find new short term goals, once we have heard from him 
+- [ ] Ask "Fritte" to join our cause, our team even. She could have/gain access to certain communities in the city that we will struggle with ourselves.
+- [ ] Ask Bjørn if he knows people that could aid our cause or would want to join it.
 ## Unseat the Blood rose from power in Astley - Mid term goals 
 - Unseat the blood rose in Astley 
 ### Short term goals
@@ -61,10 +69,14 @@
 - [ ] [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]] 
 - [ ] Question Avalande on the Azure order and our tattoo's 
 - [ ] Search the arcane tower ruins for clues 
+- [ ] Offer/Ask "Fritte" to join us, so that we may all learn more about our tattoo's 
+- [ ] Offer/Ask Bjørn to join us and learn what he knows of the Tattoo
 
 
 
 ## Next Actions 
+- [ ] Talk with "Fritte" about joining us; Tattoos; Intelligence gathering 
+- [ ] Talk with Bjørn about joining us; Tattoos; usurp the blood rose 
 - [ ] Talk with [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] about the beast, nature, the great game of the gods, free will etc.. 
 - [ ] Free the people of Astley from the tyranny of the blood rose and their evil goddess
 - [ ] remove a piece of power, Astley, from the clutches of the dark lady Takhisis

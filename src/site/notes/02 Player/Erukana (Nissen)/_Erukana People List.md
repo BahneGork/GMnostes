@@ -24,6 +24,7 @@
 - [[02 Player/Erukana (Nissen)/People/Nerrin Toftenhøj\|Nerrin Toftenhøj]]
 - [[02 Player/Erukana (Nissen)/People/Petyr Gottmann\|Petyr Gottmann]]
 - [[02 Player/Erukana (Nissen)/People/Qenes Markmoon\|Qenes Markmoon]]
+- [[02 player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]]
 - [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]
 - [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
 - [[02 Player/Erukana (Nissen)/People/Verner Mistvale\|Verner Mistvale]]
