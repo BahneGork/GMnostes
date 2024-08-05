@@ -12,3 +12,5 @@ Derefter skal den hvile udenfor og suge natten.
 Old gammel livvagt for Skyggehånden. "Kehl".  
 Efter de første 12 runder, ligger der en miniature rustning i Clarabels hånd på størrelse med et fingerbøl. 
 Kan gives ordre. 
+
++7 to hit 9 dmg slashing  1d8+5 

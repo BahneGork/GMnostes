@@ -19,17 +19,16 @@
 - 
 
 ## Mid term goal 
-- Ally our organisation with Fafnir's 
+- [x] Ally our organisation with Fafnir's ✅ 2024-08-05
 ### Short term goals 
-- [ ] Intelligence gathering organisation up and running 
-- [ ] Have a sit down with Fafnir
-- [ ] come to terms for an alliance 
+- [x] Have a sit down with Fafnir ✅ 2024-08-05
+- [x] come to terms for an alliance ✅ 2024-08-05
 ## Unlock my inner beast - Mid term goal 
 - Unlock the full potential of my inner beast 
 ### Short term goals
 - [ ] Talk with Celedrial about the gift 
-- [ ] Seek a connection with nature 
-- [ ] Commune with Nature about the inner beast 
+- [x] Seek a connection with nature ✅ 2024-08-05
+- [x] Commune with Nature about the inner beast ✅ 2024-08-05
 - [ ] Find others like me and learn from them 
 ## Defeat purple plague invasion - Long term goal 
 - Defeat the purple plague invasion
@@ -38,14 +37,13 @@
 - [ ] Find out who is behind it
 - [ ] Find out why it is happening 
 - [ ] Find out how it can be stopped 
-- [ ] Gather intelligence on the blood rose in Astley 
 
 ## Sir Seilings Mausoleum - Mid term goal
 - Explore [[Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 ### Short term goals 
 - [x] Find out it's location ✅ 2024-08-02
 - [x] Research the history of Sir Seiling ✅ 2024-08-02
-	- [x] [[02 player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] research ✅ 2024-08-02
+	- [x] [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] research ✅ 2024-08-02
 - [ ] Prepare the expedition
 - [ ] Start the expedition 
 - [ ] Find the tomb
@@ -61,8 +59,10 @@
 ## Unseat the Blood rose from power in Astley - Mid term goals 
 - Unseat the blood rose in Astley 
 ### Short term goals
+- [ ] Gather intelligence on the blood rose in Astley 
 - [ ] Find out which persons are of interest in unseating the blood rose from power 
 - [ ] Find out what those persons weaknesses, desires, wants, needs are 
+- [ ] Hvad ved Bjørn om blod rosen fra hans tid i deres hær
 ## Learn about our Tattoo's - Mid term goal 
 - Find out how/why we have our tattoo's  
 ### Short term goal 
@@ -70,13 +70,21 @@
 - [ ] Question Avalande on the Azure order and our tattoo's 
 - [ ] Search the arcane tower ruins for clues 
 - [ ] Offer/Ask "Fritte" to join us, so that we may all learn more about our tattoo's 
-- [ ] Offer/Ask Bjørn to join us and learn what he knows of the Tattoo
+- [x] Offer/Ask Bjørn to join us and learn what he knows of the Tattoo ✅ 2024-08-05
 
 
 
 ## Next Actions 
+- [ ] Talk with the group about my situation 
+- [x] Talk with Winston about me and the knighthood ✅ 2024-08-05
+	- [ ] seeing as QueensGuard failed.. Suggest a new way of doing things, with our own team as inspiration
+- [x] Talk with Nibar about his pursuit of dark things ✅ 2024-08-05
 - [ ] Talk with "Fritte" about joining us; Tattoos; Intelligence gathering 
-- [ ] Talk with Bjørn about joining us; Tattoos; usurp the blood rose 
+- [x] Talk with Bjørn about joining us; Tattoos; usurp the blood rose ✅ 2024-08-04
+	- [x] kender ikke noget til tattooveringen ✅ 2024-08-04
+	- [x] Bjørn beder til Tempus ✅ 2024-08-04
+	- [x] fik en "divine besked" om at han nu er med i kampen mellem det gode og det onde ✅ 2024-08-04
+- [x] Contact Fafnir about a meeting or go there ✅ 2024-08-05
 - [ ] Talk with [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] about the beast, nature, the great game of the gods, free will etc.. 
 - [ ] Free the people of Astley from the tyranny of the blood rose and their evil goddess
 - [ ] remove a piece of power, Astley, from the clutches of the dark lady Takhisis
@@ -89,6 +97,12 @@
 - [ ] A stronger less restricted version of the Queensguard that won't fail 
 ## Waiting For
 - [ ] træne scimitar brug for at opnå Defense bonus 
+- [ ] Edmund - gathering intelligence 
+- [ ] finding Avalande 
+- [ ] Going to the Arcane tower 
+- [ ] Going to Sir Seilings tomb 
+- [ ] Fafnir agreeing to alliance 
+- [ ] Silvara to wake up
 
 # Completed
 ## Mistville - 23rd - 25th Flamerule - session 4-5

@@ -50,7 +50,7 @@
 - Nibar insisterer på at bøgerne ikke kan være onde. 
 - clara og nibar diskuterer om god og ond findes og om ting kan være gode og onde 
 - Nibar går igang med at identificere ting i kisten 
-	- [[02 Player/Erukana (Nissen)/Gammel slidt guld rustning\|Gammel slidt guld rustning]]- "Kehl" et skeleton apparition dukker op i rustningen. Skelettet taler til Nibar på et sprog som vi andre ikke forstår. "jeg er klar til at tjene dem herre". A suit of animated armor. #magicitem #armor  #erukana/lootfound #clarabel 
+	- [[02 Player/Erukana (Nissen)/Loot/Gammel slidt guld rustning\|Gammel slidt guld rustning]]- "Kehl" et skeleton apparition dukker op i rustningen. Skelettet taler til Nibar på et sprog som vi andre ikke forstår. "jeg er klar til at tjene dem herre". A suit of animated armor. #magicitem #armor  #erukana/lootfound #clarabel 
 	- et [["drage æg" af sorte skæl med et rødt omridst på hver skæl\|"drage æg" af sorte skæl med et rødt omridst på hver skæl]]. #erukana/lootfound 
 	- En Bog! #erukana/lootfound #morgion 
 	- 350 guld stykker #erukana/lootfound 

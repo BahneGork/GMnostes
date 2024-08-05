@@ -23,7 +23,7 @@ We found some ancient barred dwarven doors and [[02 Player/Erukana (Nissen)/Peop
 The kobold leader had all the belongings of the dead adventurer group, among those were an odd piece. An hour glass with blue sand, held between two bands that could revolve around it.
 
 
-# Alter rummet i templet i [[02 Player/Erukana (Nissen)/Grøndalen\|Grøndalen]] i [[Nordheim\|Nordheim]].
+# Alter rummet i templet i [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] i [[Nordheim\|Nordheim]].
 Jeg bad en bøn til Bahamut og forsøgte at kanalisere hans hellighed imod en Necromancers magiske barriere som holdte os ude af alter rummet hvor kilden til korruptionen i templet befandt sig. 
 
 Mine frænder begyndte at aktivere tidsrejse artifactet, som altid har flyttet os i enten tid eller rum og jeg ville ikke forlade templet, men rense det i min gud, bahamut's navn.

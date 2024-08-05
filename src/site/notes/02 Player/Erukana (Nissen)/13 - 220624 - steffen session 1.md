@@ -20,12 +20,12 @@ På kort tid finder vi en lille landsby.
 Alt er lidt nordisk/viking agtigt og rustikt. 
 
 # Gæstgiveriet 
-Vi får af vide at stedet kaldes [[02 Player/Erukana (Nissen)/Vinterskov\|Vinterskov]] i [[02 Player/Erukana (Nissen)/Grøndalen\|Grøndalen]] som ligger i [[Nordheim\|Nordheim]]
+Vi får af vide at stedet kaldes [[02 Player/Erukana (Nissen)/Vinterskov\|Vinterskov]] i [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] som ligger i [[Nordheim\|Nordheim]]
 Byen handler i dyr, planter og tømmer og andet fra skoven. 
 nuværende lokal dato: Ukthar måned
 Innkeeper Håkan
 datteren [[skur\|skur]] 
-[[Håkan\|Håkan]] tegner et kort i jord på disken over [[02 Player/Erukana (Nissen)/Grøndalen\|grøndalen]].
+[[Håkan\|Håkan]] tegner et kort i jord på disken over [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]].
 En druide - [[Seiran\|Seiran]] kom og hjalp med dalen, følger af [[Mielikki\|Mielikki]]
 Der kom en blå drage for 10år og forsvandt for 5 år siden, druiden forsvandt da Dragen kom. 
 særligt træ i dalen, "blåt træ" 
@@ -40,7 +40,7 @@ Frostulf og Grima har set dragen
 # In the death of Night 
 Mens vi sover bliver byen til råddenskab og udøde.
 Det viste sig at være en grøn sten der spredte grøn tåge, den smadrede vi. 
-vi finder 253 guld og et brændt brev med Queensguard symbol/segl, der er ikke noget tilbage af brevet. 
+vi finder 253gp #erukana/lootfound  guld og et brændt brev med Queensguard symbol/segl, der er ikke noget tilbage af brevet. 
 
 # Valley Trekking
 vi bliver viklet ind i torne. 
