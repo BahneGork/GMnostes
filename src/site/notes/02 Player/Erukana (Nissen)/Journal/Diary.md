@@ -73,3 +73,7 @@ Jeg er bæstet, jeg er rovdyret, jeg er champion af naturens lov.
 Jo bedre et rovdyr jeg er, jo bedre kan jeg bekæmpe korruption, tyranni, undertrykkelse af frihed. 
 
 
+# Communing with Mielikki 
+- Efter en dag og en nat i Soltræet har jeg etableret min forbindelse med Mielikki 
+- en splint fra træet flyder op til overfladen med en halskæde lavet af sammenfoldet blade, helligt symbol 
+- 
