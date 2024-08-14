@@ -27,6 +27,7 @@ The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]]
 
 # Sessions 
+[[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15\|19 - 140824- Changer of time - nissen -  session 15]]
 [[02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14\|18 - 080824 - Changer of time - nissen - session 14]]
 [[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13\|17 - 250624 - Changer of time - nissen - session 13]]
 [[02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4\|16 - 160724 - steffen session 4]]
