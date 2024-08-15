@@ -18,7 +18,7 @@
 ### Short term goals
 - 
 
-## Mid term goal 
+## Mid term goal - Ally with Fafnir - DONE
 - [x] Ally our organisation with Fafnir's ✅ 2024-08-05
 ### Short term goals 
 - [x] Have a sit down with Fafnir ✅ 2024-08-05
@@ -72,7 +72,7 @@
 - [ ] Offer/Ask "Fritte" to join us, so that we may all learn more about our tattoo's 
 - [x] Offer/Ask Bjørn to join us and learn what he knows of the Tattoo ✅ 2024-08-05
 
-
+## Short term goal - Clear my name of Miri's murder  - DONE 
 
 ## Next Actions 
 - [ ] Talk with the group about my situation 
