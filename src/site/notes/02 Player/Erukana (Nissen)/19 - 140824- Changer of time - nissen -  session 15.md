@@ -78,4 +78,4 @@
 - Nibar blev befriet og ligner nu sig selv før han blev forbandet af den lilla plage og den onde bog 
 - Bjørn tager Fritte's spejl med 
 - Vargoth og Bjørn vælger at loote 
-- 
+

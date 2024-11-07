@@ -23,7 +23,7 @@ Clarabel coincidentally ran like a werewolf into the night the same night and th
 Winston woke Clarabel in her room, all muddied and dishevelled, with a fingernail in her mouth. 
 
 ## Related Locations 
-[[Alistair estate\|Alistair estate]]
+[[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]]
 [[Sangstrup home\|Sangstrup home]]
 [[Bager\|Bager]] 
 
@@ -63,27 +63,28 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 - We investigated the curse at the city library, see appendix on [[02 Player/Erukana (Nissen)/The strangle voice curse\|The strangle voice curse]] 
 - Then we proceeded to wait in Elivra's room for the woman coming to fetch her, we believed it to be the same who had cursed her.
 - It was not the same woman, but some girl who had been paid by [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] to come fetch Elivra for him 
-- We disguised one of us as Elvira and had the girl escort us to the location, which turned out to be the [[Alistair estate\|Alistair estate]] 
-- our "elvira" went inside and we waited out side for a signal via his wizards familiar 
+- We disguised one of us as Elvira and had the girl escort us to the location, which turned out to be the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] 
+- our "elvira" went inside and we waited out side for a signal to come in. 
 - Once signalled we rushed in to find [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]], [[Lord Steffan blast fingers\|Lord Steffan blast fingers]], [[Lord Marshal Viggo Trenten\|Lord Marshal Viggo Trenten]] and [[Lady lucille vitano\|Lady lucille vitano]] attacking our friend with demons, sword and magic. 
 	- It would seem that [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] & [[Lady lucille vitano\|Lady lucille vitano]] also sent souls to hell. The room in the basement is filled with mirrors that act as a viewing portal to all the souls they have sent there. We saw this in action as [[Lady lucille vitano\|Lady lucille vitano]] sent one of our souls there. 
 - [[Lord Marshal Viggo Trenten\|Lord Marshal Viggo Trenten]] invoked the name GRAZZT, which we believe to be some kind of Fiend lord, perhaps this is the one they all served 
 - [[Lord Steffan blast fingers\|Lord Steffan blast fingers]] was willing to name names of other rich and powerful people involved in the cult club, but Mielikki's divine intervention sent him to the abyss and saved our friend's soul. 
 - We have yet to discover at way to save all the souls 
-- Further investigation of the [[Alistair estate\|Alistair estate]] revelaed that the real [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] is a victim as well and his soul is also trapped in hell.  The fiend we encountered has used his form, name and position to further his cultist ends. 
+- Further investigation of the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] revelaed that the real [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] is a victim as well and his soul is also trapped in hell.  The fiend we encountered has used his form, name and position to further his cultist ends. 
 
 
 ## Conclusion 
-[[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] and [[Lady lucille vitano\|Lady lucille vitano]] hosted a club - [[The cult of the Opal society\|The cult of the Opal society]] - in the [[Alistair estate\|Alistair estate]] for the rich and powerful. Here they could indulge in all manner of decadant desires.  
+[[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] and [[Lady lucille vitano\|Lady lucille vitano]] hosted a club - [[The cult of the Opal society\|The cult of the Opal society]] - in the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] for the rich and powerful. Here they could indulge in all manner of decadant desires.  
 They also collected souls of unfortunate for their fiend lord Grazzt.  
 Miri Sangstrup saw what was really going on and she should not have. 
 [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] turned her fiance [[Krugge\|Krugge]] into a beast to pursue her and kill her. 
 [[Krugge\|Krugge]]'s current location is unknown. 
 [[Lady lucille vitano\|Lady lucille vitano]] escaped from the mansion and is perhaps the real power behind [[The cult of the Opal society\|The cult of the Opal society]] 
 
-Signed by ~ Mistville Marshal's 
-[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] - [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster DndBeyondSheet\|Clarabel Lancaster DndBeyondSheet]]  &  [[Bjørn of Nordheim\|Bjørn of Nordheim]]
+Signed by ~ Astley Avengers
+[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] - [[Bjørn of Nordheim\|Bjørn of Nordheim]]  &  [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]]
 ![flour de lis wax seal.png|300](/img/user/10%20Attachments/flour%20de%20lis%20wax%20seal.png)
+
 
 </div></div>
 
@@ -96,7 +97,55 @@ Miri's murderer unmasked
 
 
 ## Loot found on Mission 
+> I finder følgende på de døde kultmedlemmer:  
+> - En sort sølv ring med en rubin indsat i. Når identificeret giver den bæreren en Constitution score på 19. Hvis bæreren har det samme eller højere, gør den intet. Kræver attunement. (Lord Alistair)
 
+> - Full plate mail – gammel, men vedligeholdt. (Lord Trenton)
+
+> - Garnet krystal – Blod krystallen – Et magisk forstærket rød gemstone som kræver attunement. Den kan bruges ved at lægge på et fornyeligt dødt væsen (inden for et minut) med en CR på ½ eller højere. Hvis væsenet har blod, får krystallen en charge. Krystallen kan max have 20 charges og max suge 5 charges pr. Long rest. Du kan bruge en action på at bruge 1+ charge (som en firebolt spell) som gør 1d4 necrotic skade pr. charge benyttet. Når den sidste charge er benyttet. Hvis den sidste charge bliver brugt, ødelægges stenen. (Lord Glassfingers)
+
+> - Lord Alistairs journal og skødet til hans hus.
+> - Bøger og andet brugskunst, hobby materiale mm. Til en værdi af 12.000 gp.
+> - Rigt inventar i form af møbler til at dække hele huset, til en værdi af 60.000 gp.
+> - Skatte, tradebars, gemstones til en værdig af 15.000 gp – låst inde i et pengeskab.
+> - 3 tjenestefolk – en Chamberlain, 1 stuepige, 1 kokkepige.
+> - 1 [[handelsaftale med Sølv Hånden\|handelsaftale med Sølv Hånden]], som giver [[Alistairs handelsforretning\|Alistairs handelsforretning]] adgang til at deltage & handle på vegne og med [[Sølv Håndens købmands laug\|Sølv Håndens købmands laug]] i Erukana. Dette giver rettigheder til at benytte handelsflåder og karavaner, og giver adgang til at købe og videresælger materiale både ind- og udlands.
+> - Formidler og handelskyndig: [[Assana Lemieux\|Assana Lemieux]]. Arbejder i og ud fra [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair hustanden]] og deres butik. Formidler og håndtere den daglige drift af Alistairs voksende ”handelsimperium”. Dette har hun gjort i flere år for Alistair, så han bare har kunne nyde indkomsten og leve livet. Hun viser tegn på at hun egentlig ikke har brugt meget tid med Alistair ud over i forretnings øjemed. Hvis gruppen er interesseret, vil hun gerne drive forretningen videre for samme aftale som hun havde med Alistair, alternativt kan hun sælge forretningen for dem.
+> 
+> Muligheder:
+> 
+> - Overtage Alistair’s mansion, eller sælge det.
+> - Overtage Alistair’s handelsforretning og handelsaftale eller sælge dem.
+> 
+> Hvis I ønsker det solgt, vil Assana Lemieux gerne sælge det for følgende:  
+>   
+> 
+> Mansion med inventar: 120.000 gp i en bankslip som ligger i Astley’s trade bank.
+> 
+> Forretning med inventar, materiale og handelsaftale for: 25.000 gp.
+> 
+> Alternativt kan hun drive forretningen videre for gruppen (som måske også kan bruges som en front?) ved denne opstilling:
+> 
+>   
+> Ud fra nuværende handelsaftaler og traktater:
+> 
+> |   |   |
+> |---|---|
+> |Månedlig indkomst|7500|
+> |Månedlig udgifter|2900|
+> |**Forventet månedlig overskud:**|4600|
+> |||
+> |Udgifter:||
+> |Assana's løn|1500|
+> |Personale løn|200|
+> |Vedligeholdelse|1000|
+> |Indflydelse og gaver|200|
+> |**Ialt:**|2900|
+> |||
+> |Indkomst||
+> |Salg og videresalg|6000|
+> |Provenu for mindre handelsaftaler|1500|
+> |**Ialt:**|7500|
 
 
 
