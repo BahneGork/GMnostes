@@ -8,12 +8,12 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | [[02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion\|Arcana Tower Explosion]]                                                     | \-                                  |
 | [[02 Player/Erukana (Nissen)/Missions/Corruption of Feywood\|Corruption of Feywood]]                                                       | Earth Elemental Stone               |
-| [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Feywood Beast Bounty]]                                                         | 500gp                               |
 | [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]]                                                   | \-                                  |
+| [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Feywood Beast Bounty]]                                                         | 500gp                               |
 | [[02 Player/Erukana (Nissen)/Missions/Find Sorte Rose Lejren\|Find Sorte Rose Lejren]]                                                     | \-                                  |
-| [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley\|Solve the murder of Miri in Astley]]                             | Clearing Clarabel's name from doubt |
 | [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]]                     | 200gp                               |
 | [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]] | \-                                  |
 | [[No Graph/Templates/Campaign/New Mission - player\|New Mission - player]]                                                                 | \-                                  |
+| [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley\|Solve the murder of Miri in Astley]]                             | Clearing Clarabel's name from doubt |
 
 { .block-language-dataview}

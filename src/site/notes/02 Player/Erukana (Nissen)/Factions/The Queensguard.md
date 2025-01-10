@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Queensguard/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Queensguard/","tags":["Erukana"]}
 ---
 
 #erukana #faction 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Horden/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Horden/","tags":["Erukana"]}
 ---
 
 

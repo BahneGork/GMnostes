@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Emerald enclave/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Emerald enclave/","tags":["Erukana"]}
 ---
 
 #faction #Erukana 

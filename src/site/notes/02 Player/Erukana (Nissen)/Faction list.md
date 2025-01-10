@@ -16,5 +16,6 @@
 - [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]]
 - [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]]
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
+- [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]]
 
 { .block-language-dataview}

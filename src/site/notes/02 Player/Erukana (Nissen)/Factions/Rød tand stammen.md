@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Rød tand stammen/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Rød tand stammen/","tags":["Erukana"]}
 ---
 
 #erukana #erukana/faction #erukana/orcs 

@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15/"}
 ---
 
-#erukana #erukanasessionlog 
+
+- [ ] #erukana #erukanasessionlog 
 
 # Ambush the rich red & black 
 
@@ -64,9 +65,8 @@
 - Nameless lord 2 trækker sit greatsword og råber "ved GRAZZT"
 - Lady'en hidkalder en greater demon 
 - Nibar bliver targeted af nameless Lady og forsvinder ind i et spejl 
-- Det lykkedes 
 - [[Lord Steffan blast fingers\|Lord Steffan blast fingers]] 
-- [[Lady lucille vitano\|Lady lucille vitano]] 
+- [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] 
 - klub for rige og indflydelses rige kunne få opfyldt alle mulige dekadente ønsker 
 - Miri opdagede hvad der foregik og Alistair sendte Krugger efter hende i form af et halv bæst så han slog Miri ihjel 
 - Krugger er ikke at finde i bygningen 

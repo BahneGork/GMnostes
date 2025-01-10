@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Mission Board/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Mission Board.sync-conflict-20241119-184933-V66FTQD/"}
 ---
 
 #erukanamissions #playernotes #erukana 
@@ -29,6 +29,4 @@ Mission template: [[No Graph/Templates/Campaign/New Mission - player\|New Missio
 
 # Failed Missions 
 
-
 { .block-language-dataview}
-

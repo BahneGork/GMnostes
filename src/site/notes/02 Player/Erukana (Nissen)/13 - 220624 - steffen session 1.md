@@ -20,7 +20,7 @@ På kort tid finder vi en lille landsby.
 Alt er lidt nordisk/viking agtigt og rustikt. 
 
 # Gæstgiveriet 
-Vi får af vide at stedet kaldes [[02 Player/Erukana (Nissen)/Vinterskov\|Vinterskov]] i [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] som ligger i [[Nordheim\|Nordheim]]
+Vi får af vide at stedet kaldes [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov\|Vinterskov]] i [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] som ligger i [[Nordheim\|Nordheim]]
 Byen handler i dyr, planter og tømmer og andet fra skoven. 
 nuværende lokal dato: Ukthar måned
 Innkeeper Håkan

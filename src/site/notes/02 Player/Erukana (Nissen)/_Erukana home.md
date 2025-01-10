@@ -20,13 +20,14 @@
 
 ![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
 
-# Current date: 6th Marpenoth - leaffall
-# Current location: Grøndalen, Nordheim 
+#### Current date: 6th Uktar 
+#### Current location: [[Astley\|Astley]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
 # Active Missions 
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]]
 
 # Sessions 
+[[02 Player/Erukana (Nissen)/Downtime Astley 2 - between session 19-20\|Downtime Astley 2 - between session 19-20]]
 [[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15\|19 - 140824- Changer of time - nissen -  session 15]]
 [[02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14\|18 - 080824 - Changer of time - nissen - session 14]]
 [[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13\|17 - 250624 - Changer of time - nissen - session 13]]

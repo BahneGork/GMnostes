@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Slette folket/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Slette folket/","tags":["Erukana"]}
 ---
 
 #faction #erukana 
