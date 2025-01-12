@@ -51,7 +51,7 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 - We investigated the site of discovery, found tracks that indicated the body of [[miri sangstrup\|miri sangstrup]] had been dragged into the woods from the city. 
 - We did a background check on Miri with her father at the Sangstrup household, where we learned of her fiancee and that she had a close friend in the city, named [[Elvira\|Elvira]]. 
 - Investigating the market, asking around about Miri and her possible friend led us to the [[den brækkede knogle\|den brækkede knogle]] tavern where [[Elvira\|Elvira]] worked as a pleasure girl. 
-- [[Elvira\|Elvira]] told us she attended a nightly activity on a regular basis, but she did not wish to reveal anymore than that. Upon further encouragement she chose to reveal the name [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] and upon this utterance a terrible curse named [[02 Player/Erukana (Nissen)/The strangle voice curse\|The strangle voice curse]] took effect upon the poor girl. Her heart burst and blood gushed from her mouth. 
+- [[Elvira\|Elvira]] told us she attended a nightly activity on a regular basis, but she did not wish to reveal anymore than that. Upon further encouragement she chose to reveal the name [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] and upon this utterance a terrible curse named [[02 Player/Erukana (Nissen)/Journal/The strangle voice curse\|The strangle voice curse]] took effect upon the poor girl. Her heart burst and blood gushed from her mouth. 
 - The keep of the tavern [[den brækkede knogle\|den brækkede knogle]] was of no help, she was more concerned with the city guard not showing up. 
 - We summoned the memory of Elvira back into her body and asked her 5, not 4 and not 6 questions. 
 	- Who killed Miri? :  I do not know 
@@ -60,7 +60,7 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 	- What goes on at the secret parties in the warehouse?: [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] throws parties for his cult - [[The cult of the Opal society\|The cult of the Opal society]] 
 	- do you know any other names in [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]]'s cult?:  Krugger   (Miri's fiancee)
 - The one good information from the keep was that often someone would come to fetch [[Elvira\|Elvira]] and the day we were there she had another appointment 
-- We investigated the curse at the city library, see appendix on [[02 Player/Erukana (Nissen)/The strangle voice curse\|The strangle voice curse]] 
+- We investigated the curse at the city library, see appendix on [[02 Player/Erukana (Nissen)/Journal/The strangle voice curse\|The strangle voice curse]] 
 - Then we proceeded to wait in Elivra's room for the woman coming to fetch her, we believed it to be the same who had cursed her.
 - It was not the same woman, but some girl who had been paid by [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]] to come fetch Elivra for him 
 - We disguised one of us as Elvira and had the girl escort us to the location, which turned out to be the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] 

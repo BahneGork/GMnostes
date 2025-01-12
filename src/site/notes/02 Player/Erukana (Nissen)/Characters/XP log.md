@@ -6,10 +6,11 @@
 
 # XP rewards 
 
-| XP  | Experience   | Session |
-| --- | ------------ | ------- |
-| 225 | pre-game     | 00      |
-| 125 | kobold caves | 01      |
-|     |              |         |
+| XP   | Experience       | Session |
+| ---- | ---------------- | ------- |
+| 225  | pre-game         | 00      |
+| 125  | kobold caves     | 01      |
+| 9347 | De ældste haller | 20      |
+|      |                  |         |
 
 

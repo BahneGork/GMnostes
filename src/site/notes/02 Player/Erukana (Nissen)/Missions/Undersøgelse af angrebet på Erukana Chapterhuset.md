@@ -4,6 +4,10 @@
 
 #erukanamission  #erukana 
 
+# Reveal 
+
+[[den Lilla Plage\|den Lilla Plage]] korrupterede ordnen og var skyld dens fald 
+Chapter master er fundet og lagt til hvile 
 # Investigating the attack on The Queensguard Erukana Chapterhouse 
 
 Erukana Chapterhouse lå i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau\|Hertugdømmet Bortreau]], lidt udenfor [[Wolfenburg\|Wolfenburg]].

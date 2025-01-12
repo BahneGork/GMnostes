@@ -7,7 +7,7 @@
 
 # Ambush the rich red & black 
 
-- Nibar, Clara & Vargoth researcher  [[02 Player/Erukana (Nissen)/The strangle voice curse\|The strangle voice curse]] på byens bibliotek 
+- Nibar, Clara & Vargoth researcher  [[02 Player/Erukana (Nissen)/Journal/The strangle voice curse\|The strangle voice curse]] på byens bibliotek 
 - Ambush: 
 	- vi diskuterer hvad vi gør men bliver afbrudt da damen ankommer for tidligt.
 	- Clara gemmer sig bag døren og winston skynder sig ud af rummet som om han var en kunde

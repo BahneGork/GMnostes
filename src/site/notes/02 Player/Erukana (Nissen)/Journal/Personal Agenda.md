@@ -33,10 +33,13 @@
 ## Defeat purple plague invasion - Long term goal 
 - Defeat the purple plague invasion
 ### Short term goal 
-- [ ] Find out what the purple plague is 
-- [ ] Find out who is behind it
-- [ ] Find out why it is happening 
+- [x] Find out what the purple plague is ✅ 2025-01-12
+- [x] Find out who is behind it ✅ 2025-01-12
+- [x] Find out why it is happening ✅ 2025-01-12
 - [ ] Find out how it can be stopped 
+- [ ] Hvor stort er omfanget af den lilla plage's inficering af Erukana 
+- [ ] Kan korruptionen kureres/renses ?
+- [ ] Hvordan bliver folk inficeret?
 
 ## Sir Seilings Mausoleum - Mid term goal
 - Explore [[Sir Seillings mausoleum\|Sir Seillings mausoleum]]
@@ -52,10 +55,10 @@
 ## Establish Intelligence gathering - Mid term goal
 - Create an intelligence gathering organization
 ### Short term goals
-- [ ] Get assistance of a former knight, now priest of Paladine on how to get started 
+- [x] Get assistance of a former knight, now priest of Paladine on how to get started ✅ 2025-01-12
 - [ ] Find new short term goals, once we have heard from him 
-- [ ] Ask "Fritte" to join our cause, our team even. She could have/gain access to certain communities in the city that we will struggle with ourselves.
-- [ ] Ask Bjørn if he knows people that could aid our cause or would want to join it.
+- [x] Ask "Fritte" to join our cause, our team even. She could have/gain access to certain communities in the city that we will struggle with ourselves. ✅ 2025-01-12
+- [x] Ask Bjørn if he knows people that could aid our cause or would want to join it. ✅ 2025-01-12
 ## Unseat the Blood rose from power in Astley - Mid term goals 
 - Unseat the blood rose in Astley 
 ### Short term goals
@@ -69,7 +72,7 @@
 - [ ] [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]] 
 - [ ] Question Avalande on the Azure order and our tattoo's 
 - [ ] Search the arcane tower ruins for clues 
-- [ ] Offer/Ask "Fritte" to join us, so that we may all learn more about our tattoo's 
+- [x] Offer/Ask "Fritte" to join us, so that we may all learn more about our tattoo's ✅ 2025-01-12
 - [x] Offer/Ask Bjørn to join us and learn what he knows of the Tattoo ✅ 2024-08-05
 
 ## Short term goal - Clear my name of Miri's murder  - DONE 
@@ -79,13 +82,13 @@
 - [x] Talk with Winston about me and the knighthood ✅ 2024-08-05
 	- [ ] seeing as QueensGuard failed.. Suggest a new way of doing things, with our own team as inspiration
 - [x] Talk with Nibar about his pursuit of dark things ✅ 2024-08-05
-- [ ] Talk with "Fritte" about joining us; Tattoos; Intelligence gathering 
+- [x] Talk with "Fritte" about joining us; Tattoos; Intelligence gathering ✅ 2025-01-12
 - [x] Talk with Bjørn about joining us; Tattoos; usurp the blood rose ✅ 2024-08-04
 	- [x] kender ikke noget til tattooveringen ✅ 2024-08-04
 	- [x] Bjørn beder til Tempus ✅ 2024-08-04
 	- [x] fik en "divine besked" om at han nu er med i kampen mellem det gode og det onde ✅ 2024-08-04
 - [x] Contact Fafnir about a meeting or go there ✅ 2024-08-05
-- [ ] Talk with [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] about the beast, nature, the great game of the gods, free will etc.. 
+- [x] Talk with [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] about the beast, nature, the great game of the gods, free will etc.. ✅ 2025-01-12
 - [ ] Free the people of Astley from the tyranny of the blood rose and their evil goddess
 - [ ] remove a piece of power, Astley, from the clutches of the dark lady Takhisis
 - [ ] if possible remove agents of power from Takhisis's board.
@@ -101,10 +104,9 @@
 - [ ] finding Avalande 
 - [ ] Going to the Arcane tower 
 - [ ] Going to Sir Seilings tomb 
-- [ ] Fafnir agreeing to alliance 
-- [ ] Silvara to wake up
+- [x] Fafnir agreeing to alliance ✅ 2025-01-12
+- [x] Silvara to wake up ✅ 2025-01-12
 
-# Completed
 ## Mistville - 23rd - 25th Flamerule - session 4-5
 1. [x] (personlig) Få tilset udstyr af den lokale smed, samt bruge mending på andet. ✅ 2023-10-24
 2. [x] (personlig) Gå resten af udstyret igennem og reparere det som kan med mending ✅ 2023-10-24

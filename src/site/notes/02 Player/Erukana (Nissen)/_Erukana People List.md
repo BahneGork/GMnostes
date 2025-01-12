@@ -32,7 +32,9 @@
 - [[02 Player/Erukana (Nissen)/People/Nerrin Toftenhøj\|Nerrin Toftenhøj]]
 - [[02 Player/Erukana (Nissen)/People/Petyr Gottmann\|Petyr Gottmann]]
 - [[02 Player/Erukana (Nissen)/People/Qenes Markmoon\|Qenes Markmoon]]
+- [[02 Player/Erukana (Nissen)/People/Rocielle De angél\|Rocielle De angél]]
 - [[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]]
+- [[02 Player/Erukana (Nissen)/People/Sigurd Volteman - Jernnæven\|Sigurd Volteman - Jernnæven]]
 - [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]]
 - [[02 Player/Erukana (Nissen)/People/Tani Ebonheart\|Tani Ebonheart]]
 - [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]
@@ -43,7 +45,7 @@
 { .block-language-dataview}
 
 # People from the lore of Erukana 
-- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Queen Neferata]]
+- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
 
 { .block-language-dataview}

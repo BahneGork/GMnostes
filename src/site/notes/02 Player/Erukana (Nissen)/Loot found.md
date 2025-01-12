@@ -30,6 +30,18 @@
 - Pung med mønter #erukana/lootfound
 - 3 Healing røde potions  #erukana/lootfound
 - 1 poison/acid grøn potion  #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound
+- [[lange støvler med høje hæle \|lange støvler med høje hæle ]] #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound
+- 2 Scrolls  #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/Silver coin of luck\|Silver coin of luck]] #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]] #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]]  #erukana/lootfound
+- [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]  #erukana/lootfound
+- 1 Perle (100gp) #erukana/lootfound
+- Pung med mønter #erukana/lootfound
+- 3 Healing røde potions  #erukana/lootfound
+- 1 poison/acid grøn potion  #erukana/lootfound
 - [[02 Player/Erukana (Nissen)/Loot/Gammel slidt guld rustning\|Gammel slidt guld rustning]]- "Kehl" et skeleton apparition dukker op i rustningen. Skelettet taler til Nibar på et sprog som vi andre ikke forstår. "jeg er klar til at tjene dem herre". A suit of animated armor. #magicitem #armor  #erukana/lootfound #clarabel
 - et [["drage æg" af sorte skæl med et rødt omridst på hver skæl\|"drage æg" af sorte skæl med et rødt omridst på hver skæl]]. #erukana/lootfound
 - En Bog! #erukana/lootfound #morgion
@@ -54,61 +66,49 @@
 - guld ring #erukana/lootfound
 - pung med mønter (37) #erukana/lootfound
 - bønnebog #erukana/lootfound
-- [[02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound
-- [[lange støvler med høje hæle \|lange støvler med høje hæle ]] #erukana/lootfound
-- [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound
-- 2 Scrolls  #erukana/lootfound
-- [[02 Player/Erukana (Nissen)/Loot/Silver coin of luck\|Silver coin of luck]] #erukana/lootfound
-- [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]] #erukana/lootfound
-- [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]]  #erukana/lootfound
-- [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]  #erukana/lootfound
-- 1 Perle (100gp) #erukana/lootfound
-- Pung med mønter #erukana/lootfound
-- 3 Healing røde potions  #erukana/lootfound
-- 1 poison/acid grøn potion  #erukana/lootfound
 
 { .block-language-dataview}
 
-| File                                                                                                                                 | Character                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]]                                                        | \-                                                                                                              |
-| [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]]                                                  | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 |
-| [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]]                                                                | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
-| [[02 Player/Erukana (Nissen)/Loot/Kehl - golden armor\|Kehl - golden armor]]                                                      | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clara]]              |
-| [[02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle\|lange støvler med høje hæle]]                                      | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
-| [[02 Player/Erukana (Nissen)/Loot found.sync-conflict-20241119-185010-V66FTQD\|Loot found.sync-conflict-20241119-185010-V66FTQD]] | \-                                                                                                              |
-| [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]]                                                          | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
-| [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                                                              | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
-| [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]]                                                | \-                                                                                                              |
-| [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]]                                                                  | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
-| [[02 Player/Erukana (Nissen)/Loot/Silver coin of luck\|Silver coin of luck]]                                                      | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
-| [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]]                                                                      | \-                                                                                                              |
-| [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]                                                                        | \-                                                                                                              |
-| [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]]                                                          | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
-| [[02 Player/Erukana (Nissen)/Loot/Warhawk\|Warhawk]]                                                                              | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
-| [[02 Player/Erukana (Nissen)/Loot/Warhawk.sync-conflict-20241119-184905-V66FTQD\|Warhawk.sync-conflict-20241119-184905-V66FTQD]]  | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
-| [[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]                                                                        | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 |
+| File                                                                                                                                | Character                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [[02 Player/Erukana (Nissen)/Loot/Alunethriel's Grace- Relic\|Alunethriel's Grace- Relic]]                                       | \-                                                                                                              |
+| [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]]                                                       | \-                                                                                                              |
+| [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]]                                                 | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 |
+| [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]]                                                               | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
+| [[02 Player/Erukana (Nissen)/Loot/Kehl - golden armor\|Kehl - golden armor]]                                                     | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clara]]              |
+| [[02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle\|lange støvler med høje hæle]]                                     | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
+| [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]]                                                         | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
+| [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                                                             | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
+| [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]]                                               | \-                                                                                                              |
+| [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]]                                                                 | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     |
+| [[02 Player/Erukana (Nissen)/Loot/Silver coin of luck\|Silver coin of luck]]                                                     | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
+| [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]]                                                                     | \-                                                                                                              |
+| [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]                                                                       | \-                                                                                                              |
+| [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]]                                                         | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           |
+| [[02 Player/Erukana (Nissen)/Loot/Warhawk\|Warhawk]]                                                                             | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
+| [[02 Player/Erukana (Nissen)/Loot/Warhawk.sync-conflict-20241119-184905-V66FTQD\|Warhawk.sync-conflict-20241119-184905-V66FTQD]] | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] |
+| [[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]                                                                       | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 |
 
 { .block-language-dataview}
 
-| File                                                                                                                                 | Character                                                                                                       | Item type        | Req.Attunement |
-| ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------- | -------------- |
-| [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]]                                                        | \-                                                                                                              | \-               | \-             |
-| [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]]                                                  | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 | boots            | yes            |
-| [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]]                                                                | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | Wonderous item   | no             |
-| [[02 Player/Erukana (Nissen)/Loot/Kehl - golden armor\|Kehl - golden armor]]                                                      | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clara]]              | Wonderous item   | yes            |
-| [[02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle\|lange støvler med høje hæle]]                                      | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] | \-               | \-             |
-| [[02 Player/Erukana (Nissen)/Loot found.sync-conflict-20241119-185010-V66FTQD\|Loot found.sync-conflict-20241119-185010-V66FTQD]] | \-                                                                                                              | \-               | \-             |
-| [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]]                                                          | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           | Weapon, mace     | yes            |
-| [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                                                              | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | wand             | yes            |
-| [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]]                                                | \-                                                                                                              | Wonderous item   | \-             |
-| [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]]                                                                  | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | weapon, dagger   | yes            |
-| [[02 Player/Erukana (Nissen)/Loot/Silver coin of luck\|Silver coin of luck]]                                                      | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           | Wonderous item   | yes            |
-| [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]]                                                                      | \-                                                                                                              | \-               | \-             |
-| [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]                                                                        | \-                                                                                                              | \-               | \-             |
-| [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]]                                                          | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           | weapon, handaxe  | yes            |
-| [[02 Player/Erukana (Nissen)/Loot/Warhawk\|Warhawk]]                                                                              | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] | weapon, scimitar | no             |
-| [[02 Player/Erukana (Nissen)/Loot/Warhawk.sync-conflict-20241119-184905-V66FTQD\|Warhawk.sync-conflict-20241119-184905-V66FTQD]]  | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] | weapon, scimitar | no             |
-| [[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]                                                                        | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 | weapon, scimitar | no             |
+| File                                                                                                                                | Character                                                                                                       | Item type        | Req.Attunement |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------- | -------------- |
+| [[02 Player/Erukana (Nissen)/Loot/Alunethriel's Grace- Relic\|Alunethriel's Grace- Relic]]                                       | \-                                                                                                              | \-               | \-             |
+| [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]]                                                       | \-                                                                                                              | \-               | \-             |
+| [[02 Player/Erukana (Nissen)/Loot/Boots of the ancients\|Boots of the ancients]]                                                 | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 | boots            | yes            |
+| [[02 Player/Erukana (Nissen)/Loot/Dancing Statue\|Dancing Statue]]                                                               | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | Wonderous item   | no             |
+| [[02 Player/Erukana (Nissen)/Loot/Kehl - golden armor\|Kehl - golden armor]]                                                     | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clara]]              | Wonderous item   | yes            |
+| [[02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle\|lange støvler med høje hæle]]                                     | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] | \-               | \-             |
+| [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]]                                                         | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           | Weapon, mace     | yes            |
+| [[02 Player/Erukana (Nissen)/Loot/Mage armor wand\|Mage armor wand]]                                                             | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | wand             | yes            |
+| [[02 Player/Erukana (Nissen)/Loot/Neverending ink bottle\|Neverending ink bottle]]                                               | \-                                                                                                              | Wonderous item   | \-             |
+| [[02 Player/Erukana (Nissen)/Loot/Ritual Dagger\|Ritual Dagger]]                                                                 | [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]                                     | weapon, dagger   | yes            |
+| [[02 Player/Erukana (Nissen)/Loot/Silver coin of luck\|Silver coin of luck]]                                                     | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           | Wonderous item   | yes            |
+| [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]]                                                                     | \-                                                                                                              | \-               | \-             |
+| [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]                                                                       | \-                                                                                                              | \-               | \-             |
+| [[02 Player/Erukana (Nissen)/Loot/Treeheart handaxe\|Treeheart handaxe]]                                                         | [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]                                           | weapon, handaxe  | yes            |
+| [[02 Player/Erukana (Nissen)/Loot/Warhawk\|Warhawk]]                                                                             | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] | weapon, scimitar | no             |
+| [[02 Player/Erukana (Nissen)/Loot/Warhawk.sync-conflict-20241119-184905-V66FTQD\|Warhawk.sync-conflict-20241119-184905-V66FTQD]] | [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]] | weapon, scimitar | no             |
+| [[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]                                                                       | [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]                                 | weapon, scimitar | no             |
 
 { .block-language-dataview}
