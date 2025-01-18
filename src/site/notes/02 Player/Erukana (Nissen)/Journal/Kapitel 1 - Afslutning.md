@@ -9,6 +9,7 @@
 Efter kampen i [[De Ældste\|De Ældste]]s haller og da roen atter sænkede sig over stedet. Sår blev behandlet og resterne af jeres modstandere blev eftersøgt, efterlod det jer med en fornemmelse af …hvileløshed.
 
 Fjendens plan var blevet forpurret, i hvert fald lykkedes deres plan ikke helt. Hvad end det var ritualet havde til hensigt, så var det lykkedes jer at stoppe det lidt over halvvejs og derved forhindre fjendens ”herre” i at blive 100% sat fri.
+
 Blandt resterne af alteret, fandt i en delvist ødelagt dagbog tilhørende en [[Arakas Zhaarko\|Arakas Zhaarko]], søn af [[Baron Zhaarko\|Baron Zhaarko]] af [[Eresby\|Eresby]]. Bogens første halvdel er mere eller mindre intakt, men resten er ødelagt. I bruger de næste par dage på at lære hvad I kan fra dagbogen af.
 
 Måske vigtigere for jer, er det at jeres modersmærker hen over de næste dages tid, bliver blegere og blegere. I kan ikke påkalde jer dets kræfter, og jeres nætter er fyldt af urolige drømme hvor I vandre hvileløst rundt i de forskellige byer I har besøgt, så som [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] og Astley. Alle byerne ligger øde hen i natte mørke om omhyldet af en konstant tyk tåge. Under jeres fødder knaser knogler for hvert skridt I tager, men for tiden er det et mysterium hvorfor I får disse drømme.

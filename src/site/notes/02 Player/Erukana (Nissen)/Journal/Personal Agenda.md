@@ -4,6 +4,38 @@
 
 #erukana #clarabel 
 
+@anerzee  når gruppen kommer tilbage til Astley (går ud fra det er næste skridt, til downtime) bruger Clara rigtig meget tid i sol træet, i meditation hvor hun reflektere rigtig meget og søger svar i sig selv. Dernæst bruger hun tiden på at nedfælde sine tanker og få styr på dem, stille spørgsmål til dem og finde mening i dem. (vedhæftet pdf)  
+
+Clara vil forsøge at få Bjørn i tale og finde ud af om han angrer og er interesseret i at atone for det og søge forløsning for sine morderiske gerninger. 
+
+Dernæst, hvis Bjørn er interresseret i dette, vil hun forsøge at finde ud af hvordan han kan gøre dette og guide ham igennem det. 
+
+Både afhængig og uafhængig af Bjørn's svar, ønsker Clarabel også at få et svar fra gruppen på hvor de/vi står som en samlet enhed med de her gerninger for fremtiden. 
+
+Ovenstående har meget stor betydning for Clara og vil veje tungt i spørgsmålet om hvorvidt hun kan fortsætte i gruppen. 
+*(skal lige selv finde ud af hvordan jeg skal få det gjort :D ) I tilfælde af at Clara ser sig nødsaget til at forlade gruppen kan hun evt. fortsætte som npc. Jeg har også ide til en ny character hvis det er.*
+
+Andre målsætninger.
+1. Stadigvæk at få skabt et information gathering network. Det er tvivlsomt for hende (pånuværende tidspunt som spiller) for meget resten af gruppen er interresseret i dette foretagende, så hun er villig til at køre videre med det alene hvis det er.  
+	1. Opstarte en Kro stue, som kan lave et lille overskud der kan bruges på at betale for rygter og sladder til at starte med.
+	2. senere kan det udvikles med måske at ansætte "professionelle" rygte samlere og spioner. 
+	3. holde kontakt med Fafnir's gruppe
+2. Research af Opal kulten, biblioteket og sages. 
+	1. hvem var deres "master". 
+	2. Hvor er deres master? 
+	3. Hvad kan man finde ud af omkring denne Master og hvor den evt. ville holde de her spejl-fanger? 
+	4. Hvordan kan man komme derhen? 
+	5. Hvad vil det kræve at få dem væk derfra? 
+3. Træne med Warhawk og evt. Winston 
+4. Tæne kontrol af ulve formen og kamp med den 
+5. Researche Varulve med Mielikki acolytter, præster og druider i sol træet 
+6. Søge tekster og folk der kan fortælle om den lilla plage., via Waning Moon indkøbere.
+7. Finde ud af hvad Sol træet's Agenda er og hvordan jeg som præst her af kan bidrage til det 
+	1. "ny arbejdsplads, nye opgaver"
+8. måske mere ? :D 
+
+
+
 # Clara Motivations 
 
 ## Motivations 
