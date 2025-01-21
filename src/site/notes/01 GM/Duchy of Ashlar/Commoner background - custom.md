@@ -13,7 +13,7 @@ You are in your teens, you have lived your entire life in your village and have 
 
 **Tool Proficiencies:** choose one tool/kit </br>
 
-**Language:** choose one standard languages, that you have learned a limited rudimentary understanding of. "this good, this bad, i take" - "he no like" - "I hungry" etc... </br>
+**Language:** choose one standard languages 
 
 **Equipment:** set of common clothes, a treasured family heirloom or trinket, a pouch containing 2d6gp and choose one of the equipment packs: 
 
