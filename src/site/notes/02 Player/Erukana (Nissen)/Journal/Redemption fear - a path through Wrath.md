@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Redemption fear - a path through Wrath/"}
 ---
 
-
 Related: [[02 Player/Erukana (Nissen)/Journal/Diary\|Diary]]
-
 # Redemption & fear, a path through Wrath 
 
 As i sit in the heart of the sun tree, meditating and reflecting on my adventures so far, i find myself in doubt. 
