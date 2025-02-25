@@ -6,8 +6,8 @@
 
 # Swamp Trekking 
 - The Hydra is Dead! 
-- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clara]] samler hydraens hjerte op, efter at den er blevet til aske.
-- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clara]] hjælper til med at samle de faldne soldater sammen. 
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clara]] samler hydraens hjerte op, efter at den er blevet til aske.
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clara]] hjælper til med at samle de faldne soldater sammen. 
 - Vandet er mørkt og ugennemsigtigt, samt svier som svag syre 
 - Soldaterne er tidligere Astley byvagt
 - [[Lucious Vormend\|Lucious Vormend]]'s væbner siger ingenting andet end kampråb

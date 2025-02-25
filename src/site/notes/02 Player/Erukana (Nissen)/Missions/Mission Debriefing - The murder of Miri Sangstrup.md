@@ -41,5 +41,5 @@ Miri Sangstrup saw what was really going on and she should not have.
 [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] escaped from the mansion and is perhaps the real power behind [[The cult of the Opal society\|The cult of the Opal society]] 
 
 Signed by ~ Astley Avengers
-[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] - [[Bjørn of Nordheim\|Bjørn of Nordheim]]  &  [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]]
+[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] - [[Bjørn of Nordheim\|Bjørn of Nordheim]]  &  [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster]]
 ![flour de lis wax seal.png|300](/img/user/10%20Attachments/flour%20de%20lis%20wax%20seal.png)

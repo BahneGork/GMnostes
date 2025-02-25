@@ -27,7 +27,8 @@ The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 
 
 # Sessions 
-- [[21 -  \|21 -  ]]
+- [[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\|21 - 220225 - Changer of time - nisse 17 - steffen 1]]
+- [[02 Player/Erukana (Nissen)/Downtime Astley 2\|Downtime Astley 2]]
 - [[02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning\|Kapitel 1 - Afslutning]]
 - [[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\|20 - 110125 - Changer of time - nissen - session 16]]
 - [[02 Player/Erukana (Nissen)/Downtime Astley 2 - between session 19-20\|Downtime Astley 2 - between session 19-20]]
@@ -53,4 +54,4 @@ The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 
 # Clara's Journal 
 [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Personal Agenda]]
-[[02 Player/Erukana (Nissen)/Journal/Diary\|Diary]]
+[[02 Player/Erukana (Nissen)/Journal/Clarabel Diary\|Clarabel Diary]]

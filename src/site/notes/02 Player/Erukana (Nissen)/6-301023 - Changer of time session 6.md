@@ -30,4 +30,4 @@ Senere ser vi de 2 riddere blive holdt op af landevejs røvere, de angriber og v
 
 Da [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]], healer en landevejs røver i kamp mod en af ridderne, tager de 2 roser ridder det som at han blander sig i en 1-1 kamp og angriber ham og så er vi all-in. 
 
-[[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster - Squire of the Queensguard\|Clara]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|winston]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] går i gulvet og [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] flygter ind i skoven. Ridderne tager clara, winston og vargoth som fanger, formodenligt tilbage til deres lejr.
+[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clara]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|winston]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] går i gulvet og [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] flygter ind i skoven. Ridderne tager clara, winston og vargoth som fanger, formodenligt tilbage til deres lejr.
