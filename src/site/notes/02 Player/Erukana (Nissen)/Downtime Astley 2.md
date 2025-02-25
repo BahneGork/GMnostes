@@ -16,4 +16,4 @@
 - Clarabell bruger en hel del tid i soltræet hvor hun mediterer og reflekterer
 - Winston og Clarabell får undervisning af Assana om Waning Moon forretningen 
 - Winston og Clarabell træner med scimitars 
-- 
+- Clarabell giver gruppen besked om at hun trækker sig tilbage fra missioner/eventyrlivet for en stund, hun har en del personlige ting hun er nød til at tage sig af

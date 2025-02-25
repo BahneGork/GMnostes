@@ -8,6 +8,7 @@
 
 - Vi var alle tilstede til festen og fejrelsen af [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] Wildwood's ridderskabs udnævnelse
 - Fine taler blev holdt 
+- Clara giver en gave til Winston, et blad fra sol træet om hyllet af glas
 - Coren Mortimer, en pensioneret ridder, overdrager sin datters lanse og ganger til [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|winston]], hun var selv ridder men er ikke længere i live. 
 - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] taler med Sammy om Aracana tårnet og fortæller om turen derned til.
 - Logan lægger små gaver rundt om huset til Wyrdlingen
