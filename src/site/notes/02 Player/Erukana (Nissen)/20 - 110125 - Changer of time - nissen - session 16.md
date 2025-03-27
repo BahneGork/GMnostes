@@ -74,6 +74,8 @@
 - Sir [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] har ikke de rette beføjelser til at gøre Winston til ridder #erukanasecretsnclues 
 - [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] er død og på vej til "et nyt eventyr" #erukanasecretsnclues 
 - [[Danica Dawnspire\|Danica Dawnspire]] har et hellig symbol der ikke ligner noget tiamat symbol vi nogen sinde har set eller hørt om, men påstår det er hende hun tilbeder #erukanasecretsnclues 
-- 
+
+
+<<| [[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15\|19 - 140824- Changer of time - nissen -  session 15]] ----------- [[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\|21 - 220225 - Changer of time - nisse 17 - steffen 1]] |>>
 
 

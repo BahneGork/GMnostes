@@ -36,5 +36,7 @@
 	- der er fod spor i form af hove i nærheden, som stopper brat som om den er hoppet op og væk
 	- vi anslår at [[Daine Waymar\|Daine Waymar]] har været død i en dag, så ham [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] og Logan har talt med er en bedrager, måske en dæmon
 	- Vi tager tilbage til mansion og overnatter, [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] sætter planer igang for at ændre nogle rum til soveværelser 
-	- Dagen efter aktiverer [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] og Isilme portalen i haven 
+	- Dagen efter aktiverer [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] og [[Isilme\|Isilme]] portalen i haven 
 	- Vi samler vores ting og drager igennem portalen 
+
+<<| [[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\|20 - 110125 - Changer of time - nissen - session 16]]  ---------------   [[02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2\|22 - 270325 - Erukana Steffen 2]] |>>
