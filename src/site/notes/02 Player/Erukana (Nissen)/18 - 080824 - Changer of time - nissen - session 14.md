@@ -5,7 +5,7 @@
 
 #erukana #erukanasessionlog 
 
-# Dagen efter Dødsriget
+# Session 18 - Dagen efter Dødsriget
 
 - vi sidder og snakker i kroen 
 - Winston smutter ud i byen og køber sværd, skjold og greatsword
@@ -75,3 +75,7 @@
 
 # Plan næste gang 
 Ambushe "Rig dame i sort og rød kjole" på Den brækked knogle 
+
+
+
+[[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13\| <<]]         ----[[02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14#Session 18 - Dagen efter Dødsriget\| TOP ]]----         [[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15\| Next Session 19 ]]

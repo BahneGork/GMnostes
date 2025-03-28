@@ -4,6 +4,7 @@
 
 #erukana #erukanasessionlog 
 
+# Session 20 
 - VinterFesten 1516: Vi ankommer i karet som Assana Lemiuex har bestilt til os.
 - Astleys Avengers bliver announced og flere folk klapper.
 - [[Baronen af Morbray\|Baronen af Morbray]] er til stede - han er en stor kriger type.

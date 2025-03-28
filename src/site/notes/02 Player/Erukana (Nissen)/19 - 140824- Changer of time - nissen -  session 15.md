@@ -3,9 +3,9 @@
 ---
 
 
-- [ ] #erukana #erukanasessionlog 
+#erukana #erukanasessionlog 
 
-# Ambush the rich red & black 
+# Session 19 - Ambush the rich red & black 
 
 - Nibar, Clara & Vargoth researcher  [[02 Player/Erukana (Nissen)/Journal/The strangle voice curse\|The strangle voice curse]] på byens bibliotek 
 - Ambush: 

@@ -4,7 +4,7 @@
 
 #erukana #erukanasessionlog 
 
-# Celebration of Wildwood's Knighthood 
+# Session 21 - Celebration of Wildwood's Knighthood 
 
 - Vi var alle tilstede til festen og fejrelsen af [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] Wildwood's ridderskabs udnævnelse
 - Fine taler blev holdt 
