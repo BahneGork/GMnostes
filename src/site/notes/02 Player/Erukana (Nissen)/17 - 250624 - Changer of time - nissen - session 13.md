@@ -118,3 +118,5 @@ Ved at ofre hans stærkeste magi, skabte han et hul mellem planerne, en direkte 
 Herfra strømmede udøde frem fra og angreb kapellet. Være blev det da mørkets rytter dukkede op fra portalen. Med nød og i sidste øjeblik lykkedes det gruppen at lukke portalen og sende rytteren tilbage.  
 Hans sidste ord inden han forsvandt var rettet med Nibar: **”Jeg kommer tilbage efter bogen og din sjæl.”**
 Der er ikke nogen tvivl om at bøgerne er på en eller anden måde forbundet med Mørke Rytteren, og han er nu forbundet med Nibar, i en jagt på at opspore ham.
+
+[[02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4\| << Previous Session 16]] ----[[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13\|TOP]]---- [[02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14\| Next Session 18 >>]]

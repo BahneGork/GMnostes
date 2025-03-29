@@ -79,4 +79,4 @@
 - Bjørn tager Fritte's spejl med 
 - Vargoth og Bjørn vælger at loote 
 
-<<| [[02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14\|18 - 080824 - Changer of time - nissen - session 14]] ------------ [[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\|20 - 110125 - Changer of time - nissen - session 16]] |>>
+[[02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14\| << Previous Session 18]] -----[[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15\| TOP]]------- [[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\| Next Session 20 >>]] 

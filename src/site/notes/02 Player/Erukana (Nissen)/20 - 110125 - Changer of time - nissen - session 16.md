@@ -77,6 +77,6 @@
 - [[Danica Dawnspire\|Danica Dawnspire]] har et hellig symbol der ikke ligner noget tiamat symbol vi nogen sinde har set eller hørt om, men påstår det er hende hun tilbeder #erukanasecretsnclues 
 
 
-<<| [[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15\|19 - 140824- Changer of time - nissen -  session 15]] ----------- [[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\|21 - 220225 - Changer of time - nisse 17 - steffen 1]] |>>
+ [[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15\| << Previous Session 19]] -----[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\| TOP]]------ [[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\| Next Session 21 >>]] 
 
 

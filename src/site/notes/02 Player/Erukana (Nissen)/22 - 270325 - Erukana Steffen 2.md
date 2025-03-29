@@ -27,4 +27,4 @@
 - Isilme hidklader call lightning 
 - Der er mange forskellige effekter rundt omkring os, en skygge falder over slagmarken så vi kun kan se 10 fod, stærke vinde blæser os omkuld, nogle vragdele ryster og får os til at falde, magiske runer kommer til live og giver os boons, nogle får små glimt af fremtiden og meget andet 
 
-[[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\| <<]]        ----`=this.title` [[02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2\| TOP]]----      [[23 - \| Next Session 23 ]]
+[[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\| << Previous Session 21]]        ----`=this.title` [[02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2\| TOP]]----      [[23 - \| Next Session 23 >>]]

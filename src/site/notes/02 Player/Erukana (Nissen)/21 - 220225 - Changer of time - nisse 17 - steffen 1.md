@@ -39,4 +39,4 @@
 	- Dagen efter aktiverer [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] og [[Isilme\|Isilme]] portalen i haven 
 	- Vi samler vores ting og drager igennem portalen 
 
-<<| [[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\|20 - 110125 - Changer of time - nissen - session 16]]  ---------------   [[02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2\|22 - 270325 - Erukana Steffen 2]] |>>
+[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\| << Previous Session 20]]  ------[[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\| TOP]]---------   [[02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2\| Next Session 23 >>]] 
