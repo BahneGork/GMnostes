@@ -72,4 +72,4 @@
 
 
 
-[[02 Player/Erukana (Nissen)/23 - 310325 - Erukana Steffen 3\|<< Previous Session 23 ]] ----[[02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4\|TOP]]----  [[ \|Next Session XX  >>]]
+[[02 Player/Erukana (Nissen)/23 - 310325 - Erukana Steffen 3\|<< Previous Session 23 ]] ----[[02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4\|TOP]]----  [[02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5\|Next Session 25  >>]]
