@@ -20,8 +20,8 @@
 
 ![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
 
-#### Current date: 23rd Uktar 
-#### Current location: De ældstes haller, [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
+#### Current date: 11th Chase
+#### Current location: Nordheim 
 # Active Missions 
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 
