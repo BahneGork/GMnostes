@@ -48,3 +48,5 @@ Få en opgave af [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunm
 
 - Vi bemærker en høj og bred mand i scalemail, med lys oliven grøn hud og hugtænder.
 	- halskæde med rød ulvetand!!!
+
+[[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1\|<< Previous 01]] ----[[02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2\|TOP]]---- [[02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3\|Next 03 >>]]

@@ -24,3 +24,4 @@
 
 #### Dag 12 - 18th highsun - Downtime Astley
 
+[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10\|<< Previous 10]] ----[[02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11\|TOP]]---- [[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley\|Next 12 >>]]

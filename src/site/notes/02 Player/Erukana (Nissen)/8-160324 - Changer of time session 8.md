@@ -78,3 +78,5 @@ Vi hørte [[Merelda\|Merelda]] tale det mørke sprog da hun kastede magi ved ork
 
 # visions 
 På et tidspunkt iløbet af denne færd, får [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] et syn. En kvinde som han genkender som [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] omgivet af en gruppe [[Azur ordenen\|Azur ordenen]] kæmper mod en barbar, en wizard, en mørk ridder og en dværgekriger. Det ser ud som om de vil have fat i Avalande's stav og til sidst knækker hun staven og synet forsvinder.
+
+[[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7\|<< Previous 07]] ----[[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8\|TOP]]---- [[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|Next 09 >>]]

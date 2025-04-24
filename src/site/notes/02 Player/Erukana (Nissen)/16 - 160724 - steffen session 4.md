@@ -32,4 +32,6 @@
 - Fritte "tryller" os alle sammen tilbage til gården udenfor Astley, inkl Fritte & Bjørn. 
 - Fritte forsvinder ud i byen 
 - Vi finder Nibar og får af vide at vi været væk i 3 tendays (30 dage)
-- 
+
+
+[[02 Player/Erukana (Nissen)/15-110724 - steffen seesion 3\| << Previous 15]] ----[[02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4\|TOP]]---- [[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13\| Next Session 17 >>]]

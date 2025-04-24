@@ -49,3 +49,5 @@ Vargoth & Clarabel stayed with the horses inside the cave when yellow eyes and 4
 	- Den anden retning ihulerne fører til et kammer fyldt med knogle rester 
 	- Vi går tilbage til den døde kvindes lejer og tager den "hemmelige indgang" efter en halv dags tid når vi ud i lyset og ser meget kort fra indgangen, [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
 - Next 25th Flamerule, First quarter fading (halvmåne).
+
+[[02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3\|<< Previous 03]] ----[[02 Player/Erukana (Nissen)/4-091023 - Changer of time session 4\|TOP]]---- [[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5\|Next 05 >>]]

@@ -136,3 +136,6 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - Der er en magisk forseglet dør ind til dværge hallerne i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]  #erukanasecretsnclues 
 - Død eventyrer ved ork ambush havde [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]]  på sin tabard #erukanasecretsnclues 
 - [[rød tands klanen\|rød tands klanen]] er langt væk hjemmefra  #erukanasecretsnclues 
+
+
+    [[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1\|TOP]]---- [[02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2\|Next 02 >>]]

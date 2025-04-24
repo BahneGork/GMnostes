@@ -63,4 +63,6 @@ Winston og Clara træner med scimitars
 -[[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] ? 
 	- den tidligere baronesse var medlem azur/safir ordenen 
 
-# End date: 3rd Marpenoth (leaffall)
+ ++++End date: 3rd Marpenoth (leaffall)
+
+[[02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11\|<< Previous 11]] ----[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley\|TOP]]---- [[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1\|Next 13 >>]]

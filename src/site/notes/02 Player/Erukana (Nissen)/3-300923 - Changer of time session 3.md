@@ -78,3 +78,4 @@ Rationer:
 	- Winston og Nibar scouter videre ind i hulen uden lanterne, mens Vargoth og Clarabel venter med hestene. 
 	- 4 sæt røde øjne og 1 sæt gule øjne kigger ind i hulen på Vargoth og Clarabel. 
 
+[[02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2\|<< Previous 02]] ----[[02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3\|TOP]]---- [[02 Player/Erukana (Nissen)/4-091023 - Changer of time session 4\|Next 04 >>]]

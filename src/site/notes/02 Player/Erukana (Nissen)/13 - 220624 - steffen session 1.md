@@ -65,3 +65,5 @@ En af de 3m høje chantere, vender sig om og løber imod gruppen and transformer
 der er en sten trappe der fører ned i bakken, til en dobbelt sten dør til en grav. Masser af kranier rundt om og dekorationer af kranier i gulvet foran. 2 grønne sten sidder i søjler ved siden af dørene. 
 
 Vargoth og [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]] kan se et energi skjold rundt om døren, arcana skill check. 
+
+[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley\| << Previous 12]] ---- [[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1\|TOP]] ---- [[02 Player/Erukana (Nissen)/14 190624 - steffen session 2\|Next 14 >>]]

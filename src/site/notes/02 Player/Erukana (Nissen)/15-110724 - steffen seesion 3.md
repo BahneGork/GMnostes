@@ -43,3 +43,6 @@
 - Under kampen i alter rummet, hopper Fritte ud på sten cirklen i det giftige vand og forsøger at kaste blomsten ind på spiralen. 
 - Clara ankommer sent til kampen, bruger sin tattoo magi på at skabe regenerering i Fritte og Vargoth's kroppe og løber op for at hjælpe Vargoth.
 - Winston kommer også ind i alter kammeret og kaster en håndøkse efter en af skyggerne.
+
+
+[[02 Player/Erukana (Nissen)/14 190624 - steffen session 2\|<< Previous 14]] ----[[02 Player/Erukana (Nissen)/15-110724 - steffen seesion 3\|TOP]]---- [[02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4\|Next 15 >>]]

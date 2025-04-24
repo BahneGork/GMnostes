@@ -37,3 +37,5 @@ Efter 2 dages downtime i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistv
 - Winston overvåger den anden på kroen med instense øjne og bliver bemærket.
 - Da de 2 riddere sadler op og rider væk overhører clara at de har en lyshåret kvinde taget til fange. 
 - Vallis fra huset De'Evers fortæller at [[Lady De'evers\|Lady De'evers]] mener ridderne har en permanent lejr et sted, de er mange og de har magt.
+
+[[02 Player/Erukana (Nissen)/4-091023 - Changer of time session 4\|<< Previous 04]] ----[[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5\|TOP]]---- [[02 Player/Erukana (Nissen)/6-301023 - Changer of time session 6\|Next 06 >>]]

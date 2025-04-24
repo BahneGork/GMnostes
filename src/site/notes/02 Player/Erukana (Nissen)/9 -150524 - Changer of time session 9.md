@@ -54,3 +54,5 @@
 ![Pasted image 20240515211858.png|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)
 - Da [[No Graph/5e Reference/monsters/Hydra\|Hydra]] er slagtet er der et hjerte tilbage, lava agtigt, som Clara samler op. 
 - Hydra hjertet ![Pasted image 20240522202250.png](/img/user/10%20Attachments/Pasted%20image%2020240522202250.png)
+
+[[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8\|<< Previous 08]] ----[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|TOP]]---- [[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10\|Next 10 >>]]

@@ -62,3 +62,5 @@ En meget meget stor ork står og taler med [[Venor\|Venor]], en af de 2 [[02 Pla
 Vi forsøger at heale [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] på afstand for at se om hun er i live. 
 
 Lejren fyldes med et synderrivende smerte skrig fra Silvara......... 
+
+[[02 Player/Erukana (Nissen)/6-301023 - Changer of time session 6\|<< Previous 06]] ----[[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7\|TOP]]---- [[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8\|Next 08 >>]]

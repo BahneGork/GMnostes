@@ -47,4 +47,5 @@ Marching order: Winston, Vargoth, Clara, Fritte
   ![Pasted image 20240704214952.png](/img/user/10%20Attachments/Pasted%20image%2020240704214952.png)
   ![Pasted image 20240704215134.png|600](/img/user/10%20Attachments/Pasted%20image%2020240704215134.png)
   ![Pasted image 20240704215511.png|400](/img/user/10%20Attachments/Pasted%20image%2020240704215511.png)
-  
+
+[[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1\| << Previous 13]] ----[[02 Player/Erukana (Nissen)/14 190624 - steffen session 2\|TOP]]---- [[02 Player/Erukana (Nissen)/15-110724 - steffen seesion 3\|Next 15 >>]]

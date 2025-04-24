@@ -76,3 +76,4 @@
 - da vi forlader sumpen med ruinerne har vi fornemmelsen af at vi forlader en "hinde" og ruinen bag os er væk. 
 
 
+[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|<< Previous 09]] ----[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10\|TOP]]---- [[02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11\|Next 11 >>]]
