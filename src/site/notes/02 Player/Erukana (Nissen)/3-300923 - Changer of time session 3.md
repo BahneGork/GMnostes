@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Leaving Kegville 
 

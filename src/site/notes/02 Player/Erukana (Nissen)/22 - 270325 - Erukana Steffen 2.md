@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign/steffen 
 
 # Session 22 - Rod of resurrection - killer of gods
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Swamp Trekking 
 - The Hydra is Dead! 

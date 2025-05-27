@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/4-091023 - Changer of time session 4/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Session 4 - Changer of Time 
 start location:  Cave in a forest 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Back in Astley 
 - 30 dage efter afgang til Grøndalen 

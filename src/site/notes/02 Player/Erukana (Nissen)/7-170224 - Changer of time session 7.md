@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blod Rosen]] fanger
 [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clara]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] overdrages til [[Astley\|Astley]]'s vagter, ved en vagt post ude for byen.

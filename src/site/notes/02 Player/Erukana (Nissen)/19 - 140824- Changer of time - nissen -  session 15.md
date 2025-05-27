@@ -3,7 +3,7 @@
 ---
 
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Session 19 - Ambush the rich red & black 
 

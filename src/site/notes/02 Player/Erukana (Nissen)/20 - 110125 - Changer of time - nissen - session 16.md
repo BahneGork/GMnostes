@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Session 20 
 - VinterFesten 1516: Vi ankommer i karet som Assana Lemiuex har bestilt til os.

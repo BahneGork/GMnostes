@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/15-110724 - steffen seesion 3/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign/steffen 
 
 # The altar room 
 ![Pasted image 20240711191404.png|500](/img/user/10%20Attachments/Pasted%20image%2020240711191404.png)

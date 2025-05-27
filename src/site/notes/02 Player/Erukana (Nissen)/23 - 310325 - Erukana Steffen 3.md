@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/23 - 310325 - Erukana Steffen 3/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign/steffen 
 
 # Session 23 - Void ship battle continues 
 

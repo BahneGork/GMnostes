@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign/steffen 
 
 # Something is wrong 
 Timeglasset lyser og laver hvid støj, Nibar lader til at blokere styrken af signalet.

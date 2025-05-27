@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Corruption of Feywood 
 ![Pasted image 20240613192833.png|300](/img/user/10%20Attachments/Pasted%20image%2020240613192833.png)

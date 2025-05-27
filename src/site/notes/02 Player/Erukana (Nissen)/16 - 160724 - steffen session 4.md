@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign/steffen 
 
 # The alter room fight - part #2 
 - Fritte kan vælge en ekstra effekt fra søjlen, helligt lys som kan heale, give ac eller reducere skade 

@@ -3,7 +3,7 @@
 ---
 
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Session 18 - Dagen efter Dødsriget
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Session start 
 der går en uge før Baronen's ambassadør ankommer til bronze tønden.

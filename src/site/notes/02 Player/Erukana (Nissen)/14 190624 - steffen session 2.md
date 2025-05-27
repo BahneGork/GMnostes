@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/14 190624 - steffen session 2/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign/steffen 
 
 # Session 14 - Steffen session 2 
 ## [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]]

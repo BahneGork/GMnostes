@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog  #erukana/campaign/steffen 
 Jens, Flemming, Bahne, Steffen 
 
 # Ghost Town

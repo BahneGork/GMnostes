@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1/"}
 ---
 
-#erukana #erukanasessionlog 
+#erukana #erukanasessionlog #erukana/campaign 
 
 # Session 21 - Celebration of Wildwood's Knighthood 
 
