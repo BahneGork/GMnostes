@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11/"}
 ---
 
-#erukana #erukanasessionlog #erukana/campaign 
+#erukana #erukanasessionlog 
 
 # Corruption of Feywood 
 ![Pasted image 20240613192833.png|300](/img/user/10%20Attachments/Pasted%20image%2020240613192833.png)
@@ -24,4 +24,3 @@
 
 #### Dag 12 - 18th highsun - Downtime Astley
 
-[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10\|<< Previous 10]] ----[[02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11\|TOP]]---- [[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley\|Next 12 >>]]

@@ -36,6 +36,7 @@
 - [[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]]
 - [[02 Player/Erukana (Nissen)/People/Sigurd Volteman - Jernnæven\|Sigurd Volteman - Jernnæven]]
 - [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]]
+- [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]]
 - [[02 Player/Erukana (Nissen)/People/Tani Ebonheart\|Tani Ebonheart]]
 - [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]
 - [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
