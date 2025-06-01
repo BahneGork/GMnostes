@@ -12,8 +12,8 @@
 | [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Feywood Beast Bounty]]                                                         | 500gp                               |
 | [[02 Player/Erukana (Nissen)/Missions/Find Sorte Rose Lejren\|Find Sorte Rose Lejren]]                                                     | \-                                  |
 | [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]]                     | 200gp                               |
-| [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]] | \-                                  |
 | [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley\|Solve the murder of Miri in Astley]]                             | Clearing Clarabel's name from doubt |
+| [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Undersøgelse af angrebet på Erukana Chapterhuset]] | \-                                  |
 | [[No Graph/Templates/Campaign/New Mission - player\|New Mission - player]]                                                                 | \-                                  |
 
 { .block-language-dataview}

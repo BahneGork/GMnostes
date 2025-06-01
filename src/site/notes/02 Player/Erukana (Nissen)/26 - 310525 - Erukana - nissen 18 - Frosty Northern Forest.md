@@ -4,7 +4,7 @@
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# HEADLINE 
+# Storming the bones 
 
 - Nibar har haft en drøm og får hjælp af en i Astley til at sende besked til Winston via Sending 
 - Han vil have os til at frafalde vores nuværende quest, at finde rod of resurrection og istedet finde det højeste bjerg i nordlandet for at finde noget der kan samle et ødelagt artifakt.
@@ -67,4 +67,4 @@
 
 
 
-[[Inbetween - steffen - druid grove lvl up\|<< Previous Session 25½ ]] ----[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|TOP]]----  [[ \|Next Session 27  >>]]
+[[02 Player/Erukana (Nissen)/Inbetween - steffen - druid grove lvl up\|<< Previous Session 25½ ]] ----[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|TOP]]----  [[ \|Next Session 27  >>]]
