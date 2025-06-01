@@ -24,3 +24,21 @@ Horden er en fælles betegnelse for krigeriske racer som oftest ses for fjendtli
 -    Orcerne. Vilde væsner som lever i stammeagtige grupper helt ned til under hundrede men i flere tilfælde i langt over tusinder. Orcerne er fødte krigere og langt de fleste lever udelukkende ved at raide, angribe og destruere andre racer og tage hvad de har behov for. De største Orc grupperinger rivaliserer nogle af menneskernes riger og kunne betegnes som kongeriger i det vilde. I Erukana er der flere stammer som lever i bakkelandet, i skovene og i bjergene. De mest berygtet er ”Den Sorte hånd”, Grimskulls og drageæderne.
 
 -    Gobliner er små ondsindet væsner som lever i samfund under jordens overflade, i bakkelandet i dybe huler eller i bjergene. De findes overalt og selvom de enkeltvis ikke er stærke, så er de snu som få. Der har dog været eksempler på Gobline samfund som har søgt at indgå handelsaftaler og ruter med de andre racer, endda nogle Gobliner som har vist egenskaber inden for opfindelser og tinkering.
+
+# **Nordlandet og deres mest kendte klaner og stammer**
+    
+**Frostløberne (Frostrunners)** Wulfgar den Hvide – Stammeleder for Frostløberne (Frostrunners). En stamme af nomader som jager i sammen med de berygtede frostleoparder i norden.
+    
+**Bjergkloen** Hrotlan af Bjergkloen – stammen som de fleste andre undgår undtaget når der virkelig er brug for dem. Rygtet siger at de er speciel stærke med deres shamaner eller præster og er et meget spirituelt folkefærd.
+    
+**Sortvingen** Ravn Blodøje – En kæmpe af en mand, med hård så sort som natten og en moral ligeså. Han leder Sortvingen, en klan som for generationer siden var fredelig og interesseret i at brede deres vinger rundt om i verdenen, men pga. ufred specielt mod landet i syd, er endt med at være et krigerfolk, hvis mest brændende ønske er at se den civiliseret verden bryde sammen i krigens flammer.
+
+**Flodhviskerne** Sekka Flodhvisker – Dronning af Isflagen, en af de vestlige dele af nordlandet. Rygtet vil at Flodhviskerne har over generationer lært at arbejde sammen med de hvide drager i Norden. Flodhviskerne er den stammer som har mest med sydriget og de civiliserede lande at gøre, primært igennem handel.
+    
+# **De ukendte stammer i Nordlandet** 
+
+**”Langfods stammen”** – Dystre tider har bragt dem i isolation og de nægter at have noget med de andre stammer at gøre. Træder du ind på deres territorie, er du frit bytte. 
+
+**”Knoglefolket”** – Deres oprindelig navn var Elge folket, men pga. en frygtelig krig i nordlandet, begyndte de at avle med nogle af orc stammerne i norden. Sidst man har hørt fra dem, levede de side om side med orkerne og havde taget mange af deres traditioner med dem. 
+
+**”SouSou folket”** – Om de stadig eksistere, vides ikke. Men Harald den Tavse fortalte om nattestammen; En stamme af nomader som rejste om natten, og hvilede om dagen. Deres tidligere stammeøverste havde Kæmpe blod i hans åre.
