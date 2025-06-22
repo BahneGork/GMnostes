@@ -12,6 +12,7 @@
 - [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]]
 - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov\|Vinterskov]]
 - [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+- [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]]
 
 { .block-language-dataview}
 
