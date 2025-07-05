@@ -28,6 +28,7 @@ The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 
 # Sessions 
 
+- [[02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6\|28 - 050725 - Erukana - Steffen 6]]
 - [[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|27 - 210625 - Eurkana - nissen 19 -]]
 - [[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest]]
 - [[02 Player/Erukana (Nissen)/Inbetween - steffen - druid grove lvl up\|Inbetween - steffen - druid grove lvl up]]
