@@ -53,14 +53,13 @@
 - Om eftermiddagen aftager Stormen endelig og vi bryder camp for at gå videre efter kompasset
 - Vi nærmer os det som ligner en palisade, mindre end en landsby 
 - Vi ankommer til Windbreaker waystation, et trading fort, ejet af Garret 
-- Vi introduceres til Mira Wolfsbane som er deres jæger
+- Vi introduceres til [[Mira Wolfsbane\|Mira Wolfsbane]] som er deres jæger
 - vi finder en mand i stalden som ligner beskrivelsen på grimjaw, men han kender ikke navnet og kalder sig jawlog
 - Adair får låst Grimjaws hjerne op 
 - vi får afvide at iceeyes er kommet forbi med en expedition for nogle dage siden
 - Grimjaw ved hvor Iris er på vej hen, hendes fars grav og en slag mark som ligger et par uger væk
 - Adair og Grimjaw går ud i laden og hidkalder en djævel med kæder 
 - corwin kaster plantgrowth ude i deres urte have 
-- 
 
 
 

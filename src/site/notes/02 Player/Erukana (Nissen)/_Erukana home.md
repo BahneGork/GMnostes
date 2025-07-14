@@ -17,17 +17,20 @@
 | [[02 Player/Erukana (Nissen)/Missions/Mission rewards\|Mission rewards]]                                                                                                    | [[02 Player/Erukana (Nissen)/Setting lore/Setting lore index\|Setting lore index]]                                                                                                                                     | [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]                           |                                                  |
 | [Loot Sheet drive](https://loot.xcv.dk)                                                                                | [[02 Player/Erukana (Nissen)/Locations/ErukanaMap\|ErukanaMap]]                                                                                                                                             |                                                     |                                                  |
 | [Downtime Sheet](https://docs.google.com/spreadsheets/d/1sIJETEqeN5-KZOZiNETAmAtHIwSFup85eiREJ9aMxzw/edit?gid=0#gid=0) | [https://app.fantasy-calendar.com/calendars/422d00b63d41c292cf22ef53ce369acd](https://app.fantasy-calendar.com/calendars/422d00b63d41c292cf22ef53ce369acd) |                                                     |                                                  |
+|[Char Stats](https://docs.google.com/spreadsheets/d/1tNzYZOLpveWZXtYSUUXd56guGRLaYJhX3ZbVl2p8_Ys/edit?gid=0#gid=0)||||
 
 ![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
 
-#### Current date: 11th Chase
+#### Current date: 4th Tarsakh
 #### Current location: Nordheim 
+
 # Active Missions 
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
-
+Rod of Resurrection 
 
 # Sessions 
 
+- [[02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation\|29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation]]
 - [[02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6\|28 - 050725 - Erukana - Steffen 6]]
 - [[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|27 - 210625 - Eurkana - nissen 19 -]]
 - [[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest]]
