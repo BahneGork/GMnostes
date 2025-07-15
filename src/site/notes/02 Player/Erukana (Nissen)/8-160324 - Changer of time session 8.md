@@ -8,7 +8,7 @@ dato: 16 marts 2024 - nyråd
 # Redningen 
 Vi iværksætter vores rednings plan mens lejren langsomt vågner op og indser de er under angreb. 
 
-[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] & [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] løber ind i skoven med [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] & [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clara]] danner front mod orkerne. 
+[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] & [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] løber ind i skoven med [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] & [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] danner front mod orkerne. 
 
 Da vi alle er løbet ud i skoven og har fundet hinanden, overbeviser [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] os om at gøre en desperat handling. Vi aktiverer tids artefaktet og han forsøger at teleportere os væk.
 
@@ -22,7 +22,7 @@ Vi befandt os i et gigantisk rum, hvor vi ikke kunne se noget loft eller vægge.
 
 [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] undersøger spejlet og ser 2 store lilla øjne kigge intenst på ham. han lægger hånden på spejlet og bliver bombarderet med information og hans negle begynder at blive til amatyster. Vi får revet ham væk fra spejlet. 
 
-[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clara]] er overbevist om at [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] er blevet korrupteret, hun mindes om [[den store stemme\|den store stemme]]. 
+[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] er overbevist om at [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] er blevet korrupteret, hun mindes om [[den store stemme\|den store stemme]]. 
 
 Vi tænker at spejlet er en måde at kommunikere med noget som er i fangeskab.
 
@@ -43,7 +43,7 @@ Det virker.....   alt for godt....
 
 [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bliver trukket ned med lysets hast og resten af gruppen ryger efter med rebet. Men kun [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bliver transporteret til en overfladen dybt nede, resten falder blot. 
 
-[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bruger sin nyeste teleportations formular og hiver [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clara]] ned på "jorden" mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] lander med nogle sygelige klask. Vi får stabiliseret og healet alle. 
+[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bruger sin nyeste teleportations formular og hiver [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] ned på "jorden" mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] lander med nogle sygelige klask. Vi får stabiliseret og healet alle. 
 
 Vi befinder os i en by, der ser komplet øde ud. Der er nogle tekster på bygningerne og heiroglypher. Det virker som om det kunne være det som Anakhet stammer fra. 
 

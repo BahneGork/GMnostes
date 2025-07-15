@@ -5,7 +5,7 @@
 
 # Clarabel Lancaster DndBeyondSheet
 Main:
-Related: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster - Squire of the Queensguard\|Clarabel Lancaster - Squire of the Queensguard]]
+Related: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
 
 # DndBeyondSheet
 https://ddb.ac/characters/103559115/UxL9ta
