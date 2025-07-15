@@ -6,6 +6,7 @@
 
 # Erukana faction list 
 - [[02 Player/Erukana (Nissen)/Factions/blå nomader\|blå nomader]]
+- [[02 Player/Erukana (Nissen)/Factions/Bone Tribe\|Bone Tribe]]
 - [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]]
 - [[02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande\|Court of Baronesse Avalande]]
 - [[02 Player/Erukana (Nissen)/Factions/Emerald enclave\|Emerald enclave]]
