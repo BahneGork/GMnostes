@@ -5,7 +5,7 @@
 #erukanamission #playermission
 
 # Active Mission - Player 
-Missionstatus:: Active
+Missionstatus:: completed
 MissionName:: Find sorte rose lejren
 MissionFaction:: Mistville Marshals
 MissionOwner::  PC Party 
@@ -21,12 +21,13 @@ Vi har hørt fra [[Vallis\|Vallis]] i House De'Evers, Lady De'Evers mener [[02 P
 ### Objectives 
 - Find informationer om [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] i Astley 
 - Find [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]'s Lejr 
-- Find muligheder for at befri kvinden der er taget til fange 
+- [x] Find muligheder for at befri kvinden der er taget til fange 
 ## Related Locations 
 - [[Astley\|Astley]]
 
 ## NPC's encountered on mission 
-
+[[Sammy\|Sammy]]
+[[Fafnir\|Fafnir]]
 
 
 ## Mission Reward 

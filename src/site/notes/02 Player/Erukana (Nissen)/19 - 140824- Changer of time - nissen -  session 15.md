@@ -18,7 +18,7 @@
 	- Nibar og Bjørn kommer også ind i rummet 
 	- "hvad er dit navn" - [[Maria\|Maria]] 
 	- Maria henter Miri til hendes aften færden 
-	- Hvem har betalt: [[02 Player/Erukana (Nissen)/Missions/Lord Alistair\|Lord Alistair]], Anthony 
+	- Hvem har betalt: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]], Anthony 
 	- Henter du andre? nej.
 	- Ved du hvem Miri er? nej.
 	- Forskellige steder? nej, men hun får bind for øjenene

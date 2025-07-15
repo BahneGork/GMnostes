@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Rod of Resurrection/"}
 ---
 
 #erukanamission #playermission
 
 # Active Mission - Player 
-Missionstatus:: Completed
-MissionName:: The fall of Arcana tower
-MissionFaction:: `=this.faction`
+Missionstatus:: Active
+MissionName:: Rod of Resurrection
+MissionFaction:: Pillar of truth
 MissionOwner::  
 OpposingFaction:: 
 NPC-Resources:: 
@@ -16,7 +16,7 @@ Real-life-Date::
 SessionNR:: 
 
 ## Mission Briefing 
-Arcana tårnet er faldet, eksploderet. Azur orden.
+
 
 
 ## Related Locations 
@@ -24,12 +24,12 @@ Arcana tårnet er faldet, eksploderet. Azur orden.
 
 
 ## NPC's encountered on mission 
-Wildlings
+
 
 
 
 ## Mission Reward 
-Isilme 
+
 
 
 

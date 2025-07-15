@@ -41,7 +41,7 @@
 	- de 2 andre er meget ældre
 	- Saga, Kvinden har 2 meget klare blå øjne
 	- Eigil, den sidste mand har stort vildt skæg og travlet hår, blind på begge øjne og tygger en urte "smøg"
-	- Bjørn foreslår at man i norden samler klanerne ved at finde en ny [[02 Player/Erukana (Nissen)/nordstjerne\|nordstjerne]] 
+	- Bjørn foreslår at man i norden samler klanerne ved at finde en ny [[02 Player/Erukana (Nissen)/Setting lore/nordstjerne\|nordstjerne]] 
 	- vi forklarer at deres høvding's forfædre indgik pagt med det vi kalder den lilla plage og at ham ridderen der kom her fik høvdingen til at gå i alliance med den samme
 	- Bjørn fortæller han har påtaget sig opgaven at finde den nye nordstjerne 
 	- Bjørn står ikke højt i de ældste's agtelse da han har kæmpet for civilizationen, disse typer nævner de som forrædere mod nordlandet 

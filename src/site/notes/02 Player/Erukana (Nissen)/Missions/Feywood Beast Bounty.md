@@ -5,7 +5,7 @@
 #erukanamission #playermission
 
 # Active Mission - Player 
-Missionstatus:: Active
+Missionstatus:: completed
 MissionName:: Feywood Beast Bounty
 MissionFaction:: Astley
 MissionOwner::  Astley Byvagt
