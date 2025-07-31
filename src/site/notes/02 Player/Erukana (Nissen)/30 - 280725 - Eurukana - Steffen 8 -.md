@@ -22,7 +22,7 @@ Det lader til at vi skal lave radiant damage på dem for at de kan kanalisere de
 - Mantarayen er så stor at hele fortet ligger oven på ryggen af den, samt et stort område af geografi.
 - Logan løber foran for at scoute en sikker rute væk og hvor man er i sikkerhed
 - Mantarayen er ca 300-400 meter lang
-- Den vipper med halen og drysser sparkling energi ned over os og giver os effekten af et long rest og et level og en ekstra gave vi ikke ved hvad er endnu. 
+- Den vipper med halen og drysser sparkling energi ned over os og giver os effekten af et long rest og et level træning og en ekstra gave vi ikke ved hvad er endnu -> [[02 Player/Erukana (Nissen)/Loot/Boon from the divine manta ray Nayaru - The moonveil Ray\|Boon from the divine manta ray Nayaru - The moonveil Ray]] 
 
 
 
