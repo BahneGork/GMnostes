@@ -30,7 +30,8 @@ Rod of Resurrection
 
 # Sessions 
 
-- [[30 - 280725 - Eurukana - Steffen 8 - \|30 - 280725 - Eurukana - Steffen 8 - ]]
+- [[02 Player/Erukana (Nissen)/31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta\|31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta]] 
+- [[02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle\|30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle]]
 - [[02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation\|29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation]]
 - [[02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6\|28 - 050725 - Erukana - Steffen 6]]
 - [[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|27 - 210625 - Eurkana - nissen 19 -]]
