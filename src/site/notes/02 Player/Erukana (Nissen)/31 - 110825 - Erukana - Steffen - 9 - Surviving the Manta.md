@@ -21,6 +21,7 @@
 	- Vi sætter afsted i retning af kompas nålen, nord øst
 	- Vi holder lejr i [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]'s vogn 
 - 5th of Tarsakh 
+	- Travelling North East
 	- Evelyn & Logan kan høre noget kamp længere fremme, det lyder som Orker. 
 	- Logan spejder frem og ser en Orc der er ved at dræbe en kvinde og skyder Orken
 	- Resten af gruppen kommer løbende og flere Orker vælter ud af buskene op imod os
