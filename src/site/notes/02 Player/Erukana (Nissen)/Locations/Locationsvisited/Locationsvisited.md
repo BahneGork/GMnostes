@@ -13,6 +13,7 @@
 - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov\|Vinterskov]]
 - [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
 - [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]]
+- [[02 Player/Erukana (Nissen)/Locations/Nord Heim\|Nord Heim]]
 
 { .block-language-dataview}
 
