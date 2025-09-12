@@ -22,7 +22,7 @@
 
 ![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
 
-#### Current Date: 4th Tarsakh
+#### Current Date: 5th Tarsakh
 #### Current Location: Nordheim
 
 # Active Missions
