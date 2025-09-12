@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/XP log/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/XP log/","tags":["erukana","playercharacters","playernotes"]}
 ---
+
 
 #erukana #playercharacters #playernotes 
 
-# XP rewards 
+# XP Rewards
 
 | XP   | Experience          | Session | Total |
 | ---- | ------------------- | ------- | ----- |

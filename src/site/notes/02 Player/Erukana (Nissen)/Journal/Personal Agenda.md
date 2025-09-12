@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Personal Agenda/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Personal Agenda/","tags":["erukana","clarabel"]}
 ---
+
 
 #erukana #clarabel 
 
@@ -36,35 +37,35 @@ Andre målsætninger.
 
 
 
-# Clara Motivations 
+# Clara Motivations
 
-## Motivations 
+## Motivations
 - Fight Opression 
 - Oppose divine manipulation 
 - Be the strongest Predator/Hunter i can be
 
 # Goals
 
-## Long term goal
+## Long Term Goal
 - 
-### Short term goals
+### Short Term Goals
 - 
 
-## Mid term goal - Ally with Fafnir - DONE
+## Mid Term Goal - Ally with Fafnir - DONE
 - [x] Ally our organisation with Fafnir's ✅ 2024-08-05
-### Short term goals 
+### Short Term Goals
 - [x] Have a sit down with Fafnir ✅ 2024-08-05
 - [x] come to terms for an alliance ✅ 2024-08-05
-## Unlock my inner beast - Mid term goal 
+## Unlock My Inner Beast - Mid Term Goal
 - Unlock the full potential of my inner beast 
-### Short term goals
+### Short Term Goals
 - [ ] Talk with Celedrial about the gift 
 - [x] Seek a connection with nature ✅ 2024-08-05
 - [x] Commune with Nature about the inner beast ✅ 2024-08-05
 - [ ] Find others like me and learn from them 
-## Defeat purple plague invasion - Long term goal 
+## Defeat Purple Plague Invasion - Long Term Goal
 - Defeat the purple plague invasion
-### Short term goal 
+### Short Term Goal
 - [x] Find out what the purple plague is ✅ 2025-01-12
 - [x] Find out who is behind it ✅ 2025-01-12
 - [x] Find out why it is happening ✅ 2025-01-12
@@ -73,9 +74,9 @@ Andre målsætninger.
 - [ ] Kan korruptionen kureres/renses ?
 - [ ] Hvordan bliver folk inficeret?
 
-## Sir Seilings Mausoleum - Mid term goal
+## Sir Seilings Mausoleum - Mid Term Goal
 - Explore [[Sir Seillings mausoleum\|Sir Seillings mausoleum]]
-### Short term goals 
+### Short Term Goals
 - [x] Find out it's location ✅ 2024-08-02
 - [x] Research the history of Sir Seiling ✅ 2024-08-02
 	- [x] [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] research ✅ 2024-08-02
@@ -84,32 +85,32 @@ Andre målsætninger.
 - [ ] Find the tomb
 - [ ] Enter the tomb
 - [ ] Find out what Winston is supposed to do there 
-## Establish Intelligence gathering - Mid term goal
+## Establish Intelligence Gathering - Mid Term Goal
 - Create an intelligence gathering organization
-### Short term goals
+### Short Term Goals
 - [x] Get assistance of a former knight, now priest of Paladine on how to get started ✅ 2025-01-12
 - [ ] Find new short term goals, once we have heard from him 
 - [x] Ask "Fritte" to join our cause, our team even. She could have/gain access to certain communities in the city that we will struggle with ourselves. ✅ 2025-01-12
 - [x] Ask Bjørn if he knows people that could aid our cause or would want to join it. ✅ 2025-01-12
-## Unseat the Blood rose from power in Astley - Mid term goals 
+## Unseat the Blood Rose from Power in Astley - Mid Term Goals
 - Unseat the blood rose in Astley 
-### Short term goals
+### Short Term Goals
 - [ ] Gather intelligence on the blood rose in Astley 
 - [ ] Find out which persons are of interest in unseating the blood rose from power 
 - [ ] Find out what those persons weaknesses, desires, wants, needs are 
 - [ ] Hvad ved Bjørn om blod rosen fra hans tid i deres hær
-## Learn about our Tattoo's - Mid term goal 
+## Learn about Our Tattoo's - Mid Term Goal
 - Find out how/why we have our tattoo's  
-### Short term goal 
+### Short Term Goal
 - [ ] [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]] 
 - [ ] Question Avalande on the Azure order and our tattoo's 
 - [ ] Search the arcane tower ruins for clues 
 - [x] Offer/Ask "Fritte" to join us, so that we may all learn more about our tattoo's ✅ 2025-01-12
 - [x] Offer/Ask Bjørn to join us and learn what he knows of the Tattoo ✅ 2024-08-05
 
-## Short term goal - Clear my name of Miri's murder  - DONE 
+## Short Term Goal - Clear My name of Miri's Murder - DONE
 
-## Next Actions 
+## Next Actions
 - [ ] Talk with the group about my situation 
 - [x] Talk with Winston about me and the knighthood ✅ 2024-08-05
 	- [ ] seeing as QueensGuard failed.. Suggest a new way of doing things, with our own team as inspiration
@@ -125,7 +126,7 @@ Andre målsætninger.
 - [ ] remove a piece of power, Astley, from the clutches of the dark lady Takhisis
 - [ ] if possible remove agents of power from Takhisis's board.
 - [ ] Understand and unlock the full potential of the beast within gifted by Mielikki, so that i may become the best predator i can be 
-## Character reflections 
+## Character Reflections
 - [ ] Reflections on gods, their power, their need of mortals 
 - [ ] Reflect on the natural laws, predator and prey 
 - [ ] How the Queensguard failed and why 
@@ -139,7 +140,7 @@ Andre målsætninger.
 - [x] Fafnir agreeing to alliance ✅ 2025-01-12
 - [x] Silvara to wake up ✅ 2025-01-12
 
-## Mistville - 23rd - 25th Flamerule - session 4-5
+## Mistville - 23rd - 25th Flamerule - Session 4-5
 1. [x] (personlig) Få tilset udstyr af den lokale smed, samt bruge mending på andet. ✅ 2023-10-24
 2. [x] (personlig) Gå resten af udstyret igennem og reparere det som kan med mending ✅ 2023-10-24
 3. [x] (personlig)(træning) Opsøge [[Ulrik Stadtfelt\|Ulrik Stadtfelt]] og reflektere over deres rejse med ham, hendes handlinger, hendes interne konflikter med kontrol. ✅ 2024-02-16
@@ -150,7 +151,7 @@ Andre målsætninger.
 4. [x] (træning) Tilbyde sine evner som healer i byen generelt, hvis der er et sted folk går til normalt eller under månetræet hvis de ikke har noget sted de går hen i forvejen. Medicine og healers kit og til de alvorlige cure wounds, lessor restoration (You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.) blind og døv tænker jeg kun er hvis det er skader ikke hvis det er kommet naturligt af kroppen selv? ✅ 2023-10-27
 5. [x] (personlig) hvis der er tid tilovers, tilbyde mending som service. ✅ 2024-02-16
 6. [x] (personlig) leve omkostninger ku måske dækkes af religiøse services, healing services, mending services ✅ 2023-10-27
-## Bronzekeg - session 1-2
+## Bronzekeg - Session 1-2
 - [x] Get back to [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] with the [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Silver statuette]] ✅ 2023-07-14
 - [x] Talk to the half-orc about the red tooth orks we found ✅ 2023-09-25
 - [x] få bragt besked til den døde gruppes efterladte om deres skæbne ✅ 2023-09-25

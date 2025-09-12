@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Back in Astley 
+# Back in Astley
 - 30 dage efter afgang til Grøndalen 
 - sidste høst er kommet ind til byen så der er gang i markederne
 - et større detachment af Blod rosen forlod byen for 1 ten day siden, mod nord under høj banner føring
@@ -25,18 +26,18 @@
 - Winston vækker Clara på hendes værelse, med en finger negl i munden. 
 - Lord [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] opsøger os på kroen 
 - Lord [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] oplyser han kan udføre ridder ceremonien/ritualet 
-## Bjørn leder efter fritte og lytter efter nyheder
+## Bjørn Leder Efter Fritte Og Lytter Efter Nyheder
 - krigen mellem de 2 baronier er blusset op igen. 
 	- Eresby og Welles  
 - en landsby langs grænsen er der kampe
 - en ung kvinde er dræbt i går nat (måske clara?) 
-## Satyren Elrond møder Clara og Winston ved sol træet
+## Satyren Elrond Møder Clara Og Winston Ved Sol Træet
 - Celedrial er ude og rejse, bl.a. for at drøfte puppen at det ikke går så godt 
 - Måne blomsten dukker op når der er behov for det, af mielikki's gunst 
 - Winston taler med Elrond om Clara's issues med bæstet 
 - Dyrenes natur og balance i tingene 
 - Clarabel mediterer i helligdommen og overnatter 
-## Miri - sangstrup familien 
+## Miri - Sangstrup Familien
 - på vej hjem fra byen, dagens salg 
 - hun så ikke sin morder 
 - glødende øjne, kløer og tænder 
@@ -54,13 +55,13 @@
 		- rige mennesker der laver "fæle ting". 
 			- Alistair 
 			- afholder "fester", de fleste gange i varehus i nærheden af borgmesterens hus 
-##  Fafnir møde 
+## Fafnir Møde
 - [[Sammy\|Sammy]]  møder os i gyden, hun taler for [[Fafnir\|Fafnir]]
 	- [[Fafnir\|Fafnir]]'s gruppe er allerede igang.
 	- De vil gerne hjælpe os med at starte en organisation
 	- Front: eventyrer meeting hall 
 		- Scout locations og vælg: Sami 
-## Lighuset, back again 
+## Lighuset, back Again
 - Vargoth har set noget lys om natten ved det gamle bahamut tempel. 
 - Nibar skaber kontakt med det negative plan og åbner en portal. 
 - udøde vælter ud og vi kæmper mod dem. 
@@ -71,12 +72,12 @@
 - Imens at mørkets udøde ridder bliver suget tilbage i portalen råber han **"Jeg kommer tilbage efter bogen og din sjæl!"**
 - Vi tager tilbage til kroen... 
 
-## Planen til næste gang 
+## Planen Til Næste Gang
 - udspørge veninde [[Elvira\|Elvira]] om Miri 
 - udspørge [[Krugge\|Krugge]] om Miri 
 - Melde tilbage til [[vagtkaptajn Samuel\|vagtkaptajn Samuel]] ; vestporten 
 
-# GM Recap 
+# GM Recap
 Recap – Session 10 del 1 – Mausoleumet.
 
 Samme aften som I er kommet retur fra Nordheim, samledes I på kroen Kongenshvil. Kroen var stopfyldt af folk og fæ, herunder en hel del rejsende. Der skete flere ting den aften:

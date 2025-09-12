@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1/","title":"The silver statue heirloom"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1/","title":"The silver statue heirloom","tags":["erukanamission","erukana","missiontype-retrieval","erukanasecretsnclues"]}
 ---
+
 
 #erukanamission  #erukana #missiontype-retrieval
 
-# The silver statue heirloom
+# The Silver Statue Heirloom
 **Objective::** [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]], en ca. tyve centimeter høj statue af sølv, en bjørn med en smaragd i panden og gevirer. Indgraveret med et familiesymbol, der viser at statuen har tilhørt [[Brakeshield familien\|Brakeshield familien]]
 
 Gruppen fandt via ledetråde frem til at Statuen var gået tabt under en flytning mellem [[Pembroke\|Pembroke]] og [[Wolfenburg\|Wolfenburg]], hvor også *en af familiens døtre var omkommet under et angreb.*
@@ -25,11 +26,11 @@ Reward:: 200gp
 - statue was sold in the market of [[Segrave\|Segrave]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] #erukanasecretsnclues
 - buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] #erukanasecretsnclues 
 
-## People Clues 
+## People Clues
 - art collector, gnome, [[Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]  #erukanasecretsnclues 
 
 
-## Objectives & Goals 
+## Objectives & Goals
 - [x] Statue located ✅ 2023-07-04
 - [x] Statue reclaimed ✅ 2023-07-04
 	- [x] pay [[Archibald Oddsmoke\|Archibald Oddsmoke]] 

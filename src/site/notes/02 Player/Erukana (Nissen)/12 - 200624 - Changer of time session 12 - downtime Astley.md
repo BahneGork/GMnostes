@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Downtime Astley starts 13th Eleint - The Fading 
+# Downtime Astley Starts 13th Eleint - The Fading
 7 dages rejse hjem til Astley, Spending Returning from defeating the [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Feywood Beast Bounty]] & cleansing the [[02 Player/Erukana (Nissen)/Missions/Corruption of Feywood\|Corruption of Feywood]], The Mistville Marshals take an earned rest in [[Astley\|Astley]]. 
 
-## Clarabel 
+## Clarabel
 - opsøge bahamut præster og finde ud af om der er hemmelige forsamlinger eller lignende.
 - gennem teologisk debat, filosofisk debat og fordybelse i bøn/mediation/communion opnå lvl 5 som cleric  (såfremt vi finder pengene til det) Mine lvl penge går til at finansiere Bahamut ordnens overlevelse i Astley, samt incense og andre religiøse materialer.
 - Besøge Silvara dagligt i [[Soltræet\|Soltræet]] og tale med [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] om kontrol af varulven.
@@ -17,7 +18,7 @@
 - Mausoleum
 - Finde tid til at træne med Warhawk & Winston
 
-### Clarabel results 
+### Clarabel Results
 - En lille gruppe af Bahamut præster mødes ved den ugentlig højmesse tid (Niende dag, ved den Niende klokke). 
 	- Clarabell mødes med en ældre kvinde der arbejder som [[Vagtkaptajn ved Nord distriktet i Astley\|Vagtkaptajn ved Nord distriktet i Astley]]. 
 	- Hun er Bahamut troende og viser Clarabell hen til den store kælder ved et palæ i øst distriktet. 
@@ -28,10 +29,10 @@
 
 Winston og Clara træner med scimitars 
 
-### Winston 
+### Winston
 - [[Pierre\|Pierre]] arbejder for [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] og er Winstons vej ind i præsternes møder. 
 
-# Gruppe meeting 
+# Gruppe Meeting
 - Brugt 400gp på træne lvl 5. 
 - fået 500gp for hydra hovede
 - omsæt værdier til likvider, Nibar's vurdering af opaler ca 500gp/stk. 
@@ -55,7 +56,7 @@ Winston og Clara træner med scimitars
 		- Snakke med Fafnir om modstand 
 - [[mausoleum\|mausoleum]] har måske noget folk kan samles om, rally 
 
-# Møde med Lord [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
+# Møde Med Lord [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
 - en vital, ældre herre, omend måske lidt træt 
 - tidligere Queensguard 
 - præst af paladine 

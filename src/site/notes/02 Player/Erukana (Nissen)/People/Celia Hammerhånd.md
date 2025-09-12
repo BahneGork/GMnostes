@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celia Hammerhånd/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celia Hammerhånd/","tags":["erukana/npc"]}
 ---
+
 
 #erukana/npc 
 # Celia Hammerhånd

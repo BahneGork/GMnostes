@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill/","tags":["erukana/npc"]}
 ---
+
 
 #erukana/npc 
 # Baron Zhaarko's Ambassadør

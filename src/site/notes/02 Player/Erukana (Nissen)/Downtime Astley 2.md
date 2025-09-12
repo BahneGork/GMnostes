@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Downtime Astley 2/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Downtime Astley 2/","tags":["erukana","erukanasessionlog","downtime/astley/2"]}
 ---
+
 
 #erukana #erukanasessionlog #downtime/astley/2
 
-# Downtime schedule 
+# Downtime Schedule
 
 [Downtime Sheet](https://docs.google.com/spreadsheets/d/1sIJETEqeN5-KZOZiNETAmAtHIwSFup85eiREJ9aMxzw/edit?gid=0#gid=0)
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Stenvogterne/","tags":["faction","erukana"]}
 ---
 
+
 # BAGGRUND
 
 Stenvogterne er en spirituel organisation som hævder de har rødder helt tilbage til de Ældste af Bjergenes Børn. Deres formål er at sikre at de Ældstes traditioner holdes i hævd og efterleves af alle efterkommere af [[Bjergenes Børn\|Bjergenes Børn]].

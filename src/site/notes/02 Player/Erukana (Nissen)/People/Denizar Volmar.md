@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Denizar Volmar/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Denizar Volmar/","tags":["erukana/npc","erukana/campaign"]}
 ---
+
 
 #erukana/npc #erukana/campaign 
 

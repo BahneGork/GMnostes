@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Downtime Astley 2 - between session 19-20/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Downtime Astley 2 - between session 19-20/","tags":["erukana","erukanasessionlog"]}
 ---
+
 
 #erukana #erukanasessionlog 
 
-# Downtime between session 19 & 20:  session 19,5
+# Downtime between Session 19 & 20: Session 19,5
 
 - Gruppen overtog [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s ejendom og forretning.
 - Gruppen har døbt sig selv Astley Avengers i deres debrief rapport til [[vagtkaptajn Samuel\|vagtkaptajn Samuel]]

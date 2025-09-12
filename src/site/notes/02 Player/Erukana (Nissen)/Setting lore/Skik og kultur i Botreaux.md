@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Botreaux/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Botreaux/","tags":["erukana","kultur","botreaux-duchy"]}
 ---
+
 
 #erukana #kultur #botreaux-duchy
 
 Main: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]] 
 Related: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau\|Hertugdømmet Bortreau]]
 
-# Skik og kultur i Botreau Hertugdømmet
+# Skik Og Kultur I Botreau Hertugdømmet
 
 Botreaux er juvelen i riget, hvilket over tiden har skabt et hårdt arbejdende folk, som tjener kronen gladelig. Rigets velstand rammer primært dem i de store byer og der findes mindre landsbyer hist og her, som adlen er ligeglad med så længe de passer deres arbejde og betaler deres skatter og afgrøder. 
 

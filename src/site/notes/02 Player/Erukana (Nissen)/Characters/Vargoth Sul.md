@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Vargoth Sul/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Vargoth Sul/","tags":["erukanapc","erukana","playercharacters"]}
 ---
+
 
 #erukanapc #erukana #playercharacters 
 

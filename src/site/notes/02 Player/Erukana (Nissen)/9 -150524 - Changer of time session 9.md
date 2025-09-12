@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Session 9 
-## Downtime i Astley
+# Session 9
+## Downtime I Astley
 - [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] har lagt [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] i en puppe som har til henblik at regenere og bringe hende tilbage til livet hvis hun ønsker det selv.
 - [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|winston]] træner med sit nye sværd
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] bruger tiden på at fordøje den nye situation 
@@ -17,7 +18,7 @@
 	- han fortæller os om feywood bæstet
 		- Det gamle paladine bibliotek har mere information, som stadig står intakt.
 - Clara forsøger at få information fra folkene på baren om feywood bæstet (se mission briefing [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Feywood Beast Bounty]])
-#### 7th Highsun 
+#### 7th Highsun
 - Nibar sidder og læser i den onde bog 
 - Clara spørger bonden hvad han ved om [[Det Røde pas\|Det Røde pas]], Syd-øst, bjergene 
 - Vi begiver os ind til Astley for at finde [[Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] 
@@ -28,7 +29,7 @@
 - Nogle af dem der render rundt inde i biblioteket skjuler Bahamut's mærke.
 - Clara forsøger at flashe bahamuts symbol lidt diskret og sprøger efter [[Tyra volkmarr\|Tyra volkmarr]]
 - en rødhåret dværg i kåbe og brynje, med warhammer spørger om vi søger [[Tyra volkmarr\|Tyra volkmarr]], med slange tattooveringer. bahamut præst.
-#### Dag 1 - 7th highsun
+#### Dag 1 - 7th Highsun
 - på vores første hvil kravler noget rundt oppe i træerne
 - Vargoth kaster [[No Graph/5e Reference/spells/Light\|Light]] efter lyden 
 - Lianerne i skoven bevæger sig og en af dem har viklet sig rundt om Clarabel mens hun sov og forsøger trækker hende væk i skoven 
@@ -36,8 +37,8 @@
 - vi kommer forbi en frisk grav 
 - længere fremme er der et 10x10m område hvor der ikke er trækroner og skovbund
 - Vi har stadig fornemmelsen af at Skoven stadig overvåger os
-#### Dag 2 - 8th highsun 
-#### Dag 3 - 9th highsun 
+#### Dag 2 - 8th Highsun
+#### Dag 3 - 9th Highsun
 - vi drejer af mod sump/vådmarsk delen af skoven 
 - masser af størrer dyr, edderkopper, slanger og diverse 
 - skilt "Eastwatch" - muligvis ruinerne 

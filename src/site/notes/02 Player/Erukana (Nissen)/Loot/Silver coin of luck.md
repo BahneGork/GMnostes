@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Silver coin of luck/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Silver coin of luck/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 
-# Silver coin of luck
+# Silver Coin of Luck
 
 ![Pasted image 20231019205318.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019205318.png)
 ## Description

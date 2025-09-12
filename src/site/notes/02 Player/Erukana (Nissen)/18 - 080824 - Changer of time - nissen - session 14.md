@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
 ---
 
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Session 18 - Dagen efter Dødsriget
+# Session 18 - Dagen Efter Dødsriget
 
 - vi sidder og snakker i kroen 
 - Winston smutter ud i byen og køber sværd, skjold og greatsword
@@ -20,7 +20,7 @@
 - Elvira har virket tyndslidt det sidste stykke tid og han er bekymret for hende 
 - Vi får af vide hvor hun ofte opholder sig og fortsætter ned af en smal gyde 
 - Vi ankommer til et Drikke sted  [[den brækkede knogle\|den brækkede knogle]]
-## Den brækkede knogle 
+## Den Brækkede Knogle
 - Drikke stedet er fyldt med drankere. 
 - Winston, Vargoth og Clara går op til Kro mutter
 	- Kro mutter vil have 3 gp for at vi får lov at tale med Elvira 
@@ -73,7 +73,7 @@
 		- han virkede ikke stolt ved hvad han lavede 
 		- ingen familie 
 
-# Plan næste gang 
+# Plan Næste Gang
 Ambushe "Rig dame i sort og rød kjole" på Den brækked knogle 
 
 

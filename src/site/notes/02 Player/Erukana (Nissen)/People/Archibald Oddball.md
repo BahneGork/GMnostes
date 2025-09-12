@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Archibald Oddball/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Archibald Oddball/","tags":["erukana/npc"]}
 ---
 
+
 #erukana/npc 
-# Pensioneret købmand og Excentrikker 
+# Pensioneret Købmand Og Excentrikker
 
 ![Pasted image 20231021195636.png](/img/user/10%20Attachments/Pasted%20image%2020231021195636.png)
 

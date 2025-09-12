@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Mistville deadites
+# Mistville Deadites
 
 Efter 2 dages downtime i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
 

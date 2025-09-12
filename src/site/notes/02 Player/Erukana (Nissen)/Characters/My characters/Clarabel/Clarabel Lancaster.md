@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster/","tags":["erukanapc","playercharacters","erukana"]}
 ---
 
 
@@ -27,8 +27,8 @@ Time Birthmark på venstre skuldre.
 | Wis  | 15    | 2   | x           | 4    | `dice: 1d20+2` |
 | Cha  | 15    | 2   | x           | 4    | `dice: 1d20+2` |
 
-# Skills 
-###### Languages: 
+# Skills
+###### Languages:
 Common, [[Erukan\|Erukan]], [[Anakteh\|Anakteh]] (ikke af ophav), Dwarvish 
 
 simple weapons, marital weapons, light armor, medium armor, heavy armor, shields
@@ -40,7 +40,7 @@ simple weapons, marital weapons, light armor, medium armor, heavy armor, shields
 | [[No Graph/5e Reference/Medicine skill\|Medicine skill]]           | +4  | `dice: 1d20+4`  |     |
 | [[No Graph/5e Reference/Religion skill\|Religion skill]]           | +3  | `dice: 1d20+4`  |     |
 | Medicine - poison adv /1 day | +4  |                 |     |
-# Defences 
+# Defences
 HP: 13
 - [[chainmail\|chainmail]]
 - [[a shield\|a shield]]
@@ -80,7 +80,7 @@ På [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] mød
 - Ondskab skal altid bekæmpes, men ikke nødvendigvis direkte, Queensguard er ikke hensynsløs for eget helbred. 
 - Hvis vi skal dø i kamp, skal det enten være for vores ære eller for et størrer formål, at styrte hovedløst imod en fjende "blot" fordi de er ondskab er tåbeligt og Queensguard er ikke tåber.
 
-# Bahamut teachings: The Ptarian Code 
+# Bahamut Teachings: The Ptarian Code
 - Justice and Good above all.
 - Honor and Fealty to the Queen.
 - Honor and Respect to Righteous Innocence.

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot found/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot found/","tags":["erukanaloot","playernotes","erukana"]}
 ---
+
 
 #erukanaloot #playernotes #erukana 
 
@@ -16,7 +17,7 @@
 - - Sassone leaf residue poison 
 - - Caustar poison 
 - 
-# Loot found 
+# Loot Found
 
 - [[02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound
 - [[lange støvler med høje hæle \|lange støvler med høje hæle ]]#erukana/lootfound

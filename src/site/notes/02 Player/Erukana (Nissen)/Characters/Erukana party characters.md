@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Erukana party characters/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Erukana party characters/","tags":["erukana","playercharacters"]}
 ---
+
 
 #erukana #playercharacters 
 
-# Party members
+# Party Members
 
 
 -  ![Winston Wildwood.png|200](/img/user/10%20Attachments/Winston%20Wildwood.png) <br>[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]

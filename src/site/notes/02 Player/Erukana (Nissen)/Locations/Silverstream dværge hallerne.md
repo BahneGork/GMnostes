@@ -3,7 +3,7 @@
 ---
 
 
-# Dværge hallen Silverstream
+# Dværge Hallen Silverstream
 
 RULER
 Højkongen Gorm den tålmodige (dværg) og Dronning Frava den kløgtige (gnome).

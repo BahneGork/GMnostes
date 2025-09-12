@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Warhawk/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Warhawk/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 

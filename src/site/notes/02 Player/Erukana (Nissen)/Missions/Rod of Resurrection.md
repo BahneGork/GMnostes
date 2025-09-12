@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Rod of Resurrection/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Rod of Resurrection/","tags":["erukanamission","playermission"]}
 ---
+
 
 #erukanamission #playermission
 
-# Active Mission - Player 
+# Active Mission - Player
 Missionstatus:: Active
 MissionName:: Rod of Resurrection
 MissionFaction:: Pillar of truth
@@ -15,26 +16,26 @@ MissionAcceptedDate::
 Real-life-Date:: 
 SessionNR:: 
 
-## Mission Briefing 
+## Mission Briefing
 
 
 
-## Related Locations 
+## Related Locations
 
 
 
-## NPC's encountered on mission 
-
-
-
-
-## Mission Reward 
+## NPC's Encountered on Mission
 
 
 
 
+## Mission Reward
 
-## Loot found on Mission 
+
+
+
+
+## Loot Found on Mission
 
 
 

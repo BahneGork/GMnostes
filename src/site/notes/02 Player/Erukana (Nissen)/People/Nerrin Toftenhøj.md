@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Nerrin Toftenhøj/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Nerrin Toftenhøj/","tags":["erukana/npc"]}
 ---
+
 
 #erukana/npc 
 # Nerrin Toftenhøj

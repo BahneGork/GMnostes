@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Deities of Ceynor/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Deities of Ceynor/","tags":["erukana"]}
 ---
+
 
 #erukana 
 

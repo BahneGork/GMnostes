@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning/","tags":["erukana","erukana/campaign","erukana/changeroftime/chapter1","erukana/changeroftime/chapter1/epilogue"]}
 ---
+
 
 #erukana #erukana/campaign #erukana/changeroftime/chapter1 #erukana/changeroftime/chapter1/epilogue 
 
-# Afslutning på Kapitel 1 
+# Afslutning På Kapitel 1
 
 Efter kampen i [[De Ældste\|De Ældste]]s haller og da roen atter sænkede sig over stedet. Sår blev behandlet og resterne af jeres modstandere blev eftersøgt, efterlod det jer med en fornemmelse af …hvileløshed.
 

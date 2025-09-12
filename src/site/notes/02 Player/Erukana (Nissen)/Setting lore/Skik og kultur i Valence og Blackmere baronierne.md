@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Valence og Blackmere baronierne/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Valence og Blackmere baronierne/","tags":["erukana","valence","blackmere","people"]}
 ---
+
 
 #erukana #valence #blackmere #people 
 
 Related: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]], [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]],. [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 
-# Skik, brug og kultur i  VALENCE & BLACKMERE
+# Skik, Brug Og Kultur I VALENCE & BLACKMERE
 
 Det nordlige folk var tidligere kendt for at være næsten alle lyse i hår og hudfarve, men efter generationer som værende Erukanas største søfarende folk, så har de efterhånden fået mange forskellige nationaliteter blandet ind i sig. 
 

@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Yasmina AnTuu/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Yasmina AnTuu/","tags":["erukana/npc","erukana/npc/nomad","erukana/npc/merchant"]}
 ---
 
+
 #erukana/npc #erukana/npc/nomad #erukana/npc/merchant 
-# [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]]'s søster
+# [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]]'s Søster
 
 ![Pasted image 20231021200145.png](/img/user/10%20Attachments/Pasted%20image%2020231021200145.png)
 

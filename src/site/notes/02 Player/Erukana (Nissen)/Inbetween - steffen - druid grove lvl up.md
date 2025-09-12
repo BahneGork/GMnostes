@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Inbetween - steffen - druid grove lvl up/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Inbetween - steffen - druid grove lvl up/","tags":["erukana","erukanasessionlog","erukana/lvlup","erukana/ancientgrove","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/lvlup #erukana/ancientgrove #erukana/campaign/steffen 
 
-# The Ancient grove
+# The Ancient Grove
 
 [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] and [[Isilme\|Isilme]] spend some time exploring the grove and its surroundings in greater detail. They soon discover that the grove is in a dormant state—slumbering due to the absence of a caretaker, most likely the shaman who once lived in the hut above.
 

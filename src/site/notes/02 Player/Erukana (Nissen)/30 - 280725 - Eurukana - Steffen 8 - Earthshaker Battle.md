@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign/steffen 
 
 
-# Earthshaker Battle 
+# Earthshaker Battle
 
 Situation: 
 Vi er på Windbreaker waystation langt nordpå i Nordheim.
@@ -30,4 +31,4 @@ Det lader til at vi skal lave radiant damage på dem for at de kan kanalisere de
 
 
 
-[[02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation\|<< Previous Session 29 ]] ----[[02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle\|TOP]]----  [[ \|Next Session 31  >>]]
+[[02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation\|<< Previous Session 29 ]] ----[[02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle\|TOP]]----  [[02 Player/Erukana (Nissen)/31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta\|Next Session 31  >>]]

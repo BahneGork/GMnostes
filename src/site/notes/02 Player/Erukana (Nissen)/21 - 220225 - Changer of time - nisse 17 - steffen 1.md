@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign #erukana/campaign/steffen 
 
-# Session 21 - Celebration of Wildwood's Knighthood 
+# Session 21 - Celebration of Wildwood's Knighthood
 
 - Vi var alle tilstede til festen og fejrelsen af [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] Wildwood's ridderskabs udnævnelse
 - Fine taler blev holdt 

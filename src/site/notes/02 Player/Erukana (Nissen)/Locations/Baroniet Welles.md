@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Welles/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Welles/","tags":["erukana","Barony"]}
 ---
+
 
 #erukana #Barony 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/6-301023 - Changer of time session 6/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/6-301023 - Changer of time session 6/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 

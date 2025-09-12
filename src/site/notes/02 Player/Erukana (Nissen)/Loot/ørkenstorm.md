@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/ørkenstorm/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/ørkenstorm/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 
-# ørkenstorm
+# Ørkenstorm
 
 ![Pasted image 20231019192700.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019192700.png)
 ## Description

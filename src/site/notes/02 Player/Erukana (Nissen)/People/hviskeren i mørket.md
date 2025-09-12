@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/hviskeren i mørket/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/hviskeren i mørket/","tags":["erukana","erukana/monster","erukana/npc","erukanalocation","erukanasecretsnclues"]}
 ---
+
 
 #erukana #erukana/monster #erukana/npc 
 
-# Hviskeren i mørket 
+# Hviskeren I Mørket
 Et stort edderkoppe monster, der er intelligent. 
 befinder sig i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] #erukanalocation 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Nord Heim/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Nord Heim/","tags":["nordheim","erukana/campaign","erukana/location","Locationsvisited"]}
 ---
+
 
 #nordheim #erukana/campaign #erukana/location #Locationsvisited 
 
@@ -13,7 +14,7 @@
 
 
 
-# **Nordlandet og deres mest kendte klaner og stammer**
+# **Nordlandet Og Deres Mest Kendte Klaner Og stammer**
     
 **Frostløberne (Frostrunners)** Wulfgar den Hvide – Stammeleder for Frostløberne (Frostrunners). En stamme af nomader som jager i sammen med de berygtede frostleoparder i norden.
     
@@ -31,7 +32,7 @@
 
 
 
-# **De ukendte stammer i Nordlandet** 
+# **De Ukendte Stammer I Nordlandet**
 
 **”Langfods stammen”** – Dystre tider har bragt dem i isolation og de nægter at have noget med de andre stammer at gøre. Træder du ind på deres territorie, er du frit bytte. 
 

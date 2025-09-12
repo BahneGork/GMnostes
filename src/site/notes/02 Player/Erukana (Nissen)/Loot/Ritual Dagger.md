@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Ritual Dagger/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Ritual Dagger/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 

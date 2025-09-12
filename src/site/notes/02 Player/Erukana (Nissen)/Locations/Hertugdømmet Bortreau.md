@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau/","tags":["erukana","Barony"]}
 ---
+
 
 #erukana #Barony 
 

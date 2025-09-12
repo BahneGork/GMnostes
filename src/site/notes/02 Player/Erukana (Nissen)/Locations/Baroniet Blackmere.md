@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere/","tags":["erukana","Barony"]}
 ---
+
 
 #erukana #Barony 
 

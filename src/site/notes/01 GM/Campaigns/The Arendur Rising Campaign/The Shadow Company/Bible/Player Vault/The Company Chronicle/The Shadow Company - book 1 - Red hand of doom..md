@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/The Company Chronicle/The Shadow Company - book 1 - Red hand of doom./","title":"The shadow company book 1"}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/The Company Chronicle/The Shadow Company - book 1 - Red hand of doom./","title":"The shadow company book 1","tags":["chronicles","book1","story","Arendur"]}
 ---
 
+
 #chronicles #book1 #story 
-# The Shadow Company book 1 - Red hand of doom.
-## Oozebusters and Boss kiters
+# The Shadow Company Book 1 - Red Hand of Doom.
+## Oozebusters and Boss Kiters
 1. Goblin huler tæt på [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/14 Locations/Ursia/Arendur/Arendur\|Arendur]]. 
 2. En gruppe lejesoldater - Blackdaggers fra [[Kvalec\|Kvalec]], var hyret af en jenkins til at hente en [[statue-idol\|statue-idol]] i skoven. De havde betalt en lokal bondedreng til at gøre det istedet. Alle døde.
 3. [[Goblin boss Krazkar\|Goblin boss Krazkar]] besejret, [[Goblin Warlock Moogzt\|Goblin Warlock Moogzt]] undslap.
@@ -17,12 +18,12 @@
 10. [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Active mission - misante zardanti\|Active mission - misante zardanti]] - fugle kranie halskæde fundet i hulerne.
 11. [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/04 Factions/House Zardanti\|House Zardanti]] er et minor nobel hus.
 12. Guilden [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/04 Factions/The Fulcrom\|The Fulcrom]] hyrer [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Mellik\|Mellik]]'s hold til at undersøge Gobliner sydpå.
-13. På vej gennem underdark, redder gruppen dværgen [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Oxbar\|Oxbar]] og hans underjordiske ekspedition.
+13. På vej gennem underdark, redder gruppen dværgen [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/People/Oxbar\|Oxbar]] og hans underjordiske ekspedition.
 14. I [[det sunkne citadel\|det sunkne citadel]], finder gruppen en stor gruppering af røde hånd gobliner under [[Warchief Ratbag\|Warchief Ratbag]].
-15. en elver troldkvinde, [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Sunkiller\|Sunkiller]], opholder sig med goblinerne og afslører at [[Assumi\|Assumi]] faktisk er en halv elver.
-16. Stor kamp mod [[Ratbag\|Ratbag]] og en masse gobliner, [[Ratbag\|Ratbag]] kaldte på [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Sunkiller\|Sunkiller]] som ikke dukkede op.
+15. en elver troldkvinde, [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/People/Sunkiller\|Sunkiller]], opholder sig med goblinerne og afslører at [[Assumi\|Assumi]] faktisk er en halv elver.
+16. Stor kamp mod [[Ratbag\|Ratbag]] og en masse gobliner, [[Ratbag\|Ratbag]] kaldte på [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/People/Sunkiller\|Sunkiller]] som ikke dukkede op.
 17. I bunden af citadellet stod et [[dødt træ\|dødt træ]] med en sø af blod og warlock goblins var i færd med at åbne en portal til [[feydark\|feydark]].
-18. Besatte eller hjernevasket eventyrer kæmpede ved siden af goblinerne, Assumi genkendte [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Sharwyn\|Sharwyn]] som studerede magi sammen med hende i Arendur.
+18. Besatte eller hjernevasket eventyrer kæmpede ved siden af goblinerne, Assumi genkendte [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/People/Sharwyn\|Sharwyn]] som studerede magi sammen med hende i Arendur.
 19. [[Nathaniel\|Nathaniel]] udslettede det døde træ med en phoenix fjerpen, men gik selv op i flammer. 
 20. Op ad asken steg [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/Playercharacters/Nat\|Nat]], en yngre udgave fra en anden tidslinie.
 21. Ud fra alle [[dokumenterne fra Ratbag\|dokumenterne fra Ratbag]], drog gruppen til [[skullgorge\|skullgorge]] broen.
@@ -85,7 +86,7 @@
 78. Undervejs i kampen hidkalder kvinden en djævel, en bone devil.
 79. Da ormen er død, fortsætter Brumor, Frekka og Anton ved at angribe den hidkaldte djævel. Kvinden overtales til sidst af [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/Playercharacters/Cedric Belmote\|cedric]] til at bortmane djævelen, men Frekka hopper våben først i fjæset på hende.
 80. Da støvet har lagt sig, forlader Frekka og Brumor stedet for at finde en vej hjem.
-81. Kvinden præsentere sig som [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Lady Dazran\|Lady Dazran]]  og hun kender til en måde at komme hjem på. De skal finde [[01 GM/Campaigns/The Arendur Rising Campaign/12 Adventures & Events/Raven kings sword/The vortex portal beast of Rirroneth\|The vortex portal beast of Rirroneth]]
+81. Kvinden præsentere sig som [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Lady Dazran\|Lady Dazran]]  og hun kender til en måde at komme hjem på. De skal finde [[01 GM/Campaigns/The Arendur Rising Campaign/12 Adventures & Events/Raven king tomb/Raven kings sword/The vortex portal beast of Rirroneth\|The vortex portal beast of Rirroneth]]
 82. Lady Dazran er en Ridder af helvede, hun er Lady af tittel og betragter sig selv som adelig og lawful.
 83. Cedric går i total blodrus under kampen med portal bæstet, det antages at være det nye sværd - Ravne kongens sværd - der er skyld i det.
 84. En portal hjem åbnes og gruppen træder igennem. 
@@ -95,8 +96,8 @@
 88. Ravne kongen fortæller at Lady Dazran nu kan gå igang med at etablere en fremskudt base ude i domænet Rirroneth og erobre planet tilbage til LAW fra CHAOS.
 89. På vejen tilbage til Delios fra graven møder gruppen en mand på flugt fra Asketræ ridderen's soldater, Anton kaster usynlighed på ham og gruppen forsøger at lade som om de ikke har set noget overfor soldaterne.
 90. Tilbage i Delios træner gruppen og bliver bedre (level 8)
-91. Cedric sværger sin Oath of Vengeance overfor [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Saint Elowen Brightsword of Paladine\|Saint Elowen Brightsword of Paladine]], men det er [[01 GM/Campaigns/The Arendur Rising Campaign/01 Running the game/Prep next/Next notes/Xerathal - Sword of the Raven King\|Xerathal - Sword of the Raven King]] der tager imod hans ed.
-92. Cedric indgår en pagt med sværdet [[01 GM/Campaigns/The Arendur Rising Campaign/01 Running the game/Prep next/Next notes/Xerathal - Sword of the Raven King\|Xerathal]] om at bytte om på sine kræfter som paladin og eldritch knight, han tror han beder til [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Saint Elowen Brightsword of Paladine\|Saint Elowen Brightsword of Paladine]]
+91. Cedric sværger sin Oath of Vengeance overfor [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Saint Elowen Brightsword of Paladine\|Saint Elowen Brightsword of Paladine]], men det er [[01 GM/Campaigns/The Arendur Rising Campaign/01 Running the game/Xerathal - Sword of the Raven King\|Xerathal - Sword of the Raven King]] der tager imod hans ed.
+92. Cedric indgår en pagt med sværdet [[01 GM/Campaigns/The Arendur Rising Campaign/01 Running the game/Xerathal - Sword of the Raven King\|Xerathal]] om at bytte om på sine kræfter som paladin og eldritch knight, han tror han beder til [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Saint Elowen Brightsword of Paladine\|Saint Elowen Brightsword of Paladine]]
 93. Brumor bliver udvalgt af [[silverbeard\|silverbeard]] til hans [[01 GM/GM Screen/Silver Sentienl\|Silver Sentienl]] orden 
 94. Brumor mødes med en anden dværg, fra den [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Throg'was\|Throg'was]] der har rejst rundt i området. Hun fortæller at dværge helten [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Grozon “Hillsmasher”\|Grozon “Hillsmasher”]] er blevet taget til fange af den sorte drage [[Regilarix - black dragon stats\|Regilarix - black dragon stats]] i Castle Blackspear ruinerne. 
 95. Dværgen gruppen leder efter en dværge rune som goblinerne stjal fra deres vault for 5 år siden. En rune som dværgene lavede i hemmelighed, der kan rive den store mur ned som dværgene byggede rundt om Arendur. Det er meget vigtigt at menneskerne ikke finder ud af at denne rune eksisterer, da det kan underminere alliancen.
@@ -112,6 +113,9 @@
 105. Aurilia tager til headquarters med [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/04 Fact sheets/03 People/Antero Calaman\|Antero Calaman]] og jævnfør hans rådgivning vil hun uddele titler og opgaver og få HQ op og køre.
 106. Gruppen begiver sig ud på en expedition mod Castle Blackspear, de vil slå ruten rundt forbi en ranger der har overlevet en kamp med den sorte drage de har hørt bor der nu. 
 107. Ved det døde bjerg, giver gruppen sig i kast med at udryde udøde zombier og skeletter. De går ind i bjerget og udryder en horde af ghouls. Et mægtigt monster vækkes til live og Brumor går ned. 
-108. Cedric forsøger at få Brumor ud og [[01 GM/Campaigns/The Arendur Rising Campaign/01 Running the game/Prep next/Next notes/Xerathal - Sword of the Raven King\|Xerathal - Sword of the Raven King]] tilbyder ham hjælp "men det kommer til at koste". 
+108. Cedric forsøger at få Brumor ud og [[01 GM/Campaigns/The Arendur Rising Campaign/01 Running the game/Xerathal - Sword of the Raven King\|Xerathal - Sword of the Raven King]] tilbyder ham hjælp "men det kommer til at koste". 
 109. Brumor er død og Cedric får muligheden for at bringe ham tilbage, men han må opgive et level og indgå en aftale med [[Asmodeus\|Asmodeus]] the archdevil.
 110. Gruppen tager tilbage til [[Delios\|Delios]] for at slikke deres sår
+
+
+#Arendur

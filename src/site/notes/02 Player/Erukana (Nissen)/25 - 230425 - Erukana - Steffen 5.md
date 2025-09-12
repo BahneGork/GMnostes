@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog  #erukana/campaign/steffen 
 Jens, Flemming, Bahne, Steffen 
@@ -53,4 +54,4 @@ Jens, Flemming, Bahne, Steffen
  +++++end of session++++ 
 
 
-[[02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4\|<< Previous Session 24 ]] ----[[02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5\|TOP]]----  [[ \|Next Session 26  >>]]
+[[02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4\|<< Previous Session 24 ]] ----[[02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5\|TOP]]----  [[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|Next Session 26  >>]]

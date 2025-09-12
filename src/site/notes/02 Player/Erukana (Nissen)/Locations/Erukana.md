@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Erukana/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Erukana/","tags":["erukana","kingdom","ceynor"]}
 ---
+
 
 #erukana #kingdom #ceynor
 

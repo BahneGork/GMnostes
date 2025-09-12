@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion/","tags":["erukanamission","playermission"]}
 ---
+
 
 #erukanamission #playermission
 
-# Active Mission - Player 
+# Active Mission - Player
 Missionstatus:: Completed
 MissionName:: The fall of Arcana tower
 MissionFaction:: `=this.faction`
@@ -15,26 +16,26 @@ MissionAcceptedDate::
 Real-life-Date:: 
 SessionNR:: 
 
-## Mission Briefing 
+## Mission Briefing
 Arcana tårnet er faldet, eksploderet. Azur orden.
 
 
-## Related Locations 
+## Related Locations
 
 
 
-## NPC's encountered on mission 
+## NPC's Encountered on Mission
 Wildlings
 
 
 
-## Mission Reward 
+## Mission Reward
 Isilme 
 
 
 
 
-## Loot found on Mission 
+## Loot Found on Mission
 
 
 

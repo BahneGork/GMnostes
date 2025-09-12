@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/mace af sort stål/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/mace af sort stål/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 
-# mace af sort stål
+# Mace Af Sort Stål
 ![Pasted image 20240514090020.png](/img/user/10%20Attachments/Pasted%20image%2020240514090020.png)
 ## Description
 sort stål er en sjælden metal art.

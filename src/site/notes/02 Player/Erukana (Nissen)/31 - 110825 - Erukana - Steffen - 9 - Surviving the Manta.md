@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta/","tags":["erukana/campaign/steffen","erukana","erukanasessionlog"]}
 ---
+
 
 #erukana/campaign/steffen  #erukana #erukanasessionlog 
 

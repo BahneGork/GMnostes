@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Dancing Statue/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Dancing Statue/","tags":["erukana","erukanaloot","alunethriels-grace"]}
 ---
+
 
 #erukana #erukanaloot #alunethriels-grace  
 The statue has been revealed as the - [[02 Player/Erukana (Nissen)/Loot/Alunethriel's Grace- Relic\|Alunethriel's Grace- Relic]]
@@ -17,6 +18,8 @@ statuen, virker i månelys, 1/dagen, alle indenfor "campfire" healer den 1d4 abi
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 

@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby/","tags":["erukana","erukana/baron","erukana/npc"]}
 ---
+
 
 #erukana #erukana/baron #erukana/npc
 
 ![Baron Zhaarko af Eresby.png|300](/img/user/10%20Attachments/Baron%20Zhaarko%20af%20Eresby.png)
-# Baron Zhaarko af Eresby
+# Baron Zhaarko Af Eresby
 
 Related: [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] 
 
-## in-game 
+## In-game
 Wizard of [[the arcana tower\|the arcana tower]]
 søger efter [[scroll of time\|scroll of time]] 
 
@@ -22,7 +23,7 @@ Selve Baronen blander sig ikke i folkets laden og gøren. De adelige, borgmestre
 Baronen fejrer hvert år sin søns fødselsdag sent inde den 20 dag i Kythorn (Sommer solhverv), for alle i byen [[Segreve\|Segreve]].
 
 
-## pre-game
+## Pre-game
 [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]]
 Baronen af Eresby er en ældre herrer og frontfigur for en adelsfamilie som har været i Erukana i mange generationer. Han styrer Eresby riget med en fast hånd og tillader ikke diverse skygge organisationer at leve eller opererer ud fra Eresby. Han er stor tilhænger af handel og holde handlen i live, vel vidende at det er en af hans riges hovedindtægter.
 

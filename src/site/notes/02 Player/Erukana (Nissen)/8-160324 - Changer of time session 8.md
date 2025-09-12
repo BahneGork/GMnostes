@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/lootfound","vargot","nibar"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 dato: 16 marts 2024 - nyråd 
 
-# Redningen 
+# Redningen
 Vi iværksætter vores rednings plan mens lejren langsomt vågner op og indser de er under angreb. 
 
 [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] & [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] løber ind i skoven med [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] & [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] danner front mod orkerne. 
@@ -14,7 +15,7 @@ Da vi alle er løbet ud i skoven og har fundet hinanden, overbeviser [[02 Player
 
 Det lykkedes....... men......... 
 
-# The TimeSpace room 
+# The TimeSpace Room
 Vi befandt os i et gigantisk rum, hvor vi ikke kunne se noget loft eller vægge. Der er graverede streger i gulvet og 8 kæmpe portaler arrangeret i en cirkel. Der er meget langt hen til hver portal fra midten af rummet hvor vi står.
 
 1 portal ligner et stort spejl.
@@ -39,7 +40,7 @@ Efter 5 hvil, finder vi en lang bro, et sted på boren er kanten slidt. [[02 Pla
 
 Det virker.....   alt for godt.... 
 
-# City of steel 
+# City of Steel
 
 [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bliver trukket ned med lysets hast og resten af gruppen ryger efter med rebet. Men kun [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bliver transporteret til en overfladen dybt nede, resten falder blot. 
 
@@ -59,7 +60,7 @@ Vi drager tilbage til det store rum med 8 portaler, da vi er løbet aldeles tør
 
 I midten af portal rummet, aktiverer vi artefaktet igen og forsøger at komme "hjem". 
 
-# From there to back again 
+# From there to back Again
 Vi kommer tilbage til skoven udenfor Ork lejren og opdager at den nu er fyldt med [[No Graph/5e Reference/monsters/Kobold\|Kobold]]er der har amatyst vækster. 
 
 Vi finder tilbage til [[Fafnir\|Fafnir]]'s lejr og erfarer at der er gået 15år mens vi har været væk i robot byen. Eller at vi er sendt tilbage 15år senere. 
@@ -76,7 +77,7 @@ Der er mange flere [[knight aberrants\|knight aberrants]] i [[Astley\|Astley]] n
 
 Vi hørte [[Merelda\|Merelda]] tale det mørke sprog da hun kastede magi ved ork lejren.
 
-# visions 
+# Visions
 På et tidspunkt iløbet af denne færd, får [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] et syn. En kvinde som han genkender som [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] omgivet af en gruppe [[Azur ordenen\|Azur ordenen]] kæmper mod en barbar, en wizard, en mørk ridder og en dværgekriger. Det ser ud som om de vil have fat i Avalande's stav og til sidst knækker hun staven og synet forsvinder.
 
 [[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7\|<< Previous 07]] ----[[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8\|TOP]]---- [[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|Next 09 >>]]

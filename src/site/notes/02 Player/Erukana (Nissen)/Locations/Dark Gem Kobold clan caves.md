@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves/","tags":["Locationsvisited","erukanalocation","erukana"]}
 ---
+
 
 #Locationsvisited #erukanalocation #erukana 
 
-# Kobold caves of the dark gem clan 
+# Kobold Caves of the Dark Gem Clan
 
 - Vi udforsker hulerne i session 1 - [[080723 - Changer of time session 1\|080723 - Changer of time session 1]]
 - Vi finder time glasset og time-scrollen her. 

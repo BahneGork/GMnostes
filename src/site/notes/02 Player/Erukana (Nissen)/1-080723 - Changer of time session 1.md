@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1/","tags":["erukana","erukanasessionlog","erukanasecretsnclues","erukana/lootfound"]}
 ---
+
 
 #erukana #erukanasessionlog 
 
 # On the 6th of Flamerule in the Barony of Eresby
 På vej hjem til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] fra [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] beslutter gruppen sig for at søge mod en røgsøjle i horisonten for læ for natten. Men kort efter at de har vendt snuden vestpå ser de en flok fugle kredse og sender [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] afsted for at se det an. 
 
-## Fallen ambush 
+## Fallen Ambush
 Foran et buskads i kanten af en skov, der egner sig til et flaskehals baghold, ligger 17 døde Orker og en enkelt Sellsword. Manden har en hemmelig pung under armen med lidt mønter og et papir med en opgave fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. ([[Timescroll Missionen\|Timescroll Missionen]])  
 Manden bar et [[symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] #erukanasecretsnclues 
 
@@ -18,7 +19,7 @@ Orkerne bliver lagt anstændigt på rækker og brændt.
 
 Der er et trækspor med menneske blod og små fod spor med klo mærker, mange, som fører væk fra skoven og ind i bakkerne. Af frygt for at der er nogen der stadig er i live og har brug for redning, fortsætter jagten på sporet hele natten.
 
-## [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
+## [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]
 Ved en hule indgang møder vi 2 [[No Graph/5e Reference/monsters/Kobold\|Kobold]] vagter fra [[Dark Gem klanen\|Dark Gem klanen]], en bliver skudt i ryggen af [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] da de flygter, den anden dødeligt såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] 's crossbow. 
 [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
 Vi får overbevist kolden om at den skal fortælle resten at vi er kommet for at få de mennesker tilbage som de har hentet ved de døde orker, samt deres ting da vi leder efter en meget vigtig ting [[Timescroll Missionen\|Timescroll Missionen]].
@@ -46,7 +47,7 @@ vi aftalte at bringe [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hv
 
 **SHORT REST**
 
-### Violet lys rummet
+### Violet Lys Rummet
 
 Vi fortsatte vores færd via den tunnel hvor der var et svagt violet lysskær.
 vi fandt en [[plante med blå blade\|plante med blå blade]] **(13 uses)**, som kan laves til pulp med [[jernurt\|jernurt]], som kan heale. *(Flemming har detaljerne).*
@@ -66,7 +67,7 @@ Alle undtagen [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Bras
 
 Derefter rejste vi tilbage (hjem) til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
 
-## Hjemme igen 
+## Hjemme Igen
 
 Da vi ankommer på [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] bemærker vi 3 personer der står lidt ud:
 - en ældre herre der halter på venstre ben, rige klæder, i rustning og bevæbnet, fremstår som en veteran.
@@ -83,7 +84,7 @@ Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hen
 - vi tilbydes 1000gp for at aflevere den til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
 - vi beder [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] om at skaffe os adgang til [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] på en eller anden facon, da hun er den eneste han kender til som også har en tattoovering som os. #erukanasecretsnclues 
 
-## Hourglass tinkering 
+## Hourglass Tinkering
 Vi undersøger det mystiske timeglas som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] rodede med i hulerne. Det har safir blåt sand og ringe rundt om timeglasset der bevæger sig når [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] "aktiverer" det.
 Vi finder ud af at vi alle 4 har en safir blå tattoovering, [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] lyser op og bliver varm når han aktiverer [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]].
 Da Winston rører ved det sendes vi en time tilbage i tiden, men ikke alt er som det var før. 
@@ -93,7 +94,7 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - Katharina som servicerede os er "væk" og en ny pige er der istedet for.
 - kvinden i kåbe er væk. 
 
-# NPCs 
+# NPCs
 - [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
 - [[den ældre veteran\|den ældre veteran]] 
 - kulsort rustnings klædt mand 
@@ -101,18 +102,18 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] 
 - [[den store stemme\|den store stemme]] 
 
-# Monsters 
+# Monsters
 - [[dark gem kobolder\|dark gem kobolder]]
 - korrupteret kobold 
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] 
 - rødtands orker 
 
-# Locations 
+# Locations
 - [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
 - [[gamle glemte dværge haller\|gamle glemte dværge haller]] 
 - [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
 
-# Loot 
+# Loot
 - [[02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound 
 - [[lange støvler med høje hæle \|lange støvler med høje hæle ]]#erukana/lootfound
 - [[02 Player/Erukana (Nissen)/Loot/Bog med sort sprog\|Bog med sort sprog]] #erukana/lootfound  
@@ -127,7 +128,7 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - 1 poison/acid grøn potion  #erukana/lootfound
 
 
-# Secrets n Clues discovered 
+# Secrets N Clues Discovered
 - Der er gamle dværge haller længere inde i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]  #erukanasecretsnclues 
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] kender til dværge hallerne #erukanasecretsnclues 
 - [[Familien Narsi\|Familien Narsi]] i [[Solstice\|Solstice]] havde timescroll og timeglasset  #erukanasecretsnclues 

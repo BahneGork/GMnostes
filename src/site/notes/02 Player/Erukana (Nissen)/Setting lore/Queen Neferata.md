@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Queen Neferata/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Queen Neferata/","tags":["erukana","npc"]}
 ---
+
 
 #erukana #npc 
 
 ![Erukana_-_Queen_Neferata_af_Anaksa_riget.jpg|300](/img/user/10%20Attachments/Erukana_-_Queen_Neferata_af_Anaksa_riget.jpg)
 
-# Dronning Neferata 
+# Dronning Neferata
 Tidligere en præstinde af [[Mishakal\|Mishakal]], Gudinde for healing, medfølelse og kærlighed. 
 Deres hovedtempel lå i en afkrog af hvor [[Deltafloden\|Deltafloden]] går forbi en frodig jungle i ørken riget [[Anaksa\|Anaksa]].
 

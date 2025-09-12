@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning moon merchant house/","tags":["Erukana"]}
 ---
 
+
 # Management
 
 [[Assana Lemiuex\|Assana Lemiuex]] 
@@ -10,9 +11,9 @@ Rolle: Administrator og ansvarlig for handelsforretningen.
 Bonus: Advantage på diplomacy tjeks og 1 reroll på Item Acquiring Lists. (edited)
 
 
-# Benefits - Aquisitions 
+# Benefits - Aquisitions
 
-## List A 
+## List A
 1 pr 10 days pr group
 
 `dice: [[Waning moon merchant house#^382e71]]`
@@ -30,7 +31,7 @@ Bonus: Advantage på diplomacy tjeks og 1 reroll på Item Acquiring Lists. (edit
 { #4a2dcb}
 
 
-## List B 
+## List B
 1 pr 30 days pr group 
 
 `dice: [[Waning moon merchant house#^382e71]]`
@@ -49,4 +50,4 @@ Bonus: Advantage på diplomacy tjeks og 1 reroll på Item Acquiring Lists. (edit
 { #382e71}
 
 
-# Financial 
+# Financial

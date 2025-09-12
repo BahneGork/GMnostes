@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Faction list/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Faction list/","tags":["erukana","list","factions"]}
 ---
+
 
 #erukana #list #factions 
 
-# Erukana faction list 
+# Erukana Faction List
 - [[02 Player/Erukana (Nissen)/Factions/blå nomader\|blå nomader]]
 - [[02 Player/Erukana (Nissen)/Factions/Bone Tribe\|Bone Tribe]]
 - [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]]

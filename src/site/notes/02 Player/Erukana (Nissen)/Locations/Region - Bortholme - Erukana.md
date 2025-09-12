@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Region - Bortholme - Erukana/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Region - Bortholme - Erukana/","tags":["erukana","region"]}
 ---
+
 
 #erukana #region 
 

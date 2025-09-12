@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Corruption of Feywood/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Corruption of Feywood/","tags":["erukanamission","playermission"]}
 ---
+
 
 #erukanamission #playermission
 
-# Active Mission - Player 
+# Active Mission - Player
 Missionstatus:: Active
 MissionName:: Corruption of Feywood
 MissionFaction:: Mistville Marshals
@@ -15,26 +16,26 @@ MissionAcceptedDate:: 10th highsun
 Real-life-Date:: 
 SessionNR:: 10
 
-## Mission Briefing 
+## Mission Briefing
 
 Fire elementals has infiltrated the feywood and caused fire corruption
 
-## Related Locations 
+## Related Locations
 
 
 
-## NPC's encountered on mission 
-
-
-
-
-## Mission Reward 
+## NPC's Encountered on Mission
 
 
 
 
+## Mission Reward
 
-## Loot found on Mission 
+
+
+
+
+## Loot Found on Mission
 
 
 

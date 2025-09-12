@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana/","tags":["erukana","barony","states"]}
 ---
+
 
 #erukana #barony #states
 
@@ -18,7 +19,7 @@
 
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 
-# States 
+# States
 - [[Silverstream\|Silverstream]]
 
 - [[Slatestone\|Slatestone]]

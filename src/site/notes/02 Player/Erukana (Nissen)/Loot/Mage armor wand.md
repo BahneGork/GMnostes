@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Mage armor wand/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Mage armor wand/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 
-# Mage armor wand
+# Mage Armor Wand
 ![Pasted image 20231019192604.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019192604.png)
 ## Description
 

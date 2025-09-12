@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley/","tags":["erukanamission","playermission"]}
 ---
+
 
 #erukanamission #playermission
 
-# Active Mission - Player 
+# Active Mission - Player
 Missionstatus:: completed
 MissionName:: Solve the murder of Miri in Astley
 MissionFaction:: Astley
@@ -17,17 +18,17 @@ SessionNR:: 17
 CompletedDate:: 140824 
 CompletedSessionNR:: 19
 
-## Mission Briefing 
+## Mission Briefing
 A young woman was found murdred brutally, shredded and clawed by a wild beast, in the woods just outside Astley. 
 Clarabel coincidentally ran like a werewolf into the night the same night and though she only remembers flashes of what happened she saw the body. 
 Winston woke Clarabel in her room, all muddied and dishevelled, with a fingernail in her mouth. 
 
-## Related Locations 
+## Related Locations
 [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]]
 [[Sangstrup home\|Sangstrup home]]
 [[Bager\|Bager]] 
 
-## NPC's encountered on mission 
+## NPC's Encountered on Mission
 [[Elvira\|Elvira]]
 [[Maria\|Maria]]
 [[Den brækkede knogle Kromutter\|Den brækkede knogle Kromutter]]
@@ -43,11 +44,12 @@ Winston woke Clarabel in her room, all muddied and dishevelled, with a fingernai
 
 
 
-# Mission Debriefing - The murder of Miri Sangstrup
+
+# Mission Debriefing - The Murder of Miri Sangstrup
 
 Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley\|Solve the murder of Miri in Astley]]
 
-## Mission Debriefing 
+## Mission Debriefing
 - We investigated the site of discovery, found tracks that indicated the body of [[miri sangstrup\|miri sangstrup]] had been dragged into the woods from the city. 
 - We did a background check on Miri with her father at the Sangstrup household, where we learned of her fiancee and that she had a close friend in the city, named [[Elvira\|Elvira]]. 
 - Investigating the market, asking around about Miri and her possible friend led us to the [[den brækkede knogle\|den brækkede knogle]] tavern where [[Elvira\|Elvira]] worked as a pleasure girl. 
@@ -73,7 +75,7 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 - Further investigation of the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] revelaed that the real [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] is a victim as well and his soul is also trapped in hell.  The fiend we encountered has used his form, name and position to further his cultist ends. 
 
 
-## Conclusion 
+## Conclusion
 [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] and [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] hosted a club - [[The cult of the Opal society\|The cult of the Opal society]] - in the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] for the rich and powerful. Here they could indulge in all manner of decadant desires.  
 They also collected souls of unfortunate for their fiend lord Grazzt.  
 Miri Sangstrup saw what was really going on and she should not have. 
@@ -89,14 +91,14 @@ Signed by ~ Astley Avengers
 </div></div>
 
 
-## Mission Reward 
+## Mission Reward
 Calarabel's name cleared 
 Miri's murderer unmasked 
 
 
 
 
-## Loot found on Mission 
+## Loot Found on Mission
 > I finder følgende på de døde kultmedlemmer:  
 > - En sort sølv ring med en rubin indsat i. Når identificeret giver den bæreren en Constitution score på 19. Hvis bæreren har det samme eller højere, gør den intet. Kræver attunement. (Lord Alistair)
 

@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/14 190624 - steffen session 2/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/14 190624 - steffen session 2/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign/steffen 
 
-# Session 14 - Steffen session 2 
+# Session 14 - Steffen Session 2
 ## [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]]
-### Hellig site, grav døren 
+### Hellig Site, Grav Døren
 ![Pasted image 20240704191554.png](/img/user/10%20Attachments/Pasted%20image%2020240704191554.png)
 
 Marching order: Winston, Vargoth, Clara, Fritte 

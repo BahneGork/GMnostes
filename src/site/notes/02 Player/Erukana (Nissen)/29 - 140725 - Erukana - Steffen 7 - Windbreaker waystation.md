@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign/steffen 
 
 
-# Waking at Windbreaker waystation 
+# Waking at Windbreaker Waystation
 
 4th of Tarsakh
 - Grimjaw overlader en "sølvtåre" til Evelyn Adair 
@@ -35,4 +36,5 @@ slutter ved krystal elementernes tur og isblokkene
 
 
 
-[[02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6\|<< Previous Session 28 ]] ----[[02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation\|TOP]]----  [[ \|Next Session 30  >>]]
+[[02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6\|<< Previous Session 28 ]] ----[[02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation\|TOP]]----  [[02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle\|Next Session 30  >>]]
+[[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]

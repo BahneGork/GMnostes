@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Slette folket/","tags":["Erukana"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Slette folket/","tags":["Erukana","faction","erukana"]}
 ---
+
 
 #faction #erukana 
 
-# Slette folket
+# Slette Folket
 **Slette folket** er stammer af både fastboende og migrerende stammer som har boet og rejst igennem [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] siden mennesket først kom til verdenen. Betragtet som vilde og uciviliseret af byfolket og de civiliseret racer i Ceynor, anses stemme folket for at være uregerlige og i mange tilfælde ikke til at stole på. Alle anerkender dem dog som frygtindgydende krigere.
 
 Sandheden er at langt de fleste stammer er fredelig af natur og lever af deres evner til at overleve i naturen og bruge dens resurser. Stentøj, læder, kystfiskeri og benkunst er noget af de som de sælger videre til de civiliseret samfund. Det sagt, så er det tit at Slette folket kommer i strid med andre mere civiliseret folkefærd, oftest grundet i opfattelse af hvis jord de betræder eller bor i.

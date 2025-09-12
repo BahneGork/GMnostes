@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Vaelon's instrukser til Baronesse Avalande/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Vaelon's instrukser til Baronesse Avalande/","tags":["erukana","erukana/handout"]}
 ---
+
 
 #erukana #erukana/handout 
 

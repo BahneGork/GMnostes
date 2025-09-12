@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign/steffen 
 
 
-# Void ship battle 2
+# Void Ship Battle 2
 
 - Vi starter kampen
 - Bjørn nakker pirat kaptajnen 
@@ -21,20 +22,20 @@
 - 2 røde potions 
 - 2 blå potions 
 - 6 stk sølv bestik 
-### Igennem portal 2 
+### Igennem Portal 2
 - vi ankommer til en bakke top i et gammel vagt tårns ruin.
 - vargoth kaster [[No Graph/5e Reference/spells/Leomunds Tiny Hut\|Leomunds Tiny Hut]] 
 - Winston tager sig af sin rustning 
 - Isilme og Logan undersøger ruinen og finder en makanisme der åbner en sten portal i gulvet
 - der er et flere hundrede meter dybt hul med træstiladser langs væggene hele vejen ned, platforme og stiger 
 - Isilme laver sig om til en ugle og flyver ned, Logan undersøger ruinen videre 
-### Hullet i ruinen 
+### Hullet I Ruinen
 - Isilme finder 3 forkullet skikkelser som ser ud til at have siddet i et ritual 
 - Der en krystal, som lyder som om der kommer en stemme fra eller indefra "hjælp"
 - Der gror en masse blomster og lianer 
 - Der var en sø og krystallen var formet som et træ 
 
-### Dagen efter 
+### Dagen Efter
 3rd chase 
 - Vargoth vågner kl 10:00
 - Vi begiver os ned i hullet til hulen med krystal træet og de tre skikkelser 
@@ -45,7 +46,7 @@
 - Krystallen smelter og frigiver ild elemental 
 - Elementalen giver Isilme et kram og forsvinder 
 
-### Rejse igennem skoven 
+### Rejse Igennem Skoven
 5 dage 
 8th chase 
 - Isilme laver sig om til en isbjørn og trækker Vargoth's magisk vogn med os andre ombord, Bjørn går ved siden af da han går lige så hurtigt som isbjørnen.

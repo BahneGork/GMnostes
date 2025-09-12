@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Treeheart handaxe/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Treeheart handaxe/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 
-# Treeheart handaxe
+# Treeheart Handaxe
 ![Pasted image 20231019193044.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019193044.png)
 ## Description
 

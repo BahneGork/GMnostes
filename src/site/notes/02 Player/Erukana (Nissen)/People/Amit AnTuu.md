@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Amit AnTuu/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Amit AnTuu/","tags":["erukana/npc"]}
 ---
+
 
 #erukana/npc 
 

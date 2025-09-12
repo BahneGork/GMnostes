@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/De vilde/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/De vilde/","tags":["erukana","ancestry"]}
 ---
+
 
 #erukana #ancestry
 
@@ -25,7 +26,7 @@ Horden er en fælles betegnelse for krigeriske racer som oftest ses for fjendtli
 
 -    Gobliner er små ondsindet væsner som lever i samfund under jordens overflade, i bakkelandet i dybe huler eller i bjergene. De findes overalt og selvom de enkeltvis ikke er stærke, så er de snu som få. Der har dog været eksempler på Gobline samfund som har søgt at indgå handelsaftaler og ruter med de andre racer, endda nogle Gobliner som har vist egenskaber inden for opfindelser og tinkering.
 
-# **Nordlandet og deres mest kendte klaner og stammer**
+# **Nordlandet Og Deres Mest Kendte Klaner Og stammer**
     
 **Frostløberne (Frostrunners)** Wulfgar den Hvide – Stammeleder for Frostløberne (Frostrunners). En stamme af nomader som jager i sammen med de berygtede frostleoparder i norden.
     
@@ -35,7 +36,7 @@ Horden er en fælles betegnelse for krigeriske racer som oftest ses for fjendtli
 
 **Flodhviskerne** Sekka Flodhvisker – Dronning af Isflagen, en af de vestlige dele af nordlandet. Rygtet vil at Flodhviskerne har over generationer lært at arbejde sammen med de hvide drager i Norden. Flodhviskerne er den stammer som har mest med sydriget og de civiliserede lande at gøre, primært igennem handel.
     
-# **De ukendte stammer i Nordlandet** 
+# **De Ukendte Stammer I Nordlandet**
 
 **”Langfods stammen”** – Dystre tider har bragt dem i isolation og de nægter at have noget med de andre stammer at gøre. Træder du ind på deres territorie, er du frit bytte. 
 

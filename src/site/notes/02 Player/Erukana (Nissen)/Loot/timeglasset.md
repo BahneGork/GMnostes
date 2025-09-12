@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/timeglasset/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/timeglasset/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 
-# Time glasset 
+# Time Glasset
 
 Et timeglas med blåt safir sand og 3 ringe rundt om.
 

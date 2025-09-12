@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen",2]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign/steffen 
 
-# The alter room fight - part #2 
+# The Alter Room Fight - part #2
 - Fritte kan vælge en ekstra effekt fra søjlen, helligt lys som kan heale, give ac eller reducere skade 
 - Bjørn bliver valgt som target af [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]]
 - Da den onde necromancer "dør" og svæver som en sort skygge ned i drage skelettet og dragen animeres 

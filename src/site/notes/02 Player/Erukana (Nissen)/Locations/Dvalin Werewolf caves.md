@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dvalin Werewolf caves/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dvalin Werewolf caves/","tags":["erukanalocation","erukana","Locationsvisited"]}
 ---
+
 
 #erukanalocation #erukana #Locationsvisited 
 
-# Caves of werewolf [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] 
+# Caves of Werewolf [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]
 
 I skoven lige uden for [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] fandt vi nogle huler hvor det var tydeligt at Dvalin har opholdt sig i længere tid. 
 Vi fandt også hans kone [[02 Player/Erukana (Nissen)/People/Celia Hammerhånd\|Celia Hammerhånd]], død. 

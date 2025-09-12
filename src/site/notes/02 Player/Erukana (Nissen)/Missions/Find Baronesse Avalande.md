@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande/","title":"Get an audience with Baronesse Avalande"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande/","title":"Get an audience with Baronesse Avalande","tags":["erukanamission"]}
 ---
 
+
 #erukanamission 
-# Get audience with [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  
+# Get Audience with [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
 
 We have taken it upon ourselves to seek out and gain an audience with [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  of [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]  
 

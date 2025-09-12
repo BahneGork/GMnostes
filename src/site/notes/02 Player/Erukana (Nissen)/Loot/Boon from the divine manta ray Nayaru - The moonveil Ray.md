@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Boon from the divine manta ray Nayaru - The moonveil Ray/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Boon from the divine manta ray Nayaru - The moonveil Ray/","tags":["erukana","erukanaloot","erukanarewards"]}
 ---
+
 
 #erukana #erukanaloot #erukanarewards 
 
 ![Pasted image 20250731165602.png](/img/user/10%20Attachments/Pasted%20image%2020250731165602.png)
-# Boon from the divine manta ray Nayaru - The moonveil Ray
+# Boon from the Divine Manta Ray Nayaru - The Moonveil Ray
 
 
 ## Description
@@ -14,7 +15,7 @@ Nayaru has granted the party a fragment of its ancient wisdom and power. This bo
 - Common for the effects are that once one Moonveiler has used it, it cannot be used again until after a long rest, no matter how many Moonveilers are attuned. 
 
  
-## Shared Depths of Magic 
+## Shared Depths of Magic
 A spellcasting Moonveiler in the party can cast a spell they know/has prepared and is from a 1st level spell list into the boon. Any Moonveiler – spellcaster or not - can then cast that stored spell from the mystical connection using the required action for the spell. The casted spell is using the original caster's spell attack bonus and spell save DC. The spell remains stored until used or until a new spell is stored (replacing the previous one). The spell otherwise works as normal. A target is not limited to only Moonveilers. 
 
 ## Shared Spirit

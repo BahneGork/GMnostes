@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Vaelor Drakestone Dagbog/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Vaelor Drakestone Dagbog/","tags":["erukana","erukanaloot"]}
 ---
+
 
 #erukana #erukanaloot 
 

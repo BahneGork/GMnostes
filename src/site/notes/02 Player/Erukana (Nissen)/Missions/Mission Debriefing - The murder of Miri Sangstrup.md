@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Mission Debriefing - The murder of Miri Sangstrup/"}
 ---
 
-# Mission Debriefing - The murder of Miri Sangstrup
+
+# Mission Debriefing - The Murder of Miri Sangstrup
 
 Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley\|Solve the murder of Miri in Astley]]
 
-## Mission Debriefing 
+## Mission Debriefing
 - We investigated the site of discovery, found tracks that indicated the body of [[miri sangstrup\|miri sangstrup]] had been dragged into the woods from the city. 
 - We did a background check on Miri with her father at the Sangstrup household, where we learned of her fiancee and that she had a close friend in the city, named [[Elvira\|Elvira]]. 
 - Investigating the market, asking around about Miri and her possible friend led us to the [[den brækkede knogle\|den brækkede knogle]] tavern where [[Elvira\|Elvira]] worked as a pleasure girl. 
@@ -32,7 +33,7 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 - Further investigation of the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] revelaed that the real [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] is a victim as well and his soul is also trapped in hell.  The fiend we encountered has used his form, name and position to further his cultist ends. 
 
 
-## Conclusion 
+## Conclusion
 [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] and [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] hosted a club - [[The cult of the Opal society\|The cult of the Opal society]] - in the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] for the rich and powerful. Here they could indulge in all manner of decadant desires.  
 They also collected souls of unfortunate for their fiend lord Grazzt.  
 Miri Sangstrup saw what was really going on and she should not have. 

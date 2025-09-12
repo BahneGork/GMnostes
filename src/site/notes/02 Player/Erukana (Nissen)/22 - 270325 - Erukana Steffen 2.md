@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign/steffen 
 
-# Session 22 - Rod of resurrection - killer of gods
+# Session 22 - Rod of Resurrection - Killer of Gods
 
 
-## Portalen 
+## Portalen
 - På den anden side af portalen, træder vi ud på driv tømmer omgivet af en masse larm. 
 - Vi er midt i et maritimt slag.
 - ![Pasted image 20250327195605.png|300](/img/user/10%20Attachments/Pasted%20image%2020250327195605.png)

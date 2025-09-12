@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty/","tags":["erukanamission","playermission"]}
 ---
+
 
 #erukanamission #playermission
 
-# Active Mission - Player 
+# Active Mission - Player
 Missionstatus:: completed
 MissionName:: Feywood Beast Bounty
 MissionFaction:: Astley
@@ -15,11 +16,11 @@ MissionAcceptedDate:: 6th Highsun 1516
 Real-life-Date:: 15-05-2024
 SessionNR:: 9
 
-# Rædslen i Feywood 
-## Mission Briefing 
+# Rædslen I Feywood
+## Mission Briefing
 Find og dræb et Feywood Beast.
 
-## Clues 
+## Clues
 - har 12 hoveder 
 - 2 dages vandring ind i skoven, på størrelse med et bjerg, med 7 hoveder og kan spy ild 
 - lever i skyggerne, jæger når det er mørkt 
@@ -32,19 +33,19 @@ Find og dræb et Feywood Beast.
 - brug syre eller ild og lok den ud af vandet 
 - følg hærvejen indtil skoven bliver sumpet, følg en sti dybere østpå ved ruiner af en fæstning.
 - 4 dages vandring den ene vej 
-## Related Locations 
+## Related Locations
 [[Feywood\|Feywood]] 
 [[Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
 
-## NPC's encountered on mission 
+## NPC's Encountered on Mission
 Carl - en mand der uopfordret taler med os om feywood bæstet og anbefaler biblioteket. 
 [[Tyra volkmarr\|Tyra volkmarr]] bliver anbefalet at vi opsøger for mere information om bæstet og [[Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
 
-## Mission Reward 
+## Mission Reward
 500gp
 
 
-## Loot found on Mission 
+## Loot Found on Mission
 
 
 

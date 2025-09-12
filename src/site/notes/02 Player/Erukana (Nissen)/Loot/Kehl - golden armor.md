@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Kehl - golden armor/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Kehl - golden armor/","tags":["erukana","erukanaloot","erukana/lootfound"]}
 ---
+
 
 #erukana #erukanaloot #erukana/lootfound 
 
-# Kehl the body guard
+# Kehl the Body Guard
 
 ## Description
 Rustningen kan hidkaldes, kan aktiveres i 12 runder 1/dag hver dag i 10 dage. 

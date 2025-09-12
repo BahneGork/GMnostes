@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Eresby/","tags":["Locationsvisited"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Eresby/","tags":["Locationsvisited","erukana","Barony"]}
 ---
+
 
 #erukana #Barony 
 
@@ -16,14 +17,14 @@ Alligevel er området populært for folk og rejsende.
 ## Ruler
 [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]] af Eresby
 
-## Notable locations
+## Notable Locations
 
 [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] (ca. 500.000 indbyggere)
 
 "Kegville" - [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze keg]] (ca. 8.500 indbyggere) – En rejse kro og destination for handelsfolk på vej igennem landet. 
 Grundet kroens berømmelse er der over de sidste halvt hundrede år, flyttet folk til og opbygget en åben by. [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]] har tilladt dette, skønt byens folk ikke betaler skatter til ham.
 
-## Handel & Alliancer 
+## Handel & Alliancer
 - Viden
 - kuriositeter
 - landbrug

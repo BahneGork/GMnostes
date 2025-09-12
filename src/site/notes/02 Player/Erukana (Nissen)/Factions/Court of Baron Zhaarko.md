@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko/","tags":["Erukana"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko/","tags":["Erukana","erukana","npcfaction"]}
 ---
+
 
 #erukana #npcfaction 
 
-# [[Baron Zhaarko\|Baron Zhaarko]] 
+# [[Baron Zhaarko\|Baron Zhaarko]]
 
 Baronen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] 
 

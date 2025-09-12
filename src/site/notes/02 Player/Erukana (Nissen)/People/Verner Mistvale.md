@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Verner Mistvale/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Verner Mistvale/","tags":["erukana/npc","borgmester"]}
 ---
 
+
 #erukana/npc #borgmester 
-# Borgmesteren i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
+# Borgmesteren I [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
 ![Pasted image 20231021141036.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021141036.png)
 
 Verner og hans kone Emma Mistvale er 12th generation af Sir Edmund Mistvale og arving til borgmesterkæden for Mistville. 

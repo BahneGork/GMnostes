@@ -1,17 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign/steffen 
 
 
-# Blood in the snow 
+# Blood in the Snow
 - 3 dages rejse fra knoglestammen 
 - vi rydder op, brænder Isilme og forsøger at gøre vores oprindelige hvil færdig
 - Winston holder vagt alle 6 timer 
 - Bjørn bliver høvding af knoglstammen og erklærer nye tider, han overtager høvdingens sværd
 
-## 29th Chess 
+## 29th Chess
 - Vargoth bliver begravet 
 - 2 folk skiller sig særdeles ud i mængden
 	- Menneske lidt højere end gennemsnittet, den ene er klædt i grøn der fader ud i brun gylden farve kåbe, med en krone af Gevir, som læner sig op ad en stav med en krystal i toppen.
@@ -40,16 +41,16 @@
 - det magiske kompas peger imod en skov 
 - vi holder et short rest 
 
-## 1st of Tarsakh (the claw of storms)
+## 1st Of Tarsakh (the Claw of storms)
 - Corwin hidkalder 8 giant owls og scouter skoven 
 - ude på den anden side af skoven ser nogle af en væg et par timer væk 
 - men vi holder hvil i kanten af skoven 
 - Vi slagter nogle spøgelser uhæmmet og vildt
 
-## 2nd of Tarsakh 
+## 2nd Of Tarsakh
 - vi bliver ved vores camp da det bliver sne storm 
 
-## 4th of Tarsakh 
+## 4th Of Tarsakh
 - Om eftermiddagen aftager Stormen endelig og vi bryder camp for at gå videre efter kompasset
 - Vi nærmer os det som ligner en palisade, mindre end en landsby 
 - Vi ankommer til Windbreaker waystation, et trading fort, ejet af Garret 
@@ -68,4 +69,4 @@
 
 
 
-[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|<< Previous session 27 ]] ----[[02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6\|TOP]]----  [[ \|Next Session 29  >>]]
+[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|<< Previous session 27 ]] ----[[02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6\|TOP]]----  [[02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation\|Next Session 29  >>]]

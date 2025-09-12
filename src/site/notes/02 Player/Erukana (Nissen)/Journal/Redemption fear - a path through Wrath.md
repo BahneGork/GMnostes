@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Redemption fear - a path through Wrath/"}
 ---
 
+
 Related: [[02 Player/Erukana (Nissen)/Journal/Clarabel Diary\|Clarabel Diary]]
-# Redemption & fear, a path through Wrath 
+# Redemption & Fear, a Path through Wrath
 
 As i sit in the heart of the sun tree, meditating and reflecting on my adventures so far, i find myself in doubt. 
 Through all our trials, we have stood together as friends, we have shown concern for each other. 

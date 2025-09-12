@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/01 GM/Campaigns/Duchy of Ashlar/Commoner background - custom/"}
 ---
 
-# Runaway Teen background - custom
+
+# Runaway Teen Background - Custom
 Main:
 Related: [[01 GM/Campaigns/Duchy of Ashlar/Pitch\|Pitch]]
 
-## Commoner background 
+## Commoner Background
 You are in your teens, you have lived your entire life in your village and have taken on a profession alittle while ago. But the tedious provincial, humble and simplistic life is not enough for you. You have chosen to leave this life behind. 
 
 **Skill Proficiencies:** choose two  skills

@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16/","tags":["erukana","erukanasessionlog","erukana/campaign","erukanasecretsnclues","waningmoon/lead"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Session 20 
+# Session 20
 - VinterFesten 1516: Vi ankommer i karet som Assana Lemiuex har bestilt til os.
 - Astleys Avengers bliver announced og flere folk klapper.
 - [[Baronen af Morbray\|Baronen af Morbray]] er til stede - han er en stor kriger type.
@@ -60,7 +61,7 @@
 - vargoth sætter vores elver statue ind i shrinet 
 - en fløjte svæver op og vargoth begynder at fløjte om helt inden illuthriel, hun var et fyrtårn af håb for sin race. Hendes dans holdte mørket i skak i tusinde år. (nye statue kræfter) #erukanasecretsnclues 
 
-# Secrets & Clues revealed this session 
+# Secrets & Clues Revealed This Session
 
 - Baronen af Eresby er en udød styret af sin søn, som regerer baroniet by proxy.  #erukanasecretsnclues 
 - Den lilla plage var skyld i [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] fald #erukanasecretsnclues 

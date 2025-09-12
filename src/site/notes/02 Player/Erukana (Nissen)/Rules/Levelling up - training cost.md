@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Rules/Levelling up - training cost/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Rules/Levelling up - training cost/","tags":["levelling","training"]}
 ---
 
-# Levelling up, training costs 
+
+# Levelling Up, Training Costs
 #levelling #training 
 
 Main:
 Related: 
 
-## Level tiers 
+## Level Tiers
 
 | Lvl Range | Tier       |
 |-----------|------------|
@@ -19,10 +20,10 @@ Related:
 | 12-14     | Champion   |
 | 15-17     | Heoric     |
 | 18-20     | Legendary  |
-## Level up guld 
+## Level up Guld
 bruges på at betale folk for deres tid, købe materialer/resourcer, købe/leje adgang til områder og lign.
 
-### Level up costs 
+### Level up Costs
 | Level | Tier       | Training cost | Party cost (5 chars) | Party Cost (6 chars) | Accumulated Total cost (1 Char) |
 |-------|------------|---------------|----------------------|----------------------|---------------------------------|
 | 1     | Apprentice | 50            | 250                  | 300                  | 50                              |
@@ -46,9 +47,9 @@ bruges på at betale folk for deres tid, købe materialer/resourcer, købe/leje 
 | 19    | Legendary  | 5000          | 25000                | 30000                | 23000                           |
 | 20    | Legendary  | 5000          | 25000                | 30000                | 28000                           |
 
-### Level up pakke
+### Level up Pakke
 Man kan købe en "level up" pakke, så man kan træne ude i det "vilde".
-## Level up Træning med andre
+## Level up Træning Med Andre
 Handler om at destillere, synthesiere, reflektere erfaringer som en vedvarende faglig udvikling i et sikkert, fredeligt og trygt miljø.
 
 Det væsentlige er at man ikke gør det alene, men hvordan man gør det afhænger af hvad muligheder der er i den "civilizations hub" man befinder sig i.

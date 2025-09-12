@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
 ---
 
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Session 19 - Ambush the rich red & black 
+# Session 19 - Ambush the Rich Red & Black
 
 - Nibar, Clara & Vargoth researcher  [[02 Player/Erukana (Nissen)/Journal/The strangle voice curse\|The strangle voice curse]] på byens bibliotek 
 - Ambush: 

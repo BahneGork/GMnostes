@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabel Diary/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabel Diary/","tags":["clarabel","erukanapc","pc/journal"]}
 ---
+
 
 #clarabel #erukanapc #pc/journal 
 
@@ -12,8 +13,9 @@ Relevant links: [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Personal A
 
 
 
+
 Related: [[02 Player/Erukana (Nissen)/Journal/Clarabel Diary\|Clarabel Diary]]
-# Redemption & fear, a path through Wrath 
+# Redemption & Fear, a Path through Wrath
 
 As i sit in the heart of the sun tree, meditating and reflecting on my adventures so far, i find myself in doubt. 
 Through all our trials, we have stood together as friends, we have shown concern for each other. 
@@ -87,7 +89,7 @@ Can i find a path forward for myself, through the redemption of Bjørn?
 
 </div></div>
 
-# Diary of Clarabel Lancaster 
+# Diary of Clarabel Lancaster
 
 6th of Flamerule in the Barony of Eresby
 We travelled back to [[Kegville\|Kegville]] from our latest job, procuring [[The Silver statue heirloom\|The Silver statue heirloom]] for the [[Brakeshield Family\|Brakeshield Family]]. When we came upon an ambush scene, Red Tooth orcs had ambushed another of [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 's groups. We tracked some smaller footprints hoping to find someone alive.
@@ -105,7 +107,7 @@ We found some ancient barred dwarven doors and [[02 Player/Erukana (Nissen)/Peop
 The kobold leader had all the belongings of the dead adventurer group, among those were an odd piece. An hour glass with blue sand, held between two bands that could revolve around it.
 
 
-# Alter rummet i templet i [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] i [[Nordheim\|Nordheim]].
+# Alter Rummet I Templet I [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] I [[Nordheim\|Nordheim]].
 Jeg bad en bøn til Bahamut og forsøgte at kanalisere hans hellighed imod en Necromancers magiske barriere som holdte os ude af alter rummet hvor kilden til korruptionen i templet befandt sig. 
 
 Mine frænder begyndte at aktivere tidsrejse artifactet, som altid har flyttet os i enten tid eller rum og jeg ville ikke forlade templet, men rense det i min gud, bahamut's navn.
@@ -127,8 +129,8 @@ Nu forårsaget, loyaliteten forrådt, bliver jeg til vrede.
 JEG forsager DIG! Jeg er vrede og utæmmet bæst!
 Med denne ed omfavner jeg kaos og storm!"
 
-# Clarabel's tanker 
-## Guderne & mig 
+# Clarabel's Tanker
+## Guderne & Mig
 Jeg nægter at være en marionet dukke for guderne. 
 De har mere brug for os end vi har brug for dem. 
 Hvis min gud forsager mig og en anden gud begaver mig, så lad det være deres spil. 
@@ -155,7 +157,7 @@ Jeg er bæstet, jeg er rovdyret, jeg er champion af naturens lov.
 Jo bedre et rovdyr jeg er, jo bedre kan jeg bekæmpe korruption, tyranni, undertrykkelse af frihed. 
 
 
-# Communing with Mielikki 
+# Communing with Mielikki
 - Efter en dag og en nat i Soltræet har jeg etableret min forbindelse med Mielikki 
 - en splint fra træet flyder op til overfladen med en halskæde lavet af sammenfoldet blade, helligt symbol 
 - 

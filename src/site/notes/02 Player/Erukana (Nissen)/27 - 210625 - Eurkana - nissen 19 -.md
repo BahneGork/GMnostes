@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -/","tags":["erukana","erukanasessionlog","erukana/campaign",2]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 
 
-# Knogle clanen #2 
+# Knogle Clanen #2
 
 - Vi står i [[Urza\|Urza]] knogle moderens ritual kammer og har reddet [[Isilme\|Isilme]]
 - Bjørn har fundet vej ind i kongens hal, Høvdingen har opdaget ham og bjørn præsentere sig 
@@ -68,4 +69,4 @@
 
 
 
-[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|<< Previous Session 26 ]] ----[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|TOP]]----  [[28 \|Next Session 28  >>]]
+[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|<< Previous Session 26 ]] ----[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|TOP]]----  [[02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6\|Next Session 28  >>]]

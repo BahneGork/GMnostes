@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana People List/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana People List/","tags":["erukana","npc","list"]}
 ---
+
 
 #erukana #npc #list 
 
-# People of Erukana 
+# People of Erukana
 - [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]]
 - [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]]
 - [[02 Player/Erukana (Nissen)/People/Baron Bray of blackforge\|Baron Bray of blackforge]]
@@ -46,8 +47,8 @@
 
 { .block-language-dataview}
 
-# People from the lore of Erukana 
-- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
+# People from the Lore of Erukana
 - [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Queen Neferata]]
+- [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
 
 { .block-language-dataview}

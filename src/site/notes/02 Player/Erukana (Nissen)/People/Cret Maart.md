@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Cret Maart/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Cret Maart/","tags":["erukana/npc","halforc","rødtandklan"]}
 ---
 
+
 #erukana/npc  #halforc #rødtandklan
-# Cret Maart 
+# Cret Maart
 Halv-ork, velkendt i [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
 lavstammet men bred og bygget som en okse. 
 Skaldet og arret, med tyk hud på knoerne.

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/The truth of the north - Clarabel meditations/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/The truth of the north - Clarabel meditations/","tags":["erukana","clarabel/journal","erukanapc"]}
 ---
+
 
 #erukana #clarabel/journal #erukanapc 
 

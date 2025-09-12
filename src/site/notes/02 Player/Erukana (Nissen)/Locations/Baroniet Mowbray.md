@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray/","tags":["erukana","Barony"]}
 ---
+
 
 #erukana #Barony 
 

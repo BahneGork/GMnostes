@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana home/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana home/","tags":["erukana","campaign","worldhomenote"]}
 ---
+
 
 #erukana #campaign #worldhomenote
 
-# Main hub of Erukana 
+# Main Hub of Erukana
 
 [![Erukana-annotated.png|300](/img/user/10%20Attachments/Erukana-annotated.png)](Erukana-annotated.png)
 
@@ -21,15 +22,16 @@
 
 ![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
 
-#### Current date: 4th Tarsakh
-#### Current location: Nordheim 
+#### Current Date: 4th Tarsakh
+#### Current Location: Nordheim
 
-# Active Missions 
+# Active Missions
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 Rod of Resurrection 
 
-# Sessions 
+# Sessions
 
+- [[02 Player/Erukana (Nissen)/32 - 130925 - Erukana - Steffen - 10 - After the orks\|32 - 130925 - Erukana - Steffen - 10 - After the orks]]
 - [[02 Player/Erukana (Nissen)/31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta\|31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta]] 
 - [[02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle\|30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle]]
 - [[02 Player/Erukana (Nissen)/29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation\|29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation]]
@@ -66,6 +68,6 @@ Rod of Resurrection
 - [[02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2\|2-130723 - Changer of time session 2]]
 - [[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1\|1-080723 - Changer of time session 1]]
 
-# Clara's Journal 
+# Clara's Journal
 [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Personal Agenda]]
 [[02 Player/Erukana (Nissen)/Journal/Clarabel Diary\|Clarabel Diary]]

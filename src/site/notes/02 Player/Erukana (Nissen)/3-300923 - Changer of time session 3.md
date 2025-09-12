@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/npc","erukana/lootfound"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Leaving Kegville 
+# Leaving Kegville
 
 Dato: 17th i uge 2 i Flamerule 
 location: Bronzekeg Common room 
@@ -20,7 +21,7 @@ mapmaker master Orson #erukana/npc
 
 Rejser ud fra Kegville om eftermiddagen d. 17th Flamerule 
 
-# Rejsen til Mistville 
+# Rejsen Til Mistville
 
 Rationer: 
 

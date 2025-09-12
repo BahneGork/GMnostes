@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10/","tags":["erukana","erukanasessionlog","erukana/campaign","magicitem","armor","erukana/lootfound","clarabel","morgion"]}
 ---
+
 
 #erukana #erukanasessionlog #erukana/campaign 
 
-# Swamp Trekking 
+# Swamp Trekking
 - The Hydra is Dead! 
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] samler hydraens hjerte op, efter at den er blevet til aske.
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] hjælper til med at samle de faldne soldater sammen. 
@@ -64,7 +65,7 @@
 - Rustningen kan hidkaldes, kan aktiveres i 12 runder 1/dag hver dag i 10 dage. Derefter skal den hvile udenfor og suge natten. Old gammel livvagt for Skyggehånden. "Kehl".  Efter de første 12 runder, ligger der en miniature rustning i Clarabels hånd på størrelse med et fingerbøl. Kan gives ordre. 
 - Winston beder til Paladine om guidance, for han føler sig ude på dybt vand.
 
-#### Dag 5 - 11th highsun 
+#### Dag 5 - 11th Highsun
 - Råddenskaben er så begyndt at forsvinde fra området 
 - Vi går ned og kigger på det andet tårn og den skrift der stod. 
 - Vi bruger papir og kul fra bålet og prøver at lavet et aftryk af teksten 

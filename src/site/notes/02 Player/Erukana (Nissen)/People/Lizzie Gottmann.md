@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lizzie Gottmann/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lizzie Gottmann/","tags":["erukana/npc"]}
 ---
 
+
 #erukana/npc 
-# Kropige i [[Kroen Månehvil\|Kroen Månehvil]] i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
+# Kropige I [[Kroen Månehvil\|Kroen Månehvil]] I [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
 
 ![Pasted image 20231021195523.png](/img/user/10%20Attachments/Pasted%20image%2020231021195523.png)
 

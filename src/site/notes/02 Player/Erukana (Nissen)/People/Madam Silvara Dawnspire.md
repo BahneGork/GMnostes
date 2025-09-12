@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire/","tags":["erukana/npc","thequeensguard"]}
 ---
+
 
 #erukana/npc  #thequeensguard 
 
 Know by: [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]], [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
 Faction: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
 
-# Madam Silvara Dawnspire 
+# Madam Silvara Dawnspire
 ![Pasted image 20230703214632.png|200](/img/user/10%20Attachments/Pasted%20image%2020230703214632.png)
 Silvara Dawnspire er en ungre ridder af [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]. Hun har stået i lære under [[Lord Barriston Samuel\|Lord Barriston Samuel]], som var [[Lord of the Keep\|Lord of the Keep]] for [[Chapterhuset i Erukana\|Chapterhuset i Erukana]]. En årrække af hendes år som page og squire var ved siden af [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\| Clarabel]] , og senere blev hun udråbt til ridder kort før at [[Chapterhuset i Erukana\|Erukana Chapterhuset]] gik til grunder under et angreb som man den dag i dag, ikke helt kan forklare. 
 
