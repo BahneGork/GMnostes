@@ -41,6 +41,7 @@
 **”SouSou folket”** – Om de stadig eksistere, vides ikke. Men Harald den Tavse fortalte om nattestammen; En stamme af nomader som rejste om natten, og hvilede om dagen. Deres tidligere stammeøverste havde Kæmpe blod i hans åre.
 
 
+
 </div></div>
 
 

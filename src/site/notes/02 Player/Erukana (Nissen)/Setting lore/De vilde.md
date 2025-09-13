@@ -26,6 +26,11 @@ Horden er en fælles betegnelse for krigeriske racer som oftest ses for fjendtli
 
 -    Gobliner er små ondsindet væsner som lever i samfund under jordens overflade, i bakkelandet i dybe huler eller i bjergene. De findes overalt og selvom de enkeltvis ikke er stærke, så er de snu som få. Der har dog været eksempler på Gobline samfund som har søgt at indgå handelsaftaler og ruter med de andre racer, endda nogle Gobliner som har vist egenskaber inden for opfindelser og tinkering.
 
+- **Frostbone.** 
+	Orc og Gobin stamme i norden, de har et blåt skær i deres hud.
+	Ting de holder i deres hænder bliver kolde. 
+	Deres klan symbol er en knækket knogle med et blåt frostskær over sig.
+
 # **Nordlandet Og Deres Mest Kendte Klaner Og stammer**
     
 **Frostløberne (Frostrunners)** Wulfgar den Hvide – Stammeleder for Frostløberne (Frostrunners). En stamme af nomader som jager i sammen med de berygtede frostleoparder i norden.
@@ -43,3 +48,4 @@ Horden er en fælles betegnelse for krigeriske racer som oftest ses for fjendtli
 **”Knoglefolket”** – Deres oprindelig navn var Elge folket, men pga. en frygtelig krig i nordlandet, begyndte de at avle med nogle af orc stammerne i norden. Sidst man har hørt fra dem, levede de side om side med orkerne og havde taget mange af deres traditioner med dem. 
 
 **”SouSou folket”** – Om de stadig eksistere, vides ikke. Men Harald den Tavse fortalte om nattestammen; En stamme af nomader som rejste om natten, og hvilede om dagen. Deres tidligere stammeøverste havde Kæmpe blod i hans åre.
+
