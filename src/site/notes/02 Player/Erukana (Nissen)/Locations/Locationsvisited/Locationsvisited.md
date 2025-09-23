@@ -11,9 +11,9 @@
 - [[02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves\|Dark Gem Kobold clan caves]]
 - [[02 Player/Erukana (Nissen)/Locations/Dvalin Werewolf caves\|Dvalin Werewolf caves]]
 - [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]]
-- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov\|Vinterskov]]
 - [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
 - [[02 Player/Erukana (Nissen)/Locations/Nord Heim\|Nord Heim]]
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov\|Vinterskov]]
 
 { .block-language-dataview}
 

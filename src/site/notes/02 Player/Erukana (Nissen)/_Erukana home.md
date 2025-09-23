@@ -31,6 +31,7 @@ Rod of Resurrection
 
 # Sessions
 
+- [[02 Player/Erukana (Nissen)/34 - erukana - steffen - 12\|34 - erukana - steffen - 12]]
 - [[02 Player/Erukana (Nissen)/33 - Erukana - Steffen  - 11 - Varde Stjerne Bosses\|33 - Erukana - Steffen  - 11 - Varde Stjerne Bosses]]
 - [[02 Player/Erukana (Nissen)/32 - 130925 - Erukana - Steffen - 10 - After the orks\|32 - 130925 - Erukana - Steffen - 10 - After the orks]]
 - [[02 Player/Erukana (Nissen)/31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta\|31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta]] 
