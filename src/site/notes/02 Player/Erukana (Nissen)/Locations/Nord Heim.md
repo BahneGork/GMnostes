@@ -5,6 +5,22 @@
 
 #nordheim #erukana/campaign #erukana/location #Locationsvisited 
 
+```leaflet
+id: nordheim-map1
+image: [[Pasted image 20250812093531.png]]
+height: 700px
+width: 100%
+lat: 45
+long: 42
+minZoom:1
+maxZoom: 10
+defaultZoom: 10
+unit: miles
+noUI: true
+
+```
+
+
 ![Pasted image 20250812093531.png](/img/user/10%20Attachments/Pasted%20image%2020250812093531.png)
 [full size](https://cdn.discordapp.com/attachments/1156839600002695239/1404522063737389208/Nordheim.jpg?ex=689b7e9a&is=689a2d1a&hm=acfb4954c610557dba11a65d432e425f1ed7544301e0305ba4011c1c687dd961&)
 
