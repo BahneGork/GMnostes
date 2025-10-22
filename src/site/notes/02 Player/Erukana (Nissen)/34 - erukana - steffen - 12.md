@@ -8,6 +8,7 @@
 
 # THE ROD
 
+6th of Tarsakh - Aften
 - Vi besejrede frost kæmpen med den forbandet økse 
 - Hvad der end var i live af orker fik lov at løbe, de udøde blev udryddet
 - Evelyn går op til fortets port for at lukke de andre stammefolk ind 
@@ -127,4 +128,4 @@ NEXT
 
 
 
-[[02 Player/Erukana (Nissen)/33 - Erukana - Steffen  - 11 - Varde Stjerne Bosses\|<< Previous Session 33 ]] ----[[02 Player/Erukana (Nissen)/34 - erukana - steffen - 12\|TOP]]----  [[35 - erukana  \|Next Session 35  >>]]
+[[02 Player/Erukana (Nissen)/33 - Erukana - Steffen  - 11 - Varde Stjerne Bosses\|<< Previous Session 33 ]] ----[[02 Player/Erukana (Nissen)/34 - erukana - steffen - 12\|TOP]]----  [[02 Player/Erukana (Nissen)/35 - 251025 - Erukana Steffen - 13\|Next Session 35  >>]]

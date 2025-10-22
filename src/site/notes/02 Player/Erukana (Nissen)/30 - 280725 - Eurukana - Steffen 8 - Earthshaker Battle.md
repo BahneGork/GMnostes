@@ -8,6 +8,7 @@
 
 # Earthshaker Battle
 
+5th of Tarsakh
 Situation: 
 Vi er på Windbreaker waystation langt nordpå i Nordheim.
 Jorden begyndte at ryste og isflager/jordstykker begyndte at flyve ind over fortet
@@ -24,7 +25,7 @@ Det lader til at vi skal lave radiant damage på dem for at de kan kanalisere de
 - Logan løber foran for at scoute en sikker rute væk og hvor man er i sikkerhed
 - Manta rayen er ca 300-400 meter lang
 - Den vipper med halen og drysser sparkling energi ned over os og giver os effekten af et long rest og et level træning og en ekstra gave vi ikke ved hvad er endnu -> [[02 Player/Erukana (Nissen)/Loot/Boon from the divine manta ray Nayaru - The moonveil Ray\|Boon from the divine manta ray Nayaru - The moonveil Ray]] 
-- 4th of Tarsakh
+
 
 
 

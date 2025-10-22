@@ -8,7 +8,7 @@
 
 # HEADLINE
 
-- 5th of Tarsakh
+- 6th of Tarsakh
 	- Kvinden vi reddede fra Goblin angreb 
 	- der var blå frost orker iblandt angrebet #settinglore
 	- der er flere døde gobliner/orker end vi slog ihjel
@@ -41,7 +41,7 @@
 			- Goran den røde ligger blandt de faldne
 	- vi holder short rest og Evelyn healer alle
 	- vi rejser videre for at finde goblin stammen og Elda 
-- 5th Tarsakh - Eftermiddag 
+- 6th Tarsakh - Eftermiddag 
 	- på et tidspunkt ser vi en mur i horisonten, med en stor stor bygning inde bag ved
 	- muren har "spidser" 
 	- [[02 Player/Erukana (Nissen)/Varde stjernen\|Varde stjernen]] bliver nævnt af stammer folks patruljen 
@@ -54,6 +54,7 @@
 	- Corwin løber hen over en rune fælde og bliver blastet med magi, goblin vagter på muren bliver opmærksomme
 	- Der sendes en patrulje orker og gobliner ud for at finde os 
 	- Vi ambusher deres patrulje og udspørger en ork om deres belejring af [[02 Player/Erukana (Nissen)/Varde stjernen\|Varde stjernen]] 
+- 6th Tarsakh - Aften
 	- Corwin, Winston, Evelyn og Nibar render rundt på brystværnet og fixer en masse krystal pyloner som danner et skjold der holder skyggefolket ude 
 	- Derefter finder vi alle vej ned til bygningen med runerne som laver anti magi 
 	- Nibar, winston, evelyn og corwin får brugt runerne for at deaktivere anti magi 
