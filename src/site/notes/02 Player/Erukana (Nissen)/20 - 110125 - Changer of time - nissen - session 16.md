@@ -22,9 +22,12 @@
 - [[Illyria Starmantle\|Illyria Starmantle]] henvender sig til alle mens Bjørn danser. Han er fra Julland, nærmere betegnet byen [[Kolitan\|Kolitan]]. Han vil gerne snakke om en mulig handelsaftale. Han er den lettere androgyne mand Nibar observerede tidligere. Winston beder ham kontakte [[Assana Lemiuex\|Assana Lemiuex]] for at få en aftale. Illyria spørger om hun skal med til mødet. Winston bekræfter det ikke kan udelukkes. #waningmoon/lead
 - En tjener henvender sig til gruppen omkring kl. 22. Han overbringer en besked fra [[Fafnir\|Fafnir]] som beder os  om at møde op ved vestporten kl. 24. Pak til flere dage står der.
 - Bjørn får besked midt i alt hans danseri med [[Lallana\|Lallana]] at vi skal smutte. Han beder sig på galant vis undskyldt og får Lallanas kort med hendes adresse. 
+
+# Party no more
 - Et stykke udenfor vestporten erfarer vi at [[Samy\|Samy]] har rapporteret til [[Fafnir\|Fafnir]] og har fortalt en delegation er på vej til kongen med et scepter. Fafnir vil indhente delegationen og få fat i scepteret for at undgå at Blodrosen kommer mere i kongens favør.
 - Delegationen er 4 blodrose riddere og en rødhåret præstinde.
 - Vi eftersætter og bliver spottet efter nogle dage - vi skynder os efter.
+- 
 - Den rødhårede cleric er [[Danica Dawnspire\|Danica Dawnspire]] - Takhisis præstinden Winston for ca. 14 dage siden så blive ført væk af to blodrose riddere.
 - Vi ankommer til en bakke og ser ned på en bro over en flod/å. Nedenfor er blodridderne og præstinden stoppet før broen og en større gruppe mercenaries på modsatte side virker opsat på at kæmpe mod dem.
 - Vi overvejer forskellige taktikker, inklusive at prøve at blokere broen inden vi angriber mercenary gruppen. Ret hurtigt får mercenary gruppen via magi stjålet scepteret og teleporteret det over på modsatte side af broen.

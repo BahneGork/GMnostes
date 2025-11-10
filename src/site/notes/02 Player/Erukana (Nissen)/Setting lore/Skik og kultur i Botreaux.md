@@ -6,7 +6,7 @@
 #erukana #kultur #botreaux-duchy
 
 Main: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]] 
-Related: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau\|Hertugdømmet Bortreau]]
+Related: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Hertugdømmet Bortreaux]]
 
 # Skik Og Kultur I Botreau Hertugdømmet
 

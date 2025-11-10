@@ -22,7 +22,7 @@
 
 ![Pasted image 20240613214330.png](/img/user/10%20Attachments/Pasted%20image%2020240613214330.png)
 
-#### Current Date: 5th Tarsakh
+#### Current Date: 6th Tarsakh
 #### Current Location: Nordheim
 
 # Active Missions
@@ -31,7 +31,8 @@ Rod of Resurrection
 
 # Sessions
 
-- [[02 Player/Erukana (Nissen)/35 - 251025 - Erukana Steffen - 13\|35 - 251025 - Erukana Steffen - 13]]
+- [[02 Player/Erukana (Nissen)/36 - Erukana - Steffen\|36 - Erukana - Steffen]]
+- [[02 Player/Erukana (Nissen)/35 - 251025 - ShieldHeim - Erukana Steffen - 13\|35 - 251025 - ShieldHeim - Erukana Steffen - 13]]
 - [[02 Player/Erukana (Nissen)/34 - erukana - steffen - 12 - Looting the star\|34 - erukana - steffen - 12 - Looting the star]]
 - [[02 Player/Erukana (Nissen)/33 - Erukana - Steffen  - 11 - Varde Stjerne Bosses\|33 - Erukana - Steffen  - 11 - Varde Stjerne Bosses]]
 - [[02 Player/Erukana (Nissen)/32 - 130925 - Erukana - Steffen - 10 - After the orks\|32 - 130925 - Erukana - Steffen - 10 - After the orks]]

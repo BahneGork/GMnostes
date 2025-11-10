@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}
 ---
 
 
@@ -12,8 +12,8 @@
 - Winston holder vagt alle 6 timer 
 - Bjørn bliver høvding af knoglstammen og erklærer nye tider, han overtager høvdingens sværd
 
-## 29th Chess
-- Vargoth bliver begravet 
+## 29th Ches
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-29' data-date-end='1517-Ches-29' data-img='Inline Example/Event_2.jpg' data-name='Vargoth Begravet'>Vargoth bliver begravet</span>
 - 2 folk skiller sig særdeles ud i mængden
 	- Menneske lidt højere end gennemsnittet, den ene er klædt i grøn der fader ud i brun gylden farve kåbe, med en krone af Gevir, som læner sig op ad en stav med en krystal i toppen.
 	- Den anden er en menneske kvinde et hoved højere, iklædt en splint mail med blondt hår. Rundt om halsen hænger en halskæde med symbolet af mielikki og queensguarde, ved sin side har hun en warhammer og et skjold på ryggen. 
@@ -53,7 +53,7 @@
 ## 4th Of Tarsakh
 - Om eftermiddagen aftager Stormen endelig og vi bryder camp for at gå videre efter kompasset
 - Vi nærmer os det som ligner en palisade, mindre end en landsby 
-- Vi ankommer til Windbreaker waystation, et trading fort, ejet af Garret 
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-4' data-date-end='1517-Tarsakh-4' data-img='Inline Example/Event_2.jpg' data-name='Windbreaker station'>Vi ankommer til Windbreaker waystation, et trading fort, ejet af Garret </span>
 - Vi introduceres til [[Mira Wolfsbane\|Mira Wolfsbane]] som er deres jæger
 - vi finder en mand i stalden som ligner beskrivelsen på grimjaw, men han kender ikke navnet og kalder sig jawlog
 - Adair får låst Grimjaws hjerne op 

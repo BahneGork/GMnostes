@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}
 ---
 
-
-#erukana #erukanasessionlog #erukana/campaign 
 
 # Session 19 - Ambush the Rich Red & Black
 
@@ -25,7 +23,8 @@
 	- Hun kender ikke Elvira inden. 
 	- Vi får Maria til at føre Nibar derhen i forklædning 
 	- Vi forsøger at lave en plan og følger efter pigen 
--![Pasted image 20240814195642.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814195642.png)
+- <span data-category='orange' data-calendar="Ceynor" data-date='1516-Uktar-6' data-date-end='1516-Uktar-6' data-img='Inline Example/Event_2.jpg' data-name='The Alistair Manor Event'>Vi infiltrere Alistair manor og besejrer en dæmon kult</span>
+- ![Pasted image 20240814195642.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814195642.png)
 - På døren er der et symbol af en full helmet og der står Alistair family 
 - Hun fører os om til en bagdør
 - Bjørn leder efter et sted at kravle/snige sig ind 
@@ -50,7 +49,7 @@
 	- ![Pasted image 20240814201526.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814201526.png)
 	- - Nameless Lady 
 	- ![Pasted image 20240814201542.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814201542.png)
-	- - Der hænger spejle på væggene, der viser en slags "harry potter" billeder af forskellige personer, men Nibar har en fornemmelse af at det ikke er billeder men at det er rigtige folk. 
+	- Der hænger spejle på væggene, der viser en slags "harry potter" billeder af forskellige personer, men Nibar har en fornemmelse af at det ikke er billeder men at det er rigtige folk. 
 	- En af det viser også "helvede" 
 	- Lord Alistair beder Nibar om at "gå igang, du ved godt hvad du skal"
 - Bjørn får åbnet og kommer ind i et spisekammer, ved tjenestefolkene 
@@ -72,7 +71,7 @@
 - Krugger er ikke at finde i bygningen 
 - Clara påkalder sig Mielikki's Divine Intervention og beder til at alle sjæle fanger bliver frigivet 
 - en brise blæser igennem lokalet med Mielikki's velsignelse
-- Lord Gnomen bliver fanget i et spejl'
+- Lord Gnomen bliver fanget i et spejl
 - Clarabel vælger at bruge vores **Divine Intervention** og beder om at få sat alle sjælene i spejlene fri igen. 
 - Gruppen skal vælge 1 sjæl der kan befri's, Vargoth og Clarabel valgte Nibar, Winston valgte ikke at vælge og Bjørn ville vælge Fritte. 
 - Nibar blev befriet og ligner nu sig selv før han blev forbandet af den lilla plage og den onde bog 

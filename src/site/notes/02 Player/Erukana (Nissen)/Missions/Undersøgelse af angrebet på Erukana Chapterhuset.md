@@ -11,7 +11,7 @@
 Chapter master er fundet og lagt til hvile 
 # Investigating the Attack on The Queensguard Erukana Chapterhouse
 
-Erukana Chapterhouse lå i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreau\|Hertugdømmet Bortreau]], lidt udenfor [[Wolfenburg\|Wolfenburg]].
+Erukana Chapterhouse lå i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Hertugdømmet Bortreaux]], lidt udenfor [[Wolfenburg\|Wolfenburg]].
 
 ## Location Clues
 Vi tror et hemmeligt Queensguard møde finder sted om ca 2 måneders tid ![[Pasted image 20231011073201.png\|Pasted image 20231011073201.png]]

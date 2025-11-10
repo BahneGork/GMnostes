@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}
 ---
-
-
-#erukana #erukanasessionlog #erukana/campaign/steffen 
 
 
 # Void Ship Battle 2
@@ -36,7 +33,7 @@
 - Der var en sø og krystallen var formet som et træ 
 
 ### Dagen Efter
-3rd chase 
+<span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-3' data-date-end='1517-Ches-3' data-img='Inline Example/Event_2.jpg' data-name='Krystal Træet'></span>
 - Vargoth vågner kl 10:00
 - Vi begiver os ned i hullet til hulen med krystal træet og de tre skikkelser 
 - Vargoth kaster auguury

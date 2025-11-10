@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}
 ---
 
-
-#erukana #erukanasessionlog #erukana/campaign 
 
 # Session 18 - Dagen Efter Dødsriget
 
@@ -20,6 +18,7 @@
 - Elvira har virket tyndslidt det sidste stykke tid og han er bekymret for hende 
 - Vi får af vide hvor hun ofte opholder sig og fortsætter ned af en smal gyde 
 - Vi ankommer til et Drikke sted  [[den brækkede knogle\|den brækkede knogle]]
+
 ## Den Brækkede Knogle
 - Drikke stedet er fyldt med drankere. 
 - Winston, Vargoth og Clara går op til Kro mutter
@@ -30,6 +29,7 @@
 	- Winston sætter sig ned og forsøger at tale mere med hende 
 	- Clara banker i et bord og siger "mand dig op, det er kun dig som kan ændre på dit liv" 
 	- Hun siger "Lord Alistair," og så står der en stråle af blod ud af munden på hende, hendes hjerte er eksploderet.
+- <span data-category='orange' data-calendar="Ceynor" data-date='1516-Uktar-6' data-date-end='1516-Uktar-6' data-img='Inline Example/Event_2.jpg' data-name='Elvira dør af "The strangle voice curse"'></span>
 	- hun var cursed, hvis hun sagde noget bestemt 
 	- Speak with dead (Elvira)
 		1.  Hvem dræbte Miri? 

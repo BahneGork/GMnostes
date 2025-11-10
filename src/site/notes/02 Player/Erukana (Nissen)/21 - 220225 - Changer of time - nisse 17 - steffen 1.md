@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/campaign/steffen","inline-events"]}
 ---
 
 
-#erukana #erukanasessionlog #erukana/campaign #erukana/campaign/steffen 
-
 # Session 21 - Celebration of Wildwood's Knighthood
-
+<span data-category='orange' data-calendar="Ceynor" data-date='1517-Hammer-30' data-date-end='1517-Hammer-30' data-img='Inline Example/Event_2.jpg' data-name='Celebration of Winstons Knighthood'></span>
 - Vi var alle tilstede til festen og fejrelsen af [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] Wildwood's ridderskabs udnævnelse
 - Fine taler blev holdt 
 - Clara giver en gave til Winston, et blad fra sol træet om hyllet af glas
@@ -37,6 +35,7 @@
 	- der er fod spor i form af hove i nærheden, som stopper brat som om den er hoppet op og væk
 	- vi anslår at [[Daine Waymar\|Daine Waymar]] har været død i en dag, så ham [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] og Logan har talt med er en bedrager, måske en dæmon
 	- Vi tager tilbage til mansion og overnatter, [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] sætter planer igang for at ændre nogle rum til soveværelser 
+- 3rd Ches
 	- Dagen efter aktiverer [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] og [[Isilme\|Isilme]] portalen i haven 
 	- Vi samler vores ting og drager igennem portalen 
 

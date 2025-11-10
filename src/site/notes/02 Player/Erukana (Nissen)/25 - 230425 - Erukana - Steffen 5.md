@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}
 ---
 
-
-#erukana #erukanasessionlog  #erukana/campaign/steffen 
 Jens, Flemming, Bahne, Steffen 
 
 # Ghost Town
-
+<span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-11' data-date-end='1517-Ches-11' data-img='Inline Example/Event_2.jpg' data-name='Spøgelsesbyen i Norden'></span>
 - Vi nærmer os byen som er meget stille, ingen tegn på liv
 - Der er bygget en vold rundt om med træ spyd 
 - Man kan kun lige skimte toppen af husene
@@ -47,7 +45,7 @@ Jens, Flemming, Bahne, Steffen
 	- Der ligger tre kløver på vandets overfladen, der er sten placeret rundt med runer graveret i, som Vargoth kan fornemme summer med en svag lyd. 
 	- Der er en tunnel i en anden ende af grotten som fører videre væk 
 	- Vargoth kan mærke både sin jord element forbindelse og magisk forbindelse 
-	- Runerne og symbolerne er forbundet med guden Eldrak - husker Vargoth fra sin præste oplæring 
+	- Runerne og symbolerne er forbundet med guden [[Eldrak\|Eldrak]] - husker Vargoth fra sin præste oplæring 
 	- Shrinet er i dvale tilstand og Vargoth kan muligvis aktivere det igen 
 	- En hellig druide lund 
 

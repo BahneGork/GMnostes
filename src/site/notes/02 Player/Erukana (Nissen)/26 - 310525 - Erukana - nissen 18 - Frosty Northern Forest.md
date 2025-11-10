@@ -21,7 +21,7 @@
 	- en gruppe troldmænd udførte et ritual og i midten var en hvidkåbet troldmand med en magisk stav af sølvdrage knogler og staven splintrede i flere dele: ben, ild, blod, sjæl.
 	- Ben dele skulle være i stormbjerget 
 - Der er jægere ude fra elge stammen 
-- vi finder vej ud af skoven 23rd ches 
+- vi finder vej ud af skoven **23rd ches** 
 - Bjørn er meget iriterret og on edge, som om han er besat og taler med en der ikke er tilstede, dagen efter er han træt og udmattet og tager ikke vagter.
 - Nibar laver Logan om til en kæmpe ugle så han kan spejde fremad i bjergene 
 - Uglens instinkter skriger han ikke skal flyve mod stormbjerget, det er meget farligt for flyvende væsener
@@ -37,7 +37,7 @@
 - [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]] knoglestammens høvding er ikke glad for [[flodhvisker stammen\|flodhvisker stammen]] 
 - Svala enøje vil gerne føre os til hendes stamme
 - vi går igennem nogle groft udhugget tunneller og ender i noget der er reelle lokaler/rum 
-- Vi er ankommet til [[knoglestammens huler\|knoglestammens huler]] 
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-23' data-date-end='1517-Ches-23' data-img='Inline Example/Event_2.jpg' data-name='Ankommer til Knoglestammens huler'>Vi er ankommet til knoglestammens huler.</span> - *[[knoglestammens huler\|knoglestammens huler]]*
 - Svala overtaler en ældre herre til at vi må få fortræde for høvdingen 
 - Vi støder på en vagt som er skaldet og umulig at anskue alder på, hans hud er lidt hærdet og ligner næsten at der er skæl indenunder 
 - der er falmet graveringer på væggene, men de er ikke blevet holdt ved lige og ting der er gået i råd over tid 
@@ -57,7 +57,7 @@
 - Logan kommer ned af en lang gang hvor for enden er der en rådden dør og inden længe kan han høre Urza's skidt bag ham. Logan tager i døren og skridtene stopper
 - Logan låser døren op og går inden for, Isilme hænger i kæder oppe under loftet.
 - Der er en anden dør som Logan åbner og bag den er der en gang med kæder og legmedsdele og organ rester på gulvet. Logan kan ikke holde til det og brækker sig på stedet. 
-- En af vagterne kan Logan høre kommer løbende imod rummet. Logan forsøger at låse døren forgæves men render hen i et mørkt hjørne og gemmer sig. Vagten smadre sig ind igennem døren og spotter Logan og charger ind i ham og tæver ham. 
+- Logan kan høre en af vagterne kommer løbende imod rummet. Logan forsøger at låse døren forgæves men render hen i et mørkt hjørne og gemmer sig. Vagten smadre sig ind igennem døren og spotter Logan og charger ind i ham og tæver ham. 
 - Nibar dropper concentratoin på polymorph så Winston holder op med at være edderkop.
 - Der starter en kamp med 2 vagter og Urza, som ender med at Urza flygter og det lykkedes os langt om længe at vinde over de 2 resterende vagter og få Isilme ned med dispel magic på lænkerne. 
 

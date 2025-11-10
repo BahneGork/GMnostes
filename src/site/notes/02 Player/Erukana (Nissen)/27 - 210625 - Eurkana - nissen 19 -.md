@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -/","tags":["erukana","erukanasessionlog","erukana/campaign",2]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}
 ---
-
-
-#erukana #erukanasessionlog #erukana/campaign 
 
 
 # Knogle Clanen #2
 
-- Vi står i [[Urza\|Urza]] knogle moderens ritual kammer og har reddet [[Isilme\|Isilme]]
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-23' data-date-end='1517-Ches-23' data-img='Inline Example/Event_2.jpg' data-name='Reddet Isilme'>Vi har reddet Isilme fra [[Urza\|Urza]]</span>Vi står i [[Urza\|Urza]] knogle moderens ritual kammer og har reddet [[Isilme\|Isilme]]
 - Bjørn har fundet vej ind i kongens hal, Høvdingen har opdaget ham og bjørn præsentere sig 
 - Winston åbner døren til den klamme korridor og bliver overvældet af ondskab og råd 
 - Nibar prøver også at begive sig ind i korridoren men bliver ogå overvældet og viger bort 
@@ -58,7 +55,7 @@
 - Vargoth forklarer at han ikke længere er twillight domain og er Light domain 
 - i løbet af den første overnatning hører vi en forfalskning af et ugle hyl der lyder forkert 
 - vi hopper ud af vognen klar til kamp 
-- En kamp mod 7 frost kæmper løber af stablen 
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-27' data-date-end='1517-Ches-27' data-img='Inline Example/Event_2.jpg' data-name='Frost Giant battle - death of Vargoth & Isilme'>Frost kæmpe ambush, Vargot & Isilme dør.</span>
 - Astley Avengers vinder dagen, men [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] og [[Isilme\|Isilme]] måtte lade livet
 
 

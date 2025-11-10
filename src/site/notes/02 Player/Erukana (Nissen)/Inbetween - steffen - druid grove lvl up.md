@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Inbetween - steffen - druid grove lvl up/","tags":["erukana","erukanasessionlog","erukana/lvlup","erukana/ancientgrove","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Inbetween - steffen - druid grove lvl up/","tags":["erukana","erukanasessionlog","erukana/lvlup","erukana/ancientgrove","erukana/campaign/steffen","inline-events"]}
 ---
 
 
 #erukana #erukanasessionlog #erukana/lvlup #erukana/ancientgrove #erukana/campaign/steffen 
 
 # The Ancient Grove
-
+<span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-12' data-date-end='1517-Ches-12' data-img='Inline Example/Event_2.jpg' data-name='The Ancient Grove'></span>
 [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] and [[Isilme\|Isilme]] spend some time exploring the grove and its surroundings in greater detail. They soon discover that the grove is in a dormant state—slumbering due to the absence of a caretaker, most likely the shaman who once lived in the hut above.
 
 In an attempt to reawaken the grove, Vargoth and Isilme perform a ritual. In a small clay bowl, they offer a few strands of hair, a drop of blood, and some plants they carry with them. Then, Vargoth casts Cure Wounds on one of the central stones encircling the small pool at the grove’s heart. The healing energy spreads like ripples across the stones, and the ancient symbols carved into them begin to glow with a soft, pale blue light.
@@ -23,6 +23,7 @@ When you awaken, you feel completely restored—as though you’ve slept for wee
 
 Each of you has grown. Not through study, sparring, or meditation—but through something deeper. The grove has gifted you more than rest. It has whispered truths to your souls.
 
+<span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-12' data-date-end='1517-Ches-12' data-img='Inline Example/Event_2.jpg' data-name='Level'></span>
 I har hver fået 7.830 xp og er nu level 8. Som følge af drømmen så gælder det som I har trænet det level.
 
 The journey continues:
