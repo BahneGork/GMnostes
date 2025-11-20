@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Region - Bortholme - Erukana/","tags":["erukana","region"]}
+---
+
+
+#erukana #region 
+
+
+
+![Erukana_-_Bortholme_Region.png](/img/user/10%20Attachments/Erukana_-_Bortholme_Region.png)
