@@ -13,5 +13,5 @@ The baronies and dukedoms are more often than not rivals, sometimes even going a
 
 # Map of the Kingdom
 
-![Erukana-annotated.png|500](/img/user/02%20Player/Erukana%20(Nissen)/Journal/images/Erukana-annotated.png)
+![Erukana-annotated.png|500](/img/user/10%20Attachments/Erukana-annotated.png)
 interactive map [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]

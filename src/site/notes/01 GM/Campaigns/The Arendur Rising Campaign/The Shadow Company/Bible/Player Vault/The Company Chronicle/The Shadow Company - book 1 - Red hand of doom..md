@@ -12,7 +12,7 @@
 4. Røde hånd gobliner, samme hær som invaderede dværge miner for 5 år siden.
 5. En våd raspende stemme i et fremmed sprog.
 6. Warlock havde noter om et portal projekt.
-7. Goblin boss havde tegning af et skjold ![Shield drawing 1.jpg|50](/img/user/01%20GM/Campaigns/The%20Arendur%20Rising%20Campaign/The%20Shadow%20Company/Bible/Player%20Vault/Attachments/Shield%20drawing%201.jpg)
+7. Goblin boss havde tegning af et skjold ![[Shield drawing 1.jpg\|50]]
 8. En lokal ranger kvinde var blevet ofret, hendes journal indeholdt hendes opdagelser på hendes færd rundt omkring. En af dem var en svævende opal obelisk med lilla energi, den var vokset mellem 2 besøg. En anden medrejsende rørte ved stenen og blev opslugt af stenen. Alle indikationer om hvordan man finder stenen er blevet streget over. 
 9. Ranger kvinden havde en tattoovering af en oprejst bjørn på sin ryg og en ottekantet træmønt.
 10. [[01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Active mission - misante zardanti\|Active mission - misante zardanti]] - fugle kranie halskæde fundet i hulerne.

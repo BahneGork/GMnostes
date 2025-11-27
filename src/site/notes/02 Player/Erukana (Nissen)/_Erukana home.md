@@ -3,7 +3,6 @@
 ---
 
 # Home of the Erukana Campaign
-
 [![Erukana-annotated.png|1500](/img/user/02%20Player/Erukana%20(Nissen)/Journal/images/Erukana-annotated.png)](/img/user/02%20Player/Erukana%20(Nissen)/Journal/images/Erukana-annotated.png)
 
 | # The Party                                                                                                            | # The world                                                                                                                                                | # Factions & People                                 | # Open loops                                  |
@@ -29,7 +28,7 @@ Rod of Resurrection
 
 # Sessions
 
-- [[37 - 261125 - Erukana - Steffen - Infernal Machine - 15\|37 - 261125 - Erukana - Steffen - Infernal Machine - 15]]
+- [[02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15\|37 - 261125 - Erukana - Steffen - Infernal Machine - 15]]
 - [[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14\|36 - Erukana - Steffen - Corwin & Viktor 14]]
 - [[02 Player/Erukana (Nissen)/35 - 251025 - ShieldHeim - Erukana Steffen - 13\|35 - 251025 - ShieldHeim - Erukana Steffen - 13]]
 - [[02 Player/Erukana (Nissen)/34 - erukana - steffen - 12 - Looting the star\|34 - erukana - steffen - 12 - Looting the star]]

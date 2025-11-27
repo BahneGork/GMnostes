@@ -18,7 +18,7 @@
 - spindelsvæv mod nord 
 - rådne blade og natur mod syd 
 - Manden vender sig om og siger "forsvind" med en trykbølge imod os
- ![[Pasted image 20240711191828.png\|200]]
+ ![Pasted image 20240711191828.png|200](/img/user/10%20Attachments/Pasted%20image%2020240711191828.png)
  - Clarabel begynder at channel bahamuts divine power for at bryde den magiske barriere ned 
  - Timeglasset begynder at vibrere og lyse, winston, vargoth og fritte aktiverer deres tattooveringer men Clara forstår ikke hvad der foregår, Bahamut har hørt hendes bøn hvorfor skal de rejse et andet sted hen nu? timeglasset har altid ført dem et andet sted hen, enten i tid eller rum. 
  - Bahamut manifisterer en tåget skikkelse bag Clara som ryster på hovedet af hende.

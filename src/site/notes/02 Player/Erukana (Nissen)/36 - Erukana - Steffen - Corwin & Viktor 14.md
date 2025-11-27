@@ -64,7 +64,7 @@
 		- måske den har et magisk beskyttelses skjold 
 - Evelyn bruger [[No Graph/5e Reference/spells/Legend Lore\|Legend Lore]] på helvedes maskinen 
 	- den er fra en krig i himlen, lavet af en helvedes general 
-	- skygge tingene skal smadres først
+	- skygge tingen skal smadres først
 	- den på bunden skyder kæder ud der kan fange 
 	- den på midten er en vredes ting og booster dæmon lederen 
 	- den i midten skal ødelægges først og derefter kan man bekæmpe dæmonen
@@ -73,9 +73,8 @@
 - Nibar kan få Logan til at flyve så han også kan skyde på kernen på toppen 
 - Vi holder et rest 
 
-- NEXT ==> <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-9' data-date-end='1517-Tarsakh-9' data-img='Inline Example/Event_2.jpg' data-name='Operation Destroy Infernal Machine'></span>
 
 
 
 
-[[02 Player/Erukana (Nissen)/35 - 251025 - ShieldHeim - Erukana Steffen - 13\|<< Previous Session 35 ]] ----[[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14\|TOP]]----  [[ \|Next Session 37  >>]]
+[[02 Player/Erukana (Nissen)/35 - 251025 - ShieldHeim - Erukana Steffen - 13\|<< Previous Session 35 ]] ----[[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14\|TOP]]----  [[02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15\|Next Session 37  >>]]
