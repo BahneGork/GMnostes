@@ -28,6 +28,7 @@ Rod of Resurrection
 
 # Sessions
 
+- [[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova\|38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova]]
 - [[02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15\|37 - 261125 - Erukana - Steffen - Infernal Machine - 15]]
 - [[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14\|36 - Erukana - Steffen - Corwin & Viktor 14]]
 - [[02 Player/Erukana (Nissen)/35 - 251025 - ShieldHeim - Erukana Steffen - 13\|35 - 251025 - ShieldHeim - Erukana Steffen - 13]]
