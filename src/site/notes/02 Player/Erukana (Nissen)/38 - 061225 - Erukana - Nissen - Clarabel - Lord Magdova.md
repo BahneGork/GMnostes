@@ -5,7 +5,7 @@
 # Delegation to Lord Magdova
 *(nissen, jens, bahne)*
 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-11' data-date-end='1517-Tarsakh-11' data-img='Inline Example/Event_2.jpg' data-name='Delegation to Lord Magdova'></span>
+- <span data-category='Social' data-calendar="Ceynor" data-date='1517-Tarsakh-11' data-date-end='1517-Tarsakh-11' data-img='Inline Example/Event_2.jpg' data-name='Assembly of Delegation to Lord Magdova'></span>
 - Delegationen indeholder 
 	- [[Orlock Helmsveil\|Orlock Helmsveil]] scribe og page til Sir [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
 	- [[Jarell Flick\|Jarell Flick]] historiker i [[Astley historian society\|Astley historian society]]
@@ -16,7 +16,7 @@
 - Clara inviterer Hans og Merita ind til middag 
 - [[Orlock Helmsveil\|Orlock Helmsveil]] ankommer lidt senere 
 - efter en langvarig og snaksalig middag trækker alle sig tilbage
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-11' data-date-end='1517-Tarsakh-11' data-img='Inline Example/Event_2.jpg' data-name='Delegation sætter afsted'></span>
+- <span data-category='Social' data-calendar="Ceynor" data-date='1517-Tarsakh-11' data-date-end='1517-Tarsakh-11' data-img='Inline Example/Event_2.jpg' data-name='Delegation sætter afsted'></span>
 - Orlock virker som om han er influenza inficeret på første lejr på resten
 - Clara helbreder Orlock med lesser restoration 
 - Vi bliver angrebet af humanoider som har gedebukke ben 
@@ -24,13 +24,13 @@
 - Jarell og Clare beslutter at de er mere dæmoniske end fey men i stil med satyrer. De virker unaturligt varme, en indre glød. 
 - vi bryder lejren og fortsætter for at undgå at de kommer tilbage med deres venner 
 - efter flere timers ekstra rejse og overgang af en bro holder vi endeligt hvil igen 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-12' data-date-end='1517-Tarsakh-12' data-img='Inline Example/Event_2.jpg' data-name='2nd dag på delegationen mod Sterling'></span>
+- <span data-category='Social' data-calendar="Ceynor" data-date='1517-Tarsakh-12' data-date-end='1517-Tarsakh-12' data-img='Inline Example/Event_2.jpg' data-name='2nd dag på delegationen mod Sterring'></span>
 - ved enden på anden dagen nærmer vi os Magdova's Palæ
 - Palæet er ca 70-80 meter fra en gavl til den anden 
 - en ældre herrer åbner døren for at anskue hvem vi er 
 - Clara beder Orlock om at anmelde vores ankomst 
 - Vi inkvateres i et par forskellige lokaler 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-13' data-date-end='1517-Tarsakh-13' data-img='Inline Example/Event_2.jpg' data-name='Meeting Lord Magdova'></span>
+- <span data-category='Social' data-calendar="Ceynor" data-date='1517-Tarsakh-13' data-date-end='1517-Tarsakh-13' data-img='Inline Example/Event_2.jpg' data-name='Meeting Lord Magdova'></span>
 - Vi sætter os til morgenmads bordet 
 - Lens herren fortæller at hans søn har set sig kær på datteren af lightner familien og at lens herren for lightner familien er krænket og forlanger en æres dule og Lord Magdova har derfor kaldt på Queensguard ordenen at stå som champion i æresduel, til døden istedet for sin søn. 
 - aftalen går på: sønnen har krænket familiens ære ved ikke blot at opsøge men også berøre lightner datteren. 
@@ -46,6 +46,7 @@
 	- en tjener viser os en hemmelig dør i kammeret og fortæller at lightner kvinden er kommet her i flere uger 
 	- Jarrell genkender damen på billedet i medaljon som Konen til lensherren Lightner Sonja Lightner 
 	- Vi drager over bakkerne mod nord for at konfronterer Kasimer, men han er der ikke og istedet er Dolf Lightner der og han er stærkt inficeret af den lilla plage samt 30-50 men at arms. 
+	- <span data-category='Battle' data-calendar="Ceynor" data-date='1517-Tarsakh-13' data-date-end='1517-Tarsakh-13' data-img='Inline Example/Event_2.jpg' data-name='Battle with Dolph Leitner'></span>
 	- Kampen viser at være alt for svær og Clara hidkalder sin gudindes gunst (divine intervention) og Silvara og Danica's ånder viser sig og trækker ham langt væk for altid sammen dem selv. 
 - Lord Magdova og hans tropper har samtidigt forsvaret palæet fra et større angreb af Lightner's hær 
 - [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] er nu en allieret med Astley Avengers og Waning Moon
@@ -56,7 +57,7 @@
 - Det politiske spil: 
 	- Lightner familien havde besnæret Lord Magdova's søn Kasimer så han stolede på familien Lightner og skulle hjælpe til med at få lokket sin far til at stå i ærens duellen så Dolf Lightner kunne slå ham ihjel, Kasimer overtage lensherret og lade sig styre af Erik Lightner og derved give Eresby en forpost i Welles baroniet. 
 	- Dette ploy blev afværget af Delegationens indgriben i sagen 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-16' data-date-end='1517-Tarsakh-16' data-img='Inline Example/Event_2.jpg' data-name='Clara og delegationen er tilbage i Astley'></span>
+- <span data-category='Social' data-calendar="Ceynor" data-date='1517-Tarsakh-16' data-date-end='1517-Tarsakh-16' data-img='Inline Example/Event_2.jpg' data-name='Clara og delegationen er tilbage i Astley'></span>
 
 
 

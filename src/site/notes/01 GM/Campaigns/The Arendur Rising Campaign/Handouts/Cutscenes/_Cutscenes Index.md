@@ -3,6 +3,7 @@
 ---
 
 # Cutscene index 
+- [[01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscenes\|Cutscenes]]
 - [[01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 1\|Cutscene 1]]
 - [[01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 2 - Blackleaf goblins escape\|Cutscene 2 - Blackleaf goblins escape]]
 - [[01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 3 - A Crystal Dreams in the mist\|Cutscene 3 - A Crystal Dreams in the mist]]

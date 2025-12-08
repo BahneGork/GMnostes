@@ -5,7 +5,7 @@
 
 # Knogle Clanen #2
 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-23' data-date-end='1517-Ches-23' data-img='Inline Example/Event_2.jpg' data-name='Reddet Isilme'>Vi har reddet Isilme fra [[Urza\|Urza]]</span>Vi står i [[Urza\|Urza]] knogle moderens ritual kammer og har reddet [[Isilme\|Isilme]]
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-23' data-date-end='1517-Ches-23' data-img='Inline Example/Event_2.jpg' data-name='Reddet Isilme'>Vi har reddet Isilme fra [[Urza\|Urza]]</span> Vi står i [[Urza\|Urza]] knogle moderens ritual kammer og har reddet [[Isilme\|Isilme]]
 - Bjørn har fundet vej ind i kongens hal, Høvdingen har opdaget ham og bjørn præsentere sig 
 - Winston åbner døren til den klamme korridor og bliver overvældet af ondskab og råd 
 - Nibar prøver også at begive sig ind i korridoren men bliver ogå overvældet og viger bort 
@@ -45,7 +45,8 @@
 	- Bjørn står ikke højt i de ældste's agtelse da han har kæmpet for civilizationen, disse typer nævner de som forrædere mod nordlandet 
 	- Winston spørger ind til Urza's gerninger og hvad de syns om det 
 	- Vi får lov at få nogle rationer, slæder og pels til at holde varmen på rejse i vinterlandet 
-- 26th ches sætter vi ud igen for at finde den hule Isilme fandt for enden af blodafløbet 
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-26' data-date-end='1517-Ches-26' data-img='Inline Example/Event_2.jpg' data-name='Ekspedition for at finde hulen for enden af Urzas blodafløb'>EVENT DESCR</span>
+- Vi sætter ud igen for at finde den hule Isilme fandt for enden af blodafløbet 
 - Vargoth bruger locate object på en ædelsten der var på Urza's stav, det fører os til healer huset hvor den er lagt ned i en kiste 
 - Vi lover Brunhild at levere ritual bogen til hende 
 - Vi læser dog lige bogen igennem først alle sammen ved højtlæsning 
