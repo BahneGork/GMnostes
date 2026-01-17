@@ -1,0 +1,154 @@
+---
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon/","tags":["erukana","erukanasessionlog","inline-events"]}
+---
+
+
+# Magic hut - Workshop
+
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-12' data-date-end='1517-Tarsakh-12' data-img='Inline Example/Event_2.jpg' data-name='Exploring Vardestjernen magic hut-2'></span>
+- Evelyn lirker energi kernen fri af den døde vogters krop, en stor diamant 
+- Logan hører en stemme sydfra inde i sit hovede mumle noget uforståeligt 
+- Vi går til den sydlige dør 
+	- inde bag er der et lokale med en miniature ambolt med et tandhjul ingraveret i væggen bagved 
+		- ![Pasted image 20260117160828.png](/img/user/10%20Attachments/Pasted%20image%2020260117160828.png)
+	- lilla årer i ambolten animerer sig og kravler hen imod Logan 
+	- Logan går ud og lukker døren, men den lilla ting kravler igennem dobbelt døren og angriber os 
+	- Da vi har besejret den går vi igen ind i rummet som er et shrine til gond 
+	- [[Evelyn Adair\|Evelyn Adair]] og [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]] tager hver en lille clockwork ting 
+- i et andet lokale ser det ud til at man har haft en fire elemental og en portal til fire plane 
+- i et andet lokale ser det ud til at man har haft noget vandtryk 
+- der viser sig at hvert kammer i "hjørnerne" af det ottekantet område er hvert sit element: ild, vand, jord og luft 
+- hvert kammer har haft en portal til dets elements plan 
+- nord kammer: gulvet og loftet er metal plader som er bøjet og bukket
+	- ved bagvæggen ligger der et skelet 
+	- der er ingen værdi i rummet ud over en spellbook og en dagbog 
+	- dagbog: den lilla plage har inficeret frost hallerne i 1420 (vi er i 1517)
+- Vi afsøger det store centrale værksted og finder en masse småting
+- Vi går ind i det sidste "midter" kammer mod øst 
+	- her er der endnu et kammer på størrelse med værkstedet hvor de har haft messe hal 
+	- her er der flere døre som vi kigger i, uden noget videre interessant 
+	- Der er en ekstra fancy dør som vi tager til sidst 
+		- der er et ottekantet rum lige så stort som messe hallen og værkstedet 
+		- langs væggene står der bogreoler, nogle er væltet 
+		- Logn looter 4 lamper med continual flame 
+		- der er også en dør i højre side af rummet
+		- vi finder en krystal kugle der flimrer
+			- da viktor tager fat i kuglen fremviser den en film (illusion) af værkstedet i fin tilstand, med metal vogteren. 
+			- metal vogteren har et energi skjold oppe og bliver ramt af projektiler og tvunget bagud 
+			- der er lyd, forskellige stemmer om at noget er galt, noget fejler og en masse eksplosioner
+			- den er inde, ved Azuth den er overalt 
+			- aktiver omega skjoldet 
+			- den har vendt sig imod os 
+			- "found you" 
+		- et blækhus
+		- 3 potions of healing 
+		- et landkort over området vi er i. Det opdaterer sig med de nye ting der er sket i området. 
+		- vi finder en hemmelig dør bag en reol 
+			- i et rum bag denne dør finder vi 
+			- ![Pasted image 20260117160906.png|300](/img/user/10%20Attachments/Pasted%20image%2020260117160906.png)
+			- Logan aktiverer en glyph of warding med disintigrate, winston aktiverer shared spirit og tager halvdelen af skaden 
+			- Cubicumlum en harmonikagtigt dims (teleskop) med skind omkring og på skindet er der himmel legmer og runer 
+			- potion - brun 
+			- star amulet (version2)
+			- potion of heroism 
+			- elixir 5 stk - røde 
+			- blå safir 
+			- 8 lb mithril wire 
+			- 4 vials - hvirvel vind, malmstrøm, små sten, "lavalampe" 
+			- pung: mønter 
+			- palm sized crystal prism  (magisk)
+			- forseglet flask - lysende lilla mote 
+			- silke tråd 5 små ruller (sytråd) varmt
+			- 3 stk magisk sølv klumper der er lidt gennemsigtige 
+			- 4 stk bark af specielt træsort 
+			- 4 fjer sort hvid skiftende- ukendt art 
+			- cloak - stjerne himmel og skygge 
+			- Bog med lyn - nibar nærmer sig og logan og winston fryser i tid og står stille mens bogen hæver sig og skyder ud mod nibar og så i viktor og så i evelyn og de sitre af lyn 
+				- billeder af de 3's barndomme og de 3 "casters" er nu smeltet sammen åndeligt og forbundet med bogen, dog ikke attunet. Det er også en spellbook som er fælles for dem alle 3. 
+				- bogen er væk og viktor, evelyn og nibar ligger på gulvet 
+- vi holder long rest ude i messe hallen 
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-13' data-date-end='1517-Tarsakh-13' data-img='Inline Example/Event_2.jpg' data-name='resten af bunkeren i vardestjernen'></span>
+- Den sidste dør i biblioteket 
+	- Der er en [[No Graph/5e Reference/spells/Teleportation Circle\|Teleportation Circle]] i rummet 
+- Den sidste rum er deres ingrediens rum 
+	- Logan finder nogle gift ingredienser 
+- Vi går ned af den lange lange gang, finder 2 lig. 
+- vi åbner en enkelt dør mod nord, det er et sove værelse
+	- Det hele står meget præcist og ordenligt 
+	- reol: 
+	- skab: 
+	- bord: en nøgle til kisten, urværk af glas og metal, 
+	- kiste: 3 slebne krystaller, 6 onyx ædelstene, forseglet glasrør - pulveriseret diamant. 
+	- seng: 
+	- der hænger en krystal kugle ned fra loftet med continual flame i med en skæppe. 
+	- en plade på væggen, indlagt sølv og obsidian, med et ingraveret kort over himmel legmer 
+	- bogmærke af elfenben i en gammel bog
+	- firkantet krystal ramme med et livagtigt billede af en lille bjælke hytte i en skov, billedet er en illusion 
+	- 5 scrolls i nat bordet 
+- rummet mod syd
+	- møbleret sove kammer uden noget 
+- 2 døre mere længere nede i gangen 
+	- dør 1: endnu et sove kammer, med inventar der indikere at der boede en gnome 
+		- en masse tinker stuff
+		- bronze lanterne med continual flame 
+		- diamant støv
+		- sølv og platin mønter
+		- en måne sten 
+		- en lille lup kikkert 
+		- tynd hammeret guld sheet 
+		- tinkers tools 
+		- clockwork diagrams 
+		- 4 messinge rør, forseglet med gons symbol, længden passer til scrolls
+		- en flaske olie, magisk 
+		- 2 diagrammer, magiske 
+		- en anden type magisk olie 
+		- 3 stk røgelse magisk 
+		- 1 sæt gadget til støvler 
+	- dør 2: 
+		- et timeglas med continual flame 
+		- poleret messinge sokkel med en illusion af en fancy kvinde (ligesom et hologram i starwars)
+		- et miniature platinium sværd
+		- rubin støv 
+		- da evelyn griber messinge sokklen ændrer illusionen sig, kvinden kigger på evelyn og siger en masse ord
+			- der er en hemmelig låge i bunden af soklen 
+			- der finder evelyn en safir som hun knuser med sin støvle 
+			- vi "flyver" rundt i nordlandet op mod nogle bjergtinder hvor der ikke er sne 
+			- vi zoomer ind og ser en fæstning bygget ind i klippesiden
+			- vi flyver igennem hallerne og ned i en fange kælder, hen til en dør og ind igennem hvor der sidder en på gulvet som kigger op på os med øjne der lyser blåt. 
+		- En bog på reolen bliver pludseligt synlig, en journal der er magisk beskyttet 
+		- et øje plopper frem i luften over arbejdsbordet og bliver til en rund krop med øjne på stilke med lilla blodårer
+			- en mini beholder 
+		- en grotte var for enden af gangen, her er et bad. 
+			- glyphs med greater restoration 
+			- glyph med [[No Graph/5e Reference/spells/Raise Dead\|Raise Dead]]
+			- stor gem i loftet over badet med dispel magic
+- Vi går til portal kammeret for at aktivere en teleport til "næste skridt" i vores quest på at finde flame sharden 
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-13' data-date-end='1517-Tarsakh-13' data-img='Inline Example/Event_2.jpg' data-name='Ankomst til havnebyen Drakkan'></span>
+- Vi står i et kammer med en anden [[No Graph/5e Reference/spells/Teleportation Circle\|Teleportation Circle]]
+- Vi er i Port Drakkan
+- Vi finder "Den druknede Jarl" tavern 
+- indehaveren er en stor behåret mand med unibrow 
+- der er 3 barmaids
+	- en mangler sit venstre ben fra knæet
+- de 6 sølv stykker og spørg efter kaelen og et skib fra østen af Yulan 
+- vi booker 5 værelser på den druknede jarl 
+- en  kyklop kommer ind på kroen og går hen til en gruppe folk som ser ud til ikke at være vant til det kolde miljø 
+- byen har 1 tempel, til Auril 
+- Logan spiller med folk i kroen 
+	- der er et skib der forlader om en uges tid: 
+	- havfruens løfte: sætter ud mod wolfenburg 
+	- den røde skæbne: sætter ud solstice, søger muskler til en opgave på vejen - så måske gratis passage 
+	- månesang: yulan, købmands skib. sætter ud mod "ukendt farvand som lykken bringer dem"
+	- Skib der flyver: har ligget der i 10-15 år? ingen har gjort krav på det.. sky kaptajnen. Spiret?  
+- Nibar hiver en krystal kugle frem der viser en 3d illusion af et slags verdens kort hvorpå der er rifter
+- Vi begiver os hen til de 6 sølvstykker og udspørger [[02 Player/Erukana (Nissen)/Kaelen\|Kaelen]] om vores visions landmærker og fæstningens våbenskjold 
+	- ved [[02 Player/Erukana (Nissen)/Kaelen\|Kaelen]]'s side sidder [[blackwing\|blackwing]] og en sorthudet elver
+	- Nibar viser illusioner af landmærker og fæstningen 
+
+
+NEXT: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver op til det. Sørger for det er sikkert og så henter vi Kaelen og hans crew op på skibet og finder ud af hvad der skal til for at det er flyveværdigt 
+
+
+[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen\|<< Previous Session 39 ]] ----[[02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon\|TOP]]----  [[ 41 - Erukana - Nissen \|Next Session 41  >>]] 
+
+[[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]
