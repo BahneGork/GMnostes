@@ -145,6 +145,7 @@
 	- ved [[02 Player/Erukana (Nissen)/Kaelen\|Kaelen]]'s side sidder [[blackwing\|blackwing]] og en sorthudet elver
 	- Nibar viser illusioner af landmærker og fæstningen 
 
+Final loot list fra Vardestjerne bunkeren: https://docs.google.com/spreadsheets/d/11fwFim3kMTIq4ZLc8EBjgfaMmKFXuhLpPEerREV4AAc/edit?gid=0#gid=0
 
 NEXT: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver op til det. Sørger for det er sikkert og så henter vi Kaelen og hans crew op på skibet og finder ud af hvad der skal til for at det er flyveværdigt 
 

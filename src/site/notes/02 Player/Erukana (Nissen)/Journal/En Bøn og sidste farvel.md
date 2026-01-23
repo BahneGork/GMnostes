@@ -6,7 +6,9 @@
 
 [[House Leitner\|Leitner]] Bagholdet udspringes to steder. Et på duel pladsen hvor Clarabel, Mester Flick, Hans og Merita finder dem selv under angreb og på selve herregården hvor Mester Helmsveil er blevet tilbage for at oversætte et brev fra Leitner til Kasimir.  
   
-Kampen på duelpladsen er intens og hård. Leitners søn Dolph, en allerede kompetent kriger, er blevet forstærket af Den Lille Plage og viser sig at være for stor en mundfuld for Clarabel og hendes hold. Hun kaster sine bønner til Mielikke om assistance i denne nødens stund og bliver overasket over at se, at ikke kun Mielikki men også Paladine svare hendes bønner. Foran sig ser hun et skinnende stærkt lys tage form i to skikkelse; Silvara Dawnspire og hendes søster Danica. Silvara stråler med Paladines mod og lys, hvor Danica lyser for Mielikkis kærlighed og styrke. Sammen griber de fat i Dolphs korrumperet form og trækker ham væk til intetheden. De sidste Clarabel ser, er begge søster der kigger tilbage på hende med et sidste farvel.  
+Kampen på duelpladsen er intens og hård. Leitners søn Dolph, en allerede kompetent kriger, er blevet forstærket af Den Lille Plage og viser sig at være for stor en mundfuld for Clarabel og hendes hold. 
+
+Clarabel kaster sine bønner til Mielikke om assistance i denne nødens stund *(Divine Intervention)* og bliver overasket over at se, at ikke kun Mielikki men også Paladine svarer hendes bøn. Foran sig ser hun et skinnende stærkt lys tage form i to skikkelse; [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] og hendes søster [[Danica Dawnspire\|Danica Dawnspire]]. Silvara stråler med Paladines mod og lys, hvor Danica lyser for Mielikkis kærlighed og styrke. Sammen griber de fat i Dolphs korrumperet form og trækker ham væk til intetheden. De sidste Clarabel ser, er begge søster der kigger tilbage på hende med et sidste farvel.  
   
 Da Dolph forsvinder, mister Leitner fodfolket deres leder og deres moral forsvinder som dug for solen. Kampen er vundet.  
   
