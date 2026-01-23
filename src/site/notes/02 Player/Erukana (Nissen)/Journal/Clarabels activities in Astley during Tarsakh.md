@@ -5,7 +5,7 @@
 Mens Winston, Vargoth, Bjørn & Logan undersøger Varehus problemet og drager ind i portalen som ingen vidste ville føre dem til Nordheim.
 
 ## Danica's sending 
-<span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-6' data-date-end='1517-Tarsakh-6' data-img='Inline Example/Event_2.jpg' data-name='Danicas sending to Clara'>”Slaget ved Pembroke er tabt. Eresby er forstærket fra Mowbray. Kun elementer af Rosen holder ud men falder tilbage. Ukendt om Astleys Borgmester er informeret.”</span>
+<span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-6' data-date-end='1517-Tarsakh-6' data-img='Inline Example/Event_2.jpg' data-name='Danicas sending to Clara'>*”Slaget ved Pembroke er tabt. Eresby er forstærket fra Mowbray. Kun elementer af Rosen holder ud men falder tilbage. Ukendt om Astleys Borgmester er informeret.”*</span>
 
 ## Clara's activities after the sending 
 - **d. 6 Tarsakh** Samme dag, vil Clara godt sætte "netværket" igang med at finde ud af hvilke personer/factions der er imod eller ikke stoler på ledelsen i Astley (borgmester og lign). 
