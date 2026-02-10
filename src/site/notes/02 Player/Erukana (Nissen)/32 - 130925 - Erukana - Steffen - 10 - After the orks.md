@@ -25,7 +25,7 @@
 		- 3 guld 
 		- 4 daggers 
 		- ting som de har i hænderne bliver kolde 
-		- Great axe med blåt stål [[Icefang\|Icefang]]
+		- Great axe med blåt stål [[02 Player/Erukana (Nissen)/People/Icefang\|Icefang]]
 		- Clan symbol: en knækket knogle med blå maling omkring som en slags "frost knogle" #settinglore 
 		- en lille flaske med grøn væske, muligvis poison 3 doser (9 ammunition)
 	- Evelyn helbreder bjørnen fra at være forgiftet

@@ -8,10 +8,10 @@
 # Downtime between Session 19 & 20: Session 19,5
 
 - Gruppen overtog [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s ejendom og forretning.
-- Gruppen har døbt sig selv Astley Avengers i deres debrief rapport til [[vagtkaptajn Samuel\|vagtkaptajn Samuel]]
-- [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] er datter af [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] som ikke tog det særlig godt at vi fandt hans datter invovleret med [[Opal kulten\|Opal kulten]] 
+- Gruppen har døbt sig selv Astley Avengers i deres debrief rapport til [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]]
+- [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] er datter af [[Edmund af Vitano\|Edmund af Vitano]] som ikke tog det særlig godt at vi fandt hans datter invovleret med [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]] 
 - [[Assana Lemiuex\|Assana Lemiuex]] er forvalter af [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]] som var [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s forretning som vi nu har overtaget.
-> [!info]+ Debriefing rapport til [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] 
+> [!info]+ Debriefing rapport til [[Edmund af Vitano\|Edmund af Vitano]] 
  @Winston @Nibar
  >
  >Winston og Nibar gør deres entre hos Sir Edmund, der modtager dem i hans arbejdsværelse. Da I træder ind, træder Sir Edmund hen imod jer med en udstrakt hånd i velkomst. Han fornemmer dog hurtigt på jer at det ikke er et jovialt gensyn, men et af den mere alvorlige type. Bag ham observerer I at hans arbejdsbord er fyldt med skriftruller, hvad der kunne ligne kort der er spredt ud og en masse bøger, mange af dem åbne. Sir Edmund lader til at være i gang med en undersøgelse af en slags og har allerede taget mange noter. I er dog for langt væk til at kunne se nærmere detaljer.

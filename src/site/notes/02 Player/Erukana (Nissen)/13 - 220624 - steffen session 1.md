@@ -21,18 +21,18 @@ På kort tid finder vi en lille landsby.
 Alt er lidt nordisk/viking agtigt og rustikt. 
 
 # Gæstgiveriet
-Vi får af vide at stedet kaldes [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov\|Vinterskov]] i [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] som ligger i [[Nordheim\|Nordheim]]
+Vi får af vide at stedet kaldes [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov\|Vinterskov]] i [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] som ligger i [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]
 Byen handler i dyr, planter og tømmer og andet fra skoven. 
 nuværende lokal dato: Ukthar måned
 Innkeeper Håkan
-datteren [[skur\|skur]] 
-[[Håkan\|Håkan]] tegner et kort i jord på disken over [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]].
-En druide - [[Seiran\|Seiran]] kom og hjalp med dalen, følger af [[Mielikki\|Mielikki]]
+datteren [[02 Player/Erukana (Nissen)/Locations/skur\|skur]] 
+[[02 Player/Erukana (Nissen)/People/Håkan\|Håkan]] tegner et kort i jord på disken over [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]].
+En druide - [[02 Player/Erukana (Nissen)/People/Seiran\|Seiran]] kom og hjalp med dalen, følger af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 Der kom en blå drage for 10år og forsvandt for 5 år siden, druiden forsvandt da Dragen kom. 
 særligt træ i dalen, "blåt træ" 
 for 1 år siden, slog en masse lyn ned i dalen. 
 nogle tror det var Tempus vrede og håber dragen blev dræbt. 
-der var også besøg af 4 folk fra [[mistport\|mistport]], for et 1 år siden. 
+der var også besøg af 4 folk fra [[02 Player/Erukana (Nissen)/Locations/mistport\|mistport]], for et 1 år siden. 
 de havde et trekantet symbol på flere af deres ting (bahamuts symbol)
 Frostulf og Grima har set dragen
 

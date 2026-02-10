@@ -12,7 +12,7 @@
 **Campaign:** [[02 Player/Erukana (Nissen)/Setting lore/Erukana - Kingdom\|Erukana]] - Changer of Time  
 **Session Created:** [To be filled]  
 **Current Status:** Planning Phase  
-**Primary Location:** [[Astley\|Astley]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+**Primary Location:** [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 
 ---
 
@@ -152,7 +152,7 @@ I am Watcher. I am free."*
 | Local focus (Astley region) | Expanding network vision |
 | Guerrilla tactics | Information warfare + targeted action |
 
-**Strategy:** Complement, don't compete. We feed [[Fafnir\|Fafnir]] intelligence, they provide muscle when needed.
+**Strategy:** Complement, don't compete. We feed [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] intelligence, they provide muscle when needed.
 
 ### vs. Pillar of Truth (Our Institutional Allies)
 
@@ -163,7 +163,7 @@ I am Watcher. I am free."*
 | Slow, careful influence | Rapid intelligence gathering |
 | Institutional legitimacy | Operational flexibility |
 
-**Strategy:** Alliance through [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]. They provide resources and legitimacy, we provide eyes and ears.
+**Strategy:** Alliance through [[Edmund af Vitano\|Edmund af Vitano]]. They provide resources and legitimacy, we provide eyes and ears.
 
 ---
 
@@ -242,9 +242,9 @@ I am Watcher. I am free."*
 
 **Personnel Assets:**
 - **Party Members**: Founding members and close allies
-- **[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]**: Former Queensguard, Pillar of Truth connection
+- **[[Edmund af Vitano\|Edmund af Vitano]]**: Former Queensguard, Pillar of Truth connection
 - **Hidden Bahamut Priests**: Network already meeting in secret in Astley
-- **[[Fafnir\|Fafnir]]'s Network**: Existing resistance infrastructure
+- **[[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]'s Network**: Existing resistance infrastructure
 - **Waning Moon Contacts**: [[Assana Lemiuex\|Assana Lemiuex]] and trade connections
 
 **Financial Assets:**
@@ -435,14 +435,14 @@ I am Watcher. I am free."*
 
 ### Key Allied NPCs
 
-**[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]**
+**[[Edmund af Vitano\|Edmund af Vitano]]**
 - Former Queensguard, now Bahamut priest
 - Pillar of Truth member
 - **Relationship:** Institutional ally, resource provider
 - **Function:** Legitimacy, funding, noble connections
 - **Approach:** Formal alliance between Watchers and Pillar of Truth
 
-**[[Fafnir\|Fafnir]]**
+**[[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]**
 - Resistance leader in Astley
 - Dwarf, former soldier
 - **Relationship:** Allied organization

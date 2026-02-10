@@ -12,7 +12,7 @@
 - Winston og Corwin i bjørneform skubber låget til sakrofaget over til at blokere døren 
 - en helvedes hund er kommet ned og står udenfor døren 
 - Logan sætter nogle spikes og reb op så låget står lidt bedre fast. 
-- Evelyn samler [[stormfang\|stormfang]] op og tager med 
+- Evelyn samler [[02 Player/Erukana (Nissen)/Loot/stormfang\|stormfang]] op og tager med 
 - Så går vi ned under sakrofaget og lukker det bag os. 
 - Vi går længe og kommer udenfor ved en sø udenfor byen
 - Sen eftermiddag
@@ -47,7 +47,7 @@
 	- på hans hovede sidder en tre kant hat (alla dick turpin) med en glaive på ryggen 
 	- ikke påklædt til vejret heroppe nord på
 - manden hedder Viktor Baigorri, "fra tårnet", en kriger på jagt efter tidligere samarbejdere. 
-	- født sydpå i baroniet [[Botreaux\|Botreaux]], detalje "jeg er adel" 
+	- født sydpå i baroniet [[02 Player/Erukana (Nissen)/Locations/Botreaux\|Botreaux]], detalje "jeg er adel" 
 	- trænet til at slås hos byens vagter
 	- var en del af et eventyr party der skulle udforske en grotte, efter en dags tid stødte de på dæmoner og eventyrene paralyserede Viktor og flygtede. 
 	- 

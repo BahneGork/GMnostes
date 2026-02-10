@@ -7,7 +7,7 @@
 Nordheim, deep in the mountains 
 
 # Leadership
-[[Bjørn of Nordheim\|Bjørn of Nordheim]] 
+[[02 Player/Erukana (Nissen)/People/Bjørn of Nordheim\|Bjørn of Nordheim]] 
 
 # History
 Long ago the Bone tribe was known as the Elk tribe, but a great battle decimated the tribe. 

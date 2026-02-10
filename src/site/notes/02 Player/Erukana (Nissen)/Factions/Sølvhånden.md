@@ -26,7 +26,7 @@ Deres vigtigste handel omhandler for det meste klæder, smykker, kunstværker, s
 
 En tæt ring af meget magtfulde købmænd leder organisationen, men deres identitet er indtil nu været hemmelig. Områdelederne er en anden snak og virker som de daglige ledere og diplomater (lobbyister) som har den direkte kontakt til dem på magten.
 
-[[Lord Chandler Virmingham\|Lord Chandler Virmingham]] leder [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] ud fra hans palæ i [[Wolfenburg\|Wolfenburg]]
+[[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]] leder [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] ud fra hans palæ i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
 
 **FJENDER:**
 

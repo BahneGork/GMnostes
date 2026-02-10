@@ -8,7 +8,7 @@
 real date: 30-10-2023
 ingame start date:  
 
-Target destination: [[Astley\|Astley]] 
+Target destination: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] 
 
 Efter et par timer indhenter vi de 2 rose riddere. 
 8 dages rejse 

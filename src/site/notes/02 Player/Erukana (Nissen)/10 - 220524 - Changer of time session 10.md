@@ -11,12 +11,12 @@
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] hjælper til med at samle de faldne soldater sammen. 
 - Vandet er mørkt og ugennemsigtigt, samt svier som svag syre 
 - Soldaterne er tidligere Astley byvagt
-- [[Lucious Vormend\|Lucious Vormend]]'s væbner siger ingenting andet end kampråb
+- [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]]'s væbner siger ingenting andet end kampråb
 - En af soldaterne er "in it for the money" - ingen kvaler.
 - 3 andre tjener banneret fordi det er banneret der er magten i byen 
 - Rose ridder ordenen har beskyttet byen mod kobolder, orker og gobliner. 
 - Vi vælger at undersøge ruinerne for historiske tegn og andet 
-- [[Lucious Vormend\|Lucious Vormend]] efterlader 7 flasker olie og 6 fakler
+- [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]] efterlader 7 flasker olie og 6 fakler
 - Meget gamle ruiner 
 - sydlige tårn Inskription: "BL x x x x x x R"
 - nordlige tårn, har engang haft en kælder. Træ gulvet er rådnet væk. 
@@ -71,7 +71,7 @@
 - Vi bruger papir og kul fra bålet og prøver at lavet et aftryk af teksten 
 - B L x x  K  x x x A R 
 - black  listar, Ishtar, Friar... BLACKSPEAR 
-- [[Sir Seillings mausoleum \|Sir Seillings mausoleum ]]syd på, Winstons drøm 
+- [[Sir Seillings mausoleum 1\|Sir Seillings mausoleum 1]]syd på, Winstons drøm 
 - Korrupteret ubalanceret skov syd på Vargoth's syn 
 - Vi drager syd på i skoven Feywood 
 - da vi forlader sumpen med ruinerne har vi fornemmelsen af at vi forlader en "hinde" og ruinen bag os er væk. 

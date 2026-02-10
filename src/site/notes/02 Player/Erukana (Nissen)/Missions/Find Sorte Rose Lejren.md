@@ -18,17 +18,17 @@ SessionNR:: 6-7
 
 ## Mission Briefing
 Vi har overhørt at en kvinde der matcher [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]]'s beskrivelse er taget til fange af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]. 
-Vi har hørt fra [[Vallis\|Vallis]] i House De'Evers, Lady De'Evers mener [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]  har en lejr i nærheden af Mistville og Astley.
+Vi har hørt fra [[02 Player/Erukana (Nissen)/People/Vallis\|Vallis]] i House De'Evers, Lady De'Evers mener [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]  har en lejr i nærheden af Mistville og Astley.
 ### Objectives
 - Find informationer om [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] i Astley 
 - Find [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]'s Lejr 
 - [x] Find muligheder for at befri kvinden der er taget til fange 
 ## Related Locations
-- [[Astley\|Astley]]
+- [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## NPC's Encountered on Mission
-[[Sammy\|Sammy]]
-[[Fafnir\|Fafnir]]
+[[02 Player/Erukana (Nissen)/People/Sammy\|Sammy]]
+[[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]
 
 
 ## Mission Reward

@@ -13,11 +13,11 @@
 	- Der hvor dens hovede var er der nu en grotte indgang.
 	- Vi fornemmer en usynlig bobbel over krateret. 
 	- Der emmer af ro indefra krateret, Mielikki's ro kan Evelyn fornemme. 
-		- [[Crater shrine of Mielikki\|Crater shrine of Mielikki]] located in [[Sorrow Vale\|Sorrow Vale]]
+		- [[02 Player/Erukana (Nissen)/Locations/Crater shrine of Mielikki\|Crater shrine of Mielikki]] located in [[02 Player/Erukana (Nissen)/Locations/Sorrow Vale\|Sorrow Vale]]
 	- Logan spørger Winston hvilken retning kompasset peger og det er Nord Øst
 	- Winston og Nibar går ind med de nu hjemløse wayfinder folk for at undersøge grotten
 	- Evelyn bliver ude for at planlægge den videre færd Nord Øst 
-	- Logan bliver ud for at prøve og regne ud hvor vi er henne ud fra bjerge, skove og andre landmærker ([[02 Player/Erukana (Nissen)/Journal/Hvad ved Logan om Nordheim\|Hvad ved Logan om Nordheim]]) og kommer frem til at vi er i [[Sorrow Vale\|Sorrow Vale]].
+	- Logan bliver ud for at prøve og regne ud hvor vi er henne ud fra bjerge, skove og andre landmærker ([[02 Player/Erukana (Nissen)/Journal/Hvad ved Logan om Nordheim\|Hvad ved Logan om Nordheim]]) og kommer frem til at vi er i [[02 Player/Erukana (Nissen)/Locations/Sorrow Vale\|Sorrow Vale]].
 	- Wayfinder's efterladte søge sydpå mod den forladte landsby wolfguard 
 	- Vi sætter afsted i retning af kompas nålen, nord øst
 	- Vi holder lejr i [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]'s vogn 

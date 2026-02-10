@@ -20,9 +20,9 @@
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 
 # States
-- [[Silverstream\|Silverstream]]
+- [[02 Player/Erukana (Nissen)/People/Silverstream\|Silverstream]]
 
-- [[Slatestone\|Slatestone]]
+- [[02 Player/Erukana (Nissen)/Locations/Slatestone\|Slatestone]]
 
-- [[Ellin Thalor\|Ellin Thalor]]
+- [[02 Player/Erukana (Nissen)/People/Ellin Thalor\|Ellin Thalor]]
 

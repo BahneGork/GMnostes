@@ -45,7 +45,7 @@ Jens, Flemming, Bahne, Steffen
 	- Der ligger tre kløver på vandets overfladen, der er sten placeret rundt med runer graveret i, som Vargoth kan fornemme summer med en svag lyd. 
 	- Der er en tunnel i en anden ende af grotten som fører videre væk 
 	- Vargoth kan mærke både sin jord element forbindelse og magisk forbindelse 
-	- Runerne og symbolerne er forbundet med guden [[Eldrak\|Eldrak]] - husker Vargoth fra sin præste oplæring 
+	- Runerne og symbolerne er forbundet med guden [[02 Player/Erukana (Nissen)/People/Eldrak\|Eldrak]] - husker Vargoth fra sin præste oplæring 
 	- Shrinet er i dvale tilstand og Vargoth kan muligvis aktivere det igen 
 	- En hellig druide lund 
 

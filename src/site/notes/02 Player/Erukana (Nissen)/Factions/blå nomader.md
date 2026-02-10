@@ -11,7 +11,7 @@ Omrejsende merchants, årelange rejser.
 
 20th flamerule møder vi dem overfaldet af hill giants 
 
-Zazmir stammen, nomader. Fra det forbudte øst - [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[Jullan\|Jullan]], [[sistana\|sistana]], [[Anaksa\|Anaksa]].
+Zazmir stammen, nomader. Fra det forbudte øst - [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]], [[02 Player/Erukana (Nissen)/Locations/sistana\|sistana]], [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]].
 
 handler primært med 
 - silke 
@@ -36,9 +36,9 @@ velsigner os med navnet Azul
 Relateret:
 [[300923 - Changer of time session 3\|300923 - Changer of time session 3]]
 [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
-[[Zazmir stamme\|Zazmir stamme]]
-[[Zazmir scimitars\|Zazmir scimitars]]
-[[Azul\|Azul]] - en gud?
+[[02 Player/Erukana (Nissen)/Factions/Zazmir stamme\|Zazmir stamme]]
+[[02 Player/Erukana (Nissen)/Loot/Zazmir scimitars\|Zazmir scimitars]]
+[[02 Player/Erukana (Nissen)/People/Azul\|Azul]] - en gud?
 
 </div></div>
 
@@ -59,9 +59,9 @@ Amit's Søster [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]
 
 [[300923 - Changer of time session 3\|300923 - Changer of time session 3]]
 [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]] 
-[[Zazmir stamme\|Zazmir stamme]]
-[[Zazmir scimitars\|Zazmir scimitars]]
-[[Azul\|Azul]] - en gud?
+[[02 Player/Erukana (Nissen)/Factions/Zazmir stamme\|Zazmir stamme]]
+[[02 Player/Erukana (Nissen)/Loot/Zazmir scimitars\|Zazmir scimitars]]
+[[02 Player/Erukana (Nissen)/People/Azul\|Azul]] - en gud?
 
 </div></div>
 

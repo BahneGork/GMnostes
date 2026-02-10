@@ -6,13 +6,13 @@
 #erukanamission  #erukana #missiontype-retrieval
 
 # The Silver Statue Heirloom
-**Objective::** [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]], en ca. tyve centimeter høj statue af sølv, en bjørn med en smaragd i panden og gevirer. Indgraveret med et familiesymbol, der viser at statuen har tilhørt [[Brakeshield familien\|Brakeshield familien]]
+**Objective::** [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]], en ca. tyve centimeter høj statue af sølv, en bjørn med en smaragd i panden og gevirer. Indgraveret med et familiesymbol, der viser at statuen har tilhørt [[02 Player/Erukana (Nissen)/Factions/Brakeshield familien\|Brakeshield familien]]
 
-Gruppen fandt via ledetråde frem til at Statuen var gået tabt under en flytning mellem [[Pembroke\|Pembroke]] og [[Wolfenburg\|Wolfenburg]], hvor også *en af familiens døtre var omkommet under et angreb.*
+Gruppen fandt via ledetråde frem til at Statuen var gået tabt under en flytning mellem [[02 Player/Erukana (Nissen)/Locations/Pembroke\|Pembroke]] og [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]], hvor også *en af familiens døtre var omkommet under et angreb.*
 
 Sporene pegede mod, at statuen var blevet købt på markedet i [[Segrave\|Segrave]] af en kunstsamler som har sin sommerresidens i den lille idylliske landsby [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] som ligger tæt på grænsen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] mod [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]].
 
-I landsbyen mødte de kunstsamleren, som viste sig at være en ældre gnome og tidligere købmand, der nu har trukket sig tilbage og lever af hans formue. Gnomen hedder [[Archibald Oddsmoke\|Archibald Oddsmoke]] og var rigt klædt i røde og grønne klæder. 
+I landsbyen mødte de kunstsamleren, som viste sig at være en ældre gnome og tidligere købmand, der nu har trukket sig tilbage og lever af hans formue. Gnomen hedder [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] og var rigt klædt i røde og grønne klæder. 
 
 Han indvilligede knebent i at sælge statuen til jer, for den pose guld som I havde fået af [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon]] . Hans eneste krav var at han fik et par dage til at undersøge statuen.
  
@@ -27,11 +27,11 @@ Reward:: 200gp
 - buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] #erukanasecretsnclues 
 
 ## People Clues
-- art collector, gnome, [[Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]  #erukanasecretsnclues 
+- art collector, gnome, [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]  #erukanasecretsnclues 
 
 
 ## Objectives & Goals
 - [x] Statue located ✅ 2023-07-04
 - [x] Statue reclaimed ✅ 2023-07-04
-	- [x] pay [[Archibald Oddsmoke\|Archibald Oddsmoke]] 
+	- [x] pay [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] 
 - [x] Statue handed off to [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] ✅ 2023-07-10

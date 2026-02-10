@@ -23,8 +23,8 @@
 - vi fortsætter med samtaler 
 - på et senere tidspunkt høre Clara ulve hyle i det fjerne og alting begynder at irritere hende. Hun forlader gruppen og løber ud i natten og forvandler sig og jæger.
 - Winston vækker Clara på hendes værelse, med en finger negl i munden. 
-- Lord [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] opsøger os på kroen 
-- Lord [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] oplyser han kan udføre ridder ceremonien/ritualet 
+- Lord [[Edmund af Vitano\|Edmund af Vitano]] opsøger os på kroen 
+- Lord [[Edmund af Vitano\|Edmund af Vitano]] oplyser han kan udføre ridder ceremonien/ritualet 
 
 ## Bjørn Leder Efter Fritte Og Lytter Efter Nyheder
 - krigen mellem de 2 baronier er blusset op igen. 
@@ -59,8 +59,8 @@
 			- afholder "fester", de fleste gange i varehus i nærheden af borgmesterens hus 
 
 ## Fafnir Møde
-- [[Sammy\|Sammy]]  møder os i gyden, hun taler for [[Fafnir\|Fafnir]]
-	- [[Fafnir\|Fafnir]]'s gruppe er allerede igang.
+- [[02 Player/Erukana (Nissen)/People/Sammy\|Sammy]]  møder os i gyden, hun taler for [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]
+	- [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]'s gruppe er allerede igang.
 	- De vil gerne hjælpe os med at starte en organisation
 	- Front: eventyrer meeting hall 
 		- Scout locations og vælg: Sami 
@@ -77,9 +77,9 @@
 - Vi tager tilbage til kroen... 
 
 ## Planen Til Næste Gang
-- udspørge veninde [[Elvira\|Elvira]] om Miri 
-- udspørge [[Krugge\|Krugge]] om Miri 
-- Melde tilbage til [[vagtkaptajn Samuel\|vagtkaptajn Samuel]] ; vestporten 
+- udspørge veninde [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] om Miri 
+- udspørge [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] om Miri 
+- Melde tilbage til [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]] ; vestporten 
 
 # GM Recap
 Recap – Session 10 del 1 – Mausoleumet.
@@ -94,7 +94,7 @@ b)     Miri var blevet myrdet og slæbet gennemskoven til hvor hun blev fun
 c)     Spor på jorden viser at store poter med kløer havde revet jorden om omkring hende.
 d)    Miri var på vej hjem fra Astley efter af have afleveret og solgt urter.
 e)     Umiddelbart har hverken faderen eller Miri nogle fjender.
-f)      Miri var forlovet til en bagersvend ved navn [[Kruger\|Kruger]] (ikke opsøgt endnu) og var veninde med [[Elvira\|Elvira]] (ikke opsøgt endnu).
+f)      Miri var forlovet til en bagersvend ved navn [[Kruger\|Kruger]] (ikke opsøgt endnu) og var veninde med [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] (ikke opsøgt endnu).
 g)     En af urtemandens kunder var borgmester hustanden som har en aftale om ugelige leveringer af tørret og knuste urter som kan bruges som en slags afrodisiakum. 
 	I store doser kan urterne være dødelige, eller fremprovokere aggressivitet.
 h)     Miris lig ligger i Bahamuts templets ligkapel som lige nu er under beskyttelse af præster af Takhisis.
@@ -102,7 +102,7 @@ i)       Gruppen har aftalt med [[Vagtkaptajn Samuels\|Vagtkaptajn Samuel
 
 **2 – Mødet med Sammy**
 
-Gruppen har mødtes med [[Sammy\|Sammy]] fra [[Fafnir\|Fafnir]]'s gruppe. Sammy vil hjælpe dem med at finde et passende sted til at opsætte en ”front”,
+Gruppen har mødtes med [[02 Player/Erukana (Nissen)/People/Sammy\|Sammy]] fra [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]'s gruppe. Sammy vil hjælpe dem med at finde et passende sted til at opsætte en ”front”,
 som kan bruges til at være et samlings sted for en gruppe der har til hensigt at fremskaffe viden om Blodrosen, at sætte dem i miskredit og gøre deres tilstedeværelse svagere.
 
  **3 – En underlige gruppe**
@@ -112,13 +112,13 @@ Med den forskel at de alle fire lod til at være wizards, men forskellige typer?
 
 **4 – Ridderceremonien.**
 
-[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Edmund af Vitano]] har tilbudt at afholde ridderceremonien, så længe at Winston returnere med opgaven løst fra [[Sir Seillings mausoleum\|Sir Seillings mausoleum]]. Han insisterede på at Winston skulle sørge for at finde en hvid måneblomst og bringe den til graven.
+[[Edmund af Vitano\|Lord Edmund af Vitano]] har tilbudt at afholde ridderceremonien, så længe at Winston returnere med opgaven løst fra [[Sir Seillings mausoleum 1\|Sir Seillings mausoleum 1]]. Han insisterede på at Winston skulle sørge for at finde en hvid måneblomst og bringe den til graven.
 
 En hvid måneblomst vokser kun få steder, og altid når der er behov for den. Den blomster om natten og man vil finde den et sted der har betydning for det som den skal bruges til.
 
 **5 – Necromancer bogen**
 
-[[Nibar\|Nibar]] følte en trang til at besøge ligkapellet, og da han ankom der, var hans trang vokset og han mærkede, at han kunne, ved at bruge sin magi, kunne aktivere noget. 
+[[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] følte en trang til at besøge ligkapellet, og da han ankom der, var hans trang vokset og han mærkede, at han kunne, ved at bruge sin magi, kunne aktivere noget. 
 Ved at ofre hans stærkeste magi, skabte han et hul mellem planerne, en direkte bro til det Negative plan, skygge hjemmet. 
 Herfra strømmede udøde frem fra og angreb kapellet. Være blev det da mørkets rytter dukkede op fra portalen. Med nød og i sidste øjeblik lykkedes det gruppen at lukke portalen og sende rytteren tilbage.  
 Hans sidste ord inden han forsvandt var rettet med Nibar: **”Jeg kommer tilbage efter bogen og din sjæl.”**

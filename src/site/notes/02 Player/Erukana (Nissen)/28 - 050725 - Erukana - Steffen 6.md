@@ -21,14 +21,14 @@
 - Hele forsamlingen bliver opildnet og gruppen bliver velsignet med +2 attribute points som må lægges i STR og/eller CON. 
 - Winston opsøger manden i den grønne kåbe
 - Logan byder kvinden op til dans
-- begge de 2 fortæller at de leder efter [[skyggefolket\|skyggefolket]] fordi de er involveret i et mørke der breder sig 
+- begge de 2 fortæller at de leder efter [[02 Player/Erukana (Nissen)/Factions/skyggefolket\|skyggefolket]] fordi de er involveret i et mørke der breder sig 
 - Vi har alle 4 en lang lang snak om hvad vi har oplevet og hvad vi laver og hvor vi er på vej hen 
 - Nibar spørger en del ind til Winstons ridderstatus og hvordan man bliver det i forhold til at Adare kunne blive ridder nu hvor hun stadig er squire 
 - Manden i den grønne kåbe hedder Corvin
 - Adare taler med Svala om hun kender IceEyes 
 
 ## 30th Chess
-- Vi spiser morgenmad og venter på Brunhilda kommer forbi med en bog fra en rejsende som var forbi stammen for nogle år siden, i denne bog tror hun at der står noget omkring [[skyggefolket\|skyggefolket]] 
+- Vi spiser morgenmad og venter på Brunhilda kommer forbi med en bog fra en rejsende som var forbi stammen for nogle år siden, i denne bog tror hun at der står noget omkring [[02 Player/Erukana (Nissen)/Factions/skyggefolket\|skyggefolket]] 
 - Nibar læser bogen, et milisekund er hans øjne sorte, bogen indeholder ikke noget videre interressant
 - Logan advarer Adare om Nibar's øjne, Hun chaneller divine magi mod bogen, et skygge væsen kommer frem og angriber os. Vi nakker den og læser bogen igen fordi vi fandt ud af at det muligvis var en forbandelse der gjorde at folk ikke ville huske hvad der stod i bogen.
 - en laaaaaaaaaaaaaaaaaaaaaaaaaaaang fortælling om en forbandelse, en pagt og en pris 
@@ -54,7 +54,7 @@
 - Om eftermiddagen aftager Stormen endelig og vi bryder camp for at gå videre efter kompasset
 - Vi nærmer os det som ligner en palisade, mindre end en landsby 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-4' data-date-end='1517-Tarsakh-4' data-img='Inline Example/Event_2.jpg' data-name='Windbreaker station'>Vi ankommer til Windbreaker waystation, et trading fort, ejet af Garret </span>
-- Vi introduceres til [[Mira Wolfsbane\|Mira Wolfsbane]] som er deres jæger
+- Vi introduceres til [[02 Player/Erukana (Nissen)/People/Mira Wolfsbane\|Mira Wolfsbane]] som er deres jæger
 - vi finder en mand i stalden som ligner beskrivelsen på grimjaw, men han kender ikke navnet og kalder sig jawlog
 - Adair får låst Grimjaws hjerne op 
 - vi får afvide at iceeyes er kommet forbi med en expedition for nogle dage siden

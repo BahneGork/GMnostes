@@ -16,7 +16,7 @@
 - ![Pasted image 20250715075256.png|200](/img/user/10%20Attachments/Pasted%20image%2020250715075256.png)<br> [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]]
 - ![Pasted image 20250715075410.png|200](/img/user/10%20Attachments/Pasted%20image%2020250715075410.png)<br>Evelyn Adair
 - ![Pasted image 20250715075438.png|200](/img/user/10%20Attachments/Pasted%20image%2020250715075438.png)<br>Corwin Graymoss
-- ![Pasted image 20250715084716.png|200](/img/user/10%20Attachments/Pasted%20image%2020250715084716.png)<br>[[Isilme\|Isilme]] R.I.P
+- ![Pasted image 20250715084716.png|200](/img/user/10%20Attachments/Pasted%20image%2020250715084716.png)<br>[[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] R.I.P
 - ![Pasted image 20250715085110.png|200](/img/user/10%20Attachments/Pasted%20image%2020250715085110.png)<br>Fritte  M.I.A
 - 
 

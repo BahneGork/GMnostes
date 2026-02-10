@@ -29,9 +29,9 @@
 	- Sira
 	- Tolla, 3 tåede 
 	- nukka the bear 
-- Frost kæmpens ([[Hjarnak Icebone\|Hjarnak Icebone]]) udstyr:
+- Frost kæmpens ([[02 Player/Erukana (Nissen)/People/Hjarnak Icebone\|Hjarnak Icebone]]) udstyr:
 	- frost giant plate armor med runer 
-	- forbandet great axe "[[stormfang\|stormfang]]"
+	- forbandet great axe "[[02 Player/Erukana (Nissen)/Loot/stormfang\|stormfang]]"
 	- en hide cloak
 	- en halskæde af store tænder
 	- symbol: en rund skive med en stor kæmpe der slås med en sol 

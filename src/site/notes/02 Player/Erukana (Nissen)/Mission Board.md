@@ -19,6 +19,7 @@
 # Completed Missions
 | File                                                                                                                                          | faction            | Main-Objective       | reward                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | -------------------------------------------- |
+| [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|The Silver statue heirloom]]                                                 | Vaelon Dunmere     | \-                   | 200gp                                        |
 | [[02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion\|Arcana Tower Explosion]]                                                     | \-                 | \-                   | Kendskab til de vilde elvere (race unlocked) |
 | [[02 Player/Erukana (Nissen)/Missions/Corruption of Feywood\|Corruption of Feywood]]                                                       | Mistville Marshals | \-                   | Earth Elemental Stone                        |
 | [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Feywood Beast Bounty]]                                                         | Astley             | \-                   | 500gp                                        |

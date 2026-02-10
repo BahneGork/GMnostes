@@ -4,7 +4,7 @@
 
 
 #erukana/npc 
-# Medejer Af [[Kroen Månehvil\|Kroen Månehvil]] I [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+# Medejer Af [[02 Player/Erukana (Nissen)/Locations/Kroen Månehvil\|Kroen Månehvil]] I [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
 
 ![Pasted image 20231021195237.png](/img/user/10%20Attachments/Pasted%20image%2020231021195237.png)
 

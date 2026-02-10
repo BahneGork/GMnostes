@@ -7,6 +7,8 @@
 
 | File                                                                                                                                          | reward                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [[02 Player/Erukana (Nissen)/Items/The Silver statue heirloom\|The Silver statue heirloom]]                                                | 200gp                                                             |
+| [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|The Silver statue heirloom]]                                                 | 200gp                                                             |
 | [[02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion\|Arcana Tower Explosion]]                                                     | Kendskab til de vilde elvere (race unlocked)                      |
 | [[02 Player/Erukana (Nissen)/Missions/Corruption of Feywood\|Corruption of Feywood]]                                                       | Earth Elemental Stone                                             |
 | [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Find Baronesse Avalande]]                                                   | Information on: birthmarks, hourglass, azure order, purple plague |

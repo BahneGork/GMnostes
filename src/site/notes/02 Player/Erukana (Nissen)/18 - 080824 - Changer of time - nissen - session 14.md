@@ -17,7 +17,7 @@
 - Clara får overtalt manden til at fortælle hvad han ved 
 - Elvira har virket tyndslidt det sidste stykke tid og han er bekymret for hende 
 - Vi får af vide hvor hun ofte opholder sig og fortsætter ned af en smal gyde 
-- Vi ankommer til et Drikke sted  [[den brækkede knogle\|den brækkede knogle]]
+- Vi ankommer til et Drikke sted  [[02 Player/Erukana (Nissen)/Claude organized notes/Locations/den brækkede knogle\|02 Player/Erukana (Nissen)/Claude organized notes/Locations/den brækkede knogle]]
 
 ## Den Brækkede Knogle
 - Drikke stedet er fyldt med drankere. 

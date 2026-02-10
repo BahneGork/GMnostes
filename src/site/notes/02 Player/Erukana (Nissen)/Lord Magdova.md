@@ -4,7 +4,7 @@
 
 # Lord Adelston Magdova
 
-Lensherren i [[Stirling\|Stirling]] 
+Lensherren i [[02 Player/Erukana (Nissen)/Locations/Stirling\|Stirling]] 
 har 1 søn, Kasimér 
 er enkemand, hvis kone døde i barsels sengen for 17-19år siden 
 langvarig rival med [[House Lightner\|House Lightner]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]

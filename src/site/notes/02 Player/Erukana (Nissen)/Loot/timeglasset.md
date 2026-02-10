@@ -15,6 +15,6 @@ ved et forsøg, hoppede vi en time tilbage i tiden, men nogle folk var skiftet u
 
 [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]  har fortalt os at han kender én anden der har en tattoovering som os, [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] 
 
-[[Baron Zhaarko\|Baron Zhaarko]] vil have fat i timeglasset, angiveligt for at kurere sin søn fra en alvorlig sygdom.
+[[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] vil have fat i timeglasset, angiveligt for at kurere sin søn fra en alvorlig sygdom.
 
-Vi har fundet en [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]] med instrukser til timeglasset, men den er kraftigt beskyttet af magi, denne er [[Baron Zhaarko\|Baron Zhaarko]] også interesseret i.
+Vi har fundet en [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]] med instrukser til timeglasset, men den er kraftigt beskyttet af magi, denne er [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] også interesseret i.

@@ -14,7 +14,7 @@
 	- Nibar er ikke overbevisende nok og taber forklædningen og teleporterer pigen ind i rummet 
 	- Clara træder imellem pigen og døren og peger på sengen 
 	- Nibar og Bjørn kommer også ind i rummet 
-	- "hvad er dit navn" - [[Maria\|Maria]] 
+	- "hvad er dit navn" - [[02 Player/Erukana (Nissen)/People/Maria\|Maria]] 
 	- Maria henter Miri til hendes aften færden 
 	- Hvem har betalt: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]], Anthony 
 	- Henter du andre? nej.
@@ -64,7 +64,7 @@
 - Nameless lord 2 trækker sit greatsword og råber "ved GRAZZT"
 - Lady'en hidkalder en greater demon 
 - Nibar bliver targeted af nameless Lady og forsvinder ind i et spejl 
-- [[Lord Steffan blast fingers\|Lord Steffan blast fingers]] 
+- [[02 Player/Erukana (Nissen)/People/Lord Steffan blast fingers\|Lord Steffan blast fingers]] 
 - [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] 
 - klub for rige og indflydelses rige kunne få opfyldt alle mulige dekadente ønsker 
 - Miri opdagede hvad der foregik og Alistair sendte Krugger efter hende i form af et halv bæst så han slog Miri ihjel 
