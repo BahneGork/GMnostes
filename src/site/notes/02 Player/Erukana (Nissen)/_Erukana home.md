@@ -19,12 +19,14 @@
 ![Pasted image 20251120091656.png|1000](/img/user/10%20Attachments/Pasted%20image%2020251120091656.png)
 
 
-#### Current Date: 8th Tarsakh
+#### Current Date: 16th Tarsakh
 #### Current Location: Nordheim
 
 # Active Missions
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
 Rod of Resurrection 
+
+ **[[02 Player/Erukana (Nissen)/bases/People Database\|People Database]]**
 
 # Sessions
 
