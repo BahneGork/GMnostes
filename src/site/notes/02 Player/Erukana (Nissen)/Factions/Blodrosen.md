@@ -4,7 +4,7 @@
 
 
 ## Description
-Ridderne af Blodrosen (også kaldet Blodrosen) er en ridderorden der kom til [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] østfra for ca. 1 år siden. De har indgået en alliance med [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og hjælper med at opretholde lov og orden. De kom for at kæmpe den kamp som [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ikke kunne kæmpe - mod [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]]. Ordenen har dog en kompleks relation til gruppen og andre fraktioner.
+Ridderne af Blodrosen (også kaldet Blodrosen) er en ridderorden der kom til [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] østfra for ca. 1 år siden. De har indgået en alliance med [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og hjælper med at opretholde lov og orden. De kom for at kæmpe den kamp som [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ikke kunne kæmpe - mod [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]]. Ordenen har dog en kompleks relation til gruppen og andre fraktioner.
 
 ## Notes
 ### Session 7
@@ -29,11 +29,11 @@ Ridderne af Blodrosen (også kaldet Blodrosen) er en ridderorden der kom til [[0
 - Han er dværg fra [[02 Player/Erukana (Nissen)/Factions/Frostheim Klanen\|Frostheim Klanen]] i [[02 Player/Erukana (Nissen)/Locations/Zezstanie\|Zezstanie]]
 - Har 5 dragehoveder i 5 farver på sin brystplade
 - Delegationen med 4 Blodrosen-riddere forsøgte at bringe et scepter til kongen
-- Blodrosen kom til [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] for at kæmpe mod [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] efter [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]'s fald
+- Blodrosen kom til [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] for at kæmpe mod [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] efter [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]'s fald
 
 ## Relationships
 - **Alliance**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] - hjælper med lov og orden
-- **Fjende**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] - deres primære modstander
+- **Fjende**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] - deres primære modstander
 - **Erstattet**: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] - overtog efter deres fald
 - **Kommandør i Astley**: [[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]]
 - **Officerer**: [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]], [[02 Player/Erukana (Nissen)/People/Venor\|Venor]]

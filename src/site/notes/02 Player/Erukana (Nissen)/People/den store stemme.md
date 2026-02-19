@@ -4,7 +4,7 @@
 
 
 ## Description
-"Den store stemme" er en magtfuld leder blandt [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] kobolderne. Han er korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] og har ædelsten (opaler/amethyster) groende ud af sin hud, ligesom andre korrupterede væsener. Kobolderne frygter ham og tør ikke gå imod hans ordrer. Han er i besiddelse af [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]] og andre vigtige genstande.
+"Den store stemme" er en magtfuld leder blandt [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] kobolderne. Han er korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og har ædelsten (opaler/amethyster) groende ud af sin hud, ligesom andre korrupterede væsener. Kobolderne frygter ham og tør ikke gå imod hans ordrer. Han er i besiddelse af [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]] og andre vigtige genstande.
 
 ## Notes
 ### Session 1
@@ -24,7 +24,7 @@
 ## Relationships
 - **Faction**: [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] - leder
 - **Fjende**: [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] - vil have ham fjernet
-- **Korruption**: Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] og [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
+- **Korruption**: Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
 - **Besiddelse**: [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]], andre magiske genstande
 
 ## Referenced In

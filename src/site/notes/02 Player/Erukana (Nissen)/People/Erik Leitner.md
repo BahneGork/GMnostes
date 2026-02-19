@@ -11,7 +11,7 @@ Erik Leitner er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner
 - Planlagde at snigmyrde [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
 - Ville indsætte [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] som marionet
 - Arbejdede sammen med [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]] der fortryllede Kasimer
-- Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den Lilla Plage]] gennem familien
+- Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] gennem familien
 
 ### Familie
 - Del af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
@@ -24,7 +24,7 @@ Erik Leitner er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner
 - **Mål**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] - snigmords-target
 - **Sammensvorne**: [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]]
 - **Marionet**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]]
-- **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den Lilla Plage]]
+- **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/En Bøn og sidste farvel\|Journal/En Bøn og sidste farvel]]

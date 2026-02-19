@@ -21,7 +21,7 @@ Stirling (også stavet Stirring) er et lensherred i [[02 Player/Erukana (Nissen)
 
 ### Begivenheder
 - Gruppen rejste hertil for at hjælpe Lord Magdova
-- Eresby-minion forstærket af [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] forsøgte overtagelse
+- Eresby-minion forstærket af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] forsøgte overtagelse
 - Bekymrende styrke af lilla korruption opdaget
 
 ## Relationships

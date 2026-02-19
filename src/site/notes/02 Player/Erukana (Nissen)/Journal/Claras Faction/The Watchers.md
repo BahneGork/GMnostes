@@ -229,7 +229,7 @@ I am Watcher. I am free."*
   - Multiple rooms for different functions
   - Secure location
   
-- **[[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]]**: Resources and cover
+- **[[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]**: Resources and cover
   - Trade network for moving information
   - Warehouses as safe houses
   - Legitimate business cover

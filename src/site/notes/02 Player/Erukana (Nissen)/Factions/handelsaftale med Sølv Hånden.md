@@ -4,7 +4,7 @@
 
 
 ## Description
-Handelsaftalen med Sølv Hånden er et dokument der giver [[02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning\|Alistairs handelsforretning]] (nu [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]]) adgang til [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]s handelsnetværk i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]].
+Handelsaftalen med Sølv Hånden er et dokument der giver [[02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning\|Alistairs handelsforretning]] (nu [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]) adgang til [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]s handelsnetværk i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]].
 
 **Note**: Dette er et dokument/genstand, ikke en fraktion. Filen er placeret i Factions-mappen ved en fejl.
 
@@ -19,7 +19,7 @@ Handelsaftalen med Sølv Hånden er et dokument der giver [[02 Player/Erukana (N
 - En værdifuld ressource for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]' handelsoperationer
 
 ## Relationships
-- **Indehaver**: [[02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning\|Alistairs handelsforretning]] / [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]]
+- **Indehaver**: [[02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning\|Alistairs handelsforretning]] / [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
 - **Handelspartner**: [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]
 - **Ejer**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 

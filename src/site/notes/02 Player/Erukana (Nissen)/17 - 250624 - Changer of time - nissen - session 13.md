@@ -79,7 +79,7 @@
 ## Planen Til Næste Gang
 - udspørge veninde [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] om Miri 
 - udspørge [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] om Miri 
-- Melde tilbage til [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]] ; vestporten 
+- Melde tilbage til [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]] ; vestporten 
 
 # GM Recap
 Recap – Session 10 del 1 – Mausoleumet.

@@ -75,7 +75,7 @@
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
 - [[02 Player/Erukana (Nissen)/Factions/The Sentinel\|The Sentinel]]
 - [[02 Player/Erukana (Nissen)/Factions/The Silver Drake guild\|The Silver Drake guild]]
-- [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]]
+- [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning Moon merchant house]]
 - [[02 Player/Erukana (Nissen)/Factions/Warpaw stammen\|Warpaw stammen]]
 - [[02 Player/Erukana (Nissen)/Factions/Zazmir stamme\|Zazmir stamme]]
 

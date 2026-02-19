@@ -4,7 +4,7 @@
 
 
 ## Description
-Lord Chaptermaster Cerilian Archhold var kapitelmester for [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ved [[02 Player/Erukana (Nissen)/Factions/Highguard Chapterhouse\|Highguard Chapterhouse]]. Han blev korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|Den Lilla Plage]] og blev brændt af gruppen.
+Lord Chaptermaster Cerilian Archhold var kapitelmester for [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ved [[02 Player/Erukana (Nissen)/Factions/Highguard Chapterhouse\|Highguard Chapterhouse]]. Han blev korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den Lilla Plage]] og blev brændt af gruppen.
 
 **Status**: Død - brændt efter korruption
 
@@ -16,7 +16,7 @@ Lord Chaptermaster Cerilian Archhold var kapitelmester for [[02 Player/Erukana (
 ## Relationships
 - **Organisation**: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] - Kapitelmester
 - **Lokation**: [[02 Player/Erukana (Nissen)/Factions/Highguard Chapterhouse\|Highguard Chapterhouse]]
-- **Trussel**: Korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|Den Lilla Plage]]
+- **Trussel**: Korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den Lilla Plage]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]

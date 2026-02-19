@@ -4,7 +4,7 @@
 
 
 ## Description
-Dark Gem klanen er en kobold-stamme der beboer [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]. De er korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] og tjener [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]. Korrupterede medlemmer får ædelsten (opaler/amethyster) groende ud af deres hud og eksploderer i sorte flammer når de dør. De taler det [[02 Player/Erukana (Nissen)/Setting lore/sorte sprog\|sorte sprog]].
+Dark Gem klanen er en kobold-stamme der beboer [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]. De er korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og tjener [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]. Korrupterede medlemmer får ædelsten (opaler/amethyster) groende ud af deres hud og eksploderer i sorte flammer når de dør. De taler det [[02 Player/Erukana (Nissen)/Setting lore/sorte sprog\|sorte sprog]].
 
 ## Notes
 ### Session 1
@@ -22,7 +22,7 @@ Dark Gem klanen er en kobold-stamme der beboer [[Dark Gem Clan Caves\|Dark Gem C
 - **Leder**: [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] - frygtet leder med ædelsten i hud
 - **Beboelse**: [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]
 - **Væsen**: [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] - mystisk kraft i hulerne
-- **Korruption**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
+- **Korruption**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1\|1-080723 - Changer of time session 1]]

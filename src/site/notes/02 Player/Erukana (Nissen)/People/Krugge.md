@@ -15,13 +15,13 @@ Krugge (også stavet Kruger) er en bagersvend i [[02 Player/Erukana (Nissen)/Loc
 
 ### Planlagt undersøgelse
 - Udspørge [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] om Miri
-- Melde tilbage til [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]] ved vestporten
+- Melde tilbage til [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]] ved vestporten
 
 ## Relationships
 - **Forlovet med**: [[Miri\|Miri Sangstrup]] - den myrdede
 - **Kender**: [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] via Miri
 - **Status**: Forsvundet i 20 dage
-- **Rapport til**: [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]]
+- **Rapport til**: [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13\|17 - 250624 - Changer of time - nissen - session 13]]

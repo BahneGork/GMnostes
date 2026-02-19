@@ -7,7 +7,7 @@
 
 # Reveal
 
-[[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den Lilla Plage]] korrupterede ordnen og var skyld dens fald 
+[[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] korrupterede ordnen og var skyld dens fald 
 Chapter master er fundet og lagt til hvile 
 # Investigating the Attack on The Queensguard Erukana Chapterhouse
 

@@ -17,7 +17,7 @@ Måske vigtigere for jer, er det at jeres modersmærker hen over de næste dages
 
 Har det noget at gøre med det beskadiget tidsartefakt? Var artefaktet nøglen til fængslesportalen? Er modersmærkerne direkte forbundet til artefaktet eller jeres udvalgte opgave som beskyttere af [[02 Player/Erukana (Nissen)/Factions/Azur ordnen\|Azur ordnen]]? 
 
-Det eneste helt sikre lige nu er, at I ved nu med sikkerhed, at [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Queens Guardens]] fjender den gang de forsvandt fra [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] ikke var [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blodrosen]], men [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den Lilla Plage]]. 
+Det eneste helt sikre lige nu er, at I ved nu med sikkerhed, at [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Queens Guardens]] fjender den gang de forsvandt fra [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] ikke var [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blodrosen]], men [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]. 
 Det er også den primære årsag til Blodrosens tilstedeværelse i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] nu. 
 [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Eresby baroniet]] er direkte forbundet med Den Lilla Plage, og det er Borgmester Volmar og i hvert fald enkelte riddere af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blodrosen]] også.
 

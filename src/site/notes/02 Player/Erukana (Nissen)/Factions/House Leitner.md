@@ -4,7 +4,7 @@
 
 
 ## Description
-House Leitner er en adelig familie der konspirerede mod [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]. Familien er forbundet med [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den Lilla Plage]] og forsøgte at indsætte en marionet-leder gennem fortryllelse og snigmord.
+House Leitner er en adelig familie der konspirerede mod [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]. Familien er forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] og forsøgte at indsætte en marionet-leder gennem fortryllelse og snigmord.
 
 ## Notes
 ### Komplot mod Lord Magdova
@@ -14,7 +14,7 @@ House Leitner er en adelig familie der konspirerede mod [[02 Player/Erukana (Nis
 - Efter besøg hos Ulrika opførte Kasimer sig mekanisk og flygtede nordpå
 
 ### Forbindelse til den Lilla Plage
-- [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]] var stærkt inficeret af [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den Lilla Plage]]
+- [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]] var stærkt inficeret af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]
 - Dolph ankom til duelstedet med 30-50 mænd i stedet for Kasimer
 - Han blev ødelagt af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]]s guddommelige intervention
 - Silvara og Danicas ånder drog ham væk
@@ -27,7 +27,7 @@ House Leitner er en adelig familie der konspirerede mod [[02 Player/Erukana (Nis
 
 ## Relationships
 - **Fjende**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] - mål for snigmord
-- **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den Lilla Plage]] - korruption
+- **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] - korruption
 - **Offer**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] - fortryllet til forræderi
 
 ## Referenced In

@@ -20,7 +20,7 @@ Kobolder er en monstertype i Erukana. [[02 Player/Erukana (Nissen)/Factions/Dark
 ## Relationships
 - **Klan**: [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]]
 - **Leder**: [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]
-- **Korruption**: Forbundet til [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|Den Lilla Plage]] (ametyst-vækster)
+- **Korruption**: Forbundet til [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den Lilla Plage]] (ametyst-vækster)
 - **Lokation**: [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]
 
 ## Referenced In

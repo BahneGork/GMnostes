@@ -14,7 +14,7 @@ Hans Baudler er sergent i [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|S
 
 - [[02 Player/Erukana (Nissen)/People/Merita Verplex\|Merita Verplex]] guardist i [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]
 - Clarabel fortæller åbent og ærligt Hans Baudler om sin Lycantropi 
-- Hr. Flick ankommer til middag i [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]] Mansion
+- Hr. Flick ankommer til middag i [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]] Mansion
 
 ## Relationships
 - **Militær enhed**: Sergent i [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]

@@ -18,7 +18,7 @@ Dolph Leitner var et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitn
 ## Relationships
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
 - **Forbindelse**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] - erstattede ham ved duelstedet
-- **Infektion**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|Den Lilla Plage]] - kraftigt inficeret
+- **Infektion**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den Lilla Plage]] - kraftigt inficeret
 - **Dødsfald**: Ødelagt af guddommelig intervention fra [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 
 ## Referenced In

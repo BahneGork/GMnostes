@@ -4,7 +4,7 @@
 
 
 ## Description
-Det sorte sprog er et ondt sprog forbundet med [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] og korruption. Korrupterede væsener taler ofte dette sprog. Det er modsat Celestial (det gode sprog) - hvis nogen taler Celestial, kan de ikke tale det sorte sprog.
+Det sorte sprog er et ondt sprog forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og korruption. Korrupterede væsener taler ofte dette sprog. Det er modsat Celestial (det gode sprog) - hvis nogen taler Celestial, kan de ikke tale det sorte sprog.
 
 ## Notes
 ### Session 1
@@ -13,7 +13,7 @@ Det sorte sprog er et ondt sprog forbundet med [[02 Player/Erukana (Nissen)/Sett
 
 ### Session 8
 - [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]] blev hørt tale det mørke sprog da hun kastede magi ved ork-lejren
-- Dette antyder mulig korruption eller forbindelse til [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]]
+- Dette antyder mulig korruption eller forbindelse til [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]]
 
 ### Session 20
 - [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica Dawnspire]] taler Celestial (det gode sprog)
@@ -21,7 +21,7 @@ Det sorte sprog er et ondt sprog forbundet med [[02 Player/Erukana (Nissen)/Sett
 
 ## Relationships
 - **Talere**: Korrupterede væsener, [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]] (muligvis)
-- **Forbundet med**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
+- **Forbundet med**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
 - **Modsat**: Celestial (det gode sprog)
 
 ## Referenced In

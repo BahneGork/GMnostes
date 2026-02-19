@@ -32,7 +32,7 @@ Winston woke Clarabel in her room, all muddied and dishevelled, with a fingernai
 [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]]
 [[02 Player/Erukana (Nissen)/People/Maria\|Maria]]
 [[02 Player/Erukana (Nissen)/Locations/Den brækkede knogle\|02 Player/Erukana (Nissen)/Locations/Den brækkede knogle]]
-[[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]]
+[[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]]
 [[02 Player/Erukana (Nissen)/People/Krugge's bagermester\|Krugge's bagermester]]
 [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]
 [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]]

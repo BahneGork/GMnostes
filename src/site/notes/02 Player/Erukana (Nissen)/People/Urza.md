@@ -9,7 +9,7 @@ Urza er knoglestammens øverste knoglemoder (shaman). Hun er en tynd og ranglet 
 ## Notes
 ### Session 26
 - Observerer gruppen fra mørket bag søjlerne i tronsalen
-- Er imod [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] og stammens pligt overfor den
+- Er imod [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og stammens pligt overfor den
 - Vil ikke af med stavens top-del (ben-fragmentet)
 - [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] forsøgte at få hendes hjælp mod den lilla plage
 - Jagede [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] gennem korridorerne da han forsøgte at redde [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]]
@@ -26,7 +26,7 @@ Urza er knoglestammens øverste knoglemoder (shaman). Hun er en tynd og ranglet 
 - **Leder**: Tjener under [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]]
 - **Tilbedelse**: Knogleherren/den sorte ged
 - **Artefakt**: Bærer ben-fragmentet af sølvdragestaven
-- **Fjende**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|Den lilla plage]] - er imod den
+- **Fjende**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]] - er imod den
 - **Kollega**: Brunhild - en anden knoglemoder
 
 ## Referenced In

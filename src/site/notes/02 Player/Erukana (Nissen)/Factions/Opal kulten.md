@@ -4,7 +4,7 @@
 
 
 ## Description
-Opal kulten er en mystisk kult forbundet med korruption og ædelsten-infuserede væsener. Kulten er forbundet med [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] - en ondsindet kraft der korrupterer levende væsener. Medlemmer og deres tjenere får ofte ædelsten (særligt opaler og amethyster) groende ud af deres hud, og eksploderer i sorte flammer når de dør.
+Opal kulten er en mystisk kult forbundet med korruption og ædelsten-infuserede væsener. Kulten er forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] - en ondsindet kraft der korrupterer levende væsener. Medlemmer og deres tjenere får ofte ædelsten (særligt opaler og amethyster) groende ud af deres hud, og eksploderer i sorte flammer når de dør.
 
 ## Notes
 ### Session 1
@@ -24,7 +24,7 @@ Opal kulten er en mystisk kult forbundet med korruption og ædelsten-infuserede 
 - Den lilla plage var skyld i [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] fald
 
 ## Relationships
-- **Forbundet med**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|Den lilla plage]] - den ondskabsfulde kraft bag korruptionen
+- **Forbundet med**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]] - den ondskabsfulde kraft bag korruptionen
 - **Relateret**: [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] - kobolder påvirket af kulten
 - **Leder**: [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] - leder blandt kobolderne
 - **Væsen**: [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] - mystisk væsen i hulerne

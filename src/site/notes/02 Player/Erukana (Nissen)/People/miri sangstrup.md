@@ -4,7 +4,7 @@
 
 
 ## Description
-Miri Sangstrup var en urtehandler fra Sangstrup familien i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Hun blev myrdet, og hendes død er genstand for en efterforskning som [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] bistår med under ledelse af [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]].
+Miri Sangstrup var en urtehandler fra Sangstrup familien i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Hun blev myrdet, og hendes død er genstand for en efterforskning som [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] bistår med under ledelse af [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]].
 
 ## Notes
 ### Session 13 - Baggrund
@@ -25,7 +25,7 @@ Miri Sangstrup var en urtehandler fra Sangstrup familien i [[02 Player/Erukana (
 - [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] bistår i efterforskningen
 
 ### Efterforskning
-- [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]] leder sagen fra vestporten
+- [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]] leder sagen fra vestporten
 - Mistænkt: [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] (forsvundet forlovet)
 - Vidne: [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] (veninde, blomsterhandler)
 - Krugge forsvandt samtidig med Miri
@@ -35,7 +35,7 @@ Miri Sangstrup var en urtehandler fra Sangstrup familien i [[02 Player/Erukana (
 - **Forlovet**: [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] - forsvundet i 20 dage, mistænkt
 - **Veninde**: [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] - blomsterhandler, vidne
 - **Kunde**: Borgmesterens husstand
-- **Sag ledet af**: [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|vagtkaptajn Samuel]]
+- **Sag ledet af**: [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]]
 - **Lig opbevaret**: [[Bahamuts tempel\|Bahamuts tempel]]
 
 ## Referenced In

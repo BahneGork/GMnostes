@@ -16,7 +16,7 @@ Stirring (også stavet Stirling) er et ældgammelt len beliggende nord for [[02 
 ### Mission
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] sendte en delegation til Stirring i Tarsakh 1517
 - Delegation rejste d. 11 Tarsakh og mødte Lord Magdova d. 13 Tarsakh
-- En Eresby-minion forstærket af [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] forsøgte at overtage lensherredømmet
+- En Eresby-minion forstærket af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] forsøgte at overtage lensherredømmet
 - Bekymrende styrke af lilla korruption blev observeret
 
 ### Begivenheder
@@ -28,7 +28,7 @@ Stirring (også stavet Stirling) er et ældgammelt len beliggende nord for [[02 
 - **Lensherre**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Adelston Magdova]]
 - **Overordnet**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 - **Nabo**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]], [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
-- **Trussel**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]] korruption
+- **Trussel**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] korruption
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]

@@ -4,13 +4,13 @@
 
 
 ## Description
-**Fejlplaceret**: Mecina er en lokation, ikke en person. Det er et kontaktpunkt for [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning Moon Merchant House]].
+**Fejlplaceret**: Mecina er en lokation, ikke en person. Det er et kontaktpunkt for [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning Moon Merchant House]].
 
 ## Notes
 - Nævnt som Waning Moon kontakt-lokation i Clarabels downtime-noter
 
 ## Relationships
-- **Tilknytning**: [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning Moon Merchant House]] kontaktpunkt
+- **Tilknytning**: [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning Moon Merchant House]] kontaktpunkt
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]

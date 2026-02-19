@@ -23,7 +23,7 @@ The cult of the Opal society (også kendt som [[02 Player/Erukana (Nissen)/Facti
 - Dekadente fester for overklassen
 
 ### Forbindelser
-- Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]]
+- Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]]
 - Benyttede [[02 Player/Erukana (Nissen)/Setting lore/sorte sprog\|sorte sprog]]
 - Skandale involverede [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
 
@@ -34,7 +34,7 @@ The cult of the Opal society (også kendt som [[02 Player/Erukana (Nissen)/Facti
 ## Relationships
 - **Ledere**: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]], [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady Lucille Vitano]]
 - **Tilbeder**: [[Graz'zt\|Graz'zt]]
-- **Forbindelser**: [[02 Player/Erukana (Nissen)/Setting lore/den Lilla Plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
+- **Forbindelser**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
 - **Fjender**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/Factions/The Sentinel\|The Sentinel]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]]
 

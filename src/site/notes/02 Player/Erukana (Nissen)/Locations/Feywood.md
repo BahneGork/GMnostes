@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Feywood/","tags":["erukana","location","forest","dangerous"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Feywood/","tags":["erukana","location","forest","dangerous","corruption"]}
 ---
 
 
@@ -22,19 +22,25 @@ Feywood er en mystisk og farlig skov nær [[02 Player/Erukana (Nissen)/Locations
 - Et skildpadde-lignende monster og slange-væsener beboer det dybe vand
 - Da gruppen forlod sumpen forsvandt ruinerne bag en "hinde"
 
+### Session 41
+- [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] mener korruptionen af naturens væsner måske ligger ude i Feywood
+- Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]] korruption
+
 ## Relationships
 - **Nærliggende**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 - **Ruiner**: Blackspear vagttårn, Eastwatch
 - **Farer**: Feywood bæst, levende lianer, sump-monstre
 - **Blodrosen tilstedeværelse**: [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]]s tropper
+- **Korruption**: Mulig kilde til naturvæsen-korruption ([[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]])
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|9 -150524 - Changer of time session 9]]
 - [[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10\|10 - 220524 - Changer of time session 10]]
 - [[02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11\|11 - 130624 - Changer of time session 11]]
 - [[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley\|12 - 200624 - Changer of time session 12 - downtime Astley]]
+- [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]
 - [[02 Player/Erukana (Nissen)/Journal/Erukana Quests and Questions\|Journal/Erukana Quests and Questions]]
 - [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Missions/Feywood Beast Bounty]]
 
 ## Tags
-#erukana #location #forest #dangerous #mystery
+#erukana #location #forest #dangerous #mystery #corruption

@@ -13,7 +13,7 @@ Byen er opdelt i flere distrikter, herunder Nord-distriktet som overvåges af en
 - **Keepers Watch** - Byens militære hovedkvarter og fængsel
 - **[[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley\|Paladine templet i Astley]]** - Skjult Bahamut-tilbedelse finder sted her
 - **[[02 Player/Erukana (Nissen)/Locations/Svinestien - Bar i Astley shanty town\|Svinestien - Bar i Astley shanty town]]** - Værtshus i byens fattigere kvarter
-- **Varehus 13** - [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]] lager
+- **Varehus 13** - [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]] lager
 
 ## Politik og Fraktioner
 Astley er politisk splittet mellem støtter af **Borgmesteren** og tilhængere af **[[02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande\|Baronesse Avalande]]**.
@@ -32,8 +32,8 @@ Astley er politisk splittet mellem støtter af **Borgmesteren** og tilhængere a
 
 ## Relationships
 - **Baroni**: Del af [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
-- **Fraktioner**: Hjemsted for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]]
-- **Personer**: [[Edmund af Vitano\|Edmund af Vitano]] (tidligere Queensguard), [[02 Player/Erukana (Nissen)/People/vagtkaptajn Samuel\|Vagtkaptajn Samuel]], [[Assana Lemiuex\|Assana Lemiuex]] (forvalter)
+- **Fraktioner**: Hjemsted for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
+- **Personer**: [[Edmund af Vitano\|Edmund af Vitano]] (tidligere Queensguard), [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]], [[Assana Lemiuex\|Assana Lemiuex]] (forvalter)
 - **Trusler**: Konflikter med [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] og den lilla plage
 
 ## Referenced In

@@ -4,7 +4,7 @@
 
 
 ## Description
-Alistairs handelsforretning var [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]s handelshus i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Efter hans afsløring som dæmon og gruppens sejr, blev forretningen overtaget af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] og omdøbt til [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]].
+Alistairs handelsforretning var [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]s handelshus i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Efter hans afsløring som dæmon og gruppens sejr, blev forretningen overtaget af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] og omdøbt til [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]].
 
 ## Notes
 ### Historie
@@ -13,7 +13,7 @@ Alistairs handelsforretning var [[02 Player/Erukana (Nissen)/People/Lord Alistai
 - Nu ejet og drevet af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 
 ### Nuværende drift
-- Omdøbt til [[02 Player/Erukana (Nissen)/Factions/Waning moon merchant house\|Waning moon merchant house]]
+- Omdøbt til [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
 - Administreret af [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]]
 - Har handelsaftale med [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]
 
