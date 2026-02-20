@@ -19,7 +19,7 @@ Vagtkaptajn ved Nord distriktet i [[02 Player/Erukana (Nissen)/Locations/Astley\
 
 ## Relationships
 - **Arbejdsgiver**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] byvagt
-- **Religion**: [[Bahamuts Tilhængere\|Bahamuts Tilhængere]] (hemmeligt)
+- **Religion**: [[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere\|Bahamuts Tilhængere]] (hemmeligt)
 - **Kontakt**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
 - **Lokation**: Nord distriktet i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 

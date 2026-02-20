@@ -29,7 +29,7 @@ Valence (også kendt som [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence
 - **Handelslaug**: [[02 Player/Erukana (Nissen)/Factions/The Silver Drake guild\|The Silver Drake guild]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Locations/Baroniet Valence]]
 
 ## Tags

@@ -13,25 +13,25 @@ Nordlandets stammer er en samling af forskellige stammer der lever i de nordlige
 - **Sortvingen** - stamme
 - **Flodhviskerne** - rival-stamme
 - **Langfods** - stamme
-- **Knoglefolket** - [[Knoglestammen\|Knoglestammen]]
+- **Knoglefolket** - [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]]
 - **SouSou** - stamme
 
 ### Relationer
 - Stammerne har varierende relationer til hinanden
 - Nogle er rivaler (f.eks. Flodhviskerne)
-- [[Knoglestammen\|Knoglestammen]] er en af de kendte stammer
+- [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]] er en af de kendte stammer
 
 ### Geografi
 - Lever i de nordlige territorier
 - Områder inkluderer bjergene og de kolde egne
 
 ## Relationships
-- **Inkluderer**: Frostrunners, Bjergkloen, Sortvingen, Flodhviskerne, Langfods, [[Knoglestammen\|Knoglestammen]], SouSou
+- **Inkluderer**: Frostrunners, Bjergkloen, Sortvingen, Flodhviskerne, Langfods, [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]], SouSou
 - **Region**: Nordlandet
 - **Kontakt**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] - mødte flere stammer
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - Setting lore
 
 ## Tags

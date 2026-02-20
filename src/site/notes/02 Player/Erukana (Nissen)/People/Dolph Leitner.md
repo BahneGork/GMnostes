@@ -22,7 +22,7 @@ Dolph Leitner var et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitn
 - **Dødsfald**: Ødelagt af guddommelig intervention fra [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[02 Player/Erukana (Nissen)/Journal/En Bøn og sidste farvel\|Journal/En Bøn og sidste farvel]]
 
 ## Tags

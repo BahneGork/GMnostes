@@ -31,7 +31,7 @@ Miri Sangstrup var en urtehandler fra Sangstrup familien i [[02 Player/Erukana (
 - Krugge forsvandt samtidig med Miri
 
 ## Relationships
-- **Familie**: [[Sangstrup familien\|Sangstrup familien]]
+- **Familie**: [[02 Player/Erukana (Nissen)/Factions/Sangstrup familien\|Sangstrup familien]]
 - **Forlovet**: [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] - forsvundet i 20 dage, mistænkt
 - **Veninde**: [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] - blomsterhandler, vidne
 - **Kunde**: Borgmesterens husstand

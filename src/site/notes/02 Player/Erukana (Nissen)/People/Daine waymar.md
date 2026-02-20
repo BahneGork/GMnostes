@@ -4,7 +4,7 @@
 
 
 ## Description
-Daine Waymar var en agent fra [[Pillar of Truth\|Pillar of Truth]] ordenen, beskrevet som "vis og pålidelig". Han blev sendt til [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] for at advare [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] om at en **Rod of Resurrection** var blevet stjålet - et magtfuldt artefakt som angiveligt kan slå guder ihjel.
+Daine Waymar var en agent fra [[02 Player/Erukana (Nissen)/Factions/Pillar of Truth\|Pillar of Truth]] ordenen, beskrevet som "vis og pålidelig". Han blev sendt til [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] for at advare [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] om at en **Rod of Resurrection** var blevet stjålet - et magtfuldt artefakt som angiveligt kan slå guder ihjel.
 
 **Status**: Død - myrdet under sin mission i Astley
 
@@ -23,7 +23,7 @@ Daine Waymar var en agent fra [[Pillar of Truth\|Pillar of Truth]] ordenen, besk
 	- der er fod spor i form af hove i nærheden, som stopper brat som om den er hoppet op og væk
 
 ## Relationships
-- **Organisation**: Agent af [[Pillar of Truth\|Pillar of Truth]] / Sandhedens Søjle
+- **Organisation**: Agent af [[02 Player/Erukana (Nissen)/Factions/Pillar of Truth\|Pillar of Truth]] / Sandhedens Søjle
 - **Kontakter**: Skulle møde [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] ved varehus 13
 - **Forbindelse**: Sendt af [[Edmund af Vitano\|Edmund af Vitano]]'s indre cirkel
 

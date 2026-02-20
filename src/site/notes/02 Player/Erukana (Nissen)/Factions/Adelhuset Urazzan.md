@@ -14,7 +14,7 @@ Adelhuset Urazzan er en adelig familie i Astley. De er blandt borgmesterens poli
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Rally Astley Nobles\|Journal/The Grand Alliance/Rally Astley Nobles]]
 
 ## Tags

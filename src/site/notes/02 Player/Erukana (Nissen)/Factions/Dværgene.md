@@ -34,7 +34,7 @@ Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/
 - **Trusler**: [[02 Player/Erukana (Nissen)/Factions/Horden\|Horden]], kobolder i bjergene
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Factions/Stenvogterne]]
 - [[Locations/Slatestone dværgehallerne\|Locations/Slatestone dværgehallerne]]
 - [[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Locations/Silverstream dværge hallerne]]

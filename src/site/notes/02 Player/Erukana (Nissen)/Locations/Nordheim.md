@@ -9,7 +9,7 @@
 
 ```leaflet
 id: nordheim-map1
-image: [[Pasted image 20250812093531.png]]
+image: [Pasted image 20250812093531.png](/img/user/10%20Attachments/Pasted%20image%2020250812093531.png)
 height: 700px
 width: 100%
 lat: 45

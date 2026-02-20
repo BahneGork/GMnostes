@@ -6,7 +6,7 @@
 
 ```leaflet
 id: testid99
-image:  [[Erukana-annotated.png]]
+image:  [Erukana-annotated.png](/img/user/10%20Attachments/Erukana-annotated.png)
 height: 1200px
 width: 100%
 lat: 45

@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon/"}
+---
+
+**Mødet med Frøken Lemieux og lærdom omkring Waning Moon Merchant huset** Tidsforbrug: 30 dage - 30% tidsforbrug. _Winston og Clarabel arbejder over de næste uger (måneder) sammen med Frøken Lemieux. Med tiden får de et bedre indblik og ser hvilke opgaver som Assana klare for dem. Logistik af vare, regnskaber, løn til Merchant husets arbejdere. Tage imod delegater fra interessenter og forsøget på at udvide handelsnetværket ud fra de præmisser og interesser som Gruppen opstiller._ _Ud fra de nuværende, lader de til at være primært omkring at udvide handlen inden for magi, artefakter og handelsvare associeret med troldsmandstårnene og kundskab indenfor det arkaniske._ _Ud over det, så gør Waning Moon huset sig også inden for handel med træ, møbler, vin og stoffer til klæder. Assana arbejder i øjeblikket med at skabe kontakt til nogle tailors i og omkring fra Farreach og Ankhstadt, om end den slags kommunikation tager lang tid pga._

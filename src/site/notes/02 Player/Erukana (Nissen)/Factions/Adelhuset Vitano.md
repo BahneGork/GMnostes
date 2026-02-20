@@ -18,7 +18,7 @@ Adelhuset Vitano er en adelsfamilie i Astley anført af [[Edmund af Vitano\|Edmu
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 
 ## Tags
 #factions #erukana

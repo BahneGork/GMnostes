@@ -34,7 +34,7 @@ Sir Winston Wildwood er en ridder af [[02 Player/Erukana (Nissen)/Factions/The Q
 - **Kontakt**: [[02 Player/Erukana (Nissen)/People/Pierre\|Pierre]], [[Edmund af Vitano\|Edmund af Vitano]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Lord Magdovas request\|Journal/Lord Magdovas request]]
 - [[02 Player/Erukana (Nissen)/Factions/Zazmir stamme\|Factions/Zazmir stamme]]
 

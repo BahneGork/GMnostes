@@ -26,7 +26,7 @@ Pembroke er en lokation i Erukana hvor et vigtigt slag fandt sted. Slaget ved Pe
 - **Information**: [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica Dawnspire]] - rapporterede om slaget
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Missions/The silver statue heirloom - mission 1]]
 
 ## Tags

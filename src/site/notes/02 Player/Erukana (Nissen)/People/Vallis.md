@@ -4,7 +4,7 @@
 
 
 ## Description
-Vallis er en person fra [[House De'Evers\|House De'Evers]] husholdning. I session 5 videregav han information til gruppen om [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]s aktiviteter.
+Vallis er en person fra [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]] husholdning. I session 5 videregav han information til gruppen om [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]s aktiviteter.
 
 ## Notes
 ### Session 5
@@ -12,11 +12,11 @@ Vallis er en person fra [[House De'Evers\|House De'Evers]] husholdning. I sessio
 - De er mange og de har magt
 
 ### Rolle
-- Budbringer/informant for [[House De'Evers\|House De'Evers]]
+- Budbringer/informant for [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]]
 - Videregiver [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]' informationer
 
 ## Relationships
-- **Tilhører**: [[House De'Evers\|House De'Evers]]
+- **Tilhører**: [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]]
 - **Rapporterer til**: [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]
 
 ## Referenced In

@@ -44,7 +44,7 @@ Botreaux (også stavet Bortreaux) er hovedbyen i [[Hertugdømmet Botreaux\|Hertu
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14\|36 - Erukana - Steffen - Corwin & Viktor 14]]
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Locations/Baroniet Valence]]
 - [[Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Botreaux\|Setting lore/Skik og kultur i Botreaux]]

@@ -32,7 +32,7 @@ Fafnirs gruppe er en modstandsbevægelse ledet af dværgen [[02 Player/Erukana (
 - [[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7\|7-170224 - Changer of time session 7]]
 - [[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8\|8-160324 - Changer of time session 8]]
 - [[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\|20 - 110125 - Changer of time - nissen - session 16]]
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 
 ## Tags
 #erukana #faction #resistance #ally

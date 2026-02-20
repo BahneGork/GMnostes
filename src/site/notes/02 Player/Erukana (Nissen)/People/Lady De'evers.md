@@ -4,7 +4,7 @@
 
 
 ## Description
-Lady De'evers er leder af [[House De'Evers\|House De'Evers]] i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]. Hendes familie var tidligere affilieret med [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]], men hun har valgt at bryde båndene med dem.
+Lady De'evers er leder af [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]] i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]. Hendes familie var tidligere affilieret med [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]], men hun har valgt at bryde båndene med dem.
 
 ## Notes
 ### Session 5
@@ -22,7 +22,7 @@ Lady De'evers er leder af [[House De'Evers\|House De'Evers]] i [[02 Player/Eruka
 - Mener at Ridderne af Blodrosen har en permanent lejr et sted (via [[02 Player/Erukana (Nissen)/People/Vallis\|Vallis]])
 
 ## Relationships
-- **Familie**: [[House De'Evers\|House De'Evers]]
+- **Familie**: [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
 - **Tidligere tilknytning**: [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] (nu brudt)
 - **Tjener**: [[02 Player/Erukana (Nissen)/People/Vallis\|Vallis]]

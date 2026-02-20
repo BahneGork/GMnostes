@@ -22,7 +22,7 @@ Urza er knoglestammens øverste knoglemoder (shaman). Hun er en tynd og ranglet 
 - En anden knoglemoder, Brunhild, blev spurgt om hvor Urza kunne være
 
 ## Relationships
-- **Stamme**: [[Knoglestammen\|Knoglestammen]] - øverste knoglemoder
+- **Stamme**: [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]] - øverste knoglemoder
 - **Leder**: Tjener under [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]]
 - **Tilbedelse**: Knogleherren/den sorte ged
 - **Artefakt**: Bærer ben-fragmentet af sølvdragestaven

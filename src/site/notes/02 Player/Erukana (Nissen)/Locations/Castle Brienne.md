@@ -28,8 +28,8 @@ Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Baroniet Well
 - **Handelsrute**: [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]], [[02 Player/Erukana (Nissen)/People/Mecina\|Mecina]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Locations/Baroniet Welles]]
 
 ## Tags

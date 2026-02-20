@@ -37,7 +37,7 @@ Astley er politisk splittet mellem støtter af **Borgmesteren** og tilhængere a
 - **Trusler**: Konflikter med [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] og den lilla plage
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning\|Journal/Kapitel 1 - Afslutning]]
 - [[02 Player/Erukana (Nissen)/People/1.People DB folder\|People/1.People DB folder]]
 - [[02 Player/Erukana (Nissen)/People/Rocielle De angél\|People/Rocielle De angél]]

@@ -25,7 +25,7 @@ Danica Dawnspire er en rødhåret præstinde der blev tilbageholdt af [[02 Playe
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\|20 - 110125 - Changer of time - nissen - session 16]]
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/En Bøn og sidste farvel\|Journal/En Bøn og sidste farvel]]
 
 ## Tags

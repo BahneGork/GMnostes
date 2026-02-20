@@ -17,7 +17,7 @@ Lord Rupert Solarson er en adelsmand i [[02 Player/Erukana (Nissen)/Locations/As
 - **Tilknytning**: Mester Vissini (forsvundet/død)
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 
 ## Tags
 #erukana #npc #astley #adel

@@ -6,7 +6,7 @@
 #erukana #erukanaloot 
 
 
-[[Diary (1).pdf]]
+[Diary (1).pdf](/img/user/10%20Attachments/Diary%20(1).pdf)
 
 Excerpt from the Diary of mage Vaelor Drakestone of the Arcana Tower 
 (The leather-bound journal is aged, its pages filled with hastily written notes, arcane symbols, and diagrams. The handwriting shifts from precise to frantic, as if the writer grew increasingly desperate.) 

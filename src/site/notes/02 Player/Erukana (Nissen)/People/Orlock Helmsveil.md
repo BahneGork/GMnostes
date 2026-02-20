@@ -26,7 +26,7 @@ Orlock Helmsveil er scribe og page for Sir [[Edmund af Vitano\|Edmund af Vitano]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova\|38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova]]
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[02 Player/Erukana (Nissen)/Journal/En Bøn og sidste farvel\|Journal/En Bøn og sidste farvel]]
 - [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Orlock Helmsveil opening up\|Journal/The Grand Alliance/Orlock Helmsveil opening up]]
 

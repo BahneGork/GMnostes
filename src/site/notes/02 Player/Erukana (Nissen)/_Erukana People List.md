@@ -54,6 +54,7 @@
 - [[02 Player/Erukana (Nissen)/People/Hertug Robert De Ros\|Hertug Robert De Ros]]
 - [[02 Player/Erukana (Nissen)/People/Hjalmer Dynn\|Hjalmer Dynn]]
 - [[02 Player/Erukana (Nissen)/People/Hjarnak Icebone\|Hjarnak Icebone]]
+- [[02 Player/Erukana (Nissen)/People/Hvidhvalen\|Hvidhvalen]]
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]]
 - [[02 Player/Erukana (Nissen)/People/Hydra\|Hydra]]
 - [[02 Player/Erukana (Nissen)/People/Icefang\|Icefang]]

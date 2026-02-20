@@ -31,7 +31,7 @@ Stirring (også stavet Stirling) er et ældgammelt len beliggende nord for [[02 
 - **Trussel**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] korruption
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[02 Player/Erukana (Nissen)/Journal/Lord Magdovas request\|Journal/Lord Magdovas request]]
 - [[02 Player/Erukana (Nissen)/Journal/Letter to Lord Adelston Magdova\|Journal/Letter to Lord Adelston Magdova]]
 

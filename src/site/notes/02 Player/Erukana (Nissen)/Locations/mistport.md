@@ -4,7 +4,7 @@
 
 
 ## Description
-Mistport er en by eller havn nævnt i forbindelse med folk der bar [[Bahamuts Tilhængere\|Bahamuts]] symbol. Fire folk fra Mistport besøgte området for ca. et år siden.
+Mistport er en by eller havn nævnt i forbindelse med folk der bar [[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere\|Bahamuts]] symbol. Fire folk fra Mistport besøgte området for ca. et år siden.
 
 ## Notes
 ### Session 1
@@ -14,10 +14,10 @@ Mistport er en by eller havn nævnt i forbindelse med folk der bar [[Bahamuts Ti
 
 ### Mulig forbindelse
 - Muligvis relateret til [[Port Drakkan\|Port Drakkan]] eller en variant deraf
-- Forbindelse til [[Bahamuts Tilhængere\|Bahamuts Tilhængere]]
+- Forbindelse til [[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere\|Bahamuts Tilhængere]]
 
 ## Relationships
-- **Religion**: [[Bahamuts Tilhængere\|Bahamuts Tilhængere]]
+- **Religion**: [[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere\|Bahamuts Tilhængere]]
 - **Mulig variant**: [[Port Drakkan\|Port Drakkan]]
 
 ## Referenced In

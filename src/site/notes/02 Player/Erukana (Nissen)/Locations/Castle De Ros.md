@@ -28,8 +28,8 @@ Castle De Ros er et citadel i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Funktion**: Militær garrison
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
 - [[02 Player/Erukana (Nissen)/Journal/Astley Avengers - Diplomacy\|Journal/Astley Avengers - Diplomacy]]
 

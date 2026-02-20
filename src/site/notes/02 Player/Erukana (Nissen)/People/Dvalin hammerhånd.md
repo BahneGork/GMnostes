@@ -10,7 +10,7 @@
 Skovridder fra Mistville, meldt savnet.
 
 Vi formoder han er blevet smittet med varulve syge og derefter blevet udød, hans partner fandt vi død i hans huler. Halsen skåret over, helt ind til benet. 
-vi fandt [[Brevet på døde Celia - Erukana.png]] og i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]  er der et opslag hvor han er meldt savnet sammen med andre.
+vi fandt [Brevet på døde Celia - Erukana.png](/img/user/02%20Player/Erukana%20(Nissen)/Journal/Brevet%20p%C3%A5%20d%C3%B8de%20Celia%20-%20Erukana.png) og i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]  er der et opslag hvor han er meldt savnet sammen med andre.
 
 ![Pasted image 20231021135110.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021135110.png)
 

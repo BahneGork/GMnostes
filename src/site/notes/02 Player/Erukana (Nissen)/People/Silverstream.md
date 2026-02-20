@@ -36,7 +36,7 @@ Silverstream er en dværgehalle beliggende i bjergene sydøst fra [[02 Player/Er
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|Locations/States and Baronies of Erukana]]
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 
 ## Tags
 #erukana #location #dwarf #hall #silverstream

@@ -4,7 +4,7 @@
 
 
 ## Description
-Knoglestammens huler er hjemsted for [[Knoglestammen\|Knoglestammen]] og ligger i [[02 Player/Erukana (Nissen)/Locations/StormBjerget\|StormBjerget]]. Hulerne er groft udhugget tunneller der fører til egentlige lokaler og rum. Der er falmet graveringer på væggene der ikke er blevet vedligeholdt. Tronsalen er i forfald men har sikkert været imponerende engang. Hulerne tilhørte engang Wayruth-klanen.
+Knoglestammens huler er hjemsted for [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]] og ligger i [[02 Player/Erukana (Nissen)/Locations/StormBjerget\|StormBjerget]]. Hulerne er groft udhugget tunneller der fører til egentlige lokaler og rum. Der er falmet graveringer på væggene der ikke er blevet vedligeholdt. Tronsalen er i forfald men har sikkert været imponerende engang. Hulerne tilhørte engang Wayruth-klanen.
 
 ## Notes
 ### Session 26
@@ -23,7 +23,7 @@ Knoglestammens huler er hjemsted for [[Knoglestammen\|Knoglestammen]] og ligger 
 - En anden knoglemoder, Brunhild, bor også i hulerne
 
 ## Relationships
-- **Beboere**: [[Knoglestammen\|Knoglestammen]], [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]] (høvding), [[02 Player/Erukana (Nissen)/People/Urza\|Urza]] (knoglemoder)
+- **Beboere**: [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]], [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]] (høvding), [[02 Player/Erukana (Nissen)/People/Urza\|Urza]] (knoglemoder)
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/StormBjerget\|StormBjerget]]
 - **Historie**: Tilhørte engang Wayruth-klanen
 - **Fanger**: [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] blev holdt her

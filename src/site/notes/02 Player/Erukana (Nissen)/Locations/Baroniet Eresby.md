@@ -30,7 +30,7 @@ Grundet kroens berømmelse er der over de sidste halvt hundrede år, flyttet fol
 - bomuld
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning\|Journal/Kapitel 1 - Afslutning]]
 
 ## Tags

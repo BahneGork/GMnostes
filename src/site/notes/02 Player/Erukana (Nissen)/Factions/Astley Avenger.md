@@ -43,7 +43,7 @@ Når man er formelt inviteret og via en ceremoni er blevet optaget i Astley Aven
     Hvis Astley Avengers skulle miste deres guders patronage, igennem f.eks. at gøre gerninger som ikke længere er i tråd med Paladine og Mishakal, vil de boons som organisationen hidtil har erhvervet, falde bort. Det afholder ikke Astley Avengers for, at blive kendt for andre ting i fremtiden og derved opnår nye boons.
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 
 ## Tags
 #erukana

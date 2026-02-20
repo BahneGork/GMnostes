@@ -27,8 +27,8 @@ Baronesse Avalande er Baronesse af Welles. Hun er forsvundet. I [[02 Player/Eruk
 - [[02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande\|Missions/Find Baronesse Avalande]]
 - [[02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande\|Factions/Court of Baronesse Avalande]]
 - [[02 Player/Erukana (Nissen)/Journal/Vaelon's instrukser til Baronesse Avalande\|Journal/Vaelon's instrukser til Baronesse Avalande]]
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Fafnir - intel on Avalande\|Journal/The Grand Alliance/Fafnir - intel on Avalande]]
 
 ## Tags

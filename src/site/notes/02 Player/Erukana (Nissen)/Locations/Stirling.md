@@ -33,7 +33,7 @@ Stirling (også stavet Stirring) er et lensherred i [[02 Player/Erukana (Nissen)
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
 - [[02 Player/Erukana (Nissen)/Journal/Lord Magdovas request\|Journal/Lord Magdovas request]]
-- [[02 Player/Erukana (Nissen)/Journal/Clarabels activities in Astley during Tarsakh\|Journal/Clarabels activities in Astley during Tarsakh]]
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 
 ## Tags
 #erukana #location #fief #welles #magdova

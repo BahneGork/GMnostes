@@ -26,7 +26,7 @@ De vilde elvere er en elverrace i [[02 Player/Erukana (Nissen)/Locations/Erukana
 - **Mission**: [[02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion\|Arcana Tower Explosion]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion\|Missions/Arcana Tower Explosion]]
 - [[02 Player/Erukana (Nissen)/Journal/Astley Avengers - Diplomacy\|Journal/Astley Avengers - Diplomacy]]
 
