@@ -150,6 +150,6 @@ Final loot list fra Vardestjerne bunkeren: https://docs.google.com/spreadsheets/
 NEXT: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver op til det. Sørger for det er sikkert og så henter vi Kaelen og hans crew op på skibet og finder ud af hvad der skal til for at det er flyveværdigt 
 
 
-[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen\|<< Previous Session 39 ]] ----[[02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon\|TOP]]----  [[ 41 - Erukana - Nissen \|Next Session 41  >>]] 
+[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen\|<< Previous Session 39 ]] ----[[02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon\|TOP]]----  [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\| Next Session 41 >>]] 
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]

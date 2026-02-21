@@ -54,6 +54,6 @@
 
 
 
-[[ \|<< Previous Session XX ]] ----[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|TOP]]----  [[ \|Next Session XX  >>]]
+[[02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon\|<< Previous Session 40 ]] ----[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|TOP]]----  [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|Next Session 42  >>]]
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]
