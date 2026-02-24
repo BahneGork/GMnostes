@@ -10,7 +10,7 @@ Last session ending with the expedition to [[02 Player/Erukana (Nissen)/Location
 NEXT move: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver op til det. Sørger for det er sikkert og så henter vi Kaelen og hans crew op på skibet og finder ud af hvad der skal til for at det er flyveværdigt 
 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-14' data-date-end='' data-img='Inline Example/Event_2.jpg' data-name='Ship Jacking'></span>
-	- Location: [[Port Drakkan\|Port Drakkan]] on the east coast of [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]] 
+	- Location: [[02 Player/Erukana (Nissen)/Locations/Port Drakkan\|Port Drakkan]] on the east coast of [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]] 
 	- a port of call for all kind of people, thugs, cutthroats, pirates, mercenaries and other oppertunistic people 
 	- **Evening**
 		- Vi mødes for at gennem loot som Nibar har identificeret.
@@ -61,9 +61,9 @@ NEXT move: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver o
 	- Golemmen er styret af en skygge engel. 
 	- Evelyn bliver udsat for power word kill og dør. 
 	- Victor dræber skygge englen med sidst shadow blade. 
-	- Organisationen som boede i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]] hed [[Aethor Flåden\|Aethor Flåden]]  og deres symbol er en bjergtop med et skib foran.
+	- Organisationen som boede i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]] hed [[02 Player/Erukana (Nissen)/Factions/Aethor Flåden\|Aethor Flåden]]  og deres symbol er en bjergtop med et skib foran.
 	- i et kammer finder vi:
-		- 10 [[sort metal ingots\|sort metal ingots]]
+		- 10 [[02 Player/Erukana (Nissen)/Items/sort metal ingots\|sort metal ingots]]
 		- en metal wand - whisperwind - som nok skal bruges til at kontrollere det flyvende skib 
 		- kort buen fra tidligere er  +1, +2 vs fey "runeward" 
 		- Victor finder en magisk glaive 
