@@ -42,3 +42,6 @@ d. 11, 12, 13, 14, 15, 16 Tarsakh: Delegation to Stirring [[02 Player/Erukana (N
 		- [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
 		- [[02 Player/Erukana (Nissen)/Factions/Adelhuset Urazzan\|Adelhuset Urazzan]] 
 		- [[02 Player/Erukana (Nissen)/Factions/Adelhuset Astleysson\|Adelhuset Astleysson]]
+
+fortsættes i [[02 Player/Erukana (Nissen)/Journal/Clara Gøremål Astley 16th - 18th tarsakh\|Clara Gøremål Astley 16th - 18th tarsakh]]
+samlet overblik [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
