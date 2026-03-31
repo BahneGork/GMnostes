@@ -43,7 +43,7 @@ NEXT: få skibet i stand, find ud af det sorte metal, tilbage til mistville elle
 		Mowbray støtter Eresby. 
 		Azur ordenen: 
 		- Vaelon har sendt nogen afsted til en by i Ceystanya hvor de fandt en bog der havde informationer om Azur ordenen 
-		- Bynavn: i nærheden af hovedstaden ved en stor sø 
+		- Bynavn: i nærheden af hovedstaden ved en stor sø: [[02 Player/Erukana (Nissen)/Locations/Calderin\|Calderin]] 
 	- Vaelon giver Clarabel en diplomacy pouch (skriftrulle)
 	Den store lilla eksplosion i bjergene 
 	Noget kom ud af bjergene og det siges at tågen ruller foran "det"

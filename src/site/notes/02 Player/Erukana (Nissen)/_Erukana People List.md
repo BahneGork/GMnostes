@@ -131,6 +131,7 @@
 - [[02 Player/Erukana (Nissen)/People/Sectionmaster\|Sectionmaster]]
 - [[02 Player/Erukana (Nissen)/People/Segreve\|Segreve]]
 - [[02 Player/Erukana (Nissen)/People/Seiran\|Seiran]]
+- [[02 Player/Erukana (Nissen)/People/Selenna\|Selenna]]
 - [[02 Player/Erukana (Nissen)/People/SestanyaMap1.png\|SestanyaMap1.png]]
 - [[02 Player/Erukana (Nissen)/People/Sigurd Volteman - Jernnæven\|Sigurd Volteman - Jernnæven]]
 - [[02 Player/Erukana (Nissen)/People/Silverstream\|Silverstream]]
