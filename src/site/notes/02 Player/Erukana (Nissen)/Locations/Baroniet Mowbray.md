@@ -21,7 +21,7 @@ RULER
 
 NOTABLE LOKATIONER
 
-[[02 Player/Erukana (Nissen)/People/Blackforge\|Blackforge]] (ca. 700.000 indbyggere) – den andenstørste by i hele Erukana og kendt mile vidt for deres smedjes evner til at fremstille rustninger.
+[[02 Player/Erukana (Nissen)/Locations/Blackforge\|Blackforge]] (ca. 700.000 indbyggere) – den andenstørste by i hele Erukana og kendt mile vidt for deres smedjes evner til at fremstille rustninger.
 
 [[02 Player/Erukana (Nissen)/Locations/The Forgotten tower\|The Forgotten tower]] – Et forladt tårn, som i betragtning af dets alder, burde være en ruin nu, men er det ikke.
 

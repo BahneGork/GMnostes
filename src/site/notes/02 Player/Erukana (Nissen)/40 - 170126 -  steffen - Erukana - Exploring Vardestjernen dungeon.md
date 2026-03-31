@@ -141,8 +141,8 @@
 	- månesang: yulan, købmands skib. sætter ud mod "ukendt farvand som lykken bringer dem"
 	- Skib der flyver: har ligget der i 10-15 år? ingen har gjort krav på det.. sky kaptajnen. Spiret?  
 - Nibar hiver en krystal kugle frem der viser en 3d illusion af et slags verdens kort hvorpå der er rifter
-- Vi begiver os hen til de 6 sølvstykker og udspørger [[02 Player/Erukana (Nissen)/Kaelen\|Kaelen]] om vores visions landmærker og fæstningens våbenskjold 
-	- ved [[02 Player/Erukana (Nissen)/Kaelen\|Kaelen]]'s side sidder [[02 Player/Erukana (Nissen)/People/blackwing\|blackwing]] og en sorthudet elver
+- Vi begiver os hen til de 6 sølvstykker og udspørger [[02 Player/Erukana (Nissen)/People/Kaelen\|Kaelen]] om vores visions landmærker og fæstningens våbenskjold 
+	- ved [[02 Player/Erukana (Nissen)/People/Kaelen\|Kaelen]]'s side sidder [[02 Player/Erukana (Nissen)/People/blackwing\|blackwing]] og en sorthudet elver
 	- Nibar viser illusioner af landmærker og fæstningen 
 
 Final loot list fra Vardestjerne bunkeren: https://docs.google.com/spreadsheets/d/11fwFim3kMTIq4ZLc8EBjgfaMmKFXuhLpPEerREV4AAc/edit?gid=0#gid=0

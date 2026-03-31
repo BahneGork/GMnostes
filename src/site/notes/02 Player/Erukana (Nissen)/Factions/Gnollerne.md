@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Gnollerne/","tags":["erukana","faction","monster"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Gnollerne/","tags":["erukana","faction"]}
 ---
 
 

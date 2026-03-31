@@ -4,7 +4,7 @@
 
 
 ## Description
-Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]. Det er et kontaktpunkt for [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]] og en kilde til krigsmateriale og udstyr.
+Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]. Det er et kontaktpunkt for [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] og en kilde til krigsmateriale og udstyr.
 
 ## Notes
 ### Beliggenhed
@@ -17,14 +17,14 @@ Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Baroniet Well
 - Del af handelsnetværket med [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]] og [[02 Player/Erukana (Nissen)/People/Mecina\|Mecina]]
 
 ### Kontakter
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]] har kontaktpunkt her
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] har kontaktpunkt her
 - Nogen [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] kender er stationeret her
 - Besked: "Lancaster, der er en person som jeg ikke forventede at høre fra igen. Jeg er i Castle Brienne. Måske på tilbagevejen kan svinge forbi Astley."
 
 ## Relationships
 - **Region**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 - **Handel**: Krigsmateriale, udstyr
-- **Netværk**: [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]]
+- **Netværk**: [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]]
 - **Handelsrute**: [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]], [[02 Player/Erukana (Nissen)/People/Mecina\|Mecina]]
 
 ## Referenced In

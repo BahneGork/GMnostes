@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Frostheim Klanen/","tags":["erukana","faction","dværge","klan"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Frostheim Klanen/","tags":["erukana","faction"]}
 ---
 
 

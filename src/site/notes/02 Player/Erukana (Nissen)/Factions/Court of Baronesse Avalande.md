@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande/","tags":["Erukana","erukana","npcfaction","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande/","tags":["erukana","faction"]}
 ---
 
 

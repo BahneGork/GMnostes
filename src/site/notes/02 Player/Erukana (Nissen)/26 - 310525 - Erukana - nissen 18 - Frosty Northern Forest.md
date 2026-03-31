@@ -37,7 +37,7 @@
 - [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]] knoglestammens høvding er ikke glad for [[02 Player/Erukana (Nissen)/Factions/flodhvisker stammen\|flodhvisker stammen]] 
 - Svala enøje vil gerne føre os til hendes stamme
 - vi går igennem nogle groft udhugget tunneller og ender i noget der er reelle lokaler/rum 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-23' data-date-end='1517-Ches-23' data-img='Inline Example/Event_2.jpg' data-name='Ankommer til Knoglestammens huler'>Vi er ankommet til knoglestammens huler.</span> - *[[02 Player/Erukana (Nissen)/Factions/knoglestammens huler\|knoglestammens huler]]*
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Ches-23' data-date-end='1517-Ches-23' data-img='Inline Example/Event_2.jpg' data-name='Ankommer til Knoglestammens huler'>Vi er ankommet til knoglestammens huler.</span> - *[[02 Player/Erukana (Nissen)/Locations/knoglestammens huler 1\|knoglestammens huler 1]]*
 - Svala overtaler en ældre herre til at vi må få fortræde for høvdingen 
 - Vi støder på en vagt som er skaldet og umulig at anskue alder på, hans hud er lidt hærdet og ligner næsten at der er skæl indenunder 
 - der er falmet graveringer på væggene, men de er ikke blevet holdt ved lige og ting der er gået i råd over tid 

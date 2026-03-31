@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Warpaw stammen/","tags":["erukana","faction","tribe","warrior"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Warpaw stammen/","tags":["erukana","faction"]}
 ---
 
 

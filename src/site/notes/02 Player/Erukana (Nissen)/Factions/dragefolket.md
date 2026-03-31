@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/dragefolket/","tags":["erukana","faction","monster","dragonborn"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/dragefolket/","tags":["erukana","faction"]}
 ---
 
 

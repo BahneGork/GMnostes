@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Baronessens råd/","tags":["erukana","faction","politics","welles"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Baronessens råd/","tags":["erukana","faction"]}
 ---
 
 

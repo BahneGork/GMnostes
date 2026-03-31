@@ -4,7 +4,7 @@
 
 
 ## Description
-Highhome er hovedstaden i [[02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere\|Baroniet Blackmere]] med ca. 200.000 indbyggere. Byen er centrum for rigets største handelsflåde og kontaktpunkt for [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]].
+Highhome er hovedstaden i [[02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere\|Baroniet Blackmere]] med ca. 200.000 indbyggere. Byen er centrum for rigets største handelsflåde og kontaktpunkt for [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]].
 
 ## Notes
 ### Størrelse og betydning
@@ -18,12 +18,12 @@ Highhome er hovedstaden i [[02 Player/Erukana (Nissen)/Locations/Baroniet Blackm
 - Del af Blackmeres fokus på handel med resten af [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]
 
 ### Kontakter
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]] kontaktpunkt
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] kontaktpunkt
 
 ## Relationships
 - **Region**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere\|Baroniet Blackmere]]
 - **Baronesse**: [[02 Player/Erukana (Nissen)/People/Baronesse Constance Silkenfall\|Baronesse Constance Silkenfall]]
-- **Netværk**: [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]]
+- **Netværk**: [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]]
 - **Søsterby**: [[02 Player/Erukana (Nissen)/Locations/Vigil's Rock\|Vigil's Rock]]
 
 ## Referenced In

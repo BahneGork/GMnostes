@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Blodrosen/","tags":["erukana","faction","ridderorden"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Blodrosen/","tags":["erukana","faction"]}
 ---
 
+
+> **Note**: This file appears to be a duplicate of [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]. The user should consider deleting this file and keeping the primary entry.
 
 ## Description
 Ridderne af Blodrosen (også kaldet Blodrosen) er en ridderorden der kom til [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] østfra for ca. 1 år siden. De har indgået en alliance med [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og hjælper med at opretholde lov og orden. De kom for at kæmpe den kamp som [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ikke kunne kæmpe - mod [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]]. Ordenen har dog en kompleks relation til gruppen og andre fraktioner.

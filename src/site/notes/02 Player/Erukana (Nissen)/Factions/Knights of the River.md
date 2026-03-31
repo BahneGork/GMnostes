@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Knights of the River/","tags":["erukana","faction","queensguard","military"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Knights of the River/","tags":["erukana","faction"]}
 ---
 
 

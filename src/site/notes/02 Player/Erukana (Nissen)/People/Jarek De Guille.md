@@ -15,7 +15,7 @@ Jarek De Guille har ukendt kontekst. Minimal reference i sessionnoter.
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Expanding the military wing\|Journal/The Grand Alliance/Expanding the military wing]]
+- [[Journal/The Grand Alliance/Expanding the military wing\|Journal/The Grand Alliance/Expanding the military wing]]
 
 ## Tags
 #erukana #npc #minimal

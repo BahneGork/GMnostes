@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Nordlandets stammer/","tags":["erukana","faction","tribes","north"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Nordlandets stammer/","tags":["erukana","faction"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Hands of the Queen/","tags":["erukana","faction","queensguard"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Hands of the Queen/","tags":["erukana","faction"]}
 ---
 
 

@@ -1,20 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Brakeshield familien/","tags":["erukana","faction","nobility"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Brakeshield familien/","tags":["erukana","faction","family","nobility"]}
 ---
 
 
 ## Description
-Brakeshield familien er en adelig familie i Erukana. De ejede [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|sølvstatuen]], en ca. tyve centimeter høj sølvstatue af en bjørn med en smaragd i panden og gevirer.
+Brakeshield familien er en adelig familie i Erukana. De ejede [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|sølvstatuen]], en ca. tyve centimeter høj sølvstatue af en bjørn med en smaragd i panden og gevirer, indgraveret med familiens symbol.
 
 ## Notes
 ### Sølvstatuen
 - Familien ejede [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|sølvstatuen]]
-- Statuen er indgraveret med familiens symbol
+- Statuen forestiller en bjørn med en smaragd i panden og gevirer
+- Indgraveret med familiens symbol
 - Den viser tilhørsforhold til Brakeshield familien
 
-### Missionen
+### Mission
 - [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] hentede statuen for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
-- Statuen blev fundet hos [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+- Statuen var endt hos [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
 - [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] betalte 200gp for leveringen
 
 ### Statuens rejse
@@ -25,6 +26,7 @@ Brakeshield familien er en adelig familie i Erukana. De ejede [[02 Player/Erukan
 ## Relationships
 - **Artefakt**: [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|Sølvstatuen]]
 - **Kontakt**: [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] - modtog statuen
+- **Fundet hos**: [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] - hvor statuen blev fundet
 
 ## Referenced In
@@ -33,4 +35,4 @@ Brakeshield familien er en adelig familie i Erukana. De ejede [[02 Player/Erukan
 - [[02 Player/Erukana (Nissen)/Journal/Clarabel Diary\|Journal/Clarabel Diary]]
 
 ## Tags
-#erukana #faction #nobility #brakeshield #statue
+#erukana #faction #family #nobility #brakeshield #statue

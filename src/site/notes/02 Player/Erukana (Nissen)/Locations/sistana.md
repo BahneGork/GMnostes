@@ -4,7 +4,7 @@
 
 
 ## Description
-Sistana (også kaldet Sestenua) er en region i "det forbudte øst", del af samme område som [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]] og [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]. Det er et kontaktpunkt for [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]].
+Sistana (også kaldet Sestenua) er en region i "det forbudte øst", del af samme område som [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]] og [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]. Det er et kontaktpunkt for [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]].
 
 ## Notes
 ### Geografi
@@ -13,12 +13,12 @@ Sistana (også kaldet Sestenua) er en region i "det forbudte øst", del af samme
 - Hjemsted for [[02 Player/Erukana (Nissen)/Factions/blå nomader\|blå nomader]] (Zazmir stammen)
 
 ### Kontakter
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]] kontaktpunkt i regionen
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] kontaktpunkt i regionen
 
 ## Relationships
 - **Nærliggende**: [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]], [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]
 - **Nomadestamme**: [[02 Player/Erukana (Nissen)/Factions/blå nomader\|blå nomader]] (Zazmir stammen)
-- **Netværk**: [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]]
+- **Netværk**: [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/blå nomader\|Factions/blå nomader]]

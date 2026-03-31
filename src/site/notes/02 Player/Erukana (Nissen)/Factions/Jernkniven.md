@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Jernkniven/","tags":["erukana","faction","tyvelaug","defunct"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Jernkniven/","tags":["erukana","faction"]}
 ---
 
 

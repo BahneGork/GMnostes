@@ -9,9 +9,9 @@
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-10' data-date-end='' data-img='Inline Example/Event_2.jpg' data-name='39 - Aftermath of the infernal machine'></span>
 	- Vi træner et level 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-11' data-date-end='1517-Tarsakh-11' data-img='Inline Example/Event_2.jpg' data-name='39 - Rejser til Vardestjernen'></span>
-	- Vi pakker sammen og rejser mod [[02 Player/Erukana (Nissen)/Varde stjernen\|Varde stjernen]]
+	- Vi pakker sammen og rejser mod [[Varde stjernen\|Varde stjernen]]
 	- 2 dages rejse 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-12' data-date-end='1517-Tarsakh-12' data-img='Inline Example/Event_2.jpg' data-name='39 - ankommer til Varde stjernen'></span>d. 12 Tarsakh ankomst til [[02 Player/Erukana (Nissen)/Varde stjernen\|Varde stjernen]]
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-12' data-date-end='1517-Tarsakh-12' data-img='Inline Example/Event_2.jpg' data-name='39 - ankommer til Varde stjernen'></span>d. 12 Tarsakh ankomst til [[Varde stjernen\|Varde stjernen]]
 	- Evelyn tager den til fange tagne Ork som vi har efterladt, udenfor byen og sætter ham på knæ. 
 	- "I paladine og Mishakals navn dømmer jeg dig for alle de ugerninger du har forvoldt" og henretter orken. 
 	- Vi spiser noget mad og sætter igang med at udforske den magiske bygning 

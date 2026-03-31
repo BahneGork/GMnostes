@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere/","tags":["erukana","faction","religious","bahamut","paladine"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere/","tags":["erukana","faction"]}
 ---
 
 

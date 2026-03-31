@@ -59,7 +59,7 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 	- Who killed Miri? :  I do not know 
 	- Why was Miri killed?:  She discovered us 
 	- Who cursed you to be silent?: Rich lady in a black n red dress  (later to be discovered to be [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]])
-	- What goes on at the secret parties in the warehouse?: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] throws parties for his cult - [[02 Player/Erukana (Nissen)/Factions/The cult of the Opal society\|The cult of the Opal society]] 
+	- What goes on at the secret parties in the warehouse?: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] throws parties for his cult - [[The cult of the Opal society\|The cult of the Opal society]] 
 	- do you know any other names in [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s cult?:  Krugger   (Miri's fiancee)
 - The one good information from the keep was that often someone would come to fetch [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] and the day we were there she had another appointment 
 - We investigated the curse at the city library, see appendix on [[02 Player/Erukana (Nissen)/Journal/The strangle voice curse\|The strangle voice curse]] 
@@ -76,12 +76,12 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 
 
 ## Conclusion
-[[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] and [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] hosted a club - [[02 Player/Erukana (Nissen)/Factions/The cult of the Opal society\|The cult of the Opal society]] - in the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] for the rich and powerful. Here they could indulge in all manner of decadant desires.  
+[[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] and [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] hosted a club - [[The cult of the Opal society\|The cult of the Opal society]] - in the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] for the rich and powerful. Here they could indulge in all manner of decadant desires.  
 They also collected souls of unfortunate for their fiend lord Grazzt.  
 Miri Sangstrup saw what was really going on and she should not have. 
 [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] turned her fiance [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] into a beast to pursue her and kill her. 
 [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]]'s current location is unknown. 
-[[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] escaped from the mansion and is perhaps the real power behind [[02 Player/Erukana (Nissen)/Factions/The cult of the Opal society\|The cult of the Opal society]] 
+[[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] escaped from the mansion and is perhaps the real power behind [[The cult of the Opal society\|The cult of the Opal society]] 
 
 Signed by ~ Astley Avengers
 [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] - [[02 Player/Erukana (Nissen)/People/Bjørn of Nordheim\|Bjørn of Nordheim]]  &  [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
@@ -111,7 +111,7 @@ Miri's murderer unmasked
 > - Rigt inventar i form af møbler til at dække hele huset, til en værdi af 60.000 gp.
 > - Skatte, tradebars, gemstones til en værdig af 15.000 gp – låst inde i et pengeskab.
 > - 3 tjenestefolk – en Chamberlain, 1 stuepige, 1 kokkepige.
-> - 1 [[02 Player/Erukana (Nissen)/Factions/handelsaftale med Sølv Hånden\|handelsaftale med Sølv Hånden]], som giver [[02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning\|Alistairs handelsforretning]] adgang til at deltage & handle på vegne og med [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Sølv Håndens købmands laug]] i Erukana. Dette giver rettigheder til at benytte handelsflåder og karavaner, og giver adgang til at købe og videresælger materiale både ind- og udlands.
+> - 1 [[02 Player/Erukana (Nissen)/Journal/handelsaftale med Sølv Hånden\|handelsaftale med Sølv Hånden]], som giver [[02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning\|Alistairs handelsforretning]] adgang til at deltage & handle på vegne og med [[Sølv Håndens købmands laug\|Sølv Håndens købmands laug]] i Erukana. Dette giver rettigheder til at benytte handelsflåder og karavaner, og giver adgang til at købe og videresælger materiale både ind- og udlands.
 > - Formidler og handelskyndig: [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]]. Arbejder i og ud fra [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair hustanden]] og deres butik. Formidler og håndtere den daglige drift af Alistairs voksende ”handelsimperium”. Dette har hun gjort i flere år for Alistair, så han bare har kunne nyde indkomsten og leve livet. Hun viser tegn på at hun egentlig ikke har brugt meget tid med Alistair ud over i forretnings øjemed. Hvis gruppen er interesseret, vil hun gerne drive forretningen videre for samme aftale som hun havde med Alistair, alternativt kan hun sælge forretningen for dem.
 > 
 > Muligheder:

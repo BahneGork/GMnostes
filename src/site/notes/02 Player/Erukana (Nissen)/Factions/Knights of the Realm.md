@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Knights of the Realm/","tags":["erukana","faction","military","knights"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Knights of the Realm/","tags":["erukana","faction"]}
 ---
 
 

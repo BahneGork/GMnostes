@@ -15,10 +15,10 @@ Alistairs handelsforretning var [[02 Player/Erukana (Nissen)/People/Lord Alistai
 ### Nuværende drift
 - Omdøbt til [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
 - Administreret af [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]]
-- Har handelsaftale med [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]
+- Har handelsaftale med [[Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]
 
 ### Handelsrettigheder
-- Adgang til [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]s netværk
+- Adgang til [[Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]s netværk
 - Rettigheder til handelsflåder og karavaner
 - Kan købe og videresælge materiale ind- og udlands
 
@@ -26,12 +26,12 @@ Alistairs handelsforretning var [[02 Player/Erukana (Nissen)/People/Lord Alistai
 - **Tidligere ejer**: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]
 - **Nuværende ejer**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 - **Administrator**: [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]]
-- **Handelspartner**: [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]
+- **Handelspartner**: [[Sølv Håndens købmands laug\|Sølv Håndens købmands laug]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley\|Missions/Solve the murder of Miri in Astley]]
-- [[02 Player/Erukana (Nissen)/Factions/Sølv Håndens købmands laug\|Factions/Sølv Håndens købmands laug]]
+- [[Factions/Sølv Håndens købmands laug\|Factions/Sølv Håndens købmands laug]]
 
 ## Tags
 #erukana #location #business #astley #trade #waningmoon

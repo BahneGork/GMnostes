@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/de Ældste af Bjergenes Børn/","tags":["erukana","faction","dwarf","ancient"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/de Ældste af Bjergenes Børn/","tags":["erukana","faction"]}
 ---
 
 

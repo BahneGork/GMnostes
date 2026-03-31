@@ -18,7 +18,7 @@
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Financial backing\|Journal/The Grand Alliance/Financial backing]]
+- [[Journal/The Grand Alliance/Financial backing\|Journal/The Grand Alliance/Financial backing]]
 
 ## Tags
 #erukana #faction #handel #fejlplaceret

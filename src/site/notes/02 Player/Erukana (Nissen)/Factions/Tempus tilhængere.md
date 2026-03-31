@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Tempus tilhængere/","tags":["erukana","faction","religious","tempus","war"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Tempus tilhængere/","tags":["erukana","faction"]}
 ---
 
 

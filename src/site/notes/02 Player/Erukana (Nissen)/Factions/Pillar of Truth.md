@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Pillar of Truth/","tags":["erukana","faction","secret","society","plot-hook"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Pillar of Truth/","tags":["erukana","faction"]}
 ---
 
 

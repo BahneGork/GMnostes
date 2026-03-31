@@ -21,18 +21,18 @@ The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave"
 - Potentiel kilde til information om [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
 
 ### Kontakter
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]] kontaktpunkt
+- [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] kontaktpunkt
 
 ## Relationships
 - **Region**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Uddannede**: [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
-- **Netværk**: [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Waning Moon\|Waning Moon]]
+- **Netværk**: [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]]
 - **Undersøgelse**: [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]] (sjælespejle)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|People/Marie Louise Duvall af Miragehill]]
 - [[Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
+- [[Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
 
 ## Tags
 #erukana #location #tower #magic #botreaux #weave

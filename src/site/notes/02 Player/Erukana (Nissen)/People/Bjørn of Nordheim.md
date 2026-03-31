@@ -22,7 +22,7 @@ Bjørn of Nordheim er en PC (spillerkarakter). Han er fra Nordheim og er en tidl
 - **Hjemland**: Nordheim
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Factions/Bone Tribe\|Factions/Bone Tribe]]
+- [[Factions/Bone Tribe\|Factions/Bone Tribe]]
 - [[02 Player/Erukana (Nissen)/Missions/Mission Debriefing - The murder of Miri Sangstrup\|Missions/Mission Debriefing - The murder of Miri Sangstrup]]
 
 ## Tags

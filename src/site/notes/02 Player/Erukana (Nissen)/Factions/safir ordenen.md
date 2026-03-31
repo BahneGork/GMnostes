@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/safir ordenen/","tags":["erukana","faction","ancient","ally"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/safir ordenen/","tags":["erukana","faction"]}
 ---
 
 

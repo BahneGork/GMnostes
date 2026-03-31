@@ -30,7 +30,7 @@ Vagtkaptajn Samuel er kaptajn af vestporten i [[02 Player/Erukana (Nissen)/Locat
 
 ## Relationships
 - **Rolle**: Vagtkaptajn ved Astley vestport
-- **Arbejdsgiver**: [[Astley Byvagt\|Astley Byvagt]]
+- **Arbejdsgiver**: [[02 Player/Erukana (Nissen)/Factions/Astley Byvagt\|Astley Byvagt]]
 - **Overordnet**: Borgmesteren i Astley
 - **Kontakt**: [[Sir Edmund Astley\|Sir Edmund Astley]]
 - **Samarbejde**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] - bistår i mordsagen

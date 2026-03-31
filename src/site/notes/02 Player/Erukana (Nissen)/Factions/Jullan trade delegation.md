@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Jullan trade delegation/","tags":["erukana","faction","merchant","jullan","yuulan"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Jullan trade delegation/","tags":["erukana","faction"]}
 ---
 
 

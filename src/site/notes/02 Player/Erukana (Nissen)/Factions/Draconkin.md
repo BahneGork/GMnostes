@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Draconkin/","tags":["erukana","faction","monster","dragon"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Draconkin/","tags":["erukana","faction"]}
 ---
 
 
@@ -16,9 +16,15 @@ Draconkin er et dragefolk eller drage-relateret race i [[02 Player/Erukana (Niss
 - Muligvis samme race som [[02 Player/Erukana (Nissen)/Factions/dragefolket\|dragefolket]]
 - Drageblodet væsner med krigeriske tendenser
 
+### Session 43 — Aktive operationer
+- Store klo-fodspor (lidt større end de draconkin-lignende væsner gruppen mødte inden de faldt igennem sneen og fandt [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]]) fundet i [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]] — ledsaget af tegn på disintegration attacks i områder der ikke var ramt af disintegration
+- Tarsakh 21: Boarder [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]] og tager [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] til fange
+- Evelyn bekræftet holdt fanget i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]], i bjergene sydpå, grænsende mod [[Ceystanya\|Ceystanya]]
+- Gruppen mistænker forbindelse til de draconkin de mødte i nordlandet
+
 ### Nutidige status
-- Uvist om de stadig udgør en organiseret trussel
-- Kan stadig findes i vildmarken
+- AKTIV trussel — organiserede nok til koordinerede boardingoperationer og fangetagelse
+- Opererer både i nordlandet (Vardestjernen) og sydpå (Eresby-bjergene)
 
 ## Relationships
 - **Fjender**: [[02 Player/Erukana (Nissen)/People/Ellin Thalor\|Ellin Thalor]], [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
@@ -28,6 +34,7 @@ Draconkin er et dragefolk eller drage-relateret race i [[02 Player/Erukana (Niss
 ## Referenced In
 - [[Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
 - [[Locations/Botreaux byen\|Locations/Botreaux byen]]
+- [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]
 
 ## Tags
 #erukana #faction #monster #dragon #historie

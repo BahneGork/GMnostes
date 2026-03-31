@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/skyggefolket/","tags":["erukana","faction","mysterious","darkness"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/skyggefolket/","tags":["erukana","faction"]}
 ---
 
 

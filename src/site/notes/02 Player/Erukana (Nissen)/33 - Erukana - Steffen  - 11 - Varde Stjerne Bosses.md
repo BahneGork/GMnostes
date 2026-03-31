@@ -10,7 +10,7 @@
 
 6th tarsakh - aften
 - Vi bekæmper frost kæmpen og skygge trunten
-- [[02 Player/Erukana (Nissen)/Varde stjernen\|Varde stjernen]] er nu vores! 
+- [[Varde stjernen\|Varde stjernen]] er nu vores! 
 
 
 

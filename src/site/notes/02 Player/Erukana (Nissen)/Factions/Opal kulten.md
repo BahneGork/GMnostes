@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Opal kulten/","tags":["erukana","faction","antagonist"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Opal kulten/","tags":["erukana","faction"]}
 ---
 
 
@@ -23,18 +23,33 @@ Opal kulten er en mystisk kult forbundet med korruption og ædelsten-infuserede 
 - Den lilla plage er alles fjende
 - Den lilla plage var skyld i [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] fald
 
+## Astley-kulten (session 19)
+Den sociale manifestation af Opal kulten i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] opererede under dækning af "en bogklub for de højere udviklede" — hemmelige fester for de rige og magtfulde afholdt i [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]].
+
+- **[[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]** — vært for kulten, afsløret som dæmon og besejret af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
+- **[[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady Lucille Vitano]]** — menes at være den egentlige magt bag kulten; flygtede og er muligvis stadig aktiv
+- Kultens aktiviteter: tilbedelse af [[Graz'zt\|Graz'zt]] (dæmon-fyrste), omdannelse af mennesker, fangelse af sjæle i spejle
+- Skandale involverede [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
+- **Status**: Den ydre kult i Astley er nedkæmpet — Lord Alistair besejret
+
 ## Relationships
-- **Forbundet med**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]] - den ondskabsfulde kraft bag korruptionen
-- **Relateret**: [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] - kobolder påvirket af kulten
-- **Leder**: [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] - leder blandt kobolderne
-- **Væsen**: [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] - mystisk væsen i hulerne
-- **Skandale**: [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady Lucille Vitano]] - afsløret som involveret
+- **Forbundet med**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]] — den ondskabsfulde kraft bag korruptionen
+- **Relateret**: [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] — kobolder påvirket af kulten
+- **Leder (korruption)**: [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] — leder blandt kobolderne
+- **Væsen**: [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] — mystisk væsen i hulerne
+- **Leder (Astley-kulten)**: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] (besejret), [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady Lucille Vitano]] (flygtede)
+- **Tilbeder**: [[Graz'zt\|Graz'zt]]
+- **Skandale**: [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1\|1-080723 - Changer of time session 1]]
 - [[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8\|8-160324 - Changer of time session 8]]
 - [[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16\|20 - 110125 - Changer of time - nissen - session 16]]
 - [[02 Player/Erukana (Nissen)/Downtime Astley 2 - between session 19-20\|Downtime Astley 2 - between session 19-20]]
+- [[02 Player/Erukana (Nissen)/Missions/Mission Debriefing - The murder of Miri Sangstrup\|Missions/Mission Debriefing - The murder of Miri Sangstrup]]
+- [[02 Player/Erukana (Nissen)/Journal/Downtime Astley - Kap2 intermission\|Journal/Downtime Astley - Kap2 intermission]]
+- [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|People/Lady lucille vitano]]
 
 ## Tags
 #factions #erukana #antagonist #corruption #lillaplage

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Dark Gem klanen/","tags":["erukana","faction","kobold","lillaplage"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Dark Gem klanen/","tags":["erukana","faction"]}
 ---
 
 

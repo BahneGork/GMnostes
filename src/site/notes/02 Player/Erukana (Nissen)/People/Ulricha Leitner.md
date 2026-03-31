@@ -4,14 +4,14 @@
 
 
 ## Description
-Ulricha Leitner (også stavet Ulrika) er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] der fortryllede [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] til at forråde sin far [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]].
+Ulricha Leitner (også stavet Ulrika) er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] der fortryllede [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] til at forråde sin far [[Lord Magdova\|Lord Magdova]].
 
 ## Notes
 ### Fortryllelsen af Kasimer
 - Fortryllede [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] til at forråde sin far
 - Efter besøg hos hende opførte Kasimer sig mekanisk
 - Kasimer flygtede senere nordpå
-- Del af [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]]s komplot mod [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
+- Del af [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]]s komplot mod [[Lord Magdova\|Lord Magdova]]
 
 ### Familie
 - Del af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
@@ -23,7 +23,7 @@ Ulricha Leitner (også stavet Ulrika) er et medlem af [[02 Player/Erukana (Nisse
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
 - **Offer**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] - fortryllede ham
 - **Sammensvoren**: [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]]
-- **Mål**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] - indirekte
+- **Mål**: [[Lord Magdova\|Lord Magdova]] - indirekte
 - **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]
 
 ## Referenced In

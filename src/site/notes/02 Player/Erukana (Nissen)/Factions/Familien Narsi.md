@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Familien Narsi/","tags":["erukana","faction","family"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Familien Narsi/","tags":["erukana","faction"]}
 ---
 
 

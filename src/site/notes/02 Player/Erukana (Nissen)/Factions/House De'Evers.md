@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House De'Evers/","tags":["erukana","faction","noble","mistville"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House De'Evers/","tags":["erukana","faction"]}
 ---
 
 

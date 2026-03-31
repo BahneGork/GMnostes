@@ -37,13 +37,13 @@ Vinterspiret er et 36 meter højt tårn beliggende i [[02 Player/Erukana (Nissen
   - Kammer bag: 10 sort metal ingots, unavngiven metal-wand (styrer [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]]), [[02 Player/Erukana (Nissen)/Items/Runeward\|Runeward]], [[02 Player/Erukana (Nissen)/Items/magisk glaive\|magisk glaive]]
   - Altan: mesterens skjulte rigdom
 - Tårnet er nu fuldstændig renset for skygger og ondskab
-- Det sorte metal er hentet i tempelminerne i [[02 Player/Erukana (Nissen)/Locations/Ankgramar\|Ankgramar]]
+- Det sorte metal er hentet i tempelminerne i [[02 Player/Erukana (Nissen)/Locations/Angramar\|Angramar]]
 
 ## Items Found
 - [[02 Player/Erukana (Nissen)/Items/harpe\|harpe]] - giver inspiration 1/30 dage (Evelyn)
 - [[02 Player/Erukana (Nissen)/Items/Runeward\|Runeward]] - +1 shortbow, +2 vs fey (Logan)
 - unavngiven metal-wand - styrer [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]]
-- [[02 Player/Erukana (Nissen)/Items/sort metal ingots\|sort metal ingots]] - 10 stk, fra Ankgramar
+- [[02 Player/Erukana (Nissen)/Items/sort metal ingots\|sort metal ingots]] - 10 stk, fra Angramar
 - [[02 Player/Erukana (Nissen)/Items/magisk glaive\|magisk glaive]] - Victors
 - [[02 Player/Erukana (Nissen)/Items/obsidian arrows\|obsidian arrows]] - 20 stk, +1, eksploderer d6 force
 - Bøger af [[02 Player/Erukana (Nissen)/People/Voldumand den tredje\|Voldumand den tredje]] (3 leksikon om verdens skabelse)

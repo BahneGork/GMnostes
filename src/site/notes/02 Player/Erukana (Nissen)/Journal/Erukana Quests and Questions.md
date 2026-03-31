@@ -35,6 +35,6 @@
 # [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]]
 - [x] why was he not upset with departing with the [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]]? ✅ 2024-02-16
 	- [x] what did he learn by studying it for a few days? ✅ 2024-02-16
-	- [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald oddball]] possibly learned about an ancient treasure on a distant island, related to an ancient civilization. #erukanasecretsnclues 
-	- [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]] never left [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], he was captured and tortured by [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] the Necromancer. #erukanasecretsnclues 
+	- [[Archibald oddball\|Archibald oddball]] possibly learned about an ancient treasure on a distant island, related to an ancient civilization. #erukanasecretsnclues 
+	- [[Archibald Oddball\|Archibald Oddball]] never left [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], he was captured and tortured by [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] the Necromancer. #erukanasecretsnclues 
 	- related mission: [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] 

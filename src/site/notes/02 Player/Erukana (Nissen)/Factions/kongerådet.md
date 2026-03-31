@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/kongerådet/","tags":["erukana","faction","politics","royalty"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/kongerådet/","tags":["erukana","faction"]}
 ---
 
 

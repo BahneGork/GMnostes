@@ -29,7 +29,7 @@ Colville (også stavet Coleville) er en by i [[02 Player/Erukana (Nissen)/Locati
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Erukana Party Agenda\|Journal/Erukana Party Agenda]]
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Locations/Baroniet Welles]]
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
+- [[Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
 
 ## Tags
 #erukana #location #city #welles #mission

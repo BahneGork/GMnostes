@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Astley Avengers/","tags":["erukana","faction","pc-organization"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Astley Avengers/","tags":["erukana","faction"]}
 ---
 
 
@@ -12,9 +12,15 @@ Når man er formelt inviteret og via en ceremoni er blevet optaget i Astley Aven
     
 ## Hvem er Astley Avengers?
 
+### Session 43 - Sejlads og fangst
+- [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]] sætter sejl Tarsakh 19
+- Tarsakh 21: Draconians boarder skibet — [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] tages til fange
+- Clarabel bruger commune: Evelyn er i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]], bjergene mod syd
+- Gruppen er på vej mod Eresby for at redde Evelyn (ankomst Astley Tarsakh 25)
+
 ### Session 42 - Nye medlemmer
 - Victor, Evelyn og Logan siger ja til at blive formelle medlemmer af Astley Avengers
-- (Evelyn Adair dør samme session i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]])
+- (Evelyn Adair dør samme session i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret]])
 
 
 ## Hvem er Astley Avengers Patrons og allierede?
@@ -40,3 +46,14 @@ Når man er formelt inviteret og via en ceremoni er blevet optaget i Astley Aven
     #### Astley Avengers ansvar og gerninger
     
     Hvis Astley Avengers skulle miste deres guders patronage, igennem f.eks. at gøre gerninger som ikke længere er i tråd med Paladine og Mishakal, vil de boons som organisationen hidtil har erhvervet, falde bort. Det afholder ikke Astley Avengers for, at blive kendt for andre ting i fremtiden og derved opnår nye boons.
+
+## Referenced In
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2\|22 - 270325 - Erukana Steffen 2]]
+- [[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|27 - 210625 - Eurkana - nissen 19 -]]
+- [[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova\|38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova]]
+- [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]
+- [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]
+
+## Tags
+#erukana #faction #pc-organisation #astley

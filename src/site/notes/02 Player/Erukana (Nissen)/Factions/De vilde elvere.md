@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/De vilde elvere/","tags":["erukana","faction","elves","race"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/De vilde elvere/","tags":["erukana","faction"]}
 ---
 
 

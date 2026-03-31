@@ -4,17 +4,17 @@
 
 
 ## Description
-En magisk harpe fundet i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]. Den giver inspiration til folk der lytter - én gang per 30 dage. Fundet og prøvet af Evelyn.
+En magisk harpe fundet i [[Vinterspiret 1\|Vinterspiret 1]]. Den giver inspiration til folk der lytter - én gang per 30 dage. Fundet og prøvet af Evelyn.
 
 ## Notes
 ### Session 42
-- Fundet i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]
+- Fundet i [[Vinterspiret 1\|Vinterspiret 1]]
 - Evelyn prøver den - giver inspiration til folk der lytter
 - Begrænsning: 1 gang per 30 dage
 - Bekræftet magisk via Nibars Detect Magic ritual
 
 ## Relationships
-- **Found in**: [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]
+- **Found in**: [[Vinterspiret 1\|Vinterspiret 1]]
 - **Tested by**: [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]
 
 ## Referenced In

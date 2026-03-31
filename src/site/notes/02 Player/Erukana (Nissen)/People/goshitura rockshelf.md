@@ -4,15 +4,15 @@
 
 
 ## Description
-goshitura rockshelf er en person fundet i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]. Han er i besiddelse af to søskende kampøkser af mesterklasse.
+goshitura rockshelf boede i et kammer i [[Vinterspiret 1\|Vinterspiret 1]]. Han var i besiddelse af to søskende kampøkser af mesterklasse.
 
 ## Notes
 ### Session 42
-- Fundet i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]
-- Har 2 søskende battle axes, mastercrafted
+- Fundet i [[Vinterspiret 1\|Vinterspiret 1]]
+- 2 søskende battle axes, mastercrafted
 
 ## Relationships
-- **Location**: [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]
+- **Location**: [[Vinterspiret 1\|Vinterspiret 1]]
 - **Items**: 2 mastercrafted battle axes (søskende/paired)
 
 ## Referenced In

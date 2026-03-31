@@ -1,33 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Sølvhånden/","tags":["Erukana","erukana","faction","trade","merchants"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Sølvhånden/","tags":["erukana","faction"]}
 ---
 
 
-#erukana #faction #trade #merchants
+## Description
+Sølvhånden er et mægtigt og indflydelsesrigt købmandslaug, over 30 år gammelt, der opererer på tværs af [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] og [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. Det startede som et lille handelsfællesskab for at sikre tryggere handelsruter via egne vagt- og handelskompagnier, men er nu vokset sig stort og rigt. Organisationen er i dag så indflydelsesrig, at de i flere lande og områder kan påvirke, hvordan riget regeres.
 
-**SØLV HÅNDEN**
+## Organisation
+Organisationen har tilstedeværelse i alle større byer med aktiv handel. Der er mindst ét varehus i hvert land, hvorfra en del af administrationen foretages. Den ansvarlige leder for hvert område holder til ved det primære varehus og handelskontor og er altid en af de mere magtfulde lokale købmænd.
 
-**BAGGRUND:**
+En tæt ring af meget magtfulde købmænd leder organisationen — men deres identitet er hemmelig. Områdelederne fungerer som daglige ledere og diplomater (lobbyister) med direkte kontakt til magthaverne.
 
-Sølv hånden er mere end 30 år gammel og startede som et lille købmands laug som nu er vokset sig magtfuldt og stort. I tidernes morgen var det en alliance der skulle sikre nemmere og mere sikre handelsruter med deres egne vagt og handelskompagnier.
+**Leder for Erukana:** [[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]] — leder fra sit palæ i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
 
-**ORGANISATION:**
+## Handelsvarer
+- Klæder, smykker og kunstværker
+- Landbrugsvarer
+- Militært udstyr
+- Rygtes at handle med ulovlige genstande på det sorte marked
 
-Organisationen har en tilstedeværelse i flere byer, for det meste større byer hvor der er meget handel. Der er mindst et varehus i hvert land, hvor en del af administrationen også foretages fra. Det er ved det primære varehus og handelskontor i hvert rige, at den ansvarlige leder for området vil være at finde. 
-Lederne er altid en af de mere magtfulde købmænd i området og derved forventes det altid at der er rigelig med resurser til rådighed, til at støtte op om Sølv håndens aktiviteter.
+## Rettigheder og privilegier
+- Adgang til handelsflåder og karavaner
+- Rettigheder til at købe og videresælge materiale ind- og udlands
+- Omfattende handelsnetværk på tværs af Ceynor og Erukana
 
-**ORDENEN I DAG:**
+## Notes
+### Forbindelse til Astley Avengers
+- [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] har indgået [[02 Player/Erukana (Nissen)/Journal/handelsaftale med Sølv Hånden\|handelsaftale med Sølv Hånden]]
+- Aftalen giver [[02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning\|Alistairs handelsforretning]] adgang til laugets handelsnetværk
+- [[02 Player/Erukana (Nissen)/People/Landon Forrester\|Landon Forrester]] er tilknyttet lauget
 
-Sølv hånden er i bund og grund et købmands laug der har vokset stort og rigt. De startede syd for Erukana men har efterhånden fået fedtet sig ind i alle større byer på tværs af alle riger i Ceynor. De er nu så indflydelsesrige at de i flere lande og områder, kan påvirke hvordan riget regeres. 
+## Relationships
+- **Leder (Erukana)**: [[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]] i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
+- **Samarbejdspartner**: [[02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning\|Alistairs handelsforretning]] / [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
+- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Landon Forrester\|Landon Forrester]]
+- **Rival**: [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet\|Merchant Konglomeratet]]
 
-Deres vigtigste handel omhandler for det meste klæder, smykker, kunstværker, samt naturligvis landbrugs vare. Men alle ved at Sølv Hånden også handler med militært udstyr og endda ulovlige genstande som kun er at finde på det sorte marked.
+## Referenced In
+- [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley\|Missions/Solve the murder of Miri in Astley]]
+- [[02 Player/Erukana (Nissen)/Journal/handelsaftale med Sølv Hånden\|handelsaftale med Sølv Hånden]]
 
-**I DAG ER ORDENEN LEDET AF:**
-
-En tæt ring af meget magtfulde købmænd leder organisationen, men deres identitet er indtil nu været hemmelig. Områdelederne er en anden snak og virker som de daglige ledere og diplomater (lobbyister) som har den direkte kontakt til dem på magten.
-
-[[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]] leder [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] ud fra hans palæ i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
-
-**FJENDER:**
-
-Ingen kendte
+## Tags
+#erukana #faction #merchant #guild #trade #sølvhånden

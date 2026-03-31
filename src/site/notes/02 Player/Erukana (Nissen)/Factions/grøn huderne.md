@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/grøn huderne/","tags":["erukana","faction","monster","orc","goblin"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/grøn huderne/","tags":["erukana","faction"]}
 ---
 
 

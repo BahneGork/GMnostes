@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Druid circles/","tags":["erukana","faction","religious","druid","stub"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Druid circles/","tags":["erukana","faction"]}
 ---
 
 

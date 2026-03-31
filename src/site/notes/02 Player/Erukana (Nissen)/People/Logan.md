@@ -17,7 +17,7 @@ Logan er et medlem af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Ast
 - Bruger sit cobbler's tool til at reparere gruppens fodtøj undervejs
 - Blev polymorfet til en kæmpeugle af [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] for at spejde i bjergene
 - Uglens instinkter advarede ham om at [[02 Player/Erukana (Nissen)/Locations/StormBjerget\|StormBjerget]] var farligt for flyvende væsener
-- Infiltrerede [[02 Player/Erukana (Nissen)/Factions/knoglestammens huler\|knoglestammens huler]] for at redde [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]]
+- Infiltrerede [[02 Player/Erukana (Nissen)/Locations/knoglestammens huler 1\|knoglestammens huler 1]] for at redde [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]]
 - Sneg sig gennem tronsalen hvor [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]] sad
 - Fandt [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] hængende i kæder under loftet
 - Blev opdaget og angrebet af en vagt
@@ -28,12 +28,12 @@ Logan er et medlem af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Ast
 - Fik af vide at Urza har en hytte i landsbyen og en ritual-hule
 
 ### Session 38
-- Deltog i delegationen til [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
+- Deltog i delegationen til [[Lord Magdova\|Lord Magdova]]
 
 ## Relationships
 - **Gruppemember**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 - **Mystisk forbindelse**: Wyrdlingen - efterlader gaver, modtager magiske genstande
-- **Reddet**: [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] - hjalp med at redde fra [[02 Player/Erukana (Nissen)/Factions/knoglestammens huler\|knoglestammens huler]]
+- **Reddet**: [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] - hjalp med at redde fra [[02 Player/Erukana (Nissen)/Locations/knoglestammens huler 1\|knoglestammens huler 1]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\|21 - 220225 - Changer of time - nisse 17 - steffen 1]]

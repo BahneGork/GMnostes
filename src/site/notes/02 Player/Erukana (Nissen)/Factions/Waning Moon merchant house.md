@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house/","tags":["erukana","faction","merchant","ally"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house/","tags":["erukana","faction"]}
 ---
 
 

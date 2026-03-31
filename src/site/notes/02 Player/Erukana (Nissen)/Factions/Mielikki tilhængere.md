@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Mielikki tilhængere/","tags":["erukana","faction","religious","mielikki","nature"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Mielikki tilhængere/","tags":["erukana","faction"]}
 ---
 
 

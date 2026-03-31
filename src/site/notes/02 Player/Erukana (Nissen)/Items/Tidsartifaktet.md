@@ -8,7 +8,7 @@ Tidsartifaktet er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/
 
 ## Notes
 ### Session 41
-- [[02 Player/Erukana (Nissen)/Journal/Lord Fern\|02 Player/Erukana (Nissen)/Journal/Lord Fern]] afslører at tidsartifaktet og staven er nøgle og lås til fængslet
+- [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]]] afslører at tidsartifaktet og staven er nøgle og lås til fængslet
 - Fængslet holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]
 - Forbundet med [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]] og sølvdragen
 

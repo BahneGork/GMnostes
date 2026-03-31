@@ -30,7 +30,7 @@ Paladine præsten som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Ni
 
 [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]] har indgået en alliance med [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og hjælper med at holde lov & orden. 
 
-Et tidligere tyvelaug [[02 Player/Erukana (Nissen)/Factions/Jernkniven 1\|Jernkniven 1]] er blevet udrydet af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]]. 
+Et tidligere tyvelaug [[Jernkniven 1\|Jernkniven 1]] er blevet udrydet af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]]. 
 
 # Ulve Blod
 I [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] ligger et æld gammelt tempel til [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]] og varetageren for det er en halv hjort halv kvinde som gerne vil hjælpe [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] med at få selv kontrol nok til at styre sin nye Varulve identitet. Hun kan også hjælpe med en kur hvis [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] ønsker at blive helt af med den. 

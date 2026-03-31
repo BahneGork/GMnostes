@@ -24,6 +24,11 @@ Nibar Brassbit er en gnomisk troldmand og et af de originale medlemmer af gruppe
 - Ved at ofre sin stærkeste magi skabte han et hul mellem planerne - en bro til det Negative plan
 - Udøde væltede ud og gruppen måtte kæmpe mod dem
 
+### Session 43
+- Køber en halskæde for 9000gp på Undermarkedet, giver den til Victor — booste castere ([[02 Player/Erukana (Nissen)/Items/Halskæde - Caster boost\|Halskæde - Caster boost]])
+- Lærer formularen **[[No Graph/5e Reference/spells/Dream\|Dream]]** og bruger den på [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] så han kan kommunikere med den fangne [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]
+- Kontakter "ye old magic shop" og får **teleportation circle sekvensen**
+
 ### Session 26
 - Havde en drøm om troldmænd der udførte et ritual med en stav af sølvdrageknogler
 - Staven splintrede i dele: ben, ild, blod, sjæl - ben-delen i [[02 Player/Erukana (Nissen)/Locations/StormBjerget\|StormBjerget]]
@@ -41,6 +46,7 @@ Nibar Brassbit er en gnomisk troldmand og et af de originale medlemmer af gruppe
 - [[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8\|8-160324 - Changer of time session 8]]
 - [[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13\|17 - 250624 - Changer of time - nissen - session 13]]
 - [[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest]]
+- [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]
 
 ## Tags
 #erukana #pc #wizard #timetravel #artefact

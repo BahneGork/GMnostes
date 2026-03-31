@@ -10,7 +10,7 @@ Morgion er en ond gud associeret med pest, sygdom og forfald. Hans tilbedere ink
 ### Session 5
 - En magisk bog dedikeret til Morgion indeholder både bønner og troldmandsformularer
 - I et kælderrum fandtes et alter til Morgion med skelet-hænder der kunne holde bogen
-- Alteret var sammen med et stort bur med lig og en torturbænk med liget af [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]]
+- Alteret var sammen med et stort bur med lig og en torturbænk med liget af [[Archibald Oddball\|Archibald Oddball]]
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] smadrede alteret og forsøgte at channel Bahamut for at rense stedet
 - [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] - necromancer-præst af Morgion - invaderede byen med udøde
 

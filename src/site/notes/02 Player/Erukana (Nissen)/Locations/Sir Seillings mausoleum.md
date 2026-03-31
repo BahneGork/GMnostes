@@ -40,7 +40,7 @@ Sir Seillings mausoleum er et gravkammer beliggende syd for [[02 Player/Erukana 
 - [[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13\|17 - 250624 - Changer of time - nissen - session 13]]
 - [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Journal/Personal Agenda]]
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/The Banner\|Journal/The Grand Alliance/The Banner]]
+- [[Journal/The Grand Alliance/The Banner\|Journal/The Grand Alliance/The Banner]]
 - [[People/Sir Seiling\|People/Sir Seiling]]
 
 ## Tags

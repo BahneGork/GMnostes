@@ -15,7 +15,7 @@ Blandt resterne af alteret, fandt i en delvist ødelagt dagbog tilhørende en [[
 
 Måske vigtigere for jer, er det at jeres modersmærker hen over de næste dages tid, bliver blegere og blegere. I kan ikke påkalde jer dets kræfter, og jeres nætter er fyldt af urolige drømme hvor I vandre hvileløst rundt i de forskellige byer I har besøgt, så som [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] og Astley. Alle byerne ligger øde hen i natte mørke om omhyldet af en konstant tyk tåge. Under jeres fødder knaser knogler for hvert skridt I tager, men for tiden er det et mysterium hvorfor I får disse drømme.
 
-Har det noget at gøre med det beskadiget tidsartefakt? Var artefaktet nøglen til fængslesportalen? Er modersmærkerne direkte forbundet til artefaktet eller jeres udvalgte opgave som beskyttere af [[02 Player/Erukana (Nissen)/Factions/Azur ordnen\|Azur ordnen]]? 
+Har det noget at gøre med det beskadiget tidsartefakt? Var artefaktet nøglen til fængslesportalen? Er modersmærkerne direkte forbundet til artefaktet eller jeres udvalgte opgave som beskyttere af [[Azur ordnen\|Azur ordnen]]? 
 
 Det eneste helt sikre lige nu er, at I ved nu med sikkerhed, at [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Queens Guardens]] fjender den gang de forsvandt fra [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] ikke var [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blodrosen]], men [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]. 
 Det er også den primære årsag til Blodrosens tilstedeværelse i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] nu. 

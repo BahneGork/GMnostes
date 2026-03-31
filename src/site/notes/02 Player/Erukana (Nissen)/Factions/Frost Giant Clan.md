@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Frost Giant Clan/","tags":["erukana","faction","tribe","giant","antagonist"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Frost Giant Clan/","tags":["erukana","faction"]}
 ---
 
 

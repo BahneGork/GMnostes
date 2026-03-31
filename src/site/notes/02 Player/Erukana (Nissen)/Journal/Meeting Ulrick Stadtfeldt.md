@@ -15,7 +15,7 @@ Related: [[02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1\|Downtime Mis
 	- har primært med folk at gøre ud af pligt 
 	- grønne fingrer 
 		- mange blomster er planter der bruges til helbredning og poison 
-	- [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]] 
+	- [[Archibald Oddball\|Archibald Oddball]] 
 		- Oddball spillede kort med [[02 Player/Erukana (Nissen)/People/Celia Hammerhånd\|Celia Hammerhånd]] , [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] , [[02 Player/Erukana (Nissen)/People/Constance Fortright\|Constance Fortright]] 
 		- Oddball forlod byen et par dage efter os og sku rejse til Darthormir isles 
 		- Odball gav drikke omgang på kroen og var meget glad og ovenpå 

@@ -103,7 +103,7 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] 
 
 # Monsters
-- [[02 Player/Erukana (Nissen)/Factions/dark gem kobolder\|dark gem kobolder]]
+- [[dark gem kobolder\|dark gem kobolder]]
 - korrupteret kobold 
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] 
 - rødtands orker 

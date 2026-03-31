@@ -14,7 +14,7 @@ StormBjerget er det højeste bjerg i nordlandet. Ifølge myterne er bjerget skab
 - Det konstante tordenvejr ved bjerget voksede med tiden
 - På 3. dag virkede det sværere for [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] at kontakte Tempus
 - Da [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] blev polymorfet til en kæmpeugle, skreg hans instinkter at han ikke skulle flyve mod bjerget
-- Bjerget rummer [[02 Player/Erukana (Nissen)/Factions/knoglestammens huler\|knoglestammens huler]]
+- Bjerget rummer [[02 Player/Erukana (Nissen)/Locations/knoglestammens huler\|knoglestammens huler]]
 - Dragemænd kæmpede mod [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]] folk og udløste en lavine med lynmagi
 
 ## Relationships

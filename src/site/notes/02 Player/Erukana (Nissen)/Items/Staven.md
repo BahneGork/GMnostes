@@ -8,7 +8,7 @@ Staven er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/Tidsarti
 
 ## Notes
 ### Session 41
-- [[02 Player/Erukana (Nissen)/Journal/Lord Fern\|02 Player/Erukana (Nissen)/Journal/Lord Fern]] afslører stavens historie
+- [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] afslører stavens historie
 - Sølvdragen gav sit liv og sjæl til staven
 - Staven er nøglen til fængslet (sammen med [[02 Player/Erukana (Nissen)/Items/Tidsartifaktet\|Tidsartifaktet]])
 - Blev delt i 4 dele efter devisen at det er sværere at finde 4 end 1

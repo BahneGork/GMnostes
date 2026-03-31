@@ -4,11 +4,11 @@
 
 
 ## Description
-Erik Leitner er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] og bagmanden bag komplottet mod [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]. Han planlagde at snigmyrde Magdova og indsætte [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] som marionet-leder.
+Erik Leitner er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] og bagmanden bag komplottet mod [[Lord Magdova\|Lord Magdova]]. Han planlagde at snigmyrde Magdova og indsætte [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] som marionet-leder.
 
 ## Notes
 ### Komplottet mod Lord Magdova
-- Planlagde at snigmyrde [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
+- Planlagde at snigmyrde [[Lord Magdova\|Lord Magdova]]
 - Ville indsætte [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] som marionet
 - Arbejdede sammen med [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]] der fortryllede Kasimer
 - Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] gennem familien
@@ -21,7 +21,7 @@ Erik Leitner er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner
 
 ## Relationships
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
-- **Mål**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] - snigmords-target
+- **Mål**: [[Lord Magdova\|Lord Magdova]] - snigmords-target
 - **Sammensvorne**: [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]]
 - **Marionet**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]]
 - **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]

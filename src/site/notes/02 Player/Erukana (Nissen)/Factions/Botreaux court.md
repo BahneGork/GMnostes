@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Botreaux court/","tags":["erukana","faction","nobility","court"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Botreaux court/","tags":["erukana","faction"]}
 ---
 
 

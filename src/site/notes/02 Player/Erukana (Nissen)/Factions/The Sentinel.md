@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Sentinel/","tags":["erukana","faction","magic","tower"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Sentinel/","tags":["erukana","faction"]}
 ---
 
 
@@ -35,7 +35,7 @@ The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave"
 - **Kontakt**: Waning Moon
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
+- [[Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
 - [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Locations/Hertugdømmet Bortreaux]]
 - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|People/Marie Louise Duvall af Miragehill]]
 

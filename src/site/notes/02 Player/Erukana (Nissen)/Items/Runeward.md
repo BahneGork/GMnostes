@@ -8,7 +8,7 @@ Runeward er en kort bue af mesterklasse - sort med sølv og en guldstreng. Den e
 
 ## Notes
 ### Session 42
-- Fundet i stueetagen af [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]] af Logan
+- Fundet i stueetagen af [[Vinterspiret 1\|Vinterspiret 1]] af Logan
 - Beskrives som "en kort bue, et mesterværk, sort med sølv og en guld streng"
 - Statistik: +1, +2 vs fey
 - Bekræftet magisk via Nibars Detect Magic ritual
@@ -16,7 +16,7 @@ Runeward er en kort bue af mesterklasse - sort med sølv og en guldstreng. Den e
 
 ## Relationships
 - **Owner**: [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]]
-- **Found in**: [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]
+- **Found in**: [[Vinterspiret 1\|Vinterspiret 1]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]

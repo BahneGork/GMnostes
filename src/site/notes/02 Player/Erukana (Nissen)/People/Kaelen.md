@@ -4,7 +4,7 @@
 
 
 ## Description
-Kaelen er en sky-kaptajn med en metal plade med en blå sten der, hvor hans øje skulle være. Han og hans crew er tilknyttet det flyvende skib ved [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]].
+Kaelen er en sky-kaptajn med en metal plade med en blå sten der, hvor hans øje skulle være. Han og hans crew er tilknyttet det flyvende skib ved [[Vinterspiret 1\|Vinterspiret 1]].
 
 ## Notes
 ### Session 42

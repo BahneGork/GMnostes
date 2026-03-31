@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Den Sorte hånd/","tags":["erukana","faction","monster","orc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Den Sorte hånd/","tags":["erukana","faction"]}
 ---
 
 

@@ -4,17 +4,17 @@
 
 
 ## Description
-En magisk glaive fundet i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]. Tilhører [[Victor\|Victor]] efter sessionen.
+En magisk glaive fundet i [[Vinterspiret 1\|Vinterspiret 1]]. Tilhører [[Victor\|Victor]] efter sessionen.
 
 ## Notes
 ### Session 42
-- Fundet i kammer i toppen af [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]] af Victor
+- Fundet i kammer i toppen af [[Vinterspiret 1\|Vinterspiret 1]] af Victor
 - Specifik magi-type eller stats ikke nærmere specificeret i sessionsloggen
 - Ejer: Victor
 
 ## Relationships
 - **Owner**: Victor
-- **Found in**: [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]
+- **Found in**: [[Vinterspiret 1\|Vinterspiret 1]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]

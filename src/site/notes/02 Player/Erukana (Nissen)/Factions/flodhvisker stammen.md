@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/flodhvisker stammen/","tags":["erukana","faction","nordlandet","stamme"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/flodhvisker stammen/","tags":["erukana","faction"]}
 ---
 
 

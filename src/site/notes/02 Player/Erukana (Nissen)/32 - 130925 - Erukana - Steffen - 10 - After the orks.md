@@ -44,7 +44,7 @@
 - 6th Tarsakh - Eftermiddag 
 	- på et tidspunkt ser vi en mur i horisonten, med en stor stor bygning inde bag ved
 	- muren har "spidser" 
-	- [[02 Player/Erukana (Nissen)/Varde stjernen\|Varde stjernen]] bliver nævnt af stammer folks patruljen 
+	- [[Varde stjernen\|Varde stjernen]] bliver nævnt af stammer folks patruljen 
 	- muren er bygget som en stjerne
 	- der svæver nogle permanente illusioner af et tegn ved murene ved siden af porten 
 	- Corwin taler med nukka som fortæller at den kan lugte 1 kæmpe og noget råddent inden bag muren 
@@ -53,7 +53,7 @@
 	- Nibar laver winston om til en krigshest og Evelyn mounter op og de rider ind til muren for at hente ham. 
 	- Corwin løber hen over en rune fælde og bliver blastet med magi, goblin vagter på muren bliver opmærksomme
 	- Der sendes en patrulje orker og gobliner ud for at finde os 
-	- Vi ambusher deres patrulje og udspørger en ork om deres belejring af [[02 Player/Erukana (Nissen)/Varde stjernen\|Varde stjernen]] 
+	- Vi ambusher deres patrulje og udspørger en ork om deres belejring af [[Varde stjernen\|Varde stjernen]] 
 - 6th Tarsakh - Aften
 	- Corwin, Winston, Evelyn og Nibar render rundt på brystværnet og fixer en masse krystal pyloner som danner et skjold der holder skyggefolket ude 
 	- Derefter finder vi alle vej ned til bygningen med runerne som laver anti magi 

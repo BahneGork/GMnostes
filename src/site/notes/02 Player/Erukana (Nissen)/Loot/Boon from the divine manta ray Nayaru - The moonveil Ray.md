@@ -24,7 +24,7 @@ A Moonveiler within 100 ft of another Moonveiler can use the reaction action and
 ## Dimensional Breach
 A Moonveiler can use a bonus action to tear open two temporary rifts in reality, channeling Nayaru’s' power. 
 
-You create linked teleportation portals that remains open for up to 1 minute without requiring concentration to maintain. Choose two points on solid ground that you can see, one point within **10 feet of you**and one point within **5 feet of another Moonveiler** – distance between the two points **cannot excess 120 feet**. 
+You create linked teleportation portals that remains open for up to 1 minute without requiring concentration to maintain. Choose two points on solid ground that you can see, one point within **10 feet of you** and one point within **5 feet of another Moonveiler** – distance between the two points **cannot excess 120 feet**. 
 
 A manta ray-shaped portal, 10 feet tall and 5 feet wide, opens over each point. If the portal would open in the space occupied by a creature, the effect fails, and the use is lost. 
 

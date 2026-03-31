@@ -4,16 +4,16 @@
 
 
 ## Description
-Voldumand den tredje er en lærd og forfatter, der har skrevet tre store, tunge og tykke leksikon om verdens skabelse. Hans værker er fundet i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]].
+Voldumand den tredje er en lærd og forfatter, der har skrevet tre store, tunge og tykke leksikon om verdens skabelse. Hans værker er fundet i [[Vinterspiret 1\|Vinterspiret 1]].
 
 ## Notes
 ### Session 42
-- Tre store leksikon om verdens skabelse fundet i [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]] - skrevet af Voldumand den tredje
+- Tre store leksikon om verdens skabelse fundet i [[Vinterspiret 1\|Vinterspiret 1]] - skrevet af Voldumand den tredje
 - Bøgerne beskrives som "store tunge tykke leksikon"
 - [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] fandt bøgerne
 
 ## Relationships
-- **Works found**: [[02 Player/Erukana (Nissen)/Vinterspiret\|Vinterspiret]]
+- **Works found**: [[Vinterspiret 1\|Vinterspiret 1]]
 - **Notable reader**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]]
 
 ## Referenced In

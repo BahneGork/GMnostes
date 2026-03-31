@@ -17,7 +17,7 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 	- Who killed Miri? :  I do not know 
 	- Why was Miri killed?:  She discovered us 
 	- Who cursed you to be silent?: Rich lady in a black n red dress  (later to be discovered to be [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]])
-	- What goes on at the secret parties in the warehouse?: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] throws parties for his cult - [[02 Player/Erukana (Nissen)/Factions/The cult of the Opal society\|The cult of the Opal society]] 
+	- What goes on at the secret parties in the warehouse?: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] throws parties for his cult - [[The cult of the Opal society\|The cult of the Opal society]] 
 	- do you know any other names in [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s cult?:  Krugger   (Miri's fiancee)
 - The one good information from the keep was that often someone would come to fetch [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] and the day we were there she had another appointment 
 - We investigated the curse at the city library, see appendix on [[02 Player/Erukana (Nissen)/Journal/The strangle voice curse\|The strangle voice curse]] 
@@ -34,12 +34,12 @@ Related: [[02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astle
 
 
 ## Conclusion
-[[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] and [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] hosted a club - [[02 Player/Erukana (Nissen)/Factions/The cult of the Opal society\|The cult of the Opal society]] - in the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] for the rich and powerful. Here they could indulge in all manner of decadant desires.  
+[[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] and [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] hosted a club - [[The cult of the Opal society\|The cult of the Opal society]] - in the [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]] for the rich and powerful. Here they could indulge in all manner of decadant desires.  
 They also collected souls of unfortunate for their fiend lord Grazzt.  
 Miri Sangstrup saw what was really going on and she should not have. 
 [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] turned her fiance [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] into a beast to pursue her and kill her. 
 [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]]'s current location is unknown. 
-[[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] escaped from the mansion and is perhaps the real power behind [[02 Player/Erukana (Nissen)/Factions/The cult of the Opal society\|The cult of the Opal society]] 
+[[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] escaped from the mansion and is perhaps the real power behind [[The cult of the Opal society\|The cult of the Opal society]] 
 
 Signed by ~ Astley Avengers
 [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] - [[02 Player/Erukana (Nissen)/People/Bjørn of Nordheim\|Bjørn of Nordheim]]  &  [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]

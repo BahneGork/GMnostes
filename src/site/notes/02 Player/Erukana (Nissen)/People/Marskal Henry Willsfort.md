@@ -16,7 +16,7 @@ Marskal Henry Willsfort er en marskal nævnt i forbindelse med Clarabels downtim
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Expanding the military wing\|Journal/The Grand Alliance/Expanding the military wing]]
+- [[Journal/The Grand Alliance/Expanding the military wing\|Journal/The Grand Alliance/Expanding the military wing]]
 
 ## Tags
 #erukana #npc #astley #militær

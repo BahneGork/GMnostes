@@ -29,7 +29,7 @@ Baronesse Avalande er Baronesse af Welles. Hun er forsvundet. I [[02 Player/Eruk
 - [[02 Player/Erukana (Nissen)/Journal/Vaelon's instrukser til Baronesse Avalande\|Journal/Vaelon's instrukser til Baronesse Avalande]]
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
-- [[02 Player/Erukana (Nissen)/Journal/The Grand Alliance/Fafnir - intel on Avalande\|Journal/The Grand Alliance/Fafnir - intel on Avalande]]
+- [[Journal/The Grand Alliance/Fafnir - intel on Avalande\|Journal/The Grand Alliance/Fafnir - intel on Avalande]]
 
 ## Tags
 #erukana #npc #baronesse #welles #missing #azur

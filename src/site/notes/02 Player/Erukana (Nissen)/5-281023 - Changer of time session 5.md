@@ -20,7 +20,7 @@ Efter 2 dages downtime i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistv
 	- planter til magi bagom huset 
 	- en magisk bog, dedikeret til [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]] både bønner og troldsmands formularer, som ikke kunne åbnes.
 	- magisk fælde på døren til pulterkammer
-	- et kælder rum med alter til [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]], et stort bur med lig, en tortur bænk med liget af [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]] 
+	- et kælder rum med alter til [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]], et stort bur med lig, en tortur bænk med liget af [[Archibald Oddball\|Archibald Oddball]] 
 	- alteret havde 2 skelet hænder der ku holde bogen og når bogen blev lagt på dem åbnede den sig selv.
 	- Winston tog bogen og et lysende kranie fra alteret 
 	- Clarabel smadrede alteret og forsøgte at channel Bahamut og rense stedet, men der skal mere til. 

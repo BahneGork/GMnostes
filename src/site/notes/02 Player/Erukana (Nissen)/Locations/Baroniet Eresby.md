@@ -29,8 +29,17 @@ Grundet kroens berømmelse er der over de sidste halvt hundrede år, flyttet fol
 - landbrug
 - bomuld
 
+## Notes
+### Session 43
+- Eresby erklærer krig mod [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] — [[02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray\|Baroniet Mowbray]] støtter Eresby
+- [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]s eventyrer guild er stillet i bero pga. krigen
+- [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] holdes fanget af [[02 Player/Erukana (Nissen)/Factions/Draconkin\|Draconkin]] i Eresbybjergene sydpå, grænsende mod [[Ceystanya\|Ceystanya]]
+- Bekræftet via Clarabels commune (Tarsakh 22 og 24): Evelyn er i live
+- [[02 Player/Erukana (Nissen)/Locations/Stampenborg\|Stampenborg]] nævnes som mulig lokation ([[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]])
+
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]
 - [[02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning\|Journal/Kapitel 1 - Afslutning]]
 
 ## Tags

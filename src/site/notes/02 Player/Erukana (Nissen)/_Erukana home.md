@@ -30,6 +30,7 @@ Rod of Resurrection
 
 # Sessions
 
+- [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]
 - [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]
 - [[02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon\|40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon]]
