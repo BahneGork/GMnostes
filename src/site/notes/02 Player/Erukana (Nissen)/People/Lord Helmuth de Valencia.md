@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Helmuth de Valencia/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Helmuth de Valencia/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":["Lensherre","Baron"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Mortimor\|Mortimor]]","[[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"nobility","social_status":"baron","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]"],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mortimor\|Mortimor]]"}}
 ---
 
 

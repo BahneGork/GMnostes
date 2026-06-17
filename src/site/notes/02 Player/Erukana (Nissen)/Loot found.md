@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot found/","tags":["erukanaloot","playernotes","erukana"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot found/","tags":["erukanaloot","playernotes","erukana"],"dg-note-properties":{"player-gm":"player","tags":["erukanaloot","playernotes","erukana"]}}
 ---
 
 

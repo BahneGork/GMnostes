@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Timescroll/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Timescroll/","tags":["erukana","erukanaloot"],"dg-note-properties":{"tags":["erukana","erukanaloot"]}}
 ---
 
 

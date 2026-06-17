@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Corwin/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Corwin/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]","[[28 - 050725 - Erukana - Steffen 6|session 28]]","[[37 - 261125 - Erukana - Steffen - Infernal Machine - 15|session 37]]","[[29 - 140725 - Erukana - Steffen 7 - Windbreaker waystation|session 29]]","[[34 - erukana - steffen - 12|session 34]]","[[32 - 130925 - Erukana - Steffen - 10 - After the orks|session 32]]","[[35 - 251025 - ShieldHeim - Erukana Steffen - 13|session 35]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"druid","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Ettin-øerne]]"}}
 ---
 
 

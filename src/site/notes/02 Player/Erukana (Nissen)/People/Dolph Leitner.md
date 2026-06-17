@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dolph Leitner/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dolph Leitner/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["nobility","antagonist"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]","[[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den Lilla Plage]]"],"disposition":"enemy","status":"dead","location_primary":"[[Astley]]"}}
 ---
 
 

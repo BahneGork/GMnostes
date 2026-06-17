@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/sistana/","tags":["erukana","location","region","east"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/sistana/","tags":["erukana","location","region","east"],"dg-note-properties":{"type":"location","subtype":"region","campaign":"Erukana","aliases":["Sestenua"],"tags":["erukana","location","region","east"]}}
 ---
 
 

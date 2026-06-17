@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Commander of the Queensguard/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Commander of the Queensguard/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":["Militær leder"],"Faction":"[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]","Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"unspecified","role":"military","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"disposition":"unknown","status":"unknown","location_primary":"unspecified"}}
 ---
 
 

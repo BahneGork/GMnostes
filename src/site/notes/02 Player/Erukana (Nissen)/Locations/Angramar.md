@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Angramar/","tags":["erukana","location","mine"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Angramar/","tags":["erukana","location","mine"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"location","subtype":"dungeon","campaign":"Erukana","aliases":["Angramar"],"tags":["erukana","location","mine"]}}
 ---
 
 

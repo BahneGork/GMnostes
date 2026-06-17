@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hvidhvalen/","tags":["erukana","faction","misplaced"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hvidhvalen/","tags":["erukana","faction","misplaced"],"dg-note-properties":{"category":"faction","Profession":null,"Faction":["[[De vilde elvere]]"],"Location":["[[Coastal areas]]"],"Campaign":"Erukana","tags":["erukana","faction","misplaced"],"race":"human","role":[],"social_status":"tribe","affiliation":["[[De vilde elvere]]"],"disposition":"neutral","status":"unknown","location_primary":"[[Coastal areas]]","note":"MISPLACED - This is a tribe/faction (coastal pearl divers), not a person. Should be in Factions folder."}}
 ---
 
 

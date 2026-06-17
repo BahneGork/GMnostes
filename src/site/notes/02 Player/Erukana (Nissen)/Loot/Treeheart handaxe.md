@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Treeheart handaxe/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Treeheart handaxe/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Vargoth Sul]]","itemtype":"weapon, handaxe","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Treehart","tags":["erukana","erukanaloot"]}}
 ---
 
 
 #erukana #erukanaloot 
 
 # Treeheart Handaxe
-![Pasted image 20231019193044.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019193044.png)
+![Pasted image 20231019193044.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231019193044.png)
 ## Description
 
 d6 dmg - attunement, +1 magisk våben, advantage mod elementals

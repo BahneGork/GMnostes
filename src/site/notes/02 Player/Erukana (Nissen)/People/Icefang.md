@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Icefang/","tags":["erukana","item","misplaced"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Icefang/","tags":["erukana","item","misplaced"],"dg-note-properties":{"sessions":["[[32 - 130925 - Erukana - Steffen - 10 - After the orks|session 32]]"],"category":"item","Profession":null,"Faction":null,"Location":["[[Nordheim]]"],"Campaign":"Erukana","tags":["erukana","item","misplaced"],"race":"unspecified","role":[],"social_status":"item","affiliation":["[[Frost Giant Clan]]"],"disposition":"unknown","status":"unknown","location_primary":"[[Nordheim]]","note":"MISPLACED - This is a weapon (bluesteel greataxe), not a person. Should be in Items folder."}}
 ---
 
 

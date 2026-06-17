@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mecina/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mecina/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"]}}
 ---
 
 

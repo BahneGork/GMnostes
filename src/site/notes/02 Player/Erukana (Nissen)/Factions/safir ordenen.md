@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/safir ordenen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/safir ordenen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]"],"category":"faction","faction_type":"arcane-order","status":"unknown","friend-or-foe":"unknown","Campaign":"Erukana","aliases":["Safir Ordenen"],"tags":["erukana","faction"]}}
 ---
 
 

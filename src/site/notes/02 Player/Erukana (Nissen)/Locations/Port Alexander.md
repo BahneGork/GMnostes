@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Port Alexander/","tags":["erukana","location","port"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Port Alexander/","tags":["erukana","location","port"],"dg-note-properties":{"sessions":["[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"type":"location","subtype":"port","campaign":"Erukana","aliases":["Port Alexander"],"tags":["erukana","location","port"]}}
 ---
 
 

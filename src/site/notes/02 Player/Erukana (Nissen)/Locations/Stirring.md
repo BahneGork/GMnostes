@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Stirring/","tags":["erukana","location","fief","welles","magdova"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Stirring/","tags":["erukana","location","fief","welles","magdova"],"dg-note-properties":{"category":"location","type":"location","subtype":"fief","Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]"],"Campaign":"Erukana","aliases":["Stirling"],"tags":["erukana","location","fief","welles","magdova"]}}
 ---
 
 

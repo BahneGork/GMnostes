@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th/","tags":["inline-events","erukana/personalagenda","clarabel"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th/","tags":["inline-events","erukana/personalagenda","clarabel"],"dg-note-properties":{"tags":["inline-events","erukana/personalagenda","clarabel"],"aat-render-enabled":true,"timelines":["Claradowntime"],"campaign":"Erukana"}}
 ---
 
 Mens Winston, Vargoth, Bjørn & Logan undersøger Varehus problemet og drager ind i portalen som ingen vidste ville føre dem til Nordheim.
@@ -136,7 +136,7 @@ Mens Winston, Vargoth, Bjørn & Logan undersøger Varehus problemet og drager in
 		- Clara spørger til de mange blade. [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] viser et af bladene, et lille sammenkrøllet grønt og frodigt men mørkt, falmet og hårdt men ser vådt og slimet ud på kanterne.
 		- Clara kvaler en knurren inden det bliver for voldsomt og hendes hår skifter til farven grå 
 	- Hr.Flick og Clara fortsætter til [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]]
-	- ![Pasted image 20260210195330.png|300](/img/user/10%20Attachments/Pasted%20image%2020260210195330.png)
+	- ![Pasted image 20260210195330.png\|300](/img/user/10%20Attachments/Pasted%20image%2020260210195330.png)
 	- Krystallen i midten af kammeret skifter farve efter årstiden 
 	- Her finder vi [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]]som ikke er begejstret for vores besøg 
 	- Hr.Flick fortæller om satyrene og [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]]går hen til en åkande og kaster noget vand op i luften om Jarrell kan mærke at han kan forme ud fra sine minder.

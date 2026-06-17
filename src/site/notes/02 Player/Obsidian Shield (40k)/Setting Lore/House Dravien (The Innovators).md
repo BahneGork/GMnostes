@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/House Dravien (The Innovators)/","title":"House Dravien (The Innovators)","tags":["campaign","general-knowledge","house-dravien","adeptus-mechanicus","xenos-allierede"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/House Dravien (The Innovators)/","title":"House Dravien (The Innovators)","tags":["campaign","general-knowledge","house-dravien","adeptus-mechanicus","xenos-allierede"],"dg-note-properties":{"title":"House Dravien (The Innovators)","date":"2023-02-20","tags":["campaign","general-knowledge","house-dravien","adeptus-mechanicus","xenos-allierede"],"source":"Discord","type":"faction"}}
 ---
 
 

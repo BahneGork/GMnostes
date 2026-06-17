@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/soltice/","tags":["erukana","location","city"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/soltice/","tags":["erukana","location","city"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"type":"location","subtype":"city","campaign":"Erukana","aliases":["Solstice"],"tags":["erukana","location","city"]}}
 ---
 
 

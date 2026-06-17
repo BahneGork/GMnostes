@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/tids scrollen/","tags":["erukana","erukanaloot","artifact","timetravel"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/tids scrollen/","tags":["erukana","erukanaloot","artifact","timetravel"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[7-170224 - Changer of time session 7|session 7]]"],"itemname":"Tids scrollen (Timescroll)","itemtype":"Magical scroll","used-by":"[[Astley Avengers]]","attunement":null,"tags":["erukana","erukanaloot","artifact","timetravel"]}}
 ---
 
 

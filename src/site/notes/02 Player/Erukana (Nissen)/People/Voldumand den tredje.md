@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Voldumand den tredje/","tags":["erukana","npc","scholar"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Voldumand den tredje/","tags":["erukana","npc","scholar"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"npc","Profession":["scholar","author"],"Faction":[],"Location":[],"Campaign":"Erukana","aliases":["Voldumand den tredje","Voldumand III"],"tags":["erukana","npc","scholar"],"race":"unspecified","role":["scholar"],"social_status":"unknown","affiliation":[],"disposition":"unknown","status":"unknown","location_primary":""}}
 ---
 
 

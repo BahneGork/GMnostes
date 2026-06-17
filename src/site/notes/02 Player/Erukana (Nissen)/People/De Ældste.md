@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/De Ældste/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/De Ældste/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[27 - 210625 - Eurkana - nissen 19 -|session 27]]","[[20 - 110125 - Changer of time - nissen - session 16|session 16]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"unspecified","role":"scholar","social_status":"royalty","affiliation":[],"disposition":"unknown","status":"unknown","location_primary":"[[De Ældstes Haller\|De Ældstes Haller]]"}}
 ---
 
 

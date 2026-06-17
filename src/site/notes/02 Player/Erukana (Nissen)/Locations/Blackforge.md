@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Blackforge/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Blackforge/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"unspecified","role":"commoner","social_status":"commoner","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[Baroniet Mowbray]]"}}
 ---
 
 

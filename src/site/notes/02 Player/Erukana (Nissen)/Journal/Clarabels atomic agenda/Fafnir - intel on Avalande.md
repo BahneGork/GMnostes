@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Fafnir - intel on Avalande/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Fafnir - intel on Avalande/","dg-note-properties":{"priority":3,"Next Action":"Wait","location":"Astley, Baroniet Welles","related npc":["Sammy","Agrim","Fafnir"],"related factions":["Fafnir"],"My-PC":"Logan"}}
 ---
 
 # Fafnir - intel on Avalande

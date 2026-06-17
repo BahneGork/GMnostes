@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/grøn huderne/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/grøn huderne/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"tribe","status":"unknown","friend-or-foe":"neutral","Campaign":"Erukana","aliases":["Greenskins"],"tags":["erukana","faction"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Zezstanie/","tags":["erukana","location","dwarven"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Zezstanie/","tags":["erukana","location","dwarven"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"type":"location","subtype":"region/city","campaign":"Erukana","tags":["erukana","location","dwarven"]}}
 ---
 
 

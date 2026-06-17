@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Heal the suntree/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Heal the suntree/","dg-note-properties":{"priority":1,"location":"Suntree","Next Action":"Investigate the fissure","related factions":["Suntree"],"My-PC":"Clarabel"}}
 ---
 
 # Heal the suntree

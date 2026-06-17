@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/de Ældste af Bjergenes Børn/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/de Ældste af Bjergenes Børn/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"clan","status":"unknown","friend-or-foe":"neutral","Campaign":"Erukana","aliases":["The Elders of the Mountain's Children"],"tags":["erukana","faction"]}}
 ---
 
 

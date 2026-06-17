@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Hunt Hatchet Thule/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Hunt Hatchet Thule/","dg-note-properties":{"priority":1,"location":"Feywood","Next Action":"Expedition to Watchtower in Feywood","related npc":["Fafnir","Henry Willsfort"],"related factions":["Fafnir"],"My-PC":"Clarabel"}}
 ---
 
 # Launch the hunt for Hatchet Thule

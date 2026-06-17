@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux/","tags":["erukana","Barony"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux/","tags":["erukana","Barony"],"dg-note-properties":{"tags":["erukana","Barony"]}}
 ---
 
 

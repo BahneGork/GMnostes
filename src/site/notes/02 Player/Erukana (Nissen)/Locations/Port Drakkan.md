@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Port Drakkan/","tags":["erukana","location","nordheim"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Port Drakkan/","tags":["erukana","location","nordheim"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"location","subtype":"city","campaign":"Erukana","aliases":["Port Drakkan"],"tags":["erukana","location","nordheim"]}}
 ---
 
 

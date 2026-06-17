@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/bases/Taxonomy - People/","tags":["erukana","reference","taxonomy","metadata"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/bases/Taxonomy - People/","tags":["erukana","reference","taxonomy","metadata"],"dg-note-properties":{"type":"reference","campaign":"Erukana","tags":["erukana","reference","taxonomy","metadata"]}}
 ---
 
 

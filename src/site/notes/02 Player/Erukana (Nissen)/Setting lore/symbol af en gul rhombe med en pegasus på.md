@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/symbol af en gul rhombe med en pegasus på/","tags":["erukana","lore","symbol","mystery"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/symbol af en gul rhombe med en pegasus på/","tags":["erukana","lore","symbol","mystery"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"category":"lore","campaign":"Erukana","tags":["erukana","lore","symbol","mystery"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Pembroke/","tags":["erukana","location","battle"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Pembroke/","tags":["erukana","location","battle"],"dg-note-properties":{"category":"location","type":"settlement","Campaign":"Erukana","tags":["erukana","location","battle"]}}
 ---
 
 

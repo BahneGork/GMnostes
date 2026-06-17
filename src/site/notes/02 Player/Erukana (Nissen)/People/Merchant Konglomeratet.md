@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Merchant Konglomeratet/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Merchant Konglomeratet/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","faction"],"aliases":["Merchant Konglomeratets"]}}
 ---
 
 

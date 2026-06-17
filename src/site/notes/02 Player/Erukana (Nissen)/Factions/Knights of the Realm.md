@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Knights of the Realm/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Knights of the Realm/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"knightly-order","status":"unknown","friend-or-foe":"unknown","Campaign":"Erukana","aliases":["Rigets Riddere"],"tags":["erukana","faction"]}}
 ---
 
 

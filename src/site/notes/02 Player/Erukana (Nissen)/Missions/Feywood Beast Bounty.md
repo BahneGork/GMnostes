@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty/","tags":["erukanamission","playermission"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty/","tags":["erukanamission","playermission"],"dg-note-properties":{"Title":"Feywood Beast Bounty","missionstatus":"completed","faction":"Astley","related":null,"locations":["Feywood"],"reward":"500gp","tags":["erukanamission","playermission"]}}
 ---
 
 

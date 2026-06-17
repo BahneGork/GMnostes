@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Botreaux/","tags":["erukana","kultur","botreaux-duchy"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Botreaux/","tags":["erukana","kultur","botreaux-duchy"],"dg-note-properties":{"tags":["erukana","kultur","botreaux-duchy"]}}
 ---
 
 

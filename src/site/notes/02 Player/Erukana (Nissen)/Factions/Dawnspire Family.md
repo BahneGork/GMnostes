@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Dawnspire Family/","tags":["erukana","faction","family","noble"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Dawnspire Family/","tags":["erukana","faction","family","noble"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 16]]","[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"faction","type":"family","Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["Dawnspire familien"],"tags":["erukana","faction","family","noble"]}}
 ---
 
 

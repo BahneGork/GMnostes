@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15/","tags":["erukana","erukanasessionlog","inline-events","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15/","tags":["erukana","erukanasessionlog","inline-events","erukana/campaign/steffen"],"dg-note-properties":{"type":"sessionlog","session":37,"date":"261125","sted":"online","ingame-date-start":"9th Tarsakh","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","inline-events","erukana/campaign/steffen"]}}
 ---
 
 

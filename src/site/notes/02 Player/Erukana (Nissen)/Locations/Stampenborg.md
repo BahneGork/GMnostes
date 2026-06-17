@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Stampenborg/","tags":["erukana","location","eresby"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Stampenborg/","tags":["erukana","location","eresby"],"dg-note-properties":{"sessions":["[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"type":"location","subtype":"castle","campaign":"Erukana","aliases":["Stampenborg"],"tags":["erukana","location","eresby"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/mace af sort stål/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/mace af sort stål/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Vargoth Sul]]","itemtype":"Weapon, mace","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Mace of black steel","tags":["erukana","erukanaloot"]}}
 ---
 
 

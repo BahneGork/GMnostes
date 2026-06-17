@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/lootfound","vargot","nibar"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/lootfound","vargot","nibar"],"dg-note-properties":{"type":"sessionlog","session":8,"date":"160324","sted":"Nyråd","ingame-date-start":"12th Eleasis","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/lootfound","vargot","nibar"]}}
 ---
 
 

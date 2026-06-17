@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/The Forgotten tower/","tags":["erukana","location","tower","mystery","mowbray"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/The Forgotten tower/","tags":["erukana","location","tower","mystery","mowbray"],"dg-note-properties":{"type":"location","subtype":"tower","campaign":"Erukana","aliases":["Det Glemte Tårn"],"tags":["erukana","location","tower","mystery","mowbray"]}}
 ---
 
 

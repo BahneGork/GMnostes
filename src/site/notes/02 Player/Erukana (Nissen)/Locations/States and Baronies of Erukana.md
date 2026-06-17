@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana/","tags":["erukana","barony","states"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana/","tags":["erukana","barony","states"],"dg-note-properties":{"tags":["erukana","barony","states"]}}
 ---
 
 

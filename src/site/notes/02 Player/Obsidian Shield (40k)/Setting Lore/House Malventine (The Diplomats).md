@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/House Malventine (The Diplomats)/","title":"House Malventine (The Diplomats)","tags":["campaign","general-knowledge","Trade Guilds","Imperial Politics","Intrigue"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/House Malventine (The Diplomats)/","title":"House Malventine (The Diplomats)","tags":["campaign","general-knowledge","Trade Guilds","Imperial Politics","Intrigue"],"dg-note-properties":{"title":"House Malventine (The Diplomats)","date":"2025-01-08","tags":["campaign","general-knowledge","Trade Guilds","Imperial Politics","Intrigue"]}}
 ---
 
 

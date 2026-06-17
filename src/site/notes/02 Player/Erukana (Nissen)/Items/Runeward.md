@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Runeward/","tags":["erukana","item","weapon","bow","magic"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Runeward/","tags":["erukana","item","weapon","bow","magic"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"item","category":"weapon","campaign":"Erukana","aliases":["Runeward","runeward bow"],"tags":["erukana","item","weapon","bow","magic"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Den Sorte hånd/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Den Sorte hånd/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"criminal-organisation","status":"unknown","friend-or-foe":"enemy","Campaign":"Erukana","aliases":["Den Sorte Haand"],"tags":["erukana","faction"]}}
 ---
 
 

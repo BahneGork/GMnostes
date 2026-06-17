@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/34 - erukana - steffen - 12/","tags":["erukana","erukanasessionlog"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/34 - erukana - steffen - 12/","tags":["erukana","erukanasessionlog"],"dg-note-properties":{"type":"sessionlog","session":34,"date":null,"sted":"online","ingame-date-start":"6th of Tarsakh","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog"]}}
 ---
 
 

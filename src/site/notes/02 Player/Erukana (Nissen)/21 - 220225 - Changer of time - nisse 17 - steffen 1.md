@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/campaign/steffen","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/campaign/steffen","inline-events"],"dg-note-properties":{"type":"sessionlog","session":21,"date":null,"sted":null,"ingame-date-start":"30th of Hammer","campaign":null,"tags":["erukana","erukanasessionlog","erukana/campaign","erukana/campaign/steffen","inline-events"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree/","tags":["erukana","npc","mielikki","soltræet","keeper"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree/","tags":["erukana","npc","mielikki","soltræet","keeper"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","aliases":["Celedrial","Celedriels"],"Profession":["Keeper"],"Faction":["[[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]"],"Campaign":"Erukana","tags":["erukana","npc","mielikki","soltræet","keeper"],"race":"hybrid","role":["druid","religious"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]","[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]"}}
 ---
 
 

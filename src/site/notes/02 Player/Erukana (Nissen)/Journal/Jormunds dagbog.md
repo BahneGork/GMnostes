@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Jormunds dagbog/","tags":["erukana","journal","lore","tidsvogterne","staven","azuth","paladine","vardestjernen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Jormunds dagbog/","tags":["erukana","journal","lore","tidsvogterne","staven","azuth","paladine","vardestjernen"],"dg-note-properties":{"sessions":["[[40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon|session 40]]"],"category":"journal","type":"found-document","campaign":"Erukana","tags":["erukana","journal","lore","tidsvogterne","staven","azuth","paladine","vardestjernen"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Heste folket/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Heste folket/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"tribe","status":"active","friend-or-foe":"neutral","affiliation":["[[Slette folket]]"],"Campaign":"Erukana","aliases":["Hestefolket"],"tags":["erukana","faction"]}}
 ---
 
 

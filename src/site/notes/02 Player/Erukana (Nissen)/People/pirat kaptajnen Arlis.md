@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/pirat kaptajnen Arlis/","tags":["erukana","npc","pirate","captain"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/pirat kaptajnen Arlis/","tags":["erukana","npc","pirate","captain"],"dg-note-properties":{"sessions":["[[23 - 310325 - Erukana Steffen 3|session 23]]"],"category":"npc","Profession":["Pirat kaptajn"],"Faction":null,"Location":["[[Havet]]"],"Campaign":"Erukana","aliases":["Arlis"],"tags":["erukana","npc","pirate","captain"],"race":"human","role":["pirate"],"social_status":"commoner","affiliation":[],"disposition":"conditional","status":"alive","location_primary":"[[Havet]]"}}
 ---
 
 

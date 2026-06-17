@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum/","tags":["erukana","location","mausoleum","seiling"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum/","tags":["erukana","location","mausoleum","seiling"],"dg-note-properties":{"sessions":["[[10 - 220524 - Changer of time session 10|session 10]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[17 - 250624 - Changer of time - nissen - session 13|session 13]]"],"type":"location","subtype":"mausoleum","campaign":"Erukana","aliases":["Sir Seillings mausoleum 1"],"tags":["erukana","location","mausoleum","seiling"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/kongens hvil/","tags":["erukana","location","inn","astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/kongens hvil/","tags":["erukana","location","inn","astley"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]"],"type":"location","subtype":"inn","campaign":"Erukana","tags":["erukana","location","inn","astley"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Nibar/","tags":["erukana","pc","wizard"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Nibar/","tags":["erukana","pc","wizard"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[8-160324 - Changer of time session 8|session 8]]","[[17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"category":"pc","Profession":["Wizard"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","pc","wizard"],"race":"gnome","role":["scholar"],"social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
 ---
 
 

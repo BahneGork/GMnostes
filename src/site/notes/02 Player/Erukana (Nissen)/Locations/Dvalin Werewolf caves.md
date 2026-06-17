@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dvalin Werewolf caves/","tags":["erukanalocation","erukana","Locationsvisited"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dvalin Werewolf caves/","tags":["erukanalocation","erukana","Locationsvisited"],"dg-note-properties":{"tags":["erukanalocation","erukana","Locationsvisited"]}}
 ---
 
 

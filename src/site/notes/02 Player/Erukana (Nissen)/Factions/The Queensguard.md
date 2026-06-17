@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Queensguard/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Queensguard/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[20 - 110125 - Changer of time - nissen - session 16|session 16]]"],"category":"faction","faction_type":"knightly-order","status":"weakened","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]"],"Campaign":"Erukana","aliases":["Queensguard","Queensguarden","Queensgaard","Queens Guard"],"tags":["erukana","faction"]}}
 ---
 
 
-![Queens_guard_crest.jpg|300](/img/user/10%20Attachments/Queens_guard_crest.jpg)
+![Queens_guard_crest.jpg\|300](/img/user/10%20Attachments/Queens_guard_crest.jpg)
 
 # The Queensguard Knighthood
 

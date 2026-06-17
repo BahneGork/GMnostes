@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Solbringeren/","tags":["erukana","lore","deity","sun"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Solbringeren/","tags":["erukana","lore","deity","sun"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"lore","category":"deity","campaign":"Erukana","aliases":["Solbringeren","The Sunbringer"],"tags":["erukana","lore","deity","sun"]}}
 ---
 
 

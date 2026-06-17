@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Rules/Levelling up - training cost/","tags":["levelling","training"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Rules/Levelling up - training cost/","tags":["levelling","training"],"dg-note-properties":{"tags":["levelling","training"]}}
 ---
 
 

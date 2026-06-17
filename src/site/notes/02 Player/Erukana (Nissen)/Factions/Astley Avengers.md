@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Astley Avengers/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Astley Avengers/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[22 - 270325 - Erukana Steffen 2|session 22]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]","[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]","[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"category":"faction","faction_type":"knightly-order","status":"active","friend-or-foe":"ally","Location":["[[Astley]]"],"Campaign":"Erukana","aliases":["Astley Avenger"],"tags":["erukana","faction"]}}
 ---
 
 

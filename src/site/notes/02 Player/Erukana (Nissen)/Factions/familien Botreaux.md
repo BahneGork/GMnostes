@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/familien Botreaux/","tags":["erukana","faction","nobility"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/familien Botreaux/","tags":["erukana","faction","nobility"],"dg-note-properties":{"category":"faction","name":"Familien Botreaux","friend-or-foe":"neutral","tags":["erukana","faction","nobility"]}}
 ---
 
 

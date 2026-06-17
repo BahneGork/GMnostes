@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Håkan/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Håkan/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|session 1]]"],"category":"npc","Profession":["Innkeeper"],"Faction":null,"Location":["Near \"[[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]]\""],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["commoner"],"social_status":"commoner","affiliation":[],"disposition":"ally","status":"alive","location_primary":"[[Inn near Grøndalen]], [[Nordheim]]"}}
 ---
 
 

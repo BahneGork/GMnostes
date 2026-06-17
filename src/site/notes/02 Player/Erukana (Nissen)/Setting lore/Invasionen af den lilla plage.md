@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Invasionen af den lilla plage/","tags":["erukana","lore","lillaplage","history"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Invasionen af den lilla plage/","tags":["erukana","lore","lillaplage","history"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 20]]","[[8-160324 - Changer of time session 8|session 8]]"],"category":"lore","campaign":"Erukana","tags":["erukana","lore","lillaplage","history"]}}
 ---
 
 

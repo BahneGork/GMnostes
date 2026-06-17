@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Grimrock Woods/","tags":["erukana","location","forest"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Grimrock Woods/","tags":["erukana","location","forest"],"dg-note-properties":{"type":"location","subtype":"forest","campaign":"Erukana","tags":["erukana","location","forest"]}}
 ---
 
 

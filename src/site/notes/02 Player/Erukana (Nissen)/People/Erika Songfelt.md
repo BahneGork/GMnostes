@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Erika Songfelt/","tags":["erukana","npc","blodrosen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Erika Songfelt/","tags":["erukana","npc","blodrosen"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]"],"category":"npc","Profession":["Soldat"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]"],"Campaign":"Erukana","tags":["erukana","npc","blodrosen"],"race":"human","role":["military"],"social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]"],"disposition":"conditional","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]"}}
 ---
 
 

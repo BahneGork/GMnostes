@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Rod of Resurrection/","tags":["erukanamission","playermission"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Rod of Resurrection/","tags":["erukanamission","playermission"],"dg-note-properties":{"Title":"Rod of Resurrection","missionstatus":"active","faction":"Pillar of truth","related":null,"locations":["Nordheim"],"reward":"unknown","Main-Objective":"Retrieve Rod of Resurrection","tags":["erukanamission","playermission"]}}
 ---
 
 

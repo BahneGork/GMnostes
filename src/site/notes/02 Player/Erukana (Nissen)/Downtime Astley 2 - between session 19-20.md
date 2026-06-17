@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Downtime Astley 2 - between session 19-20/","tags":["erukana","erukanasessionlog"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Downtime Astley 2 - between session 19-20/","tags":["erukana","erukanasessionlog"],"dg-note-properties":{"type":"sessionlog","session":19.5,"date":null,"sted":"off-table","ingame-date-start":"6th Uktar","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog"]}}
 ---
 
 

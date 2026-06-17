@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Kroen Månehvil/","tags":["erukana","location","inn","mistville"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Kroen Månehvil/","tags":["erukana","location","inn","mistville"],"dg-note-properties":{"type":"location","subtype":"inn","campaign":"Erukana","aliases":["Månehvil"],"tags":["erukana","location","inn","mistville"]}}
 ---
 
 

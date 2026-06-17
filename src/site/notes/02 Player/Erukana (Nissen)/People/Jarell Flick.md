@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Jarell Flick/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Jarell Flick/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","Profession":["Historian"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley historian society\|Astley historian society]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","aliases":["Jarrell Flick","Jarrell","Jarrel","Hr. Flick","Hr.Flick"],"tags":["erukana","npc"],"race":"human","role":["scholar"],"social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley historian society\|Astley historian society]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Find Sorte Rose Lejren/","tags":["erukanamission","playermission"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Find Sorte Rose Lejren/","tags":["erukanamission","playermission"],"dg-note-properties":{"Title":"Find sorte rose lejren","missionstatus":"completed","faction":"Mistville Marshals","related":["[[Ridderne af Blodrosen|bloody rose]]","[[6-301023 - Changer of time session 6]]"],"locations":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"reward":"Madam Silvara","Main-Objective":"Rescue Madam Silvara","tags":["erukanamission","playermission"]}}
 ---
 
 

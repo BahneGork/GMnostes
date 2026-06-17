@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Rupert Solarson/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Rupert Solarson/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":["Adelsmand"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"nobility","social_status":"lord","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Erukana Quests and Questions/","tags":["erukana","QnA","erukanasecretsnclues"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Erukana Quests and Questions/","tags":["erukana","QnA","erukanasecretsnclues"],"dg-note-properties":{"tags":["erukana","QnA","erukanasecretsnclues"]}}
 ---
 
 

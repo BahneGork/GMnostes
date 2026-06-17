@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Soltræet/","tags":["erukana","location","sacred","mielikki","astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Soltræet/","tags":["erukana","location","sacred","mielikki","astley"],"dg-note-properties":{"sessions":["[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"location","subtype":"sacred","campaign":"Erukana","aliases":["Sun Tree","Suntree"],"tags":["erukana","location","sacred","mielikki","astley"]}}
 ---
 
 

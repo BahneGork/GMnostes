@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Krypten/","tags":["erukana","location","crypt","soltræet","corruption"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Krypten/","tags":["erukana","location","crypt","soltræet","corruption"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"location","subtype":"crypt","campaign":"Erukana","aliases":["The Crypt"],"tags":["erukana","location","crypt","soltræet","corruption"]}}
 ---
 
 

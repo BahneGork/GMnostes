@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Fafnirs gruppe/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Fafnirs gruppe/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[8-160324 - Changer of time session 8|session 8]]","[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"faction","faction_type":"resistance","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["Fafnirs modstandsbevægelse"],"tags":["erukana","faction"]}}
 ---
 
 

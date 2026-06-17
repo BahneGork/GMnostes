@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Anakteh/","tags":["erukana","lore","language","civilization"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Anakteh/","tags":["erukana","lore","language","civilization"],"dg-note-properties":{"category":"lore","campaign":"Erukana","tags":["erukana","lore","language","civilization"]}}
 ---
 
 

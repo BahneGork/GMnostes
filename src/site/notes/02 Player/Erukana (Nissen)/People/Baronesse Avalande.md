@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baronesse Avalande/","tags":["erukana","npc","nobility","missing"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baronesse Avalande/","tags":["erukana","npc","nobility","missing"],"dg-note-properties":{"category":"npc","Profession":["Baron"],"Faction":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]"],"Location":["[[Welles]]"],"Campaign":"Erukana","aliases":["Baronessen","Avalande"],"tags":["erukana","npc","nobility","missing"],"race":"human","role":["nobility","resistance"],"social_status":"baron","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]"],"disposition":"ally","status":"missing","location_primary":"[[Welles]]"}}
 ---
 
 

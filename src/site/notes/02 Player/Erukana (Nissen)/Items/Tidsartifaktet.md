@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Tidsartifaktet/","tags":["erukana","item","artifact","time","key"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Tidsartifaktet/","tags":["erukana","item","artifact","time","key"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"item","category":"artifact","campaign":"Erukana","aliases":["Time Artifact","Tidsartefaktet"],"tags":["erukana","item","artifact","time","key"]}}
 ---
 
 

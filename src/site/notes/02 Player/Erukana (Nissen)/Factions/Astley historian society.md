@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Astley historian society/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Astley historian society/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"faction","faction_type":"political-body","status":"active","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["Astley Historian Society"],"tags":["erukana","faction"]}}
 ---
 
 

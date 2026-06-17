@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Sorrow Vale/","tags":["erukana","location","region","nordheim"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Sorrow Vale/","tags":["erukana","location","region","nordheim"],"dg-note-properties":{"sessions":["[[31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta|session 31]]"],"type":"location","subtype":"region","campaign":"Erukana","tags":["erukana","location","region","nordheim"]}}
 ---
 
 

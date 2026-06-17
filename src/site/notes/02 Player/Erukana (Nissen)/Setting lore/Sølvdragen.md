@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Sølvdragen/","tags":["erukana","lore","dragon","azur","sacrifice"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Sølvdragen/","tags":["erukana","lore","dragon","azur","sacrifice"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"lore","category":"deity","campaign":"Erukana","aliases":["Silver Dragon","The Silver Dragon"],"tags":["erukana","lore","dragon","azur","sacrifice"]}}
 ---
 
 

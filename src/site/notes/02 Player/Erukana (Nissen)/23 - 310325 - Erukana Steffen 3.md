@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/23 - 310325 - Erukana Steffen 3/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/23 - 310325 - Erukana Steffen 3/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"],"dg-note-properties":{"type":"sessionlog","session":23,"date":"310325","sted":"online","ingame-date-start":"2nd Ches","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}}
 ---
 
 

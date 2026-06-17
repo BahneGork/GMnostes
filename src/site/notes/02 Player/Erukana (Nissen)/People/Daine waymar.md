@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Daine waymar/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Daine waymar/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","spy"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Pillar of Truth\|Pillar of Truth]]"],"disposition":"deceased-ally","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

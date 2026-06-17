@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"],"dg-note-properties":{"type":"sessionlog","session":17,"date":"250624","sted":"online","ingame-date-start":"3rd Uktar - the rotting","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}}
 ---
 
 

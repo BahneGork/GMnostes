@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley/","tags":["erukana","location","library","astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley/","tags":["erukana","location","library","astley"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[9 -150524 - Changer of time session 9|session 9]]"],"type":"location","subtype":"library","campaign":"Erukana","tags":["erukana","location","library","astley"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vaelon Dunmere/","tags":["questgiver","erukana/npc","thebronzekeg"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vaelon Dunmere/","tags":["questgiver","erukana/npc","thebronzekeg"],"dg-note-properties":{"category":"npc","aliases":["Vaelon","Dunmere"],"Location":["Bronzekeg"],"Profession":["Patron"],"Campaign":"Erukana","tags":["questgiver","erukana/npc","thebronzekeg"]}}
 ---
 
 
@@ -10,7 +10,7 @@
 Known by: [[02 Player/Erukana (Nissen)/Characters/Erukana party characters\|Erukana party characters]]
 Faction: Unknown
 
-![Pasted image 20230703214113.png| 200](/img/user/10%20Attachments/Pasted%20image%2020230703214113.png)
+![Pasted image 20230703214113.png\| 200](/img/user/10%20Attachments/Pasted%20image%2020230703214113.png)
 
 En varm og åbensindet mand i slutningen af 30erne. Altid klædt i en blød skjorte og en blå vest i fin kvalitet og altid bærer han en rude formet *amulet af sølv med et indgraveret symbol* på. Han er tydeligvis en mand som *værdsætter at man gør noget ud af sig selv*, som hans eget ydre også bærer stort præg af. 
 

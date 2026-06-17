@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Ritual Dagger/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Ritual Dagger/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Nibar Brassbit]]","itemtype":"weapon, dagger","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Ritual Dagger","tags":["erukana","erukanaloot"]}}
 ---
 
 
 #erukana #erukanaloot 
 
 # Ritual Dagger
-![Pasted image 20231019194549.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019194549.png)
+![Pasted image 20231019194549.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231019194549.png)
 ## Description
 (attunement), rødt skæfte, halv buet klinge meget skarp. Slashing damage istedet for piercing. God i en spellcasters hænder.  +1 spell DC hvis wielding while spellcasting. 
 

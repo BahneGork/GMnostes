@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Silver Drake guild/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Silver Drake guild/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"merchant-guild","status":"active","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]"],"Campaign":"Erukana","aliases":["Silver Drake guild"],"tags":["erukana","faction"]}}
 ---
 
 

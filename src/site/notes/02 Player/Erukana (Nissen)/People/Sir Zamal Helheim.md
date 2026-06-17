@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Zamal Helheim/","tags":["erukana","npc","noble","lensherre"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Zamal Helheim/","tags":["erukana","npc","noble","lensherre"],"dg-note-properties":{"category":"npc","Profession":["Lensherre"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]"],"Campaign":"Erukana","tags":["erukana","npc","noble","lensherre"],"race":"human","role":["nobility"],"social_status":"lord","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]"}}
 ---
 
 

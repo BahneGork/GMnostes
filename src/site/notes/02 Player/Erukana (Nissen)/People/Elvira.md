@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Elvira/","tags":["erukana","npc","witness"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Elvira/","tags":["erukana","npc","witness"],"dg-note-properties":{"sessions":["[[17 - 250624 - Changer of time - nissen - session 13|session 13]]"],"category":"npc","Profession":["Blomsterhandler"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","witness"],"race":"human","role":["merchant","commoner"],"social_status":"commoner","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

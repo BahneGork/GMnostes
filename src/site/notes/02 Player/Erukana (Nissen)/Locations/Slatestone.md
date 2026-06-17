@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Slatestone/","tags":["erukana","location","dwarf","hall"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Slatestone/","tags":["erukana","location","dwarf","hall"],"dg-note-properties":{"type":"location","subtype":"dwarven-hall","campaign":"Erukana","aliases":["Slatestone dværgehallerne","Slatestone Bjerghallen"],"tags":["erukana","location","dwarf","hall"]}}
 ---
 
 

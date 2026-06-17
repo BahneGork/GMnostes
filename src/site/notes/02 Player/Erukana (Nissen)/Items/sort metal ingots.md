@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/sort metal ingots/","tags":["erukana","item","material","mystery"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/sort metal ingots/","tags":["erukana","item","material","mystery"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]","[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"type":"item","category":"material","campaign":"Erukana","aliases":["sort metal ingots","sort metal","black metal ingots"],"tags":["erukana","item","material","mystery"]}}
 ---
 
 

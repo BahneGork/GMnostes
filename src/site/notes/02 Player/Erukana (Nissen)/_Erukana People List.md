@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana People List/","tags":["erukana","npc","list"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana People List/","tags":["erukana","npc","list"],"dg-note-properties":{"category":"npc","tags":["erukana","npc","list"]}}
 ---
 
 

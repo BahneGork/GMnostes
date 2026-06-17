@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/bjergene i vest og syd/","tags":["erukana","location","mountains","mowbray"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/bjergene i vest og syd/","tags":["erukana","location","mountains","mowbray"],"dg-note-properties":{"type":"location","subtype":"mountains","campaign":"Erukana","tags":["erukana","location","mountains","mowbray"]}}
 ---
 
 

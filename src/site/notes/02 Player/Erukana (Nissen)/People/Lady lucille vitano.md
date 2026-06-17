@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lady lucille vitano/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lady lucille vitano/","dg-note-properties":{"faction":"Opal kulten","category":"npc","Location":["[[Astley]]"],"Profession":["Noble"],"Kin":"[[Edmund af Vitano]]","Campaign":"Erukana"}}
 ---
 
 

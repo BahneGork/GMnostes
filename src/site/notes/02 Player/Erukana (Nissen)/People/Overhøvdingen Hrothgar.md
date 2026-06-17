@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Overhøvdingen Hrothgar/","tags":["erukana","npc","leader","warrior","sletten"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Overhøvdingen Hrothgar/","tags":["erukana","npc","leader","warrior","sletten"],"dg-note-properties":{"category":"npc","Profession":["Høvding","Berserkerkriger"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Warpaw stammen\|Warpaw stammen]]","[[02 Player/Erukana (Nissen)/Factions/Slette folket\|Slette folket]]"],"Location":["[[Sletterne]]"],"Campaign":"Erukana","tags":["erukana","npc","leader","warrior","sletten"],"race":"human","role":["military","nobility"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Warpaw stammen\|Warpaw stammen]]","[[02 Player/Erukana (Nissen)/Factions/Slette folket\|Slette folket]]"],"disposition":"neutral","status":"alive","location_primary":"[[Sletterne]]"}}
 ---
 
 

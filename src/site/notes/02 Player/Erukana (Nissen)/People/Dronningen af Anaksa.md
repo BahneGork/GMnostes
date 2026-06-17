@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dronningen af Anaksa/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dronningen af Anaksa/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["nobility","religious","paladin"],"social_status":"royalty","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]","[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]","[[02 Player/Erukana (Nissen)/People/Paladine\|Paladine]]","[[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]"}}
 ---
 
 

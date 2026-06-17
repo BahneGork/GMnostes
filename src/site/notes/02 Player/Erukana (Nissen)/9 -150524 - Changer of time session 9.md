@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9/","tags":["erukana","erukanasessionlog","erukana/campaign"],"dg-note-properties":{"type":"sessionlog","session":9,"date":"15-05-24","sted":"Astley","ingame-date-start":"6th Highsun 1516","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign"]}}
 ---
 
 
@@ -46,13 +46,13 @@
 - Vi finder ruinerne og 10-11 soldater, de bærer et rose symbol 
 - Vi taler med deres kaptajn [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]]
 	- Lucious er kommet til Astley, sydfra 
-![Pasted image 20240515210837.png|300](/img/user/10%20Attachments/Pasted%20image%2020240515210837.png)
+![Pasted image 20240515210837.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240515210837.png)
 [[02 Player/Erukana (Nissen)/People/Erika Songfelt\|Erika Songfelt]]
-![Pasted image 20240515210851.png|300](/img/user/10%20Attachments/Pasted%20image%2020240515210851.png)
+![Pasted image 20240515210851.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240515210851.png)
 - Ballade i NordHeim der truer [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] 
 - Blodrosen har indgået en aftale med kongen om at hjælpe med truslen 
 - Hydra angriber ruinerne!! 
-![Pasted image 20240515211858.png|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)
+![Pasted image 20240515211858.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)
 - Da [[02 Player/Erukana (Nissen)/People/Hydra\|02 Player/Erukana (Nissen)/People/Hydra]] er slagtet er der et hjerte tilbage, lava agtigt, som Clara samler op. 
 - Hydra hjertet ![Pasted image 20240522202250.png](/img/user/10%20Attachments/Pasted%20image%2020240522202250.png)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mielikki/","tags":["erukana","deity"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mielikki/","tags":["erukana","deity"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|session 1]]","[[7-170224 - Changer of time session 7|session 7]]"],"category":"deity","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","deity"]}}
 ---
 
 

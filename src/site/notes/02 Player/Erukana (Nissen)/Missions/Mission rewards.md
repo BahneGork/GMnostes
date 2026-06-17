@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Mission rewards/","tags":["erukana","erukanamission","erukanarewards"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Mission rewards/","tags":["erukana","erukanamission","erukanarewards"],"dg-note-properties":{"tags":["erukana","erukanamission","erukanarewards"]}}
 ---
 
 

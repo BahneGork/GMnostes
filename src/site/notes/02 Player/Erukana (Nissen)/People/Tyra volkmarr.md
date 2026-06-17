@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Tyra volkmarr/","tags":["erukana","npc","bahamut","priest"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Tyra volkmarr/","tags":["erukana","npc","bahamut","priest"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]"],"category":"npc","Profession":["Præst af Bahamut"],"Faction":["[[Bahamuts Tilhængere]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","bahamut","priest"],"race":"dwarf","role":["religious"],"social_status":"priest","affiliation":["[[Bahamut]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]"}}
 ---
 
 

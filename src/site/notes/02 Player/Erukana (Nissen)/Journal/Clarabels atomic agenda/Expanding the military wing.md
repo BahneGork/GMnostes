@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Expanding the military wing/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Expanding the military wing/","dg-note-properties":{"priority":3,"Next Action":"Initiate contact in Mowbrey","location":"Mowbrey","related npc":["Jack de Guile"],"related factions":["The Iron Tithe"],"My-PC":"Logan"}}
 ---
 
 # Expanding the military wing

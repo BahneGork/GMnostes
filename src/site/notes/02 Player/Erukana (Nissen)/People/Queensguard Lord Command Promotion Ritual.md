@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Queensguard Lord Command Promotion Ritual/","tags":["erukana","ritual","queensguard","promotion"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Queensguard Lord Command Promotion Ritual/","tags":["erukana","ritual","queensguard","promotion"],"dg-note-properties":{"category":"ritual","Profession":["Ritual"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]"],"Campaign":"Erukana","tags":["erukana","ritual","queensguard","promotion"]}}
 ---
 
 

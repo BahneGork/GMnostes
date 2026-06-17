@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Slette folket/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Slette folket/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"tribe","status":"active","friend-or-foe":"neutral","leader":["[[02 Player/Erukana (Nissen)/People/Overhøvdingen Hrothgar\|Overhøvdingen Hrothgar]]"],"Campaign":"Erukana","aliases":["Slettefolket","De Vilde"],"tags":["erukana","faction"]}}
 ---
 
 

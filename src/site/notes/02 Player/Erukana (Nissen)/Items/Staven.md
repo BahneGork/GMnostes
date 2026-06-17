@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Staven/","tags":["erukana","item","artifact","staff","key"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Staven/","tags":["erukana","item","artifact","staff","key"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"item","category":"artifact","campaign":"Erukana","aliases":["The Staff"],"tags":["erukana","item","artifact","staff","key"]}}
 ---
 
 

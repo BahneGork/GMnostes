@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Vitano/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Vitano/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]","aliases":["Edmund Vitano","Edmund af Vitano"],"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"]}}
 ---
 
 

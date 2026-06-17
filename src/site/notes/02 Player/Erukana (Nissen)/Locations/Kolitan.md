@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Kolitan/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Kolitan/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 16]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"]}}
 ---
 
 

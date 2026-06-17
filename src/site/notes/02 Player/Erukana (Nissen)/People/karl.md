@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/karl/","tags":["erukana","npc","hunter"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/karl/","tags":["erukana","npc","hunter"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"npc","Profession":["Pelsjæger"],"Faction":null,"Location":["Nordlandet (jagthytte)"],"Campaign":"Erukana","tags":["erukana","npc","hunter"],"race":"human","role":["commoner"],"social_status":"commoner","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"Nordlandet"}}
 ---
 
 

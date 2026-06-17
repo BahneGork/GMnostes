@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/blå tattoovering/","tags":["erukana","erukanaloot","mystery","timetravel"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/blå tattoovering/","tags":["erukana","erukanaloot","mystery","timetravel"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]"],"itemname":"Safirblå tatovering","itemtype":"Mystisk mærke","used-by":"[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]","attunement":null,"tags":["erukana","erukanaloot","mystery","timetravel"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Hvad ved Logan om Nordheim/","tags":["erukana","erukana/location","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Hvad ved Logan om Nordheim/","tags":["erukana","erukana/location","erukana/campaign"],"dg-note-properties":{"tags":["erukana","erukana/location","erukana/campaign"]}}
 ---
 
 

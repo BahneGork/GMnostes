@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/skur/","tags":["erukana","npc","nordheim"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/skur/","tags":["erukana","npc","nordheim"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|session 1]]"],"type":"person","subtype":"npc","campaign":"Erukana","tags":["erukana","npc","nordheim"]}}
 ---
 
 

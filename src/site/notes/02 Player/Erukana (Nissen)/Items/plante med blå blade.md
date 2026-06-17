@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/plante med blå blade/","tags":["erukana","erukanaloot","herb","healing"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/plante med blå blade/","tags":["erukana","erukanaloot","herb","healing"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"itemname":"Plante med blå blade","itemtype":"Herb","used-by":null,"attunement":false,"tags":["erukana","erukanaloot","herb","healing"]}}
 ---
 
 

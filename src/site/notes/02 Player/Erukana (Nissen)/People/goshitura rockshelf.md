@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/goshitura rockshelf/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/goshitura rockshelf/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"npc","Profession":["warrior"],"Faction":[],"Location":["[[Vinterspiret 1\|Vinterspiret 1]]"],"Campaign":"Erukana","aliases":["goshitura rockshelf"],"tags":["erukana","npc"],"race":"unspecified","role":["military"],"social_status":"unknown","affiliation":[],"disposition":"unknown","status":"dead","location_primary":"[[Vinterspiret 1\|Vinterspiret 1]]"}}
 ---
 
 

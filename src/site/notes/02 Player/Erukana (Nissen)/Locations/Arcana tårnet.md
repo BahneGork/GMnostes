@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Arcana tårnet/","tags":["erukana","location","tower","destroyed","eresby","magi"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Arcana tårnet/","tags":["erukana","location","tower","destroyed","eresby","magi"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]","[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"location","type":"location","subtype":"tower (destroyed)","Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]"],"Campaign":"Erukana","aliases":["Arcana Tower","The Arcana Tower","Det sydlige wizard tårn","Vogter tårnet"],"tags":["erukana","location","tower","destroyed","eresby","magi"]}}
 ---
 
 Hej 

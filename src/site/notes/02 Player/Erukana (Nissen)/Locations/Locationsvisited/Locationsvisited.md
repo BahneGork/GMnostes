@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Locationsvisited/Locationsvisited/","tags":["erukana","Locationsvisited"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Locationsvisited/Locationsvisited/","tags":["erukana","Locationsvisited"],"dg-note-properties":{"tags":["erukana","Locationsvisited"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Astra Militarum_ Den Imperietlige Hær/","title":"Astra Militarum","tags":["campaign","Imperium","Space Marines","Warhammer 40k"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Astra Militarum_ Den Imperietlige Hær/","title":"Astra Militarum","tags":["campaign","Imperium","Space Marines","Warhammer 40k"],"dg-note-properties":{"title":"Astra Militarum","date":"2023-04-10","tags":["campaign","Imperium","Space Marines","Warhammer 40k"],"source":"Discord","type":null}}
 ---
 
 

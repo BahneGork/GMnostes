@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/blå nomader/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/blå nomader/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"tribe","status":"unknown","friend-or-foe":"neutral","Campaign":"Erukana","aliases":["Blå nomader"],"tags":["erukana","faction"]}}
 ---
 
 
@@ -67,5 +67,5 @@ Amit's Søster [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]
 
 ## Traditionel beklædning/udseende
 
-![Pasted image 20231021200219.png|700](/img/user/10%20Attachments/Pasted%20image%2020231021200219.png)
+![Pasted image 20231021200219.png\|700](/img/user/10%20Attachments/Pasted%20image%2020231021200219.png)
 

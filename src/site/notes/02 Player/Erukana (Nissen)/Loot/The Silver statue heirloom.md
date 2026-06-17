@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom/","title":"The silver statue heirloom","tags":["erukanamission","erukana","missiontype-retrieval","erukanasecretsnclues"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom/","title":"The silver statue heirloom","tags":["erukanamission","erukana","missiontype-retrieval","erukanasecretsnclues"],"dg-note-properties":{"title":"The silver statue heirloom","missionstatus":"completed","faction":"Vaelon Dunmere","related":["Brakeshield family","Segrave","Mistville Oddsmoke"],"locations":["The Bronze keg","Baroni Eresby","Baroni Welles","Mistville village"],"reward":"200gp","tags":["erukanamission","erukana","missiontype-retrieval","erukanasecretsnclues"]}}
 ---
 
 

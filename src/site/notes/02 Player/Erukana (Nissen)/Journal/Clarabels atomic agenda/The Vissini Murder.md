@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/The Vissini Murder/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/The Vissini Murder/","dg-note-properties":{"priority":5,"Next Action":"Wait","location":"Astley, Baroniet Welles","related npc":["[[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]]","Lord Solarsson"],"related factions":null,"My-PC":"Clarabel"}}
 ---
 
 Meet with [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]]

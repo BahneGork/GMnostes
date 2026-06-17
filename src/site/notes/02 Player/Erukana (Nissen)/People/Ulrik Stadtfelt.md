@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrik Stadtfelt/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrik Stadtfelt/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","antagonist"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Chauntea\|Chauntea]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]","aliases":["Ulrick Stadtfeldt"]}}
 ---
 
 
@@ -8,7 +8,7 @@
 #erukana/npc #erukana/villain
 # Præst Af [[02 Player/Erukana (Nissen)/People/Chauntea\|Chauntea]] I [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
 
-![Pasted image 20231021193240.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021193240.png)
+![Pasted image 20231021193240.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231021193240.png)
 
 Ulrick Stadtfeldt er en ældre mand, der klæder sig i naturfarvet og tilnærmelsesvis slidte gevandter. 
 Han er godt oppe i årene, men virker i fuld vigør selvom han er bleg og virker hærget. 

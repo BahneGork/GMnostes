@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Denizar Volmar/","tags":["erukana/npc","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Denizar Volmar/","tags":["erukana/npc","erukana/campaign"],"dg-note-properties":{"Location":["[[Astley]]"],"category":"npc","Profession":["Borgmester"],"Campaign":"Erukana","faction":"Den lilla plage","Assosiates":"[[Tani Ebonheart]]","tags":["erukana/npc","erukana/campaign"]}}
 ---
 
 

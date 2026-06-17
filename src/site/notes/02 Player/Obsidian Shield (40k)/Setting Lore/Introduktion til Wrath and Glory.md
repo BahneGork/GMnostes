@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Introduktion til Wrath and Glory/","title":"Wrath and Glory System Guide","tags":["wrath-and-glory","tabletop-rpg","rpg-systems"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Introduktion til Wrath and Glory/","title":"Wrath and Glory System Guide","tags":["wrath-and-glory","tabletop-rpg","rpg-systems"],"dg-note-properties":{"title":"Wrath and Glory System Guide","date":"2023-04-01","tags":["wrath-and-glory","tabletop-rpg","rpg-systems"],"source":"Discord","type":"general-knowledge"}}
 ---
 
 

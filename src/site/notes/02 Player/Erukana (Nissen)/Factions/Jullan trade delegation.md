@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Jullan trade delegation/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Jullan trade delegation/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 16]]"],"category":"faction","faction_type":"political-body","status":"active","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]]"],"Campaign":"Erukana","aliases":["Yuulan trade delegation","Jullan/Yuulan trade delegation","Jullan handelsdelegation"],"tags":["erukana","faction"]}}
 ---
 
 

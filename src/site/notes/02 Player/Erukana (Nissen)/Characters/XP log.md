@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/XP log/","tags":["erukana","playercharacters","playernotes"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/XP log/","tags":["erukana","playercharacters","playernotes"],"dg-note-properties":{"tags":["erukana","playercharacters","playernotes"]}}
 ---
 
 

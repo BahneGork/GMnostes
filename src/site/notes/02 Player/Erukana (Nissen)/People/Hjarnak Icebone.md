@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hjarnak Icebone/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hjarnak Icebone/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[34 - erukana - steffen - 12|session 34]]"],"category":"npc","Profession":["Frost Giant Chieftain"],"Faction":["[[Frost Giant Clan]]"],"Location":["[[Nordheim]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"half-giant","role":["antagonist","military"],"social_status":"lord","affiliation":["[[Frost Giant Clan]]"],"disposition":"enemy","status":"dead","location_primary":"[[Nordheim]]"}}
 ---
 
 

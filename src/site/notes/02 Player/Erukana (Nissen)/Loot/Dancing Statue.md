@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Dancing Statue/","tags":["erukana","erukanaloot","alunethriels-grace"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Dancing Statue/","tags":["erukana","erukanaloot","alunethriels-grace"],"dg-note-properties":{"used-by":"[[Nibar Brassbit]]","itemtype":"Wonderous item","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":"backpack","Location":null,"itemname":"Dancing Statue","tags":["erukana","erukanaloot","alunethriels-grace"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 The statue has been revealed as the - [[02 Player/Erukana (Nissen)/Loot/Alunethriel's Grace- Relic\|Alunethriel's Grace- Relic]]
 
 # Dancing Statue
-![Pasted image 20231019202244.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019202244.png)
+![Pasted image 20231019202244.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231019202244.png)
 ## Description
 
 med adamatitum eller mithril furer i. En dansende elver med længere arme og ben. 

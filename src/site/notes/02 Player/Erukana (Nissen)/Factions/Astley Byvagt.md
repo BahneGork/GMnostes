@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Astley Byvagt/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Astley Byvagt/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"military-order","status":"active","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["Astley City Watch"],"tags":["erukana","faction"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Kehl - golden armor/","tags":["erukana","erukanaloot","erukana/lootfound"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Kehl - golden armor/","tags":["erukana","erukanaloot","erukana/lootfound"],"dg-note-properties":{"used-by":"[[Clarabel Lancaster|Clara]]","itemtype":"Wonderous item","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":"pouch on belt","Location":"Clarabel equipment","itemname":"Armor of Kehl","tags":["erukana","erukanaloot","erukana/lootfound"]}}
 ---
 
 

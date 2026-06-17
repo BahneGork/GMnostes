@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1/","tags":["erukana/partyagenda","erukana/personalagenda"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1/","tags":["erukana/partyagenda","erukana/personalagenda"],"dg-note-properties":{"tags":["erukana/partyagenda","erukana/personalagenda"]}}
 ---
 
 

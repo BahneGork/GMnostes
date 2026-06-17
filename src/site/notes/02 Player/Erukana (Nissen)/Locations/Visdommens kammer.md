@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Visdommens kammer/","tags":["erukana","location","soltræet","chamber"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Visdommens kammer/","tags":["erukana","location","soltræet","chamber"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"location","subtype":"chamber","campaign":"Erukana","aliases":["Chamber of Wisdom","Visdommens kammer"],"tags":["erukana","location","soltræet","chamber"]}}
 ---
 
 

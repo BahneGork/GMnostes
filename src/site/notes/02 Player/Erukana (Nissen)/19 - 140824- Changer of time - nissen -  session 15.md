@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"],"dg-note-properties":{"type":"sessionlog","session":19,"date":"140824","sted":"online","ingame-date-start":"6th Uktar","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}}
 ---
 
 
@@ -24,7 +24,7 @@
 	- Vi får Maria til at føre Nibar derhen i forklædning 
 	- Vi forsøger at lave en plan og følger efter pigen 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1516-Uktar-6' data-date-end='1516-Uktar-6' data-img='Inline Example/Event_2.jpg' data-name='The Alistair Manor Event'>Vi infiltrere Alistair manor og besejrer en dæmon kult</span>
-- ![Pasted image 20240814195642.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814195642.png)
+- ![Pasted image 20240814195642.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240814195642.png)
 - På døren er der et symbol af en full helmet og der står Alistair family 
 - Hun fører os om til en bagdør
 - Bjørn leder efter et sted at kravle/snige sig ind 
@@ -40,15 +40,15 @@
 	- Luften er anderledes, fyldt med sødlig røgelse 
 	- En magisk aura forsøger at dulme hans sanser og viljestyrke 
 	- Nibar befinder sig i et kammer i en kælder, fyldt med masser af farver grundet alle de oplyste kulørte kugler 
-	- ![Pasted image 20240814201153.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814201153.png)
+	- ![Pasted image 20240814201153.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240814201153.png)
 	- -Lord Alistair sidder i stolen i midten af rummet 
-	- ![Lord Alistair - Astley - Erukana.png|300](/img/user/10%20Attachments/Lord%20Alistair%20-%20Astley%20-%20Erukana.png)
+	- ![Lord Alistair - Astley - Erukana.png\|300](/img/user/10%20Attachments/Lord%20Alistair%20-%20Astley%20-%20Erukana.png)
 	- - Nameless lord 2 - gnome 
-	- ![Pasted image 20240814201507.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814201507.png)
+	- ![Pasted image 20240814201507.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240814201507.png)
 	- -Nameless lord 3 
-	- ![Pasted image 20240814201526.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814201526.png)
+	- ![Pasted image 20240814201526.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240814201526.png)
 	- - Nameless Lady 
-	- ![Pasted image 20240814201542.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814201542.png)
+	- ![Pasted image 20240814201542.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240814201542.png)
 	- Der hænger spejle på væggene, der viser en slags "harry potter" billeder af forskellige personer, men Nibar har en fornemmelse af at det ikke er billeder men at det er rigtige folk. 
 	- En af det viser også "helvede" 
 	- Lord Alistair beder Nibar om at "gå igang, du ved godt hvad du skal"
@@ -60,7 +60,7 @@
 - Det trækker op til kamp, de andre løber imod larmen 
 - Nibar forsøger at intimidere rummet "Ved den lilla plage underkast jer!"
 - Lord Alistair lader en illusion over ham selv falde og afslører horn, spidse ører og mørkt tøj og en lugt af svovl 
-- ![Pasted image 20240814203909.png|300](/img/user/10%20Attachments/Pasted%20image%2020240814203909.png)
+- ![Pasted image 20240814203909.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240814203909.png)
 - Nameless lord 2 trækker sit greatsword og råber "ved GRAZZT"
 - Lady'en hidkalder en greater demon 
 - Nibar bliver targeted af nameless Lady og forsvinder ind i et spejl 

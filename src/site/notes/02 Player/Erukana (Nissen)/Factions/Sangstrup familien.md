@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Sangstrup familien/","tags":["erukana","faction","family","merchant"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Sangstrup familien/","tags":["erukana","faction","family","merchant"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|session 13]]"],"category":"faction","type":"family","Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["Sangstrup family"],"tags":["erukana","faction","family","merchant"]}}
 ---
 
 

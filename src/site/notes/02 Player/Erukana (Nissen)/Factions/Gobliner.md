@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Gobliner/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Gobliner/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[10 - 220524 - Changer of time session 10|session 10]]","[[34 - erukana - steffen - 12|session 34]]","[[32 - 130925 - Erukana - Steffen - 10 - After the orks|session 32]]"],"category":"faction","faction_type":"tribe","status":"unknown","friend-or-foe":"enemy","Campaign":"Erukana","aliases":["Goblins"],"tags":["erukana","faction"]}}
 ---
 
 

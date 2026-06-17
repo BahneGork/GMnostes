@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Game Planning/","tags":["erukana","planning"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Game Planning/","tags":["erukana","planning"],"dg-note-properties":{"tags":["erukana","planning"]}}
 ---
 
 

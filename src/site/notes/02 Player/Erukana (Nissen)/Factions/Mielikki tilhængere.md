@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Mielikki tilhængere/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Mielikki tilhængere/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]"],"Campaign":"Erukana","aliases":["Mielikki Cult","Mielikki ordenen"],"tags":["erukana","faction"]}}
 ---
 
 

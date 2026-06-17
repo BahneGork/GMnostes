@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Tizzelspark/","tags":["erukana","npc","gnome","merchant"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Tizzelspark/","tags":["erukana","npc","gnome","merchant"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]"],"category":"npc","Profession":["Værtshusejere"],"Faction":[null],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]","[[02 Player/Erukana (Nissen)/Locations/kongens hvil\|kongens hvil]]"],"Campaign":"Erukana","tags":["erukana","npc","gnome","merchant"],"race":"gnome","role":["merchant"],"social_status":"merchant","affiliation":[],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

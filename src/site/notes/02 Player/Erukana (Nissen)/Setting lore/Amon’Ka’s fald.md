@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Amon’Ka’s fald/","tags":["erukana","lore","history","metalmænd"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Amon’Ka’s fald/","tags":["erukana","lore","history","metalmænd"],"dg-note-properties":{"sessions":["[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]"],"category":"lore","campaign":"Erukana","tags":["erukana","lore","history","metalmænd"]}}
 ---
 
 

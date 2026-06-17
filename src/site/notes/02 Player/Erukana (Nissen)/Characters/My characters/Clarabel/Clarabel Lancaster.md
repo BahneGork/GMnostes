@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster/","tags":["erukanapc","playercharacters","erukana"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster/","tags":["erukanapc","playercharacters","erukana"],"dg-note-properties":{"type":"pc","aliases":["Clarabel Lancaster","Clarabel","Clara"],"campaign":"Erukana - Changer of time","image":"![female warrior squire-clarabel.png\|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png)","race":"Human","class":"Cleric","subclass":"War domain","background":"Squire of the Queensguard","pc-title":"Knight in waiting","profbonus":2,"hp":13,"AC":18,"cantrips":3,"1stspellslots":4,"channeling":2,"2ndspellslots":"3","spellmod":"2","spellattack":"4","savedc":"12","tags":["erukanapc","playercharacters","erukana"]}}
 ---
 
 
@@ -8,7 +8,7 @@
 **Motivation: Bevise sit værd (overfor andre specifikke måske? overfor sig selv?)**
 
 # Clarabel Lancaster
- ![female warrior squire-clarabel.png|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png) ![Pasted image 20230703212842.png|400](/img/user/10%20Attachments/Pasted%20image%2020230703212842.png)
+ ![female warrior squire-clarabel.png\|200](/img/user/10%20Attachments/female%20warrior%20squire-clarabel.png) ![Pasted image 20230703212842.png\|400](/img/user/10%20Attachments/Pasted%20image%2020230703212842.png)
  Squire of [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]], Knight in waiting 
  [[No Graph/5e Reference/Cleric\|Cleric]] of [[War Domain\|War Domain]] - [[02 Player/Erukana (Nissen)/People/Bahamut\|Bahamut]]
  [[No Graph/5e Reference/Human\|Human]]  

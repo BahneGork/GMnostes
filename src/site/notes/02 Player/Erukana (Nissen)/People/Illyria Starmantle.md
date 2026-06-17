@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Illyria Starmantle/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Illyria Starmantle/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"npc","Profession":["Merchant","Diplomat"],"Faction":null,"Location":["[[Kolitan]]","[[Jullan]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["merchant"],"social_status":"merchant","affiliation":["[[Jullan/Yuulan trade delegation]]"],"disposition":"neutral","status":"alive","location_primary":"[[Kolitan]]","aliases":["Illyrias Starmantle"]}}
 ---
 
 

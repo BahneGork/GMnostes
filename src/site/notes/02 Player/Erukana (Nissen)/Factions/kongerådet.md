@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/kongerådet/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/kongerådet/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"political-body","status":"unknown","friend-or-foe":"neutral","Campaign":"Erukana","aliases":["Kongeråd"],"tags":["erukana","faction"]}}
 ---
 
 

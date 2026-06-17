@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Svinestien - Bar i Astley shanty town/","tags":["erukana","location","tavern","astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Svinestien - Bar i Astley shanty town/","tags":["erukana","location","tavern","astley"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]"],"type":"location","subtype":"tavern","campaign":"Erukana","tags":["erukana","location","tavern","astley"]}}
 ---
 
 

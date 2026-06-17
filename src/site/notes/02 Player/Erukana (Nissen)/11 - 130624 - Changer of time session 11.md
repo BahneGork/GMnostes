@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11/","tags":["erukana","erukanasessionlog","erukana/campaign"],"dg-note-properties":{"type":"sessionlog","session":10,"date":"130624","sted":"online","ingame-date-start":"11th highsun","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign"]}}
 ---
 
 
 #erukana #erukanasessionlog #erukana/campaign 
 
 # Corruption of Feywood
-![Pasted image 20240613192833.png|300](/img/user/10%20Attachments/Pasted%20image%2020240613192833.png)
+![Pasted image 20240613192833.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240613192833.png)
 
 #### Dag 7 of the Expedition into Feywood 13th Highsun
 - 5 dages rationer tilbage 

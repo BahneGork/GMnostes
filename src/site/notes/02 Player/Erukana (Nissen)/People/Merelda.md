@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Merelda/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Merelda/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[8-160324 - Changer of time session 8|session 8]]"],"category":"npc","Profession":["Magiker"],"Faction":"[[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]]","Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"scholar","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]]"],"disposition":"unknown","status":"alive","location_primary":"unspecified"}}
 ---
 
 

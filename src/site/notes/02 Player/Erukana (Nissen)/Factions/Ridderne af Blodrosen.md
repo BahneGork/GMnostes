@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[8-160324 - Changer of time session 8|session 8]]","[[9 -150524 - Changer of time session 9|session 9]]","[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"faction","faction_type":"knightly-order","status":"active","friend-or-foe":"enemy","leader":["[[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]]"],"Campaign":"Erukana","aliases":["Blodrosen","blodrosen","bloodrose","bloody rose","order of the bloodrose","blodrose ridder"],"tags":["erukana","faction"]}}
 ---
 
 
-![Pasted image 20231021133841.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021133841.png)
+![Pasted image 20231021133841.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231021133841.png)
 
 ## Description
 Ridderne af Blodrosen (også kaldet Blodrosen) er en ridderorden der kom til [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] østfra for ca. 1 år siden. De har indgået en alliance med [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og hjælper med at opretholde lov og orden. De kom for at kæmpe den kamp som [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ikke kunne kæmpe — mod [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]]. Ordenen har dog en kompleks relation til gruppen og andre fraktioner.

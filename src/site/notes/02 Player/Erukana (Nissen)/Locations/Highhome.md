@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Highhome/","tags":["erukana","location","city","blackmere","capital"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Highhome/","tags":["erukana","location","city","blackmere","capital"],"dg-note-properties":{"type":"location","subtype":"city","campaign":"Erukana","tags":["erukana","location","city","blackmere","capital"]}}
 ---
 
 

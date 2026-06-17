@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/28 - 050725 - Erukana - Steffen 6/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"],"dg-note-properties":{"type":"sessionlog","session":28,"date":"050725","sted":"Nyråd","ingame-date-start":"26th of Ches","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}}
 ---
 
 

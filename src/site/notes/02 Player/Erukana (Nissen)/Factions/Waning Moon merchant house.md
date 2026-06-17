@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"faction","faction_type":"merchant-company","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]]"],"affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["Waning Moon","Waning moon merchant house"],"tags":["erukana","faction"]}}
 ---
 
 

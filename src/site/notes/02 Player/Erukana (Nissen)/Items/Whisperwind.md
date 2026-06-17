@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Whisperwind/","tags":["erukana","item","vehicle","ship"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Whisperwind/","tags":["erukana","item","vehicle","ship"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]","[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"type":"item","category":"vehicle","campaign":"Erukana","aliases":["Whisperwind","det flyvende skib","the flying ship"],"tags":["erukana","item","vehicle","ship"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Krugge/","tags":["erukana","npc","suspect"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Krugge/","tags":["erukana","npc","suspect"],"dg-note-properties":{"sessions":["[[17 - 250624 - Changer of time - nissen - session 13|session 13]]"],"category":"npc","Profession":["Bagersvend"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["Kruger"],"tags":["erukana","npc","suspect"],"race":"human","role":"commoner","social_status":"commoner","affiliation":[],"disposition":"unknown","status":"missing","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

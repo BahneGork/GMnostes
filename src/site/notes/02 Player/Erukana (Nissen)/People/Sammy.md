@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sammy/","tags":["erukana","npc","resistance"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sammy/","tags":["erukana","npc","resistance"],"dg-note-properties":{"sessions":["[[17 - 250624 - Changer of time - nissen - session 13|session 13]]"],"category":"npc","Profession":["Agent","Modstandskæmper"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Fafnirs gruppe\|Fafnirs gruppe]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","resistance"],"race":"unspecified","role":["resistance"],"social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Fafnirs gruppe\|Fafnirs gruppe]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
 ---
 
 

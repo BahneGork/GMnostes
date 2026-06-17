@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/backup/Adeptus Arbites/","title":"Adeptus Arbites","tags":["faction","imperium-of-man","organelle","law-enforcement"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/backup/Adeptus Arbites/","title":"Adeptus Arbites","tags":["faction","imperium-of-man","organelle","law-enforcement"],"dg-note-properties":{"title":"Adeptus Arbites","date":"2023-02-20","tags":["faction","imperium-of-man","organelle","law-enforcement"],"author":"Discord Username","source":"Discord","type":"organization"}}
 ---
 
 

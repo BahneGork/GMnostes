@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Mistville/","tags":["Locationsvisited","village","location","erukana","wellesbarony"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Mistville/","tags":["Locationsvisited","village","location","erukana","wellesbarony"],"dg-note-properties":{"type":"location","subtype":"village","tags":["Locationsvisited","village","location","erukana","wellesbarony"]}}
 ---
 
 
@@ -11,7 +11,7 @@ Small village in [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baronie
 
 VIP: [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] 
 
-![Pasted image 20231021195108.png|1300](/img/user/10%20Attachments/Pasted%20image%2020231021195108.png)
+![Pasted image 20231021195108.png\|1300](/img/user/10%20Attachments/Pasted%20image%2020231021195108.png)
 
 ## [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]]
 We found the [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]] here, in the posession of [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] 

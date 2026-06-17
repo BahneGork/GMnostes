@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Jarek De Guille/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Jarek De Guille/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":["Unknown"],"Faction":null,"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"unspecified","role":["military"],"social_status":"unknown","affiliation":[],"disposition":"unknown","status":"unknown","location_primary":"[[Astley]]"}}
 ---
 
 

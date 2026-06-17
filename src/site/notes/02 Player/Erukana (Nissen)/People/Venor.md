@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Venor/","tags":["erukana","npc","blodrosen","antagonist"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Venor/","tags":["erukana","npc","blodrosen","antagonist"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]"],"category":"npc","Profession":["Ridder"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]"],"Location":[null],"Campaign":"Erukana","tags":["erukana","npc","blodrosen","antagonist"],"race":"human","role":["military","antagonist"],"social_status":"knight","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/The Banner/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/The Banner/","dg-note-properties":{"priority":3,"Next Action":"Sir Selling Mausoleum","location":"Mausoleum","My-PC":"Clarabel"}}
 ---
 
 # A banner to unite around

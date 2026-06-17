@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hans Baudler/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hans Baudler/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","Profession":["Sergeant"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["military"],"social_status":"officer","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

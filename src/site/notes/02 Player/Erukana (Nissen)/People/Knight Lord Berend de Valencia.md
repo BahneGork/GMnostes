@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Knight Lord Berend de Valencia/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Knight Lord Berend de Valencia/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"military","social_status":"knight","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]"],"disposition":"unknown","status":"unknown","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]"}}
 ---
 
 

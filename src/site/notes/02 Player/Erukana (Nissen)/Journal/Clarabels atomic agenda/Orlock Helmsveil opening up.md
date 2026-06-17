@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Orlock Helmsveil opening up/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Orlock Helmsveil opening up/","dg-note-properties":{"priority":2,"location":"Astley, Baroniet Welles","related npc":["Orlock helmsveil"],"My-PC":"Logan"}}
 ---
 
 # Orlock Helmsveil opening up

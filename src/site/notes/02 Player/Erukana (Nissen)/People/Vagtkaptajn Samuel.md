@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel/","tags":["erukana","npc","guard","authority","astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel/","tags":["erukana","npc","guard","authority","astley"],"dg-note-properties":{"sessions":["[[17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","Profession":["Vagtkaptajn"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Byvagt\|Astley Byvagt]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]","[[Vestporten]]"],"Campaign":"Erukana","aliases":["Vagtkaptajn Samuels","Samuel","Samuels"],"tags":["erukana","npc","guard","authority","astley"],"race":"human","role":["military"],"social_status":"officer","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Byvagt\|Astley Byvagt]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

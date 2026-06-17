@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/miri sangstrup/","tags":["erukana","npc","herbalist","victim","mystery","murder"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/miri sangstrup/","tags":["erukana","npc","herbalist","victim","mystery","murder"],"dg-note-properties":{"sessions":["[[17 - 250624 - Changer of time - nissen - session 13|session 13]]"],"category":"npc","Profession":["Herbalist/Urtehandler"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Sangstrup familien\|Sangstrup familien]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["Miri"],"tags":["erukana","npc","herbalist","victim","mystery","murder"],"race":"human","role":["merchant"],"social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Sangstrup familien\|Sangstrup familien]]"],"disposition":"deceased-ally","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

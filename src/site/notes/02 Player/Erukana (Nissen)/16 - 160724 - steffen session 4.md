@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen",2]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen",2],"dg-note-properties":{"type":"sessionlog","session":16,"date":"160624","sted":"online","ingame-date-start":"5th Marpenoth - leaffall","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/campaign/steffen",2]}}
 ---
 
 

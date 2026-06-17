@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Brevet på døde Celia - Erukana.png/","tags":["erukana"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Brevet på døde Celia - Erukana.png/","tags":["erukana"],"dg-note-properties":{"sessions":["[[4-091023 - Changer of time session 4|session 4]]"],"category":null,"campaign":"Erukana","tags":["erukana"]}}
 ---
 
 

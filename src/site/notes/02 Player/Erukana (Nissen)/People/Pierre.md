@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Pierre/","tags":["erukana","npc","servant"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Pierre/","tags":["erukana","npc","servant"],"dg-note-properties":{"sessions":["[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]"],"category":"npc","Profession":["Tjener/Agent"],"Faction":["[[Adelhuset Vitano]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","servant"],"race":"human","role":["servant"],"social_status":"servant","affiliation":["[[Adelhuset Vitano]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/den store stemme/","tags":["erukana","npc","kobold","antagonist"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/den store stemme/","tags":["erukana","npc","kobold","antagonist"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[7-170224 - Changer of time session 7|session 7]]","[[8-160324 - Changer of time session 8|session 8]]"],"category":"npc","Profession":["Kobold leder"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]]"],"Location":["[[Dark Gem Clan Caves\|Dark Gem Clan Caves]]"],"Campaign":"Erukana","tags":["erukana","npc","kobold","antagonist"],"race":"kobold","role":["antagonist","shaman"],"social_status":"lord","affiliation":["Dark Gem Klanen","Opal Kulten"],"disposition":"enemy","status":"unknown","location_primary":"Dark Gem Clan Caves"}}
 ---
 
 

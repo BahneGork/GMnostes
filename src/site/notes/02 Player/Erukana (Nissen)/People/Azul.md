@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Azul/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Azul/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[3-300923 - Changer of time session 3|session 3]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"military","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Zazmir stamme\|Zazmir stamme]]"],"disposition":"ally","status":"alive","location_primary":"Nomadic"}}
 ---
 
 

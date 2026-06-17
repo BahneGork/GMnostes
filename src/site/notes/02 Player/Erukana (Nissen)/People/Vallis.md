@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vallis/","tags":["erukana","npc","deevers"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vallis/","tags":["erukana","npc","deevers"],"dg-note-properties":{"sessions":["[[5-281023 - Changer of time session 5|session 5]]"],"category":"npc","Profession":["Tjener/Budbringer"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","deevers"],"race":"human","role":["servant"],"social_status":"servant","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
 ---
 
 

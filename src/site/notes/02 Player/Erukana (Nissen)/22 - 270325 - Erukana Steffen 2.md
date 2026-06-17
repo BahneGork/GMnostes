@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"],"dg-note-properties":{"type":"sessionlog","session":22,"date":"27-03-2025","sted":"online","ingame-date-start":null,"campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 ## Portalen
 - På den anden side af portalen, træder vi ud på driv tømmer omgivet af en masse larm. 
 - Vi er midt i et maritimt slag.
-- ![Pasted image 20250327195605.png|300](/img/user/10%20Attachments/Pasted%20image%2020250327195605.png)
+- ![Pasted image 20250327195605.png\|300](/img/user/10%20Attachments/Pasted%20image%2020250327195605.png)
 - Vi er oppe i luft rummet, 2 skibe svæver.
 - Det ene skib er formet som knogler og virker ondt, kraken skull 
 - Det andet skib virker mere helligt, griffon hoved, har et flammende sværd symbol 

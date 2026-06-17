@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Claras Faction/The Watchers/","tags":["organization","the-watchers","clarabel","resistance","intelligence-network","anti-tyranny","founding-document"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Claras Faction/The Watchers/","tags":["organization","the-watchers","clarabel","resistance","intelligence-network","anti-tyranny","founding-document"],"dg-note-properties":{"type":"organization-charter","organization":"The Watchers of the Threshold","founder":"Clarabel Lancaster","status":"planning-phase","campaign":"Erukana - Changer of time","location":"Astley, Baroniet Welles","aliases":["The Watchers","Watchers of the Threshold"],"tags":["organization","the-watchers","clarabel","resistance","intelligence-network","anti-tyranny","founding-document"]}}
 ---
 
 

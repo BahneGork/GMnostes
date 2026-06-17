@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Orlock Helmsveil/","tags":["erukana","npc","scribe","ally"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Orlock Helmsveil/","tags":["erukana","npc","scribe","ally"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","Profession":["Scribe","Page"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","scribe","ally"],"race":"human","role":["servant"],"social_status":"servant","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
 ---
 
 

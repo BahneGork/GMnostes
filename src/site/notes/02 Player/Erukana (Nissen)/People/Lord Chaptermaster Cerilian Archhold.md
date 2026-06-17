@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Chaptermaster Cerilian Archhold/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Chaptermaster Cerilian Archhold/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":["Kapitelmester"],"Faction":"[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]","Location":["[[02 Player/Erukana (Nissen)/Factions/Highguard Chapterhouse\|Highguard Chapterhouse]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["military","religious"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"disposition":"deceased-ally","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Factions/Highguard Chapterhouse\|Highguard Chapterhouse]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House Magdova/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House Magdova/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Adelston Magdova]]"],"Location":["[[Stirling\|Stirling]]"],"Campaign":"Erukana","aliases":["Magdova familien"],"tags":["erukana","faction"]}}
 ---
 
 

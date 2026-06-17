@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/The Undead and the populace view/","tags":["erukana","lore"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/The Undead and the populace view/","tags":["erukana","lore"],"dg-note-properties":{"tags":["erukana","lore"]}}
 ---
 
 

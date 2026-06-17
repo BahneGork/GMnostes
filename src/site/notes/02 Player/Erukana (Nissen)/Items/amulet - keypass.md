@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/amulet - keypass/","tags":["erukana","erukanaloot","artifact"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/amulet - keypass/","tags":["erukana","erukanaloot","artifact"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]"],"itemname":"Amulet - Keypass","itemtype":"Magic item (key)","used-by":"[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]","attunement":null,"tags":["erukana","erukanaloot","artifact"]}}
 ---
 
 

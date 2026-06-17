@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Adelston Magdova/","tags":["erukana","npc","stirling","noble","magdova"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Adelston Magdova/","tags":["erukana","npc","stirling","noble","magdova"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","aliases":["Lord Magdova","Adelston Magdova"],"Profession":["Lensherre"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Magdova\|Factions/House Magdova]]"],"Location":["[[Stirling\|Stirling]]"],"Campaign":"Erukana","tags":["erukana","npc","stirling","noble","magdova"],"race":"human","role":["noble","lord"],"social_status":"noble","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Magdova\|Factions/House Magdova]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Stirling\|Stirling]]"}}
 ---
 
 

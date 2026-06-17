@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Segreve/","tags":["erukana","location","town"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Segreve/","tags":["erukana","location","town"],"dg-note-properties":{"category":"location","type":"town","Campaign":"Erukana","aliases":["Segrave"],"tags":["erukana","location","town"]}}
 ---
 
 

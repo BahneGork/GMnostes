@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Azur ordenen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Azur ordenen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]","[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"category":"faction","faction_type":"arcane-order","status":"weakened","friend-or-foe":"ally","Campaign":"Erukana","aliases":["Azur ordnen","Azur Ordenen","Safir Ordenen"],"tags":["erukana","faction"]}}
 ---
 
 

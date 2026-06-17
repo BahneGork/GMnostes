@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Maelar/","tags":["erukana","npc","mielikki","soltræet"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Maelar/","tags":["erukana","npc","mielikki","soltræet"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","Profession":["Tempelvogter"],"Faction":["[[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]"],"Campaign":"Erukana","tags":["erukana","npc","mielikki","soltræet"],"race":"unspecified","role":["religious"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]"}}
 ---
 
 

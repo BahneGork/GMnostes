@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Downtime Astley - Kap2 intermission/","tags":["downtime2-astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Downtime Astley - Kap2 intermission/","tags":["downtime2-astley"],"dg-note-properties":{"tags":["downtime2-astley"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/14 190624 - steffen session 2/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/14 190624 - steffen session 2/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"],"dg-note-properties":{"type":"sessionlog","session":14,"date":"04-07-2024","sted":"online","ingame-date-start":"5th Marpenoth - leaffall","campaign":"Erukana - steffen","end date":"6th Marpenoth - leaffall","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}}
 ---
 
 
@@ -20,33 +20,33 @@ Marching order: Winston, Vargoth, Clara, Fritte
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] går ned i tågen og begynder et renselses ritual og kaster helligt vand på døren, tågen siver ind i hende og gør skade på hende, hun knækker ned på et knæ. 
 - [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|winston]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] går ned og forsøger at tvinge døren op efter at [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]] fortæller at døren er blevet svækket nu 
 
-![Pasted image 20240704195842.png|400](/img/user/10%20Attachments/Pasted%20image%2020240704195842.png) 
+![Pasted image 20240704195842.png\|400](/img/user/10%20Attachments/Pasted%20image%2020240704195842.png) 
 - Vi kommer ind ad døren,. 
 - rødder og grene ser ud til at være inficeret med det lilla som også korrupterede dyrene.
 - rødderne vokser muligvis fra noget hernede, fremfor at det er nogle der er vokset ind udefra. 
 - da [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|winston]] træder på en rod/gren åbner en blomst sig og spytter noget efter ham 
-![Pasted image 20240704201201.png| 400](/img/user/10%20Attachments/Pasted%20image%2020240704201201.png)
+![Pasted image 20240704201201.png\| 400](/img/user/10%20Attachments/Pasted%20image%2020240704201201.png)
 - 2 statuer 
 	- Venstre ligner en addelig, kriger, rustning-sværd og skjold, symbol af bahamut 
 	- højre ligner en druide, med mielikki's symbol 
 	- fortsætter og kommer ind i et rum 
- ![Pasted image 20240704201814.png|600](/img/user/10%20Attachments/Pasted%20image%2020240704201814.png)
- ![Pasted image 20240704202049.png|600](/img/user/10%20Attachments/Pasted%20image%2020240704202049.png)
+ ![Pasted image 20240704201814.png\|600](/img/user/10%20Attachments/Pasted%20image%2020240704201814.png)
+ ![Pasted image 20240704202049.png\|600](/img/user/10%20Attachments/Pasted%20image%2020240704202049.png)
  - Fritte og Vargoth bliver charmed af poolen og hopper ned i den for at få fat i en kiste, poolen giver poison skade
  - Skygger kommer ud af portalerne
- ![Pasted image 20240704205814.png|600](/img/user/10%20Attachments/Pasted%20image%2020240704205814.png)
- ![Pasted image 20240704211212.png|600](/img/user/10%20Attachments/Pasted%20image%2020240704211212.png)
+ ![Pasted image 20240704205814.png\|600](/img/user/10%20Attachments/Pasted%20image%2020240704205814.png)
+ ![Pasted image 20240704211212.png\|600](/img/user/10%20Attachments/Pasted%20image%2020240704211212.png)
   - nede i det lille sten skrin ligger en lanterne 
-  ![Pasted image 20240704212307.png|300](/img/user/10%20Attachments/Pasted%20image%2020240704212307.png)
+  ![Pasted image 20240704212307.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240704212307.png)
   15cm høj, 10x10cm bred 
   - [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]] hænger lanternen fast på [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]]'s skjold i en slags v-form.
   - vi høster en "dose" af den hellige mielikki blomst 
   - [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]] høster nogle poison planter 
   - Vi holder et long rest og fortsætter nordpå ud af rummet. 
-![Pasted image 20240704214925.png|600](/img/user/10%20Attachments/Pasted%20image%2020240704214925.png)
+![Pasted image 20240704214925.png\|600](/img/user/10%20Attachments/Pasted%20image%2020240704214925.png)
 
   ![Pasted image 20240704214952.png](/img/user/10%20Attachments/Pasted%20image%2020240704214952.png)
-  ![Pasted image 20240704215134.png|600](/img/user/10%20Attachments/Pasted%20image%2020240704215134.png)
-  ![Pasted image 20240704215511.png|400](/img/user/10%20Attachments/Pasted%20image%2020240704215511.png)
+  ![Pasted image 20240704215134.png\|600](/img/user/10%20Attachments/Pasted%20image%2020240704215134.png)
+  ![Pasted image 20240704215511.png\|400](/img/user/10%20Attachments/Pasted%20image%2020240704215511.png)
 
 [[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1\| << Previous 13]] ----[[02 Player/Erukana (Nissen)/14 190624 - steffen session 2\|TOP]]---- [[02 Player/Erukana (Nissen)/15-110724 - steffen seesion 3\|Next 15 >>]]

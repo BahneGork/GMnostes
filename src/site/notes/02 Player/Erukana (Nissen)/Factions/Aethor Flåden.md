@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Aethor Flåden/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Aethor Flåden/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"faction","faction_type":"fleet","status":"defunct","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]"],"Campaign":"Erukana","aliases":["Aethor Fleet"],"tags":["erukana","faction"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Dark Gem klanen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Dark Gem klanen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[8-160324 - Changer of time session 8|session 8]]"],"category":"faction","faction_type":"clan","status":"active","friend-or-foe":"enemy","Campaign":"Erukana","aliases":["dark gem kobolder","Dark Gem Clan"],"tags":["erukana","faction"]}}
 ---
 
 

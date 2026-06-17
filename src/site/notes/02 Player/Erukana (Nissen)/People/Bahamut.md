@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Bahamut/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Bahamut/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[10 - 220524 - Changer of time session 10|session 10]]","[[14 190624 - steffen session 2|session 2]]","[[15-110724 - steffen seesion 3|session 15]]","[[4-091023 - Changer of time session 4|session 4]]","[[5-281023 - Changer of time session 5|session 5]]","[[13 - 220624 - steffen session 1|session 1]]","[[9 -150524 - Changer of time session 9|session 9]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"unspecified","role":"religious","social_status":"royalty","affiliation":["Paladine Temple"],"disposition":"ally","status":"alive","location_primary":"Divine Realm"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/knoglestammens huler 1/","tags":["erukana","location"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/knoglestammens huler 1/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"location","Campaign":"Erukana","tags":["erukana","location"]}}
 ---
 
 

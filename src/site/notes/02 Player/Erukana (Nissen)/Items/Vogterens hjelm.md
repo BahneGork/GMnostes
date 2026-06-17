@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Vogterens hjelm/","tags":["erukana","item","armor","vardestjernen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Vogterens hjelm/","tags":["erukana","item","armor","vardestjernen"],"dg-note-properties":{"sessions":["[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"type":"item","category":"armor","campaign":"Erukana","aliases":["Vogterens hjelm","Guardian's helmet"],"tags":["erukana","item","armor","vardestjernen"]}}
 ---
 
 

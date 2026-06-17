@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mishakal/","tags":["erukana","deity","good","healing"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mishakal/","tags":["erukana","deity","good","healing"],"dg-note-properties":{"sessions":["[[39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]"],"category":"deity","Profession":["Gudinde"],"Faction":null,"Location":null,"Campaign":"Erukana","aliases":["Mishakals"],"tags":["erukana","deity","good","healing"]}}
 ---
 
 

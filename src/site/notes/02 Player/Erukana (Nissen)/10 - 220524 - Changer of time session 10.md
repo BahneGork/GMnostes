@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10/","tags":["erukana","erukanasessionlog","erukana/campaign","magicitem","armor","erukana/lootfound","clarabel","morgion"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10/","tags":["erukana","erukanasessionlog","erukana/campaign","magicitem","armor","erukana/lootfound","clarabel","morgion"],"dg-note-properties":{"type":"sessionlog","session":10,"date":"220524","sted":"online","ingame-date-start":"9th highsun","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","magicitem","armor","erukana/lootfound","clarabel","morgion"]}}
 ---
 
 

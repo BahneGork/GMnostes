@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1/","tags":["erukana","erukanasessionlog","erukanasecretsnclues","erukana/lootfound"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1/","tags":["erukana","erukanasessionlog","erukanasecretsnclues","erukana/lootfound"],"dg-note-properties":{"type":"sessionlog","session":1,"date":"8-juli-2023","sted":"herlev","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukanasecretsnclues","erukana/lootfound"],"pcs":["nibar","winston","clarabel","vargoth"]}}
 ---
 
 

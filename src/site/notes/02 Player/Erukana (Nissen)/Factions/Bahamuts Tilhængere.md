@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]"],"Campaign":"Erukana","aliases":["Bahamut Church","Bahamuts kirke","Paladine tilhængere"],"tags":["erukana","faction"]}}
 ---
 
 

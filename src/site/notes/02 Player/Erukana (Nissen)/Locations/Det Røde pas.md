@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Det Røde pas/","tags":["erukana","location","mountain","strategic"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Det Røde pas/","tags":["erukana","location","mountain","strategic"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[9 -150524 - Changer of time session 9|session 9]]"],"type":"location","subtype":"mountain pass","campaign":"Erukana","tags":["erukana","location","mountain","strategic"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Den lilla plage/","tags":["erukana","lore","villain","dragon","corruption"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Den lilla plage/","tags":["erukana","lore","villain","dragon","corruption"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"lore","category":"entity","campaign":"Erukana","aliases":["Time Ender","The Purple Plague","Lilla plage"],"tags":["erukana","lore","villain","dragon","corruption"]}}
 ---
 
 

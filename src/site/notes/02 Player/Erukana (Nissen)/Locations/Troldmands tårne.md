@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Troldmands tårne/","tags":["erukana","location","tower","magic"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Troldmands tårne/","tags":["erukana","location","tower","magic"],"dg-note-properties":{"type":"location","subtype":"category","campaign":"Erukana","tags":["erukana","location","tower","magic"]}}
 ---
 
 

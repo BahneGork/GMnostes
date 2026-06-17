@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Jernkniven/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Jernkniven/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]"],"category":"faction","faction_type":"thieves-guild","status":"defunct","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 

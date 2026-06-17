@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/knoglestammens huler/","tags":["erukana","location","dungeon"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/knoglestammens huler/","tags":["erukana","location","dungeon"],"dg-note-properties":{"sessions":["[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"location","name":"Knoglestammens huler","friend-or-foe":"neutral","tags":["erukana","location","dungeon"]}}
 ---
 
 

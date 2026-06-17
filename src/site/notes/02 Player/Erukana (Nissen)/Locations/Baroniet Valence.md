@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Valence/","tags":["erukana","barony"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Valence/","tags":["erukana","barony"],"dg-note-properties":{"tags":["erukana","barony"]}}
 ---
 
 

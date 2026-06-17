@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Gemstone radiance/","tags":["erukana","erukanaloot","magic","protection"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Gemstone radiance/","tags":["erukana","erukanaloot","magic","protection"],"dg-note-properties":{"itemname":"Gemstone Radiance","itemtype":"magic-item","used-by":"Clarabel Lancaster","attunement":"unknown","tags":["erukana","erukanaloot","magic","protection"]}}
 ---
 
 

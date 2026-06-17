@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Opal kulten - investigation/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Opal kulten - investigation/","dg-note-properties":{"status":null,"priority":2,"erukana-task-category":null,"location":"The Sentinel","related npc":null,"related factions":["The Sentinel"],"related notes":null,"Next Action":"Contact The Sentinel"}}
 ---
 
 - [x] Hvem er deres mester 

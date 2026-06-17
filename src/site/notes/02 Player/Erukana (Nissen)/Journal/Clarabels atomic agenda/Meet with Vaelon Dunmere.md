@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Meet with Vaelon Dunmere/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Meet with Vaelon Dunmere/","dg-note-properties":{"priority":4,"Next Action":"Wait","location":"Astley, Baroniet Welles","related npc":["Vaelon Dunmere"],"related factions":["Bronze Barrel"],"My-PC":"Clarabel"}}
 ---
 
 # Meet with Vaelon Dunmere

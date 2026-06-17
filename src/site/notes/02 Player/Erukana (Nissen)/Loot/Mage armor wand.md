@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Mage armor wand/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Mage armor wand/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Nibar Brassbit]]","itemtype":"wand","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Wand of Mage armor","tags":["erukana","erukanaloot"]}}
 ---
 
 
 #erukana #erukanaloot 
 
 # Mage Armor Wand
-![Pasted image 20231019192604.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019192604.png)
+![Pasted image 20231019192604.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231019192604.png)
 ## Description
 
 lille stykke træ - sort - graveret tegn indlagt med guld, wand of [Mage Armor](http://localhost/Mage%20Armor) 3/day attunement

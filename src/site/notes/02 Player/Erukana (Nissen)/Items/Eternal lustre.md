@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Eternal lustre/","tags":["erukana","erukanaloot","magic","healing"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Eternal lustre/","tags":["erukana","erukanaloot","magic","healing"],"dg-note-properties":{"itemname":"Eternal Lustre","itemtype":"magic-item","used-by":"Clarabel Lancaster","attunement":"unknown","tags":["erukana","erukanaloot","magic","healing"]}}
 ---
 
 

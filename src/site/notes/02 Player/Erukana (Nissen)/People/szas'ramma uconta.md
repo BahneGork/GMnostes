@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/szas'ramma uconta/","tags":["erukana","npc","spy"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/szas'ramma uconta/","tags":["erukana","npc","spy"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"npc","Profession":["Spy"],"Faction":["unknown"],"Location":["[[Vinterspiret 1\|Vinterspiret 1]]"],"Campaign":"Erukana","aliases":["szas'ramma uconta"],"tags":["erukana","npc","spy"],"race":"unspecified","role":["spy"],"social_status":"criminal","affiliation":[],"disposition":"unknown","status":"unknown","location_primary":"[[Vinterspiret 1\|Vinterspiret 1]]"}}
 ---
 
 

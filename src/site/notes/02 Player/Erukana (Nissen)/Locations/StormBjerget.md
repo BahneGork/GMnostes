@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/StormBjerget/","tags":["erukana","location","mountain","nordlandet"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/StormBjerget/","tags":["erukana","location","mountain","nordlandet"],"dg-note-properties":{"sessions":["[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]"],"type":"location","subtype":"mountain","campaign":"Erukana","tags":["erukana","location","mountain","nordlandet"]}}
 ---
 
 

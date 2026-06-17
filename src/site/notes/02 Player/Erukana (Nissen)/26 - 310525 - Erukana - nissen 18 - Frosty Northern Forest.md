@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest/","tags":["erukana","erukanasessionlog","erukana/campaign"],"dg-note-properties":{"type":"sessionlog","session":26,"date":"310525","sted":"Nyråd","ingame-date-start":"19 ches","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign"]}}
 ---
 
 

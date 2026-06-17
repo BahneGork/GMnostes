@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Opal kulten/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Opal kulten/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[8-160324 - Changer of time session 8|session 8]]","[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"enemy","Campaign":"Erukana","aliases":["The cult of the Opal society"],"tags":["erukana","faction"]}}
 ---
 
 

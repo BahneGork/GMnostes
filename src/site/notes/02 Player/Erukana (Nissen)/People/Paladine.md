@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Paladine/","tags":["erukana","deity","good","light"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Paladine/","tags":["erukana","deity","good","light"],"dg-note-properties":{"sessions":["[[4-091023 - Changer of time session 4|session 4]]","[[5-281023 - Changer of time session 5|session 5]]","[[7-170224 - Changer of time session 7|session 7]]","[[9 -150524 - Changer of time session 9|session 9]]","[[10 - 220524 - Changer of time session 10|session 10]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[13 - 220624 - steffen session 1|session 13]]","[[14 190624 - steffen session 2|session 14]]","[[15-110724 - steffen seesion 3|session 15]]","[[17 - 250624 - Changer of time - nissen - session 13|session 17]]","[[39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]"],"category":"deity","Profession":["Gud"],"Faction":null,"Location":null,"Campaign":"Erukana","aliases":["Paladines","Bahamut"],"tags":["erukana","deity","good","light"]}}
 ---
 
 

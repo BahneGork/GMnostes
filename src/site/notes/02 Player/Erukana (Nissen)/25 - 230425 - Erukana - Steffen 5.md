@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/25 - 230425 - Erukana - Steffen 5/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"],"dg-note-properties":{"type":"sessionlog","session":25,"date":"23-04-2025","sted":"online","ingame-date-start":"11th ches","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}}
 ---
 
 Jens, Flemming, Bahne, Steffen 

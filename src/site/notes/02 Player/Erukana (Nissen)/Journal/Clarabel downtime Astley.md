@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabel downtime Astley/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabel downtime Astley/","dg-note-properties":{}}
 ---
 
 # Downtime Astley 18th - 22nd Highsun

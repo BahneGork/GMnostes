@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/En Bøn og sidste farvel/","tags":["handout","erukana","clarabel"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/En Bøn og sidste farvel/","tags":["handout","erukana","clarabel"],"dg-note-properties":{"tags":["handout","erukana","clarabel"],"type":"handout","campaign":"Erukana","fc-date":"1517-Tarsakh-13","fc-category":"ClarabelAgenda"}}
 ---
 
 # En bøn og et farvel forevigt

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/House Veynar (The Pioneers)/","title":"House Veynar (The Pioneers)","tags":["campaign","general-knowledge","House-Veynar","Ferrax","Rogue-Trader-Dynasti"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/House Veynar (The Pioneers)/","title":"House Veynar (The Pioneers)","tags":["campaign","general-knowledge","House-Veynar","Ferrax","Rogue-Trader-Dynasti"],"dg-note-properties":{"title":"House Veynar (The Pioneers)","date":"2023-03-15","tags":["campaign","general-knowledge","House-Veynar","Ferrax","Rogue-Trader-Dynasti"],"source":"Discord","type":"organization"}}
 ---
 
 

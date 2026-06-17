@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Arakas Zhaarko/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Arakas Zhaarko/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["antagonist","scholar"],"social_status":"lord","affiliation":["[[Court of Baron Zhaarko]]","[[Arcana tårnet]]"],"disposition":"deceased-ally","status":"dead","location_primary":"[[De Ældstes Haller]]"}}
 ---
 
 

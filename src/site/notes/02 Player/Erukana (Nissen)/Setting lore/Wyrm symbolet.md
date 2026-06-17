@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Wyrm symbolet/","tags":["erukana","lore","symbol","corruption","lilaplage"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Wyrm symbolet/","tags":["erukana","lore","symbol","corruption","lilaplage"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"lore","category":"symbol","campaign":"Erukana","aliases":["Wyrm Symbol","Sleeping Wyrm Symbol"],"tags":["erukana","lore","symbol","corruption","lilaplage"]}}
 ---
 
 

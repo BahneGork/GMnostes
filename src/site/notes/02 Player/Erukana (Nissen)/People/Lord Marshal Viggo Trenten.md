@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Marshal Viggo Trenten/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Marshal Viggo Trenten/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":["Marskal"],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"military","social_status":"officer","affiliation":[],"disposition":"unknown","status":"unknown","location_primary":"unspecified"}}
 ---
 
 

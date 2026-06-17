@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Valence og Blackmere baronierne/","tags":["erukana","valence","blackmere","people"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Valence og Blackmere baronierne/","tags":["erukana","valence","blackmere","people"],"dg-note-properties":{"tags":["erukana","valence","blackmere","people"]}}
 ---
 
 

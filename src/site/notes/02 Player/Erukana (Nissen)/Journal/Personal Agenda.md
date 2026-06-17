@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Personal Agenda/","tags":["erukana","clarabel"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Personal Agenda/","tags":["erukana","clarabel"],"dg-note-properties":{"tags":["erukana","clarabel"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Seek paladine priest for clarabel/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Seek paladine priest for clarabel/","dg-note-properties":{"priority":2,"related notes":"1517    Tarsakh – ”Den forsvundne Helgen”. En præst, af Bahamut, kendt for sine stærke mirakler og forbindelser til guderne, er forsvundet. Hans sidste budskab nævnte en drøm om en mørk skygge, der kaldte på ham.","Next Action":"Investigate \"saint\" dissapearance","location":"Astley, Baroniet Welles","My-PC":"Logan/Clarabel"}}
 ---
 
 # Seek paladine priest for clarabel

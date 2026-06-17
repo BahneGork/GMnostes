@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dark Gem Cave - Tunnel med vandrisle lyde/","tags":["erukana","location","cave","tunnel","darkgem"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dark Gem Cave - Tunnel med vandrisle lyde/","tags":["erukana","location","cave","tunnel","darkgem"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"type":"location","subtype":"tunnel","campaign":"Erukana","tags":["erukana","location","cave","tunnel","darkgem"]}}
 ---
 
 

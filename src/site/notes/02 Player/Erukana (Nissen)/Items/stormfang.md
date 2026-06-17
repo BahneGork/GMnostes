@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/stormfang/","tags":["erukana","erukanaloot","weapon","cursed"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/stormfang/","tags":["erukana","erukanaloot","weapon","cursed"],"dg-note-properties":{"sessions":["[[34 - erukana - steffen - 12|session 34]]","[[36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]"],"itemname":"Stormfang","itemtype":"weapon","used-by":"[[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn]]","attunement":"unknown","tags":["erukana","erukanaloot","weapon","cursed"]}}
 ---
 
 

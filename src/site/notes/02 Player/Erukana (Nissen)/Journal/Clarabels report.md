@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels report/","tags":["clarabel","astley","1517-Tarsakh"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels report/","tags":["clarabel","astley","1517-Tarsakh"],"dg-note-properties":{"tags":["clarabel","astley","1517-Tarsakh"],"campaign":"Erukana"}}
 ---
 
 # Clarabels Rapport — Tarsakh 6. til 18.

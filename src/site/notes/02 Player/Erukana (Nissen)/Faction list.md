@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Faction list/","tags":["erukana","list","factions"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Faction list/","tags":["erukana","list","factions"],"dg-note-properties":{"tags":["erukana","list","factions"]}}
 ---
 
 

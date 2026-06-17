@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ukkadin Magmahånd/","tags":["erukana","npc","dwarf","stenvogter"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ukkadin Magmahånd/","tags":["erukana","npc","dwarf","stenvogter"],"dg-note-properties":{"category":"npc","Profession":["Stenvogter","Rådsmedlem"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]]","[[Bjergenes Børn]]"],"Location":["[[Slatestone dværgehallerne\|Slatestone dværgehallerne]]"],"Campaign":"Erukana","tags":["erukana","npc","dwarf","stenvogter"],"race":"dwarf","role":["religious","nobility"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]]","[[Bjergenes Børn]]"],"disposition":"neutral","status":"alive","location_primary":"[[Slatestone dværgehallerne\|Slatestone dværgehallerne]]"}}
 ---
 
 

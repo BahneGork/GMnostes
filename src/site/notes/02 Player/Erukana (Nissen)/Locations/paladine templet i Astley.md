@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/paladine templet i Astley/","tags":["erukana","location","temple","astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/paladine templet i Astley/","tags":["erukana","location","temple","astley"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[9 -150524 - Changer of time session 9|session 9]]"],"type":"location","subtype":"temple","campaign":"Erukana","tags":["erukana","location","temple","astley"]}}
 ---
 
 

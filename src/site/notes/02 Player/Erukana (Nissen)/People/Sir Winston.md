@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Winston/","tags":["erukana","pc","knight","queensguard"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Winston/","tags":["erukana","pc","knight","queensguard"],"dg-note-properties":{"category":"pc","Profession":["Ridder","Queensguard"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","aliases":["Winston","Winston Wildwood"],"tags":["erukana","pc","knight","queensguard"],"race":"human","role":["paladin","military"],"social_status":"knight","affiliation":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
 ---
 
 

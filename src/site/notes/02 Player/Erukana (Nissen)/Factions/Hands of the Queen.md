@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Hands of the Queen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Hands of the Queen/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"knightly-order","status":"unknown","friend-or-foe":"ally","affiliation":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 

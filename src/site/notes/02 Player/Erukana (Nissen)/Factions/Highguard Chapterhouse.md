@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Highguard Chapterhouse/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Highguard Chapterhouse/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"knightly-order","status":"unknown","friend-or-foe":"ally","affiliation":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 

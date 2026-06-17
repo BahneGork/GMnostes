@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Maria/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Maria/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[19 - 140824- Changer of time - nissen -  session 15|session 15]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"servant","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]"],"disposition":"conditional","status":"alive","location_primary":"[[Astley]]"}}
 ---
 
 

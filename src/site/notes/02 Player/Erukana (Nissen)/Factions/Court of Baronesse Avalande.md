@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"court","status":"active","friend-or-foe":"conditional","leader":["[[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]"],"Campaign":"Erukana","aliases":["Baronesse Avalandes hof"],"tags":["erukana","faction"]}}
 ---
 
 

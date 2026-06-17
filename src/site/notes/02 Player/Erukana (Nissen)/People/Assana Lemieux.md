@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Assana Lemieux/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Assana Lemieux/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 16]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","aliases":["Assana Lemiuex","Frøken Lemieux"],"tags":["erukana","npc"],"race":"human","role":"merchant","social_status":"merchant","affiliation":["[[Waning Moon Merchant House]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
 ---
 
 

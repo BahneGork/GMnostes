@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Blod delen af staven/","tags":["erukana","item","artifact","staff","soltræet"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Blod delen af staven/","tags":["erukana","item","artifact","staff","soltræet"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"item","category":"artifact","campaign":"Erukana","aliases":["Blood part of the staff"],"tags":["erukana","item","artifact","staff","soltræet"]}}
 ---
 
 

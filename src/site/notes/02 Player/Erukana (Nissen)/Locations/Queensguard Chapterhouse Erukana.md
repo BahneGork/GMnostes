@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Queensguard Chapterhouse Erukana/","tags":["erukana","location"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Queensguard Chapterhouse Erukana/","tags":["erukana","location"],"dg-note-properties":{"type":"location","subtype":null,"campaign":"Erukana","aliases":["Queensguard Chapterhouse","Queensguard Chapterhus","Queensguard Chapterhuset I Erukana","Chapterhuset i Erukana","Chapterhouse","Chapterhus","Chapterhuset"],"tags":["erukana","location"]}}
 ---
 
 

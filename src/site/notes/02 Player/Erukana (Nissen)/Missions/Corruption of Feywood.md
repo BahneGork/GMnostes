@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Corruption of Feywood/","tags":["erukanamission","playermission"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Corruption of Feywood/","tags":["erukanamission","playermission"],"dg-note-properties":{"Title":"Corruption of Feywood","missionstatus":"completed","faction":"Mistville Marshals","related":null,"locations":["Feywood"],"reward":"Earth Elemental Stone","tags":["erukanamission","playermission"]}}
 ---
 
 

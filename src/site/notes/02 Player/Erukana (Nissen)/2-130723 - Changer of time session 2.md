@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2/","tags":["erukana","erukanasessionlog","erukana/campaign"],"dg-note-properties":{"type":"sessionlog","session":2,"date":null,"sted":"online","ingame-date-start":null,"campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign"]}}
 ---
 
 

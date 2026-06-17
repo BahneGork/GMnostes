@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Troldmands tårn ruin i nordlandet/","tags":["erukana","location","ruins","tower","nordlandet"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Troldmands tårn ruin i nordlandet/","tags":["erukana","location","ruins","tower","nordlandet"],"dg-note-properties":{"sessions":["[[5-281023 - Changer of time session 5|session 5]]"],"type":"location","subtype":"ruins","campaign":"Erukana","aliases":["Troldmandstårn ruinen"],"tags":["erukana","location","ruins","tower","nordlandet"]}}
 ---
 
 

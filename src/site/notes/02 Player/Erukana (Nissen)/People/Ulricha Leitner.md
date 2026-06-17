@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulricha Leitner/","tags":["erukana","npc","nobility","enemy"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulricha Leitner/","tags":["erukana","npc","nobility","enemy"],"dg-note-properties":{"category":"npc","Profession":["Adelig","Forfører"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]"],"Location":null,"Campaign":"Erukana","aliases":["Ulrika Leitner"],"tags":["erukana","npc","nobility","enemy"],"race":"human","role":["nobility","antagonist"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]"],"disposition":"enemy","status":"alive","location_primary":"[[Erukana]]"}}
 ---
 
 

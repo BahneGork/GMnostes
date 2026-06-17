@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Character generation/","tags":["erukana"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Character generation/","tags":["erukana"],"dg-note-properties":{"tags":["erukana"]}}
 ---
 
 

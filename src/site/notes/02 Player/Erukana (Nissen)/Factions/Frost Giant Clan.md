@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Frost Giant Clan/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Frost Giant Clan/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[32 - 130925 - Erukana - Steffen - 10 - After the orks|session 32]]","[[34 - erukana - steffen - 12|session 34]]"],"category":"faction","faction_type":"clan","status":"active","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]"],"Campaign":"Erukana","aliases":["Frostkæmperne"],"tags":["erukana","faction"]}}
 ---
 
 

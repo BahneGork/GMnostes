@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion/","tags":["erukanamission","playermission"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion/","tags":["erukanamission","playermission"],"dg-note-properties":{"Title":"The fall of Arcana tower","missionstatus":"completed","faction":null,"related":null,"locations":["The Arcana Tower"],"reward":"Kendskab til de vilde elvere (race unlocked)","tags":["erukanamission","playermission"]}}
 ---
 
 

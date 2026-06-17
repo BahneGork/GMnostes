@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Deltafloden/","tags":["erukana","location","river","holy","anaksa"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Deltafloden/","tags":["erukana","location","river","holy","anaksa"],"dg-note-properties":{"type":"location","subtype":"river","campaign":"Erukana","tags":["erukana","location","river","holy","anaksa"]}}
 ---
 
 

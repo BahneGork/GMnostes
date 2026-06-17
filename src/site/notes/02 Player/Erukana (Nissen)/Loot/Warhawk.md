@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Warhawk/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Warhawk/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Clarabel Lancaster|Clarabel Lancaster]]","itemtype":"weapon, scimitar","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Warhawk","tags":["erukana","erukanaloot"]}}
 ---
 
 
 #erukana #erukanaloot 
 
 # Warhawk
-![Pasted image 20231019191833.png|300](/img/user/10%20Attachments/Pasted%20image%2020231019191833.png)
+![Pasted image 20231019191833.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231019191833.png)
 ## Description
 
 [[02 Player/Erukana (Nissen)/Loot/Zazmir scimitars\|Zazmir scimitars]], ukendt metal, grants proficiency to wielder, versatile, 1d10/1d12, meget skarpe, +1 dmg, non-magical, finesse (use str/dex to hit or dmg). 

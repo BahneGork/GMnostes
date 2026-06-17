@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Inbetween - steffen - druid grove lvl up/","tags":["erukana","erukanasessionlog","erukana/lvlup","erukana/ancientgrove","erukana/campaign/steffen","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Inbetween - steffen - druid grove lvl up/","tags":["erukana","erukanasessionlog","erukana/lvlup","erukana/ancientgrove","erukana/campaign/steffen","inline-events"],"dg-note-properties":{"type":"sessionlog","session":25,"date":null,"sted":"online","ingame-date-start":"12th chase","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/lvlup","erukana/ancientgrove","erukana/campaign/steffen","inline-events"]}}
 ---
 
 

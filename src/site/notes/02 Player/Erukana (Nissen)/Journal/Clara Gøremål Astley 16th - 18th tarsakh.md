@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clara Gøremål Astley 16th - 18th tarsakh/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clara Gøremål Astley 16th - 18th tarsakh/","dg-note-properties":{}}
 ---
 
 

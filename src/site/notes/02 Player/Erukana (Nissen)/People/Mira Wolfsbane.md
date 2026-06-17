@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mira Wolfsbane/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mira Wolfsbane/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[28 - 050725 - Erukana - Steffen 6|session 28]]"],"category":"npc","Profession":["Jæger"],"Faction":null,"Location":["[[Windbreaker waystation]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"commoner","social_status":"commoner","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[Windbreaker waystation]]"}}
 ---
 
 

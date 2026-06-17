@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabel Diary/","tags":["clarabel","erukanapc","pc/journal"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabel Diary/","tags":["clarabel","erukanapc","pc/journal"],"dg-note-properties":{"tags":["clarabel","erukanapc","pc/journal"]}}
 ---
 
 

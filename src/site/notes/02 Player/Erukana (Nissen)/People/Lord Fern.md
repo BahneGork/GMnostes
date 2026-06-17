@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Fern/","tags":["erukana","npc","treeshaper","soltræet"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Fern/","tags":["erukana","npc","treeshaper","soltræet"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","Profession":["Treeshaper"],"Faction":["[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]"],"Location":["[[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]]"],"Campaign":"Erukana","tags":["erukana","npc","treeshaper","soltræet"],"race":"unspecified","role":["druid","scholar"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]"],"disposition":"conditional","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]]"}}
 ---
 
 
-![Pasted image 20260210195810.png|300](/img/user/10%20Attachments/Pasted%20image%2020260210195810.png)
+![Pasted image 20260210195810.png\|300](/img/user/10%20Attachments/Pasted%20image%2020260210195810.png)
 
 ## Description
 Lord Fern er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|treeshaper]] der opholder sig i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]] i [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]. Han har viden om [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]].

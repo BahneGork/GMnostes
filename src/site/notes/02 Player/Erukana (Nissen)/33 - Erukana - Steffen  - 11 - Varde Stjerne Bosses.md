@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/33 - Erukana - Steffen  - 11 - Varde Stjerne Bosses/","tags":["erukana","erukanasessionlog"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/33 - Erukana - Steffen  - 11 - Varde Stjerne Bosses/","tags":["erukana","erukanasessionlog"],"dg-note-properties":{"type":"sessionlog","session":33,"date":"230925","sted":"online","ingame-date-start":"6th of Tarsakh","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog"]}}
 ---
 
 

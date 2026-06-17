@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/lange støvler med høje hæle/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Clarabel Lancaster|Clarabel Lancaster]]","tags":["erukana","erukanaloot"]}}
 ---
 
 

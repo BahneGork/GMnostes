@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ellin Thalor/","tags":["erukana","faction","misplaced"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ellin Thalor/","tags":["erukana","faction","misplaced"],"dg-note-properties":{"category":"faction","Profession":null,"Faction":null,"Location":["Ellin Thalor (Elvish territory)"],"Campaign":"Erukana","tags":["erukana","faction","misplaced"],"race":"elf","role":[],"social_status":"faction","affiliation":[],"disposition":"neutral","status":"unknown","location_primary":"[[Ellin Thalor]]","note":"MISPLACED - This is a nation/faction, not a person. Should be in Factions folder."}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/24 - 120424 - Erukana Steffen 4/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"],"dg-note-properties":{"type":"sessionlog","session":24,"date":"12-04-2025","sted":"Greve","ingame-date-start":"2nd Ches","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","inline-events"]}}
 ---
 
 

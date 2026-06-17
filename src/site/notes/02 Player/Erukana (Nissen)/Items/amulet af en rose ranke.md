@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/amulet af en rose ranke/","tags":["erukana","erukanaloot","jewelry","mystery"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/amulet af en rose ranke/","tags":["erukana","erukanaloot","jewelry","mystery"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"itemname":"Amulet af en rose ranke","itemtype":"jewelry","used-by":null,"attunement":null,"tags":["erukana","erukanaloot","jewelry","mystery"]}}
 ---
 
 

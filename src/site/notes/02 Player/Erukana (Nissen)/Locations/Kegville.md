@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Kegville/","tags":["erukana","location","town"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Kegville/","tags":["erukana","location","town"],"dg-note-properties":{"sessions":["[[3-300923 - Changer of time session 3|session 3]]"],"type":"location","subtype":"town","campaign":"Erukana","tags":["erukana","location","town"]}}
 ---
 
 

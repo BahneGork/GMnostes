@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Financial backing/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Financial backing/","dg-note-properties":{"priority":5,"Next Action":"Initiate contact","location":"Valence","related factions":["The Silver Drake Guild"],"My-PC":"Logan"}}
 ---
 
 # Financial backing

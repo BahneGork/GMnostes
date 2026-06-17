@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Dværgene/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Dværgene/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"clan","status":"active","friend-or-foe":"neutral","Campaign":"Erukana","aliases":["Dwarves"],"tags":["erukana","faction"]}}
 ---
 
 

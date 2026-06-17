@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Meeting Ulrick Stadtfeldt/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Meeting Ulrick Stadtfeldt/","dg-note-properties":{}}
 ---
 
 # Meeting Ulrick Stadtfeldt

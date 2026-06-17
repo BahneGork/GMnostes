@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Jullan/","tags":["erukana","location","misplaced"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Jullan/","tags":["erukana","location","misplaced"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 16]]"],"category":"location","Profession":null,"Faction":null,"Location":["Jullan/Yuulan"],"Campaign":"Erukana","tags":["erukana","location","misplaced"],"race":"unspecified","role":[],"social_status":"region","affiliation":[],"disposition":"neutral","status":"unknown","location_primary":"Jullan/Yuulan","note":"MISPLACED - This is a region/country, not a person. Should be in Locations folder."}}
 ---
 
 

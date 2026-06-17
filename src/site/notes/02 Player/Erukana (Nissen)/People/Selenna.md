@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Selenna/","tags":["erukana","npc","crew","whisperwind"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Selenna/","tags":["erukana","npc","crew","whisperwind"],"dg-note-properties":{"sessions":["[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"category":"npc","Profession":["Navigator"],"Faction":["[[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]]"],"Location":["[[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]]"],"Campaign":"Erukana","aliases":["Selenna"],"tags":["erukana","npc","crew","whisperwind"],"race":"unspecified","role":["military"],"social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]]"}}
 ---
 
 

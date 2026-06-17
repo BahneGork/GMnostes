@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/30 - 280725 - Eurukana - Steffen 8 - Earthshaker Battle/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"],"dg-note-properties":{"type":"sessionlog","session":30,"date":"280725","sted":"online","ingame-date-start":"5th Tarsakh","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}}
 ---
 
 

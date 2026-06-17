@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Wolfenburg/","tags":["erukana","location","capital","city"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Wolfenburg/","tags":["erukana","location","capital","city"],"dg-note-properties":{"sessions":["[[40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon|session 40]]"],"type":"location","subtype":"capital","campaign":"Erukana","aliases":["Kongestaden"],"tags":["erukana","location","capital","city"]}}
 ---
 
 

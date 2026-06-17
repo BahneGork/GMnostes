@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Sølvhånden/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Sølvhånden/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"merchant-guild","status":"active","friend-or-foe":"neutral","leader":["[[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]]"],"Location":["[[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]"],"Campaign":"Erukana","aliases":["Sølv Håndens købmands laug","Silver Hand"],"tags":["erukana","faction"]}}
 ---
 
 

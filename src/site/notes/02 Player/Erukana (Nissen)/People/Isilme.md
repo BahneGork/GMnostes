@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Isilme/","tags":["erukana","pc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Isilme/","tags":["erukana","pc"],"dg-note-properties":{"sessions":["[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]","[[23 - 310325 - Erukana Steffen 3|session 23]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"pc","Profession":["Adventurer"],"Faction":["Player Party"],"Location":["Various"],"Campaign":"Erukana","tags":["erukana","pc"],"race":"elf","role":["scholar"],"social_status":"commoner","affiliation":["[[Astley Avengers]]"],"disposition":"deceased-ally","status":"dead","location_primary":"Various"}}
 ---
 
 

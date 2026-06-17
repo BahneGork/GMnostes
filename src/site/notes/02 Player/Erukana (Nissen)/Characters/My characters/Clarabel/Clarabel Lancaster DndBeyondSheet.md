@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster DndBeyondSheet/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster DndBeyondSheet/","dg-note-properties":{}}
 ---
 
 

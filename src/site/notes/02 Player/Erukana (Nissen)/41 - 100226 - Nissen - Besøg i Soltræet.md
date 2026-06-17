@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet/","tags":["erukana","erukanasessionlog","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet/","tags":["erukana","erukanasessionlog","inline-events"],"dg-note-properties":{"type":"sessionlog","session":41,"date":"100226","sted":"online","ingame-date-start":"18th tarsakh","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","inline-events"],"pcs":["clarabel","jarrell flick"]}}
 ---
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]
@@ -23,7 +23,7 @@
 		- Clara spørger til de mange blade. [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] viser et af bladene, et lille sammenkrøllet grønt og frodigt men mørkt, falmet og hårdt men ser vådt og slimet ud på kanterne.
 		- Clara kvaler en knurren inden det bliver for voldsomt og hendes hår skifter til farven grå 
 	- Hr.Flick og Clara fortsætter til [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]]
-	- ![Pasted image 20260210195330.png|300](/img/user/10%20Attachments/Pasted%20image%2020260210195330.png)
+	- ![Pasted image 20260210195330.png\|300](/img/user/10%20Attachments/Pasted%20image%2020260210195330.png)
 	- Krystallen i midten af kammeret skifter farve efter årstiden 
 	- Her finder vi [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] som ikke er begejstret for vores besøg 
 	- Hr.Flick fortæller om satyrene og [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] går hen til en åkande og kaster noget vand op i luften om Jarrell kan mærke at han kan forme ud fra sine minder.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Urza/","tags":["erukana","npc","shaman","antagonist"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Urza/","tags":["erukana","npc","shaman","antagonist"],"dg-note-properties":{"sessions":["[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"npc","Profession":["Knoglemoder (Bone Mother/Shaman)"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]]"],"Location":["[[knoglestammens huler 1]]"],"Campaign":"Erukana","tags":["erukana","npc","shaman","antagonist"],"race":"human","role":["shaman","antagonist"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]]"],"disposition":"enemy","status":"alive","location_primary":"[[knoglestammens huler 1]]"}}
 ---
 
 

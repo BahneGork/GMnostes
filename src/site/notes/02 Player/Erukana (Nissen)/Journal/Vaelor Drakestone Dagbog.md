@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Vaelor Drakestone Dagbog/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Vaelor Drakestone Dagbog/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Vargoth Sul]]","itemtype":"book","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":"vargoth","itemname":"Diary of Vaelor","tags":["erukana","erukanaloot"]}}
 ---
 
 

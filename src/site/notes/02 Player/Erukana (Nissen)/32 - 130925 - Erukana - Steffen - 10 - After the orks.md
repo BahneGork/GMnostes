@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/32 - 130925 - Erukana - Steffen - 10 - After the orks/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/32 - 130925 - Erukana - Steffen - 10 - After the orks/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"],"dg-note-properties":{"type":"sessionlog","session":32,"date":"13-09-2025","sted":"Greve","ingame-date-start":"6th of Tarsakh","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","erukana/campaign/steffen"]}}
 ---
 
 

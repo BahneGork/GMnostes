@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/handelsaftale med Sølv Hånden/","tags":["erukana","item","document","trade","agreement"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/handelsaftale med Sølv Hånden/","tags":["erukana","item","document","trade","agreement"],"dg-note-properties":{"category":"item","type":"document","name":"Handelsaftale med Sølv Hånden","friend-or-foe":"friend","tags":["erukana","item","document","trade","agreement"]}}
 ---
 
 

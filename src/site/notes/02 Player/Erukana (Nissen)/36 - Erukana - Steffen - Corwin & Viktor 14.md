@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14/","tags":["erukana","erukanasessionlog","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14/","tags":["erukana","erukanasessionlog","inline-events"],"dg-note-properties":{"type":"sessionlog","session":36,"date":"101125","sted":"online","ingame-date-start":"8th Tarsakh","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","inline-events"],"fc-calendar":"Ceynor"}}
 ---
 
 

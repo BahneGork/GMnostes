@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova/","tags":["erukana","erukanasessionlog","inline-events","gmnissen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova/","tags":["erukana","erukanasessionlog","inline-events","gmnissen"],"dg-note-properties":{"type":"sessionlog","session":38,"date":"061225","sted":"Nyråd","ingame-date-start":"11th Tarsakh","campaign":"Erukana","tags":["erukana","erukanasessionlog","inline-events","gmnissen"],"pcs":["clarabel","jarrell flick"]}}
 ---
 
 # Delegation to Lord Magdova

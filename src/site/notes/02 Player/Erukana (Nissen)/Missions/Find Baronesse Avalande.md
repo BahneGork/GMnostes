@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande/","title":"Get an audience with Baronesse Avalande","tags":["erukanamission"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Find Baronesse Avalande/","title":"Get an audience with Baronesse Avalande","tags":["erukanamission"],"dg-note-properties":{"title":"Get an audience with Baronesse Avalande","missionstatus":"active","faction":null,"related":null,"locations":["Baroni Welles"],"reward":"Information on: birthmarks, hourglass, azure order, purple plague","Main-Objective":"Get audience with Baronesse Avalande","tags":["erukanamission"]}}
 ---
 
 

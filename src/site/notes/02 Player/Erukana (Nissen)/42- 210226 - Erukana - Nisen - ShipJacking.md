@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking/","tags":["erukana","erukanasessionlog","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking/","tags":["erukana","erukanasessionlog","inline-events"],"dg-note-properties":{"type":"sessionlog","session":42,"date":"210226","sted":"Nyråd","ingame-date-start":"16th Tarsakh","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","inline-events"],"pcs":["logan","winston","nibar","victor","evelyn"]}}
 ---
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]
@@ -72,7 +72,8 @@ NEXT move: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver o
 - Tårnet er nu fuldstændigt renset for skygger og ondskab
 - Det sorte metal er hentet i tempel minerne i Angramar
 - 20 obsidian arrows +1, eksplodes d6 force dmg 
-
+<span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-14' data-date-end='1517-Tarsakh-14' data-img='Inline Example/Event_2.jpg' data-name='Evelyn resurrection ritual'></span>
+- Logan, Winston, Nibar and Victor performs [[02 Player/Erukana (Nissen)/Journal/Evelyns resurrection ritual in Port Drakkan\|Evelyns resurrection ritual in Port Drakkan]]
 
 NEXT: få skibet i stand, find ud af det sorte metal, tilbage til mistville eller astley, tilbage til fæstningen 
 

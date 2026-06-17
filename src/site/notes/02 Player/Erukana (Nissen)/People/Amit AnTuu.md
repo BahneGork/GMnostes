@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Amit AnTuu/","tags":["erukana/npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Amit AnTuu/","tags":["erukana/npc"],"dg-note-properties":{"category":"npc","Profession":["Nomade","Chieftain"],"Faction":"De blå nomader","Kin":"[[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]","Campaign":"Erukana","tags":["erukana/npc"]}}
 ---
 
 

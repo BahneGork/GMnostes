@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Merryn Foehammer/","tags":["erukana/npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Merryn Foehammer/","tags":["erukana/npc"],"dg-note-properties":{"Location":["Mistville"],"Profession":["Innkeeper"],"Assosiates":"[[02 Player/Erukana (Nissen)/People/Qenes Markmoon\|Qenes Markmoon]]","category":"npc","race":"dwarf","Campaign":"Erukana","tags":["erukana/npc"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/sorte sprog/","tags":["erukana","lore","language","evil"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/sorte sprog/","tags":["erukana","lore","language","evil"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[8-160324 - Changer of time session 8|session 8]]"],"category":"lore","campaign":"Erukana","tags":["erukana","lore","language","evil"]}}
 ---
 
 

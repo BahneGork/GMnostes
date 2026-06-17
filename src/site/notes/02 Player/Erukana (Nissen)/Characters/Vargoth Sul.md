@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Vargoth Sul/","tags":["erukanapc","erukana","playercharacters"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Vargoth Sul/","tags":["erukanapc","erukana","playercharacters"],"dg-note-properties":{"type":"pc","race":"Dwarf","class":"Cleric","subclass":"War domain","pc-title":null,"aliases":["vargoth"],"tags":["erukanapc","erukana","playercharacters"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # Vargoth Sul Mountain Dwarf
 
-![Flemming Mountaindwarf.png|200](/img/user/10%20Attachments/Flemming%20Mountaindwarf.png)
+![Flemming Mountaindwarf.png\|200](/img/user/10%20Attachments/Flemming%20Mountaindwarf.png)
 
 Cleric of War - Mishakal 
 Dwarf 

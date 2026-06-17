@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Emerald enclave/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Emerald enclave/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"druid-circle","status":"unknown","friend-or-foe":"neutral","Campaign":"Erukana","aliases":["Emerald Enclave"],"tags":["erukana","faction"]}}
 ---
 
 

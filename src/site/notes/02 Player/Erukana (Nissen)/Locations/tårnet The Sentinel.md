@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/tårnet The Sentinel/","tags":["erukana","location","tower","magic","botreaux"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/tårnet The Sentinel/","tags":["erukana","location","tower","magic","botreaux"],"dg-note-properties":{"type":"location","subtype":"tower","campaign":"Erukana","aliases":["The Sentinel"],"tags":["erukana","location","tower","magic","botreaux"]}}
 ---
 
 

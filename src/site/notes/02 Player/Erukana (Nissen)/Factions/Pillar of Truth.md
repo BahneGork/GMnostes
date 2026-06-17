@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Pillar of Truth/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Pillar of Truth/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"faction","faction_type":"religious-order","status":"unknown","friend-or-foe":"unknown","Location":["[[Astley]]"],"Campaign":"Erukana","aliases":["Sandhedens Søjle"],"tags":["erukana","faction"]}}
 ---
 
 

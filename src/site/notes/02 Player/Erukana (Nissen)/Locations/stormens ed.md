@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/stormens ed/","tags":["erukana","ship","tempus"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/stormens ed/","tags":["erukana","ship","tempus"],"dg-note-properties":{"sessions":["[[23 - 310325 - Erukana Steffen 3|session 23]]"],"category":"ship","campaign":"Erukana","tags":["erukana","ship","tempus"]}}
 ---
 
 

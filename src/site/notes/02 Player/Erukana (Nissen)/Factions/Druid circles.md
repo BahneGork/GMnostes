@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Druid circles/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Druid circles/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[25 - 230425 - Erukana - Steffen 5|session 25]]"],"category":"faction","faction_type":"druid-circle","status":"active","friend-or-foe":"neutral","Campaign":"Erukana","aliases":["Druid cirkler"],"tags":["erukana","faction"]}}
 ---
 
 

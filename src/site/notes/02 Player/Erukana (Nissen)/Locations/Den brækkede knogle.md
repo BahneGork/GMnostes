@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Den brækkede knogle/","tags":["erukana","location","tavern","astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Den brækkede knogle/","tags":["erukana","location","tavern","astley"],"dg-note-properties":{"type":"location","subtype":"tavern","campaign":"Erukana","aliases":["Den brækkede knogle","Kromutter"],"tags":["erukana","location","tavern","astley"]}}
 ---
 
 

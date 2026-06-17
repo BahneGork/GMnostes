@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Queens_guard_crest.jpg/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Queens_guard_crest.jpg/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","name":null,"friend-or-foe":null,"tags":["erukana","faction"]}}
 ---
 
 

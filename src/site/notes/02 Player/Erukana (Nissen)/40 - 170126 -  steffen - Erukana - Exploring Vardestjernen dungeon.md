@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon/","tags":["erukana","erukanasessionlog","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon/","tags":["erukana","erukanasessionlog","inline-events"],"dg-note-properties":{"type":"sessionlog","session":40,"date":"170126","sted":"Nyråd","ingame-date-start":"12th Tarsakh","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","inline-events"]}}
 ---
 
 
@@ -45,7 +45,7 @@
 		- et landkort over området vi er i. Det opdaterer sig med de nye ting der er sket i området. 
 		- vi finder en hemmelig dør bag en reol 
 			- i et rum bag denne dør finder vi 
-			- ![Pasted image 20260117160906.png|300](/img/user/10%20Attachments/Pasted%20image%2020260117160906.png)
+			- ![Pasted image 20260117160906.png\|300](/img/user/10%20Attachments/Pasted%20image%2020260117160906.png)
 			- Logan aktiverer en glyph of warding med disintigrate, winston aktiverer shared spirit og tager halvdelen af skaden 
 			- Cubicumlum en harmonikagtigt dims (teleskop) med skind omkring og på skindet er der himmel legmer og runer 
 			- potion - brun 

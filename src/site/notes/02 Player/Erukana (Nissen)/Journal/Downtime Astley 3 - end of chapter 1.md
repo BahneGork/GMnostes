@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Downtime Astley 3 - end of chapter 1/","tags":["erukana","erukana/campaign","clarabel-downtime-astley",3]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Downtime Astley 3 - end of chapter 1/","tags":["erukana","erukana/campaign","clarabel-downtime-astley",3],"dg-note-properties":{"tags":["erukana","erukana/campaign","clarabel-downtime-astley",3]}}
 ---
 
 

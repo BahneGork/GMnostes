@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sectionmaster/","tags":["erukana","title","queensguard","rank"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sectionmaster/","tags":["erukana","title","queensguard","rank"],"dg-note-properties":{"category":"title","Profession":["Sectionmaster"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"Location":["[[Anaksa]]"],"Campaign":"Erukana","tags":["erukana","title","queensguard","rank"]}}
 ---
 
 

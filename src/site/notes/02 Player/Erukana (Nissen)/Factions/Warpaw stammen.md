@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Warpaw stammen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Warpaw stammen/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"tribe","status":"active","friend-or-foe":"neutral","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Slette folket\|Slette folket]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 

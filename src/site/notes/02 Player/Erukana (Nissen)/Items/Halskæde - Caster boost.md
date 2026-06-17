@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Halskæde - Caster boost/","tags":["erukana","item","jewelry","magic"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Halskæde - Caster boost/","tags":["erukana","item","jewelry","magic"],"dg-note-properties":{"sessions":["[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"type":"item","category":"jewelry","campaign":"Erukana","aliases":["Halskæde (Victor)","Caster necklace"],"tags":["erukana","item","jewelry","magic"]}}
 ---
 
 

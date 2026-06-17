@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Nordheim/","tags":["erukana","location"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Nordheim/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|session 1]]","[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"location","subtype":null,"campaign":"Erukana","tags":["erukana","location"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House De'Evers/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House De'Evers/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[5-281023 - Changer of time session 5|session 5]]"],"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"conditional","leader":["[[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]"],"Campaign":"Erukana","aliases":["De'Evers familien"],"tags":["erukana","faction"]}}
 ---
 
 

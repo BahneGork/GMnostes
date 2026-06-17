@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"],"dg-note-properties":{"type":"sessionlog","session":18,"date":"080824","sted":"online","ingame-date-start":"6th Uktar","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}}
 ---
 
 
@@ -23,7 +23,7 @@
 - Drikke stedet er fyldt med drankere. 
 - Winston, Vargoth og Clara går op til Kro mutter
 	- Kro mutter vil have 3 gp for at vi får lov at tale med Elvira 
-	- ![Pasted image 20240808200745.png|300](/img/user/10%20Attachments/Pasted%20image%2020240808200745.png)
+	- ![Pasted image 20240808200745.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240808200745.png)
 	- Sidst set Miri for et par dage siden på markeds pladsen
 	- Elvira er bange, hun ved hvad der er sket 
 	- Winston sætter sig ned og forsøger at tale mere med hende 

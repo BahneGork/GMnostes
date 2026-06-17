@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5/","tags":["erukana","erukanasessionlog","erukana/campaign"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5/","tags":["erukana","erukanasessionlog","erukana/campaign"],"dg-note-properties":{"type":"sessionlog","session":5,"date":"281023","sted":"Nyråd","ingame-date-start":"26th flamerule","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Visdommens kammer/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Visdommens kammer/","dg-note-properties":{}}
 ---
 
 #erukana/location #erukana/soltræet

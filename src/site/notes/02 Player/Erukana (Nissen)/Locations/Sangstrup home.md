@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Sangstrup home/","tags":["erukana","location","home","astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Sangstrup home/","tags":["erukana","location","home","astley"],"dg-note-properties":{"sessions":["[[17 - 250624 - Changer of time - nissen - session 13|session 13]]"],"type":"location","subtype":"home","campaign":"Erukana","aliases":["Sangstrup gården"],"tags":["erukana","location","home","astley"]}}
 ---
 
 

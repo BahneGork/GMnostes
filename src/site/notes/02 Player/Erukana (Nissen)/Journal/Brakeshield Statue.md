@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Brakeshield Statue/","tags":["questitem","item","statue","brakeshield","mistville","segrave","erukana","wellesbarony","questobjective"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Brakeshield Statue/","tags":["questitem","item","statue","brakeshield","mistville","segrave","erukana","wellesbarony","questobjective"],"dg-note-properties":{"type":"quest item","related":"[[The Silver statue heirloom]]","status":"delivered to Vaelon Dunmere on the 12th of flamerule","tags":["questitem","item","statue","brakeshield","mistville","segrave","erukana","wellesbarony","questobjective"]}}
 ---
 
 

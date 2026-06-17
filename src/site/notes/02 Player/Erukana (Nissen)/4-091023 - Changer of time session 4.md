@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/4-091023 - Changer of time session 4/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/lootfound","winston","vargoth","Nibar"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/4-091023 - Changer of time session 4/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/lootfound","winston","vargoth","Nibar"],"dg-note-properties":{"date":"091023","ingame-date-start":"23rd of Flamerule","type":"sessionlog","session":4,"sted":"online","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/lootfound","winston","vargoth","Nibar"]}}
 ---
 
 
@@ -15,7 +15,7 @@ Vargoth & Clarabel stayed with the horses inside the cave when yellow eyes and 4
 
 # Start
 
-![Pasted image 20231009191146.png|400](/img/user/10%20Attachments/Pasted%20image%2020231009191146.png)
+![Pasted image 20231009191146.png\|400](/img/user/10%20Attachments/Pasted%20image%2020231009191146.png)
 
 - Vi kæmper mod den udøde varulv og skyggeulve
 - Clarabel bliver dræbt af den udøde varulv 

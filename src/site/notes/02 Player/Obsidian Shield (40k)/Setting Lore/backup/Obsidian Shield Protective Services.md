@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/backup/Obsidian Shield Protective Services/","title":"Obsidian Shield Protective Services","tags":["kampagnen","generelt-kendte","Obsidian-Shield","fri-lejesvende","Imperiet","Ferrax"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/backup/Obsidian Shield Protective Services/","title":"Obsidian Shield Protective Services","tags":["kampagnen","generelt-kendte","Obsidian-Shield","fri-lejesvende","Imperiet","Ferrax"],"dg-note-properties":{"title":"Obsidian Shield Protective Services","date":"2023-02-20","tags":["kampagnen","generelt-kendte","Obsidian-Shield","fri-lejesvende","Imperiet","Ferrax"],"author":"Discord Benker","source":"Discord","type":"organisation"}}
 ---
 
 

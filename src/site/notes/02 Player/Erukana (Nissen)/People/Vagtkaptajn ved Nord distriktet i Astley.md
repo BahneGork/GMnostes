@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vagtkaptajn ved Nord distriktet i Astley/","tags":["erukana","npc","guard","astley","bahamut"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Vagtkaptajn ved Nord distriktet i Astley/","tags":["erukana","npc","guard","astley","bahamut"],"dg-note-properties":{"sessions":["[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]"],"category":"npc","Profession":["Vagtkaptajn"],"Faction":["[[Astley Byvagt]]","[[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere\|Bahamuts Tilhængere]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]","[[Nord distriktet]]"],"Campaign":"Erukana","tags":["erukana","npc","guard","astley","bahamut"],"race":"human","role":["military","religious"],"social_status":"officer","affiliation":["[[Astley Byvagt]]","[[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere\|Bahamuts Tilhængere]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Familien Narsi/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Familien Narsi/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"category":"faction","faction_type":"family","status":"unknown","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/Locations/Solstice\|Solstice]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 

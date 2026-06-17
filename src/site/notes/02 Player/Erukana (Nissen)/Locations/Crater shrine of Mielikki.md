@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Crater shrine of Mielikki/","tags":["erukana","location","shrine","mielikki","holy"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Crater shrine of Mielikki/","tags":["erukana","location","shrine","mielikki","holy"],"dg-note-properties":{"sessions":["[[31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta|session 31]]"],"type":"location","subtype":"shrine","campaign":"Erukana","tags":["erukana","location","shrine","mielikki","holy"]}}
 ---
 
 

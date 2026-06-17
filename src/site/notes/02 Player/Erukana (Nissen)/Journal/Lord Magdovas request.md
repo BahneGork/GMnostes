@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Lord Magdovas request/","tags":["erukana/handout","lord_magdova"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Lord Magdovas request/","tags":["erukana/handout","lord_magdova"],"dg-note-properties":{"fc-date":"1517-Tarsakh-8","type":"handout","tags":["erukana/handout","lord_magdova"],"fc-category":"Communication"}}
 ---
 
 Højtærede Sir Winston Wildwood, Ridder af Queensguarden.

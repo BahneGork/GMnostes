@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Blåfrakke Slottet/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Blåfrakke Slottet/","dg-note-properties":{"status":null,"priority":6,"erukana-task-category":null,"location":"Astley, Baroniet Welles","related npc":null,"related factions":null,"related notes":null,"Next Action":null,"My-PC":"Clarabel"}}
 ---
 
 Establish an [[Establishment\|Establishment]] that can funciton as an intelligence gathering network 

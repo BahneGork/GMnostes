@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Tani Ebonheart/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Tani Ebonheart/","dg-note-properties":{"Location":["[[Astley]]"],"category":"npc","Campaign":"Erukana","Assosiates":"[[Denizar Volmar]]","faction":"Court of Denizar Volmar"}}
 ---
 
 

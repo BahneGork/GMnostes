@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray/","tags":["erukana","location"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray/","tags":["erukana","location"],"dg-note-properties":{"type":"location","subtype":null,"campaign":"Erukana","aliases":["Mowbray","Mowbrey"],"tags":["erukana","location"]}}
 ---
 
 

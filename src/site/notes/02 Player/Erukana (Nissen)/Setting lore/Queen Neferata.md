@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Queen Neferata/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Queen Neferata/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","faction":["Anaksa","Queensguard"],"aliases":["Dronning Neferata","Dronning af Anaksa"],"tags":["erukana","npc"]}}
 ---
 
 
 #erukana #npc 
 
-![Erukana_-_Queen_Neferata_af_Anaksa_riget.jpg|300](/img/user/10%20Attachments/Erukana_-_Queen_Neferata_af_Anaksa_riget.jpg)
+![Erukana_-_Queen_Neferata_af_Anaksa_riget.jpg\|300](/img/user/10%20Attachments/Erukana_-_Queen_Neferata_af_Anaksa_riget.jpg)
 
 # Dronning Neferata
 Tidligere en præstinde af [[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]], Gudinde for healing, medfølelse og kærlighed. 

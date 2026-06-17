@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/scroll of time/","tags":["erukana","erukanaloot","artifact","timetravel"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/scroll of time/","tags":["erukana","erukanaloot","artifact","timetravel"],"dg-note-properties":{"itemname":"Scroll of Time","itemtype":"scroll","used-by":null,"attunement":null,"aliases":["Timescroll","tids scrollen"],"tags":["erukana","erukanaloot","artifact","timetravel"]}}
 ---
 
 

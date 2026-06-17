@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Miragehill/","tags":["erukana","location","city"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Miragehill/","tags":["erukana","location","city"],"dg-note-properties":{"sessions":["[[2-130723 - Changer of time session 2|session 2]]","[[1-080723 - Changer of time session 1|session 1]]"],"type":"location","subtype":"city","campaign":"Erukana","tags":["erukana","location","city"]}}
 ---
 
 

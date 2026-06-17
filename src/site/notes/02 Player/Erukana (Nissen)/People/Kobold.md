@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kobold/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kobold/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[8-160324 - Changer of time session 8|session 8]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"kobold","role":"commoner","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]]"],"disposition":"enemy","status":"alive","location_primary":"[[Dark Gem Clan Caves\|Dark Gem Clan Caves]]"}}
 ---
 
 

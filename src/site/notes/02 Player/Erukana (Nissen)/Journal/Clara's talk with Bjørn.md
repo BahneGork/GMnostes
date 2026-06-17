@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clara's talk with Bjørn/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clara's talk with Bjørn/","dg-note-properties":{}}
 ---
 
 # Clara's Henvendelse Til Bjørn

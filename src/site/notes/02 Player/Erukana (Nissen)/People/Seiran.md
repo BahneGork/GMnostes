@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Seiran/","tags":["erukana","npc","druid","missing"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Seiran/","tags":["erukana","npc","druid","missing"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|steffen session 1]]"],"category":"npc","Profession":["Druide"],"Faction":["[[Mielikki tilhængere]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]]"],"Campaign":"Erukana","tags":["erukana","npc","druid","missing"],"race":"human","role":["druid"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]"],"disposition":"ally","status":"missing","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]]"}}
 ---
 
 

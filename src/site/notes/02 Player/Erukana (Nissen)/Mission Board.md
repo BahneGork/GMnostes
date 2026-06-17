@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Mission Board/","tags":["erukanamissions","playernotes","erukana"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Mission Board/","tags":["erukanamissions","playernotes","erukana"],"dg-note-properties":{"player-gm":"player","tags":["erukanamissions","playernotes","erukana"]}}
 ---
 
 

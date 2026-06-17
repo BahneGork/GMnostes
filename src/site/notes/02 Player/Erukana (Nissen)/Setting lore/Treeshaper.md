@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Treeshaper/","tags":["erukana","lore","profession","druid","nature"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Treeshaper/","tags":["erukana","lore","profession","druid","nature"],"dg-note-properties":{"sessions":["[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"lore","category":"profession","campaign":"Erukana","aliases":["Treeshapers"],"tags":["erukana","lore","profession","druid","nature"]}}
 ---
 
 

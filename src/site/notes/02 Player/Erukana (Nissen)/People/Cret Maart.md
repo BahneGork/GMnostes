@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Cret Maart/","tags":["erukana/npc","halforc","rødtandklan"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Cret Maart/","tags":["erukana/npc","halforc","rødtandklan"],"dg-note-properties":{"aliases":[],"category":"npc","Location":["Bronzekeg"],"Kin":"[[Rød tand stammen]]","Campaign":"Erukana","tags":["erukana/npc","halforc","rødtandklan"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/The Silver statue heirloom/","tags":["erukana","erukanaloot"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/The Silver statue heirloom/","tags":["erukana","erukanaloot"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"itemname":null,"itemtype":null,"used-by":null,"attunement":null,"tags":["erukana","erukanaloot"]}}
 ---
 
 

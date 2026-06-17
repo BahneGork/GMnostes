@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Selling/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Selling/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["nobility","servant"],"social_status":"knight","affiliation":[],"disposition":"deceased-ally","status":"dead","location_primary":"[[Sir Seillings mausoleum 1\|Sir Seillings mausoleum 1]]","aliases":["Sir Seiling"]}}
 ---
 
 

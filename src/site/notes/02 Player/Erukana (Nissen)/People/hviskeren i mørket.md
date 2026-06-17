@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/hviskeren i mørket/","tags":["erukana","erukana/monster","erukana/npc","erukanalocation","erukanasecretsnclues"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/hviskeren i mørket/","tags":["erukana","erukana/monster","erukana/npc","erukanalocation","erukanasecretsnclues"],"dg-note-properties":{"aliases":null,"category":"npc","Location":["Kobold hulerne"],"Campaign":"Erukana","tags":["erukana","erukana/monster","erukana/npc","erukanalocation","erukanasecretsnclues"]}}
 ---
 
 

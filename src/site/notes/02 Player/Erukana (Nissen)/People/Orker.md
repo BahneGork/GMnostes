@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Orker/","tags":["erukana","faction","monster"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Orker/","tags":["erukana","faction","monster"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]","[[7-170224 - Changer of time session 7|session 7]]","[[10 - 220524 - Changer of time session 10|session 10]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]","[[31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta|session 31]]","[[34 - erukana - steffen - 12|session 34]]","[[32 - 130925 - Erukana - Steffen - 10 - After the orks|session 32]]","[[1-080723 - Changer of time session 1|session 1]]","[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"faction","Profession":null,"Faction":["[[02 Player/Erukana (Nissen)/Factions/Horden\|Horden]]"],"Location":null,"Campaign":"Erukana","aliases":["Orcerne"],"tags":["erukana","faction","monster"]}}
 ---
 
 

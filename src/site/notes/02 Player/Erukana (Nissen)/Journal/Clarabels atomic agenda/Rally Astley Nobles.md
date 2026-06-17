@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Rally Astley Nobles/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Rally Astley Nobles/","dg-note-properties":{"priority":3,"Next Action":"Wait","location":"Astley, Baroniet Welles","related npc":["Lord Vitano"],"related factions":["Nobles of Astley"],"My-PC":"Clarabel"}}
 ---
 
 # Rally Astley Nobles

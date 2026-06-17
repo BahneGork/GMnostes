@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning/","tags":["erukana","erukana/campaign","erukana/changeroftime/chapter1","erukana/changeroftime/chapter1/epilogue"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning/","tags":["erukana","erukana/campaign","erukana/changeroftime/chapter1","erukana/changeroftime/chapter1/epilogue"],"dg-note-properties":{"tags":["erukana","erukana/campaign","erukana/changeroftime/chapter1","erukana/changeroftime/chapter1/epilogue"]}}
 ---
 
 

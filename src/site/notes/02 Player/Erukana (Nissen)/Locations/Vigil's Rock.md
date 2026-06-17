@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vigil's Rock/","tags":["erukana","location","city","blackmere","trade"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vigil's Rock/","tags":["erukana","location","city","blackmere","trade"],"dg-note-properties":{"type":"location","subtype":"city","campaign":"Erukana","tags":["erukana","location","city","blackmere","trade"]}}
 ---
 
 

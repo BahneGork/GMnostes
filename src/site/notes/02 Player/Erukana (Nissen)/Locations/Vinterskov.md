@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vinterskov/","tags":["erukana","erukana/location","Locationsvisited"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vinterskov/","tags":["erukana","erukana/location","Locationsvisited"],"dg-note-properties":{"campaign":"Erukana - steffen","tags":["erukana","erukana/location","Locationsvisited"]}}
 ---
 
 

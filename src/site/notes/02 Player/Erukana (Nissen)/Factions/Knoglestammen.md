@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Knoglestammen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Knoglestammen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"faction","faction_type":"tribe","status":"active","friend-or-foe":"conditional","Location":["[[Nordheim]]"],"Campaign":"Erukana","aliases":["Bone Tribe","Knogle folk"],"tags":["erukana","faction"]}}
 ---
 
 

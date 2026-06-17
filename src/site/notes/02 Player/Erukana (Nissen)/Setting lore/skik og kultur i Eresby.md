@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/skik og kultur i Eresby/","tags":["erukana","kultur","eresbybarony","wellesbarony"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/skik og kultur i Eresby/","tags":["erukana","kultur","eresbybarony","wellesbarony"],"dg-note-properties":{"tags":["erukana","kultur","eresbybarony","wellesbarony"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lady De'evers/","tags":["erukana","npc","noble","deevers"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lady De'evers/","tags":["erukana","npc","noble","deevers"],"dg-note-properties":{"sessions":["[[5-281023 - Changer of time session 5|session 5]]"],"category":"npc","Profession":["Adelsdame"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]"],"Campaign":"Erukana","tags":["erukana","npc","noble","deevers"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"ally","leader":["[[Edmund af Vitano\|Edmund af Vitano]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","aliases":["House Vitano"],"tags":["erukana","faction"]}}
 ---
 
 

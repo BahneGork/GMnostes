@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Bane/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Bane/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[28 - 050725 - Erukana - Steffen 6|session 28]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"unspecified","role":"religious","social_status":"royalty","affiliation":[],"disposition":"enemy","status":"alive","location_primary":"Divine Realm"}}
 ---
 
 

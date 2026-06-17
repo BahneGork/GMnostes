@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana/","tags":["npc","erukana"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana/","tags":["npc","erukana"],"dg-note-properties":{"category":"npc","faction":"royal house erukana","tags":["npc","erukana"]}}
 ---
 
 

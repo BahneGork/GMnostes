@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/House Solvayn (The Old Guard)/","title":"House Solvayn (The Old Guard)","tags":["campaign","general-knowledge","nobility","The Old Guard"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/House Solvayn (The Old Guard)/","title":"House Solvayn (The Old Guard)","tags":["campaign","general-knowledge","nobility","The Old Guard"],"dg-note-properties":{"title":"House Solvayn (The Old Guard)","date":"2025-01-08","tags":["campaign","general-knowledge","nobility","The Old Guard"],"source":"Discord","type":"organization"}}
 ---
 
 

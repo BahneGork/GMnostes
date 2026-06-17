@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Letter to Lord Adelston Magdova/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Letter to Lord Adelston Magdova/","dg-note-properties":{"fc-category":"ClarabelAgenda","type":"handout","campaign":"Erukana","fc-date":"1517-Tarsakh-8"}}
 ---
 
 Højtærede Lord Adelston Magdova, lensherre til Stirring.

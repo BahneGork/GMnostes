@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Castle Brienne/","tags":["erukana","location","castle"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Castle Brienne/","tags":["erukana","location","castle"],"dg-note-properties":{"type":"location","subtype":"castle","campaign":"Erukana","tags":["erukana","location","castle"]}}
 ---
 
 

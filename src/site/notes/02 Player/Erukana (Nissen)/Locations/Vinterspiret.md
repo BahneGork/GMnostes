@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vinterspiret/","tags":["erukana","location","nordheim","tower"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vinterspiret/","tags":["erukana","location","nordheim","tower"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"location","subtype":"tower","campaign":"Erukana","aliases":["Vinterspiret","Winter Spire"],"tags":["erukana","location","nordheim","tower"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Botreaux/","tags":["erukana","location","city","botreaux"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Botreaux/","tags":["erukana","location","city","botreaux"],"dg-note-properties":{"sessions":["[[36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]"],"type":"location","subtype":"city","campaign":"Erukana","aliases":["Bortreaux","Hertugdømmet Bortreaux","Botreaux byen"],"tags":["erukana","location","city","botreaux"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Botreaux court/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Botreaux court/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"court","status":"active","friend-or-foe":"neutral","Location":["[[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]"],"Campaign":"Erukana","aliases":["Botreaux hofet"],"tags":["erukana","faction"]}}
 ---
 
 

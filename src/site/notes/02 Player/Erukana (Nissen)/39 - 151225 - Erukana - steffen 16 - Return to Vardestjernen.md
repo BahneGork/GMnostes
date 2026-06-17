@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen/","tags":["erukana","erukanasessionlog","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen/","tags":["erukana","erukanasessionlog","inline-events"],"dg-note-properties":{"type":"sessionlog","session":39,"date":"151225","sted":"online","ingame-date-start":"9th Tarsakh","campaign":"Erukana","tags":["erukana","erukanasessionlog","inline-events"],"pcs":["evelyn","logan","nibar","victor","winston"]}}
 ---
 
 
@@ -56,7 +56,7 @@
 	- vi kommer til et otte sidet rum, octagon, der har været kamp i rummet alt muligt er knust og kastet rundt, rent kaos. Det ligner et værksted.
 	- Der er gnomiske runer der betegner forskellige elementer 
 	- ved en helt anden dør udenfor værkstedet ligger der en konstruktion foran. 
-		- ![Pasted image 20251215215822.png|300](/img/user/10%20Attachments/Pasted%20image%2020251215215822.png)
+		- ![Pasted image 20251215215822.png\|300](/img/user/10%20Attachments/Pasted%20image%2020251215215822.png)
 
 NEXT værkstedet i vardestjerne bunkeren 
 

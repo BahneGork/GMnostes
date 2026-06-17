@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana home/","tags":["erukana","campaign","worldhomenote"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/_Erukana home/","tags":["erukana","campaign","worldhomenote"],"dg-note-properties":{"cssclasses":["dashboard"],"tags":["erukana","campaign","worldhomenote"]}}
 ---
 
 # Home of the Erukana Campaign
-[![Erukana-annotated.png|1500](/img/user/02%20Player/Erukana%20(Nissen)/Journal/images/Erukana-annotated.png)](/img/user/02%20Player/Erukana%20(Nissen)/Journal/images/Erukana-annotated.png)
+[![Erukana-annotated.png\|1500](/img/user/02%20Player/Erukana%20(Nissen)/Journal/images/Erukana-annotated.png)](/img/user/02%20Player/Erukana%20(Nissen)/Journal/images/Erukana-annotated.png)
 
 | # The Party                                                                                                            | # The world                                                                                                                                                | # Factions & People                                 | # Open loops                                  |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------- |
@@ -16,7 +16,7 @@
 | [Downtime Sheet](https://docs.google.com/spreadsheets/d/1sIJETEqeN5-KZOZiNETAmAtHIwSFup85eiREJ9aMxzw/edit?gid=0#gid=0) | [https://app.fantasy-calendar.com/calendars/422d00b63d41c292cf22ef53ce369acd](https://app.fantasy-calendar.com/calendars/422d00b63d41c292cf22ef53ce369acd) |                                                     |                                               |
 | [Char Stats](https://docs.google.com/spreadsheets/d/1tNzYZOLpveWZXtYSUUXd56guGRLaYJhX3ZbVl2p8_Ys/edit?gid=0#gid=0)     |                                                                                                                                                            |                                                     |                                               |
 ### Welles Baroniet
-![Pasted image 20251120091656.png|1000](/img/user/10%20Attachments/Pasted%20image%2020251120091656.png)
+![Pasted image 20251120091656.png\|1000](/img/user/10%20Attachments/Pasted%20image%2020251120091656.png)
 
 
 #### Current Date: 16th Tarsakh

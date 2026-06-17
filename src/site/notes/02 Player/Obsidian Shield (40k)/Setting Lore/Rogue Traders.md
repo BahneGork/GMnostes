@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Rogue Traders/","title":"Rogue Traders","tags":["Rogue Trader","Imperiet","Handel","Udforskning","Frie Hænderskab"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Rogue Traders/","title":"Rogue Traders","tags":["Rogue Trader","Imperiet","Handel","Udforskning","Frie Hænderskab"],"dg-note-properties":{"title":"Rogue Traders","date":"2023-04-12","tags":["Rogue Trader","Imperiet","Handel","Udforskning","Frie Hænderskab"],"source":"Discord","type":"general-knowledge"}}
 ---
 
 

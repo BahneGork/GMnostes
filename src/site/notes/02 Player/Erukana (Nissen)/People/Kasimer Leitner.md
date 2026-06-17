@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kasimer Leitner/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kasimer Leitner/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]","[[House Magdova]]"],"disposition":"enemy","status":"alive","location_primary":"[[Northern territories]]"}}
 ---
 
 

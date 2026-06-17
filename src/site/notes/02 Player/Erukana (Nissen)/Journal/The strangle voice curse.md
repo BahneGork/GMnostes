@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/The strangle voice curse/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/The strangle voice curse/","dg-note-properties":{}}
 ---
 
 # The Strangle Voice Curse

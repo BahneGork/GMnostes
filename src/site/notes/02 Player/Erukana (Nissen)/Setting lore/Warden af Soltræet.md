@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Warden af Soltræet/","tags":["erukana","lore","religion","mielikki","soltræet"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/Warden af Soltræet/","tags":["erukana","lore","religion","mielikki","soltræet"],"dg-note-properties":{"category":"lore","campaign":"Erukana","tags":["erukana","lore","religion","mielikki","soltræet"]}}
 ---
 
 

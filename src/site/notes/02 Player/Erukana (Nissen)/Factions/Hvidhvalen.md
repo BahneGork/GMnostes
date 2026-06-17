@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Hvidhvalen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Hvidhvalen/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"tribe","status":"active","friend-or-foe":"neutral","affiliation":["[[Slette folket]]"],"Location":["[[Coastal areas]]"],"Campaign":"Erukana","aliases":["White Whale tribe"],"tags":["erukana","faction"]}}
 ---
 
 

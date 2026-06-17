@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Zarafine/","tags":["erukana","npc","tempus","leader"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Zarafine/","tags":["erukana","npc","tempus","leader"],"dg-note-properties":{"sessions":["[[23 - 310325 - Erukana Steffen 3|session 23]]"],"category":"npc","Profession":["Religiøs leder","Skibskaptajn"],"Faction":["[[Tempus tilhængere]]"],"Location":["[[02 Player/Erukana (Nissen)/Journal/stormens ed\|stormens ed]]"],"Campaign":"Erukana","tags":["erukana","npc","tempus","leader"],"race":"human","role":["religious","pirate"],"social_status":"priest","affiliation":["[[Tempus tilhængere]]"],"disposition":"conditional","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Journal/stormens ed\|stormens ed]]"}}
 ---
 
 

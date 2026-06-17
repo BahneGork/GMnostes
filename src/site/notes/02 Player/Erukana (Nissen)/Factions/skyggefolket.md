@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/skyggefolket/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/skyggefolket/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[28 - 050725 - Erukana - Steffen 6|session 28]]"],"category":"faction","faction_type":"tribe","status":"unknown","friend-or-foe":"unknown","Campaign":"Erukana","aliases":["Shadow People"],"tags":["erukana","faction"]}}
 ---
 
 

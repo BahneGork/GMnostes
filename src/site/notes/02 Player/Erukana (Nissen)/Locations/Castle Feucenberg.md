@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Castle Feucenberg/","tags":["erukana","location","castle","military","botreaux"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Castle Feucenberg/","tags":["erukana","location","castle","military","botreaux"],"dg-note-properties":{"type":"location","subtype":"castle","campaign":"Erukana","tags":["erukana","location","castle","military","botreaux"]}}
 ---
 
 

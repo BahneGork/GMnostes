@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/obsidian arrows/","tags":["erukana","item","ammunition","magic"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/obsidian arrows/","tags":["erukana","item","ammunition","magic"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"item","category":"ammunition","campaign":"Erukana","aliases":["obsidian arrows","obsidian pile"],"tags":["erukana","item","ammunition","magic"]}}
 ---
 
 

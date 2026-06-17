@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hydra/","tags":["erukana","monster"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hydra/","tags":["erukana","monster"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]"],"category":"monster","Profession":["Feywood Beast"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]"],"Campaign":"Erukana","tags":["erukana","monster"],"race":"unspecified","role":["antagonist"],"social_status":"outcast","affiliation":[],"disposition":"enemy","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]"}}
 ---
 
 
@@ -10,9 +10,9 @@ Hydraen er et Feywood-bæst der angreb Eastwatch-ruinerne i session 9. Den blev 
 ### Session 9
 - Blodrosen har indgået en aftale med kongen om at hjælpe med truslen 
 - Hydra angriber ruinerne!! 
-![Pasted image 20240515211858.png|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)
+![Pasted image 20240515211858.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)
 
-![Pasted image 20240515211858.png|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)
+![Pasted image 20240515211858.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)
 - Da [[02 Player/Erukana (Nissen)/People/Hydra\|Hydra]] er slagtet er der et hjerte tilbage, lava agtigt, som Clara samler op. 
 - Hydra hjertet ![Pasted image 20240522202250.png](/img/user/10%20Attachments/Pasted%20image%2020240522202250.png)
 

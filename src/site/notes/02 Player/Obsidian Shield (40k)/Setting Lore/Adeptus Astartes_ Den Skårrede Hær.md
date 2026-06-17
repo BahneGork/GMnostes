@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Adeptus Astartes_ Den Skårrede Hær/","title":"Adeptus Astartes","tags":["Imperium","Space Marines","Chapter","Armee","Kejseren","Horus den Fortabte"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Adeptus Astartes_ Den Skårrede Hær/","title":"Adeptus Astartes","tags":["Imperium","Space Marines","Chapter","Armee","Kejseren","Horus den Fortabte"],"dg-note-properties":{"title":"Adeptus Astartes","date":"2023-04-15","tags":["Imperium","Space Marines","Chapter","Armee","Kejseren","Horus den Fortabte"],"source":"Discord","type":"faction"}}
 ---
 
 

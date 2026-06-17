@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Downtime Astley 2/","tags":["erukana","erukanasessionlog","downtime/astley/2"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Downtime Astley 2/","tags":["erukana","erukanasessionlog","downtime/astley/2"],"dg-note-properties":{"type":"sessionlog","session":null,"date":null,"sted":null,"ingame-date-start":null,"campaign":null,"tags":["erukana","erukanasessionlog","downtime/astley/2"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Nordlandets stammer/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Nordlandets stammer/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"tribe","status":"active","friend-or-foe":"neutral","Location":["[[Nordheim]]"],"Campaign":"Erukana","aliases":["Nordlands stammer"],"tags":["erukana","faction"]}}
 ---
 
 

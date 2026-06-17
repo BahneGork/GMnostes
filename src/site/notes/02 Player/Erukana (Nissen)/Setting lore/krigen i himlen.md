@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/krigen i himlen/","tags":["erukana","lore","history","cosmic"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/krigen i himlen/","tags":["erukana","lore","history","cosmic"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]"],"category":"lore","campaign":"Erukana","tags":["erukana","lore","history","cosmic"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/skik og kultur i Welles/","tags":["erukana","kultur","wellesbarony"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/skik og kultur i Welles/","tags":["erukana","kultur","wellesbarony"],"dg-note-properties":{"tags":["erukana","kultur","wellesbarony"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne/","tags":["erukana","domain","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne/","tags":["erukana","domain","faction"],"dg-note-properties":{"category":"Domain","tags":["erukana","domain","faction"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Sentinel/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Sentinel/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"arcane-order","status":"unknown","friend-or-foe":"unknown","Location":["[[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 

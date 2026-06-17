@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Adeptus Mechanicus/","title":"Adeptus Mechanicus","tags":["campaign","general-knowledge","astartes","imperium-of-man","sci-fi"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Adeptus Mechanicus/","title":"Adeptus Mechanicus","tags":["campaign","general-knowledge","astartes","imperium-of-man","sci-fi"],"dg-note-properties":{"title":"Adeptus Mechanicus","date":"2023-03-15","tags":["campaign","general-knowledge","astartes","imperium-of-man","sci-fi"]}}
 ---
 
 

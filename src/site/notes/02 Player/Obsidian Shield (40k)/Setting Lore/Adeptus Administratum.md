@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Adeptus Administratum/","title":"Adeptus Administratum","tags":["astra-mechanicum","imperium-terranus","adunis","administrativ-hierarki"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Adeptus Administratum/","title":"Adeptus Administratum","tags":["astra-mechanicum","imperium-terranus","adunis","administrativ-hierarki"],"dg-note-properties":{"title":"Adeptus Administratum","date":"2023-02-20","tags":["astra-mechanicum","imperium-terranus","adunis","administrativ-hierarki"],"author":["Johannes"],"source":"Discord","type":"organization"}}
 ---
 
 

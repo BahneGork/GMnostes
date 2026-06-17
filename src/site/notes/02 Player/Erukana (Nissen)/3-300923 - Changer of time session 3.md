@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/npc","erukana/lootfound"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3/","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/npc","erukana/lootfound"],"dg-note-properties":{"date":"300923","ingame-date-start":"17th Flamerule","type":"sessionlog","session":3,"sted":"online","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","erukana/npc","erukana/lootfound"]}}
 ---
 
 

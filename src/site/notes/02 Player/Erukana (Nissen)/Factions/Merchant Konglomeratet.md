@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"merchant-guild","status":"active","friend-or-foe":"enemy","Location":["[[Wolfenburg]]"],"Campaign":"Erukana","aliases":["Merchant Konglomeratets","Merchant Konglormeratets"],"tags":["erukana","faction"]}}
 ---
 
 

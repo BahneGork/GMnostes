@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517/","tags":["erukana","erukanapc","clarabel/journal","clarabel-downtime-astley"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517/","tags":["erukana","erukanapc","clarabel/journal","clarabel-downtime-astley"],"dg-note-properties":{"tags":["erukana","erukanapc","clarabel/journal","clarabel-downtime-astley"],"campaign":"Erukana","character":"clarabel lancaster","type":"journal"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Den Kejserlige Kirke/","title":"Adeptus Ministorum – den Kejserlige kirke","tags":["Imperium of Man","Adeptus Astartes","Ecclesiarchy","Chaos","Warhammer 40k"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Den Kejserlige Kirke/","title":"Adeptus Ministorum – den Kejserlige kirke","tags":["Imperium of Man","Adeptus Astartes","Ecclesiarchy","Chaos","Warhammer 40k"],"dg-note-properties":{"title":"Adeptus Ministorum – den Kejserlige kirke","date":"2023-02-20","tags":["Imperium of Man","Adeptus Astartes","Ecclesiarchy","Chaos","Warhammer 40k"],"source":"Discord","type":"Organization"}}
 ---
 
 

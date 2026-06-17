@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -/","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"],"dg-note-properties":{"type":"sessionlog","session":29,"date":"210625","sted":"Knogle stammen","ingame-date-start":"23nd ches","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","inline-events"]}}
 ---
 
 

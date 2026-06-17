@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Valo/","tags":["erukana","npc","criminal"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Valo/","tags":["erukana","npc","criminal"],"dg-note-properties":{"sessions":["[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"npc","Profession":["Tyv"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]","[[Varehusområdet]]"],"Campaign":"Erukana","tags":["erukana","npc","criminal"],"race":"human","role":["commoner"],"social_status":"criminal","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

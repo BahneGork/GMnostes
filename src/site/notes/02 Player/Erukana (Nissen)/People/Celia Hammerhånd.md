@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celia Hammerhånd/","tags":["erukana/npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celia Hammerhånd/","tags":["erukana/npc"],"dg-note-properties":{"category":"npc","Location":["Mistville"],"Profession":["Syerske"],"Kin":"[[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]","Campaign":"Erukana","tags":["erukana/npc"]}}
 ---
 
 

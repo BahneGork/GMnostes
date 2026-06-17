@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Anaksa/","tags":["erukana","location","kingdom"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Anaksa/","tags":["erukana","location","kingdom"],"dg-note-properties":{"type":"location","subtype":"kingdom","campaign":"Erukana","tags":["erukana","location","kingdom"]}}
 ---
 
 

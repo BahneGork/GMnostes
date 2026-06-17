@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Barriston Samuel/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Barriston Samuel/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":["Ridder","Træner"],"Faction":"[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]","Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["military","paladin"],"social_status":"knight","affiliation":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"disposition":"ally","status":"unknown","location_primary":"unspecified"}}
 ---
 
 

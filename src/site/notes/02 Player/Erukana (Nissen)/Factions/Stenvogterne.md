@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Stenvogterne/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Stenvogterne/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"religious-order","status":"weakened","friend-or-foe":"neutral","leader":["[[02 Player/Erukana (Nissen)/People/Ukkadin Magmahånd\|Ukkadin Magmahånd]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 

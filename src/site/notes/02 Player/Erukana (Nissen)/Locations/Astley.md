@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Astley/","tags":["erukana","location"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Astley/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]","[[11 - 130624 - Changer of time session 11|session 11]]","[[17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[7-170224 - Changer of time session 7|session 7]]","[[10 - 220524 - Changer of time session 10|session 10]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]","[[6-301023 - Changer of time session 6|session 6]]","[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[16 - 160724 - steffen session 4|session 4]]","[[19 - 140824- Changer of time - nissen -  session 15|session 15]]","[[20 - 110125 - Changer of time - nissen - session 16|session 16]]","[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[22 - 270325 - Erukana Steffen 2|session 22]]","[[13 - 220624 - steffen session 1|session 1]]","[[9 -150524 - Changer of time session 9|session 9]]"],"type":"location","subtype":null,"campaign":"Erukana","tags":["erukana","location"]}}
 ---
 
 

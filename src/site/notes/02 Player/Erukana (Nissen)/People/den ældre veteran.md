@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/den ældre veteran/","tags":["erukana","npc","veteran","mysterious"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/den ældre veteran/","tags":["erukana","npc","veteran","mysterious"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"category":"npc","Profession":["Veteran","Kriger"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]"],"Campaign":"Erukana","tags":["erukana","npc","veteran","mysterious"],"race":"human","role":"military","social_status":"commoner","affiliation":[],"disposition":"unknown","status":"alive","location_primary":"Baroniet Eresby"}}
 ---
 
 

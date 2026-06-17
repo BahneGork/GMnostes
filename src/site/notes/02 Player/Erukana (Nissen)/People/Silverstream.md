@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Silverstream/","tags":["erukana","location","dwarf","hall"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Silverstream/","tags":["erukana","location","dwarf","hall"],"dg-note-properties":{"category":"location","type":"dwarf-hall","Faction":["[[02 Player/Erukana (Nissen)/Factions/Dværgene\|Dværgene]]","[[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn\|Bjergenes Børn]]"],"Location":["[[Slatestone|Sydøst for Slatestone]]"],"Campaign":"Erukana","aliases":["Silverstream dværge hallerne"],"tags":["erukana","location","dwarf","hall"]}}
 ---
 
 

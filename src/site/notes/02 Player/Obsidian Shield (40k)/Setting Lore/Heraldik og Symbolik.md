@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Heraldik og Symbolik/","title":"Heraldik og Symbolik i Adeptus Mechanicus","tags":["campaign","general-knowledge","heraldry","Adeptus Mechanicus"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Heraldik og Symbolik/","title":"Heraldik og Symbolik i Adeptus Mechanicus","tags":["campaign","general-knowledge","heraldry","Adeptus Mechanicus"],"dg-note-properties":{"title":"Heraldik og Symbolik i Adeptus Mechanicus","date":"2023-02-20","tags":["campaign","general-knowledge","heraldry","Adeptus Mechanicus"]}}
 ---
 
 

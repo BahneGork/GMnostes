@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Yasmina AnTuu/","tags":["erukana/npc","erukana/npc/nomad","erukana/npc/merchant"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Yasmina AnTuu/","tags":["erukana/npc","erukana/npc/nomad","erukana/npc/merchant"],"dg-note-properties":{"Kin":"[[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]]","faction":"De blå Nomader","Profession":["Merchant"],"Campaign":"Erukana","tags":["erukana/npc","erukana/npc/nomad","erukana/npc/merchant"]}}
 ---
 
 

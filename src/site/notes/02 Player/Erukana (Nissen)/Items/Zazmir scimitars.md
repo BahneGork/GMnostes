@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Zazmir scimitars/","tags":["erukana","erukanaloot","weapon"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Zazmir scimitars/","tags":["erukana","erukanaloot","weapon"],"dg-note-properties":{"sessions":["[[3-300923 - Changer of time session 3|session 3]]"],"itemname":"Zazmir Scimitars","itemtype":"weapon","used-by":"[[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]], [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]]","attunement":false,"tags":["erukana","erukanaloot","weapon"]}}
 ---
 
 

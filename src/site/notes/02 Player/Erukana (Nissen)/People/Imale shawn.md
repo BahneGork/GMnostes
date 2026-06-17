@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Imale shawn/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Imale shawn/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"npc","Profession":[],"Faction":[],"Location":["[[Vinterspiret 1\|Vinterspiret 1]]"],"Campaign":"Erukana","aliases":["Imale shawn"],"tags":["erukana","npc"],"race":"dragonborn","role":[],"social_status":"unknown","affiliation":[],"disposition":"unknown","status":"unknown","location_primary":"[[Vinterspiret 1\|Vinterspiret 1]]"}}
 ---
 
 

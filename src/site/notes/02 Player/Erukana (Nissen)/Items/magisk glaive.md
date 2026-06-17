@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/magisk glaive/","tags":["erukana","item","weapon","glaive","magic"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/magisk glaive/","tags":["erukana","item","weapon","glaive","magic"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"item","category":"weapon","campaign":"Erukana","aliases":["magisk glaive","Victors glaive"],"tags":["erukana","item","weapon","glaive","magic"]}}
 ---
 
 

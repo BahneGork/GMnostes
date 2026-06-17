@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Feywood/","tags":["erukana","location","forest","dangerous","corruption"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Feywood/","tags":["erukana","location","forest","dangerous","corruption"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]","[[10 - 220524 - Changer of time session 10|session 10]]","[[11 - 130624 - Changer of time session 11|session 11]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"type":"location","subtype":"forest","campaign":"Erukana","tags":["erukana","location","forest","dangerous","corruption"]}}
 ---
 
 

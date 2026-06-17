@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/drage æg af sorte skæl med et rødt omridst på hver skæl/","tags":["erukana","erukanaloot","dragon","egg"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/drage æg af sorte skæl med et rødt omridst på hver skæl/","tags":["erukana","erukanaloot","dragon","egg"],"dg-note-properties":{"sessions":["[[10 - 220524 - Changer of time session 10|session 10]]"],"itemname":"Drageæg med sorte skæl","itemtype":"Egg","used-by":null,"attunement":false,"tags":["erukana","erukanaloot","dragon","egg"]}}
 ---
 
 

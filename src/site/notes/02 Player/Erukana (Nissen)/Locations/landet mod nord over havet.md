@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/landet mod nord over havet/","tags":["erukana","location","region","north"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/landet mod nord over havet/","tags":["erukana","location","region","north"],"dg-note-properties":{"type":"location","subtype":"region","campaign":"Erukana","tags":["erukana","location","region","north"]}}
 ---
 
 

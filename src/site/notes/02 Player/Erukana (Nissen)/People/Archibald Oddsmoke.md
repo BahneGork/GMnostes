@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Archibald Oddsmoke/","tags":["erukana","npc","mistville","gnome"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Archibald Oddsmoke/","tags":["erukana","npc","mistville","gnome"],"dg-note-properties":{"category":"npc","aliases":["Archibald Oddball","Oddball"],"Profession":["Pensioneret købmand"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]"],"Campaign":"Erukana","tags":["erukana","npc","mistville","gnome"],"race":"gnome","role":"merchant","social_status":"merchant","affiliation":[],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]"}}
 ---
 
 

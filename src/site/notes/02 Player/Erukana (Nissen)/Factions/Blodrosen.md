@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Blodrosen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Blodrosen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[8-160324 - Changer of time session 8|session 8]]","[[9 -150524 - Changer of time session 9|session 9]]","[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"faction","faction_type":"knightly-order","status":"active","friend-or-foe":"enemy","leader":["[[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]]"],"Campaign":"Erukana","aliases":["Ridderne af Blodrosen","bloodrose","blodrosen"],"tags":["erukana","faction"]}}
 ---
 
 

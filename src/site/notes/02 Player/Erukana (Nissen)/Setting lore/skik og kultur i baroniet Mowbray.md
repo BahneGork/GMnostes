@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/skik og kultur i baroniet Mowbray/","tags":["erukana","kultur","mowbray-barony"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/skik og kultur i baroniet Mowbray/","tags":["erukana","kultur","mowbray-barony"],"dg-note-properties":{"tags":["erukana","kultur","mowbray-barony"]}}
 ---
 
 

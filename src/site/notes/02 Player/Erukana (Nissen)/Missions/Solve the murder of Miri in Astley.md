@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley/","tags":["erukanamission","playermission"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley/","tags":["erukanamission","playermission"],"dg-note-properties":{"Title":"Solve the murder of Miri in Astley","missionstatus":"completed","faction":"Astley","related":null,"locations":["[[Astley]]","Alistair estate"],"reward":"Clearing Clarabel's name from doubt","tags":["erukanamission","playermission"]}}
 ---
 
 
@@ -85,7 +85,7 @@ Miri Sangstrup saw what was really going on and she should not have.
 
 Signed by ~ Astley Avengers
 [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] - [[02 Player/Erukana (Nissen)/People/Bjørn of Nordheim\|Bjørn of Nordheim]]  &  [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
-![flour de lis wax seal.png|300](/img/user/10%20Attachments/flour%20de%20lis%20wax%20seal.png)
+![flour de lis wax seal.png\|300](/img/user/10%20Attachments/flour%20de%20lis%20wax%20seal.png)
 
 
 </div></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Obsidian Shield Protective Services (OSPS)/","title":"Obsidian Shield Protective Services (OSPS)","tags":["organization","lejebeskyttelsesstyrke","ferrax","kolonier","rekruttering"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Obsidian Shield Protective Services (OSPS)/","title":"Obsidian Shield Protective Services (OSPS)","tags":["organization","lejebeskyttelsesstyrke","ferrax","kolonier","rekruttering"],"dg-note-properties":{"title":"Obsidian Shield Protective Services (OSPS)","date":"2025-01-08","tags":["organization","lejebeskyttelsesstyrke","ferrax","kolonier","rekruttering"]}}
 ---
 
 

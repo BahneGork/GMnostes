@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/dragefolket/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/dragefolket/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"tribe","status":"unknown","friend-or-foe":"unknown","Campaign":"Erukana","aliases":["Draconkin"],"tags":["erukana","faction"]}}
 ---
 
 

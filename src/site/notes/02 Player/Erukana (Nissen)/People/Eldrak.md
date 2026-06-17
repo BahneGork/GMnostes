@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Eldrak/","tags":["erukana","deity"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Eldrak/","tags":["erukana","deity"],"dg-note-properties":{"sessions":["[[25 - 230425 - Erukana - Steffen 5|session 25]]"],"category":"deity","Profession":["Earth Deity"],"Faction":null,"Location":["Underground shrine"],"Campaign":"Erukana","tags":["erukana","deity"],"race":"unspecified","role":["religious"],"social_status":"deity","affiliation":["[[Druid circles]]","Earth element"],"disposition":"neutral","status":"alive","location_primary":"Underground druid shrine"}}
 ---
 
 

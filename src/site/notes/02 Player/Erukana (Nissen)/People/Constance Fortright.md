@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Constance Fortright/","tags":["erukana/npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Constance Fortright/","tags":["erukana/npc"],"dg-note-properties":{"Location":["Mistville"],"Profession":["Smed"],"category":"npc","Campaign":"Erukana","tags":["erukana/npc"]}}
 ---
 
 
 #erukana/npc 
 # [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] Smed
 
-![Pasted image 20231021194936.png|300](/img/user/10%20Attachments/Pasted%20image%2020231021194936.png)
+![Pasted image 20231021194936.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231021194936.png)
 
 Constance Fortright er landsbyens smed og er kendt for hendes mageløse håndværk. 
 En høj ung kvinde, som virker en kende ung til at styre sin egen smedje. 

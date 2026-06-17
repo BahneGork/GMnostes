@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Eresby/","tags":["erukana","location"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Baroniet Eresby/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]","[[17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[20 - 110125 - Changer of time - nissen - session 16|session 16]]","[[1-080723 - Changer of time session 1|session 1]]"],"type":"location","subtype":null,"campaign":"Erukana","aliases":["Eresby"],"tags":["erukana","location"]}}
 ---
 
 

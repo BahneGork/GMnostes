@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/levende jerntræer/","tags":["erukana","lore","magic","elf"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Setting lore/levende jerntræer/","tags":["erukana","lore","magic","elf"],"dg-note-properties":{"category":"lore","campaign":"Erukana","tags":["erukana","lore","magic","elf"]}}
 ---
 
 

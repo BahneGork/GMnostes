@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/jernurt/","tags":["erukana","erukanaloot","alchemy","herb"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/jernurt/","tags":["erukana","erukanaloot","alchemy","herb"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[2-130723 - Changer of time session 2|session 2]]"],"itemname":"Jernurt","itemtype":"herb","used-by":null,"attunement":false,"tags":["erukana","erukanaloot","alchemy","herb"]}}
 ---
 
 

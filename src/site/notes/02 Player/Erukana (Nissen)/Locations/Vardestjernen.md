@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vardestjernen/","tags":["erukana","location","dungeon","arcane","azur-ordenen","lilla-plage"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vardestjernen/","tags":["erukana","location","dungeon","arcane","azur-ordenen","lilla-plage"],"dg-note-properties":{"sessions":["[[39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]","[[40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon|session 40]]","[[43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"category":"location","type":"location","subtype":"dungeon (ancient facility)","Campaign":"Erukana","aliases":["Varde stjernen","Vardestjerne bunkeren"],"tags":["erukana","location","dungeon","arcane","azur-ordenen","lilla-plage"]}}
 ---
 
 

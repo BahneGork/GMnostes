@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves/","tags":["erukana","location"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"type":"location","subtype":null,"campaign":"Erukana","aliases":["Dark Gem Clan Caves","Dark Gem klanen","dark gem kobolder"],"tags":["erukana","location"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning/","tags":["erukana","location","business","astley","trade"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Alistairs handelsforretning/","tags":["erukana","location","business","astley","trade"],"dg-note-properties":{"type":"location","subtype":"business","campaign":"Erukana","aliases":["Waning Moon Merchant House"],"tags":["erukana","location","business","astley","trade"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds/","tags":["erukana","erukanasessionlog","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds/","tags":["erukana","erukanasessionlog","inline-events"],"dg-note-properties":{"type":"sessionlog","session":43,"date":"28-03-2026","sted":"Nyråd","ingame-date-start":"14th Tarsakh","campaign":"Erukana","tags":["erukana","erukanasessionlog","inline-events"],"pcs":null}}
 ---
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]
@@ -53,7 +53,7 @@ NEXT: få skibet i stand, find ud af det sorte metal, tilbage til mistville elle
 <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-24' data-date-end='1517-Tarsakh-24' data-img='Inline Example/Event_2.jpg' data-name='Clare communer igen'></span>
 - Clara finder ud af at Evelyn er i Eresby, bjergne sydpå grænsende mod Ceystanya. Evelyn er i live. 
 - Victor og Winston drømmer om fange transport igennem Feywood 
-<span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-25' data-date-end='1517-Tarsakh-25' data-img='Inline Example/Event_2.jpg' data-name='Astley Avengers kommer tilbage til Astley'></span>
+<span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-25' data-date-end='1517-Tarsakh-25' data-img='Inline Example/Event_2.jpg' data-name='Astley Avengers kommer tilbage til Astley'></span> 
 
 
 

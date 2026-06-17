@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill/","tags":["erukana/npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill/","tags":["erukana/npc"],"dg-note-properties":{"category":"npc","Profession":"","Assosiates":"[[Baron Zhaarko af Eresby]]","faction":"Court of Baron Zhaarko","Campaign":"Erukana","tags":["erukana/npc"]}}
 ---
 
 

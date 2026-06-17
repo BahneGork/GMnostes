@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House Leitner/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House Leitner/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"noble-house","status":"weakened","friend-or-foe":"enemy","Location":["[[Baroniet Eresby]]"],"Campaign":"Erukana","aliases":["Leitner familien"],"tags":["erukana","faction"]}}
 ---
 
 

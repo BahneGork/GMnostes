@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baron Zhaarko/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baron Zhaarko/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]","[[1-080723 - Changer of time session 1|session 1]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["nobility","antagonist"],"social_status":"baron","affiliation":["[[Court of Baron Zhaarko]]","[[02 Player/Erukana (Nissen)/People/Merchant Konglomeratet\|Merchant Konglomeratet]]","[[Arcana tårnet]]"],"disposition":"enemy","status":"undead","location_primary":"[[Eresby]]"}}
 ---
 
 

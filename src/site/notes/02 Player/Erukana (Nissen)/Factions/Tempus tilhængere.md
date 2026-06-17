@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Tempus tilhængere/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Tempus tilhængere/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[23 - 310325 - Erukana Steffen 3|session 23]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"neutral","Location":["[[Astley]]"],"Campaign":"Erukana","aliases":["Tempus følgere","Tempus orden"],"tags":["erukana","faction"]}}
 ---
 
 

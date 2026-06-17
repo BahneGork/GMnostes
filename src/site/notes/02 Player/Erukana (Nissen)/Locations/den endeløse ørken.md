@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/den endeløse ørken/","tags":["erukana","location","desert","east"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/den endeløse ørken/","tags":["erukana","location","desert","east"],"dg-note-properties":{"type":"location","subtype":"desert","campaign":"Erukana","tags":["erukana","location","desert","east"]}}
 ---
 
 

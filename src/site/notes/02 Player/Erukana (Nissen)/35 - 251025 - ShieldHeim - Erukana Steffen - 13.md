@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/35 - 251025 - ShieldHeim - Erukana Steffen - 13/","tags":["erukana","erukanasessionlog","inline-events","erukana/campaign/steffen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/35 - 251025 - ShieldHeim - Erukana Steffen - 13/","tags":["erukana","erukanasessionlog","inline-events","erukana/campaign/steffen"],"dg-note-properties":{"type":"sessionlog","session":35,"date":"251025","sted":"Nyråd","ingame-date-start":"6th of Tarsakh","campaign":"Erukana - steffen","tags":["erukana","erukanasessionlog","inline-events","erukana/campaign/steffen"]}}
 ---
 
 

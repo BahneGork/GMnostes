@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/mistport/","tags":["erukana","location","city","bahamut"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/mistport/","tags":["erukana","location","city","bahamut"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|session 1]]"],"type":"location","subtype":"city","campaign":"Erukana","aliases":["Mistport"],"tags":["erukana","location","city","bahamut"]}}
 ---
 
 

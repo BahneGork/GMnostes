@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Morgion/","tags":["erukana","deity","evil","necromancy"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Morgion/","tags":["erukana","deity","evil","necromancy"],"dg-note-properties":{"sessions":["[[5-281023 - Changer of time session 5|session 5]]","[[10 - 220524 - Changer of time session 10|session 10]]"],"category":"deity","Profession":["Gud af pest, sygdom og forfald"],"Faction":[null],"Location":[null],"Campaign":"Erukana","tags":["erukana","deity","evil","necromancy"]}}
 ---
 
 

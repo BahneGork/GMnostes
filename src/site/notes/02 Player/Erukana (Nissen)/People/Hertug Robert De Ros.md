@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hertug Robert De Ros/","tags":["erukana","npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hertug Robert De Ros/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":["Duke"],"Faction":["[[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Hertugdømmet Bortreaux]]","[[02 Player/Erukana (Nissen)/Factions/familien Botreaux\|familien Botreaux]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]"],"Campaign":"Erukana","aliases":["Hertug De Ros"],"tags":["erukana","npc"],"race":"human","role":["nobility"],"social_status":"duke","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Hertugdømmet Bortreaux]]","[[02 Player/Erukana (Nissen)/Factions/familien Botreaux\|familien Botreaux]]"],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]"}}
 ---
 
 

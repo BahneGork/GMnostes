@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Brakeshield familien/","tags":["erukana","faction","family","nobility"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Brakeshield familien/","tags":["erukana","faction","family","nobility"],"dg-note-properties":{"category":"faction","name":"Brakeshield familien","friend-or-foe":"neutral","aliases":["Brakeshield Family"],"tags":["erukana","faction","family","nobility"]}}
 ---
 
 

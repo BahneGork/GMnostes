@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/flodhvisker stammen/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/flodhvisker stammen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]"],"category":"faction","faction_type":"tribe","status":"unknown","friend-or-foe":"neutral","Campaign":"Erukana","aliases":["Flodhviskerne"],"tags":["erukana","faction"]}}
 ---
 
 

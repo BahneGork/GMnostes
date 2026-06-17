@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/gamle glemte dværge haller/","tags":["erukana","location","dungeon","dwarven","ancient"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/gamle glemte dværge haller/","tags":["erukana","location","dungeon","dwarven","ancient"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]","[[8-160324 - Changer of time session 8|session 8]]"],"type":"location","subtype":"dungeon","campaign":"Erukana","tags":["erukana","location","dungeon","dwarven","ancient"]}}
 ---
 
 

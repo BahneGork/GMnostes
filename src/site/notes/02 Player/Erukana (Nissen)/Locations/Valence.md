@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Valence/","tags":["erukana","location","barony","botreaux"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Valence/","tags":["erukana","location","barony","botreaux"],"dg-note-properties":{"type":"location","subtype":"barony","campaign":"Erukana","aliases":["Baroniet Valence"],"tags":["erukana","location","barony","botreaux"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","erukana/lootfound"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1/","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","erukana/lootfound"],"dg-note-properties":{"type":"sessionlog","session":13,"date":"220624","sted":"Nyråd","ingame-date-start":"3rd Marpenoth - leaffall","campaign":"steffen","fc-end":"5th Marpenoth - leaffall","tags":["erukana","erukanasessionlog","erukana/campaign/steffen","erukana/lootfound"]}}
 ---
 
 
@@ -36,7 +36,7 @@ der var også besøg af 4 folk fra [[02 Player/Erukana (Nissen)/Locations/mistpo
 de havde et trekantet symbol på flere af deres ting (bahamuts symbol)
 Frostulf og Grima har set dragen
 
-![Vinterskov - Grøndalen - Erukana.png|700](/img/user/10%20Attachments/Vinterskov%20-%20Gr%C3%B8ndalen%20-%20Erukana.png)
+![Vinterskov - Grøndalen - Erukana.png\|700](/img/user/10%20Attachments/Vinterskov%20-%20Gr%C3%B8ndalen%20-%20Erukana.png)
 
 # In the Death of Night
 Mens vi sover bliver byen til råddenskab og udøde.
@@ -49,7 +49,7 @@ Winston bliver angrebet af 3 korrupteret egern
 Senere bliver vi alle angrebet af 3 korrupteret rådyr
 Clarabel bruger locate object for at finde de 4 eventyrers trekantet bahamut symbol.
 Vi finder de 4 eventyrer som udøde, der uden provokation angriber os.
-![Grøndalen-Erukana.png|600](/img/user/10%20Attachments/Gr%C3%B8ndalen-Erukana.png)
+![Grøndalen-Erukana.png\|600](/img/user/10%20Attachments/Gr%C3%B8ndalen-Erukana.png)
 
 
 # Adventuring Party Vision

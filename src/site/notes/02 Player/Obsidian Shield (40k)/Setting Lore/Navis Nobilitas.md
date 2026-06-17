@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Navis Nobilitas/","title":"Navis Nobilitas","tags":["adel","Imperiets beskytning","Warpens magi","Dynastisk maktspil"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Navis Nobilitas/","title":"Navis Nobilitas","tags":["adel","Imperiets beskytning","Warpens magi","Dynastisk maktspil"],"dg-note-properties":{"title":"Navis Nobilitas","date":"2025-01-08","tags":["adel","Imperiets beskytning","Warpens magi","Dynastisk maktspil"],"source":"Discord","type":null}}
 ---
 
 

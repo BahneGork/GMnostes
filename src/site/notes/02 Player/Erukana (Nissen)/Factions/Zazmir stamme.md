@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Zazmir stamme/","tags":["erukana","faction"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Zazmir stamme/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[3-300923 - Changer of time session 3|session 3]]"],"category":"faction","faction_type":"tribe","status":"unknown","friend-or-foe":"unknown","Campaign":"Erukana","aliases":["Zazmir"],"tags":["erukana","faction"]}}
 ---
 
 

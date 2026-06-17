@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Inkvisitionen/","title":"Inkvisitionen","tags":["campaign","general-knowledge","inquisition","imperium","Chaos","xenos","hereticus"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Inkvisitionen/","title":"Inkvisitionen","tags":["campaign","general-knowledge","inquisition","imperium","Chaos","xenos","hereticus"],"dg-note-properties":{"title":"Inkvisitionen","date":"2023-02-20","tags":["campaign","general-knowledge","inquisition","imperium","Chaos","xenos","hereticus"]}}
 ---
 
 

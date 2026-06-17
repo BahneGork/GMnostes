@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Redemption fear - a path through Wrath/"}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Redemption fear - a path through Wrath/","dg-note-properties":{}}
 ---
 
 

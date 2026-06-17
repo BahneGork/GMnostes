@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/harpe/","tags":["erukana","item","instrument","magic"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/harpe/","tags":["erukana","item","instrument","magic"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"item","category":"instrument","campaign":"Erukana","aliases":["harpen","harp of inspiration"],"tags":["erukana","item","instrument","magic"]}}
 ---
 
 

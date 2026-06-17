@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16/","tags":["erukana","erukanasessionlog","erukana/campaign","erukanasecretsnclues","waningmoon/lead"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16/","tags":["erukana","erukanasessionlog","erukana/campaign","erukanasecretsnclues","waningmoon/lead"],"dg-note-properties":{"type":"sessionlog","session":20,"date":"110125","sted":"Nyråd","ingame-date-start":"19 uktar","campaign":"Erukana - Changer of time","tags":["erukana","erukanasessionlog","erukana/campaign","erukanasecretsnclues","waningmoon/lead"]}}
 ---
 
 
