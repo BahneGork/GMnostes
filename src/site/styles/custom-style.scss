@@ -3,11 +3,27 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+
+    /* Wider content area to accommodate embedded Bases tables */
+    --dg-content-max-width: 1100px;
+
+    /* Wider left sidebar (filetree) */
+    --dg-filetree-width: 300px;
+    --dg-filetree-min-width: 300px;
+
+    /* Increase gap between content and right sidebar (graph) */
+    --dg-sidebar-gap: 140px;
+}
+
+/* Bases table embeds scroll horizontally within their own container */
+.bases-embed .bases-table-container,
+.bases-view[data-view-type="table"] {
+    overflow-x: auto;
+}
+
+/* Truncate long note titles in the filetree to a single line */
+.notelink a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
