@@ -52,12 +52,12 @@ NEXT: få skibet i stand, find ud af det sorte metal, tilbage til mistville elle
 - Nibar kontakter ye old magic shop og får teleportation circle sekvensen
 <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-24' data-date-end='1517-Tarsakh-24' data-img='Inline Example/Event_2.jpg' data-name='Clare communer igen'></span>
 - Clara finder ud af at Evelyn er i Eresby, bjergne sydpå grænsende mod Ceystanya. Evelyn er i live. 
-- Victor og Winston drømmer om fange transport igennem Feywood 
+- Victor og Winston drømmer om fange transport igennem Feywood i mod en fæstning ved et lille bjerg
 <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-25' data-date-end='1517-Tarsakh-25' data-img='Inline Example/Event_2.jpg' data-name='Astley Avengers kommer tilbage til Astley'></span> 
 
 
 
 
-[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|<< Previous Session 42 ]] ----[[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|TOP]]----  [[ \|Next Session 44  >>]]
+[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|<< Previous Session 42 ]] ----[[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|TOP]]----  [[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|Next Session 44  >>]]
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]

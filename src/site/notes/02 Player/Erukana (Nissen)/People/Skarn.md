@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Skarn/","tags":["erukana/npc","erukana/campaign","npc","knoglestammen"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Skarn/","tags":["erukana/npc","erukana/campaign","npc","knoglestammen"],"dg-note-properties":{"tags":["erukana/npc","erukana/campaign","npc","knoglestammen"]}}
 ---
 
 

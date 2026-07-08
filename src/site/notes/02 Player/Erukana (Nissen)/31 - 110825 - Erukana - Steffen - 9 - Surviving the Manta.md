@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta/","tags":["erukana/campaign/steffen","erukana","erukanasessionlog","inline-events"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/31 - 110825 - Erukana - Steffen - 9 - Surviving the Manta/","tags":["erukana/campaign/steffen","erukana","erukanasessionlog","inline-events"],"dg-note-properties":{"type":"sessionlog","session":31,"date":"110825","sted":"online","ingame-date-start":"5th of Tarsakh","campaign":"Erukana - steffen","tags":["erukana/campaign/steffen","erukana","erukanasessionlog","inline-events"]}}
 ---
 
 

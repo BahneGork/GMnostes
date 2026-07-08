@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/knight aberrants/","tags":["erukana","creature","aberrant","enemy"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/knight aberrants/","tags":["erukana","creature","aberrant","enemy"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]","[[8-160324 - Changer of time session 8|session 8]]"],"category":"creature","Profession":["Korrupterede riddere"],"Faction":[null],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","tags":["erukana","creature","aberrant","enemy"],"race":"hybrid","role":["antagonist"],"social_status":"outcast","affiliation":[],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
 ---
 
 

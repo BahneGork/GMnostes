@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Egil Nordlys/","tags":["erukana/npc"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Egil Nordlys/","tags":["erukana/npc"],"dg-note-properties":{"Location":["Mistville"],"Profession":["Militia"],"category":"npc","Campaign":"Erukana","tags":["erukana/npc"]}}
 ---
 
 

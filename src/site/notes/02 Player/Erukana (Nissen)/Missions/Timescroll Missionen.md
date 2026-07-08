@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Timescroll Missionen/","tags":["erukana","quest","mission"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Timescroll Missionen/","tags":["erukana","quest","mission"],"dg-note-properties":{"sessions":["[[1-080723 - Changer of time session 1|session 1]]"],"category":"quest","campaign":"Erukana","tags":["erukana","quest","mission"]}}
 ---
 
 

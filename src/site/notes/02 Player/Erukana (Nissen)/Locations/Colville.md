@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Colville/","tags":["erukana","location","city","welles"]}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Colville/","tags":["erukana","location","city","welles"],"dg-note-properties":{"type":"location","subtype":"city","campaign":"Erukana","aliases":["Coleville"],"tags":["erukana","location","city","welles"]}}
 ---
 
 
