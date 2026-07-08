@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 4 - Doom delayed/","tags":["cutscene","red-hand","warchief-slythe","jawbreaker","teslions","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 4 - Doom delayed/","tags":["cutscene","red-hand","warchief-slythe","jawbreaker","teslions","Arendur"],"dg-note-properties":{"type":"cutscene","number":4,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Red Hand March Delayed - Bridge Down","tags":["cutscene","red-hand","warchief-slythe","jawbreaker","teslions","Arendur"],"cutscenenr":"04"}}
 ---
 
 

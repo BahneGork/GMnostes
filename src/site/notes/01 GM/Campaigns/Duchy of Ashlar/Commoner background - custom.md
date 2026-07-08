@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/Duchy of Ashlar/Commoner background - custom/"}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/Duchy of Ashlar/Commoner background - custom/","dg-note-properties":{}}
 ---
 
 

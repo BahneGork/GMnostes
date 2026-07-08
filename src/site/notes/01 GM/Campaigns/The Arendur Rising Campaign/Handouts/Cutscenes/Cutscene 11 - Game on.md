@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 11 - Game on/","tags":["cutscene","conspiracy","dark-powers","ruby-prison","obsidian-spear","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 11 - Game on/","tags":["cutscene","conspiracy","dark-powers","ruby-prison","obsidian-spear","Arendur"],"dg-note-properties":{"type":"cutscene","number":11,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"The Game Begins - Dark Powers Conspire","tags":["cutscene","conspiracy","dark-powers","ruby-prison","obsidian-spear","Arendur"],"cutscenenr":"11"}}
 ---
 
 

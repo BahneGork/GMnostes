@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 10 - Deadsquad/","tags":["cutscene","jawbreaker","death-squad","blackspear","saarvith","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 10 - Deadsquad/","tags":["cutscene","jawbreaker","death-squad","blackspear","saarvith","Arendur"],"dg-note-properties":{"type":"cutscene","number":10,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Jawbreaker Learns Death Squad Failed","tags":["cutscene","jawbreaker","death-squad","blackspear","saarvith","Arendur"],"cutscenenr":"10"}}
 ---
 
 

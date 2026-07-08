@@ -58,7 +58,36 @@
 	- Gruppen beslutter at tage teleportation circle tilbage til butikken i Astley, vente på luft skibet og bruge det til at finde Evelyn
 	- Vi samles i Waning Moon og kort efter flækker jorden under soltræet og en Dracolich flyver op og angriber byen 
 
+**DM:**
+*Gruppen kommer hjem gennem Teleportations cirklen i 'Ye Olde Magic Shop' i tide til at opleve Soltræet bryde i brand og en enorm Dracolich river sig op gennem jorden fra sit kammer neden under. Seralyths genfærd, forvreden og drevet af vanvid og raseri over at dens blod er blevet korruptet, har sværget hævn over de levende som skulle have beskyttet dens blod mod den ondskab, som den gav sit liv, legeme og sjæl for at besejre.*
+  
+*Dommedag står foran Astley. Hvad vælger Astley Avengers i denne stund?*
 
+*Dracolichen – hvor kommer den fra?*
+*I sin vrede og sit vanvid, så skriger den omkring de dødeliges brud på deres løfte om at passe på dens blod og legeme. Kan dette være et aspekt af Seralyth – sølvdragen der gav sit liv, legeme og sjæl for at skabe den stav som forseglede Den Lille Plages fængsel?*
+
+*Hvis det er Seralyth, så er denne Dracolich en version af den ældeste slags drage der findes. Årtusinder gammel, stærk og intelligent som få. Hvor meget af den styrke og snilde har denne udøde og vanvittige version af Seralyth arvet?*
+   
+*Astley Avengers skal nu træffe et valg:*
+
+> [!attention]  **Valg 1 — Stå og kæmp**
+> 
+> I slutter jer til de få modige sjæle, der allerede har valgt at blive. Sammen forsøger I at distrahere og slide på Seralyth, sælge jeres liv og kræfter så dyrt som muligt.
+> 
+> Hvad jeres erfaring fortæller jer: En Dracolich af denne størrelse kan ikke besejres frontalt af jer alene — ikke i dag. Men det er ikke nødvendigvis målet. Jo længere I holder Seralyth optaget, desto færre borgere dør i gaderne. Og et væsen i vanvid kan miste interessen — hvis smerten ved kampen overstiger lysten til ødelæggelse, kan hun trække sig.
+> 
+> Risikoen er åbenlys, I ved at I sandsynligvis ikke overlever dette.  
+> Men så lang tid I kæmper, jo flere borgere kan nå ud af Astley, jo flere kan overleve. Langt flere kan nå ud og væk fra byen, end hvis I tager noget andet valg. Men hvor mange vil blive fanget af horden fra Feywood?
+
+> [!attention] **Valg 2 — Led borgerne til sikkerhed**
+> 
+> I bruger jeres evner til at organisere og guide de tusindvis af borgere der forsøger at flygte ud af Astley, men også udenom den halve horde der stadig kommer fra Feywood.
+> 
+> Hvad jeres erfaring fortæller jer: Det er ikke en simpel flugt. Horden fra Feywood er reduceret til ca. halvdelen takket være jeres arbejde i skoven — men det er stadig tusindvis af korrumperede væsener. Uden nogen der leder borgerne aktivt, vil mange løbe direkte ind i dem.
+> 
+> Risikoen her er, at Astley brænder uimodsagt, og at Seralyth's raseri måske vender sig mod flygtningene, når der ikke er mere by tilbage at ødelægge.
+> 
+> I vil med dette valg kunne lede folket væk fra truslen fra Feywood og håbe at de få der danner bagtrop kan holde Seralyth længe nok til at I kan få de fleste guidet ud. I vil med alt sandsynlighed redde færrere end hvis I valgte at blive tilbage, men dem som I redder, vil I kunne lede væk fra Horden fra Feywood og derefter kunne genopbygge Astley, et nyt sted, med et nyt håb.
 
 
 [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|<< Previous Session 43 ]] ----[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|TOP]]----  [[ \|Next Session 45  >>]]

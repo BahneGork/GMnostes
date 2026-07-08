@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Introduktion til Obsidian Shields Settingen - Ferrax Veynas/","title":"Introduktion til Obsidian Shields Settingen - Ferrax Veynas","tags":["campaign","general-knowledge","sci-fi","Imperiets Imperium"]}
+{"dg-publish":true,"permalink":"/02 Player/Obsidian Shield (40k)/Setting Lore/Introduktion til Obsidian Shields Settingen - Ferrax Veynas/","title":"Introduktion til Obsidian Shields Settingen - Ferrax Veynas","tags":["campaign","general-knowledge","sci-fi","Imperiets Imperium"],"dg-note-properties":{"title":"Introduktion til Obsidian Shields Settingen - Ferrax Veynas","date":"2023-03-01","tags":["campaign","general-knowledge","sci-fi","Imperiets Imperium"],"source":"Discord","type":null}}
 ---
 
 

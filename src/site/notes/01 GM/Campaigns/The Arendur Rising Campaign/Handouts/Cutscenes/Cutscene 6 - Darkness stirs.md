@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 6 - Darkness stirs/","tags":["cutscene","undead","champions","slaughtering-citadel","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 6 - Darkness stirs/","tags":["cutscene","undead","champions","slaughtering-citadel","Arendur"],"dg-note-properties":{"type":"cutscene","number":6,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"The Five Champions Rise from Death","tags":["cutscene","undead","champions","slaughtering-citadel","Arendur"],"cutscenenr":"06"}}
 ---
 
 

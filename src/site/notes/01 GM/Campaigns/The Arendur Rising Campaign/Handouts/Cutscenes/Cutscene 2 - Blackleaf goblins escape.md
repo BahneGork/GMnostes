@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 2 - Blackleaf goblins escape/","tags":["cutscene","goblins","red-hand","scabnose","sunken-citadel","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 2 - Blackleaf goblins escape/","tags":["cutscene","goblins","red-hand","scabnose","sunken-citadel","Arendur"],"dg-note-properties":{"type":"cutscene","number":2,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Scabnose and Blackleaf Goblins Escape","tags":["cutscene","goblins","red-hand","scabnose","sunken-citadel","Arendur"],"cutscenenr":2}}
 ---
 
 

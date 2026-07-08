@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 1/","tags":["cutscene","red-hand","sunkiller","warmaster","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 1/","tags":["cutscene","red-hand","sunkiller","warmaster","Arendur"],"dg-note-properties":{"type":"cutscene","number":1,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Warmaster and Sunkiller at Red Hand Camp","tags":["cutscene","red-hand","sunkiller","warmaster","Arendur"],"cutscenenr":"01"}}
 ---
 
 
@@ -7,13 +7,13 @@
 
 The camera pans down from a darkened cloudy sky, a big dark forest looms in the background and the camera settles upon a warcamp in a mountain valley. Many barbaric banners have been posted around the camp, several depicting various units or clans but many of them fly the symbol of the red hand.
 
-![Pasted image 20251207221343.png|300](/img/user/10%20Attachments/Pasted%20image%2020251207221343.png)
+![Pasted image 20251207221343.png\|300](/img/user/10%20Attachments/Pasted%20image%2020251207221343.png)
 
 [^1]
 
 Among the many assembled Goblins, trots a huge coal black horse of war with the calm of an eye of a storm. It's hooves, mane and tail are wreathed in purple flames, it's eyes shines with smoldering purple embers. Astride the mount sits dark clothed elven female figure, with the same calm and not even noticing any of the many creatures around her.
 
-![Pasted image 20251207221424.png|300](/img/user/10%20Attachments/Pasted%20image%2020251207221424.png)
+![Pasted image 20251207221424.png\|300](/img/user/10%20Attachments/Pasted%20image%2020251207221424.png)
 
 Her warhorse trots through the camp until it comes to a halt infront of a wooden construct, a dias and a throne. The camera pans up from the horses hooves, revealing a wooden dias littered with skulls and bones of many different creatures, we come to a halt as we see the foot of the throne and a pair of black plated boots.
 

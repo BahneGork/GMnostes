@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Completed Objective - Rescue Pinna/","title":"Completed Objective - Rescue Pinna","tags":["completed","objective","pinna","ladydagger","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Completed Objective - Rescue Pinna/","title":"Completed Objective - Rescue Pinna","tags":["completed","objective","pinna","ladydagger","Arendur"],"dg-note-properties":{"title":"Completed Objective - Rescue Pinna","aliases":["Rescue Siertianna & Pinna from Lady Dagger caves"],"status":"completed","tags":["completed","objective","pinna","ladydagger","Arendur"]}}
 ---
 
 
@@ -11,7 +11,7 @@ A new contact was made, [[01 GM/Campaigns/The Arendur Rising Campaign/The Bible/
 Pinna is now a retainer of Assumi
 
 A red hand goblin letter was recovered amongst all the loot.
-![goblinletter from daggers study.png|500](/img/user/10%20Attachments/goblinletter%20from%20daggers%20study.png)
+![goblinletter from daggers study.png\|500](/img/user/10%20Attachments/goblinletter%20from%20daggers%20study.png)
 ![bayard.jpg](/img/user/10%20Attachments/bayard.jpg)
 
 #Arendur

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 8 - Stormshadow/","tags":["cutscene","stormshadow","jawbreaker","meg-evil-eye","ghostlord","fane-of-misery","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 8 - Stormshadow/","tags":["cutscene","stormshadow","jawbreaker","meg-evil-eye","ghostlord","fane-of-misery","Arendur"],"dg-note-properties":{"type":"cutscene","number":8,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Audience with Stormshadow - The Plan Revealed","tags":["cutscene","stormshadow","jawbreaker","meg-evil-eye","ghostlord","fane-of-misery","Arendur"],"cutscenenr":"08"}}
 ---
 
 

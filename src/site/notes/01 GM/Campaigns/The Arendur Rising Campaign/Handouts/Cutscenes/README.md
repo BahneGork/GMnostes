@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/README/"}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/README/","dg-note-properties":{}}
 ---
 
 # Cutscenes Folder
@@ -39,9 +39,102 @@ tags:
 ## Viewing All Cutscenes
 
 Use the Cutscenes Base for organized views:
-- `![[Cutscenes.base#All Cutscenes]]` - All cutscenes by number
-- `![[Cutscenes.base#Recent Cutscenes]]` - Most recently delivered
-- `![[Cutscenes.base#Not Yet Delivered]]` - Prepared but not sent
+- `
+```base
+filters:
+  and:
+    - type == "cutscene"
+properties:
+  file.name:
+    displayName: Cutscene
+  number:
+    displayName: "#"
+  delivered_date:
+    displayName: Delivered
+  event:
+    displayName: Event
+  recipients:
+    displayName: Recipients
+views:
+  - type: table
+    name: All Cutscenes
+    order:
+      - file.name
+      - event
+      - tags
+      - cutscenenr
+    sort:
+      - property: cutscenenr
+        direction: ASC
+    columnSize:
+      note.event: 347
+
+```
+` - All cutscenes by number
+- `
+```base
+filters:
+  and:
+    - type == "cutscene"
+properties:
+  file.name:
+    displayName: Cutscene
+  number:
+    displayName: "#"
+  delivered_date:
+    displayName: Delivered
+  event:
+    displayName: Event
+  recipients:
+    displayName: Recipients
+views:
+  - type: table
+    name: All Cutscenes
+    order:
+      - file.name
+      - event
+      - tags
+      - cutscenenr
+    sort:
+      - property: cutscenenr
+        direction: ASC
+    columnSize:
+      note.event: 347
+
+```
+` - Most recently delivered
+- `
+```base
+filters:
+  and:
+    - type == "cutscene"
+properties:
+  file.name:
+    displayName: Cutscene
+  number:
+    displayName: "#"
+  delivered_date:
+    displayName: Delivered
+  event:
+    displayName: Event
+  recipients:
+    displayName: Recipients
+views:
+  - type: table
+    name: All Cutscenes
+    order:
+      - file.name
+      - event
+      - tags
+      - cutscenenr
+    sort:
+      - property: cutscenenr
+        direction: ASC
+    columnSize:
+      note.event: 347
+
+```
+` - Prepared but not sent
 
 ## Template
 

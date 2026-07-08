@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 5 - old dogs/","tags":["cutscene","mellik","fulcrum-guild","faustus","arendur","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 5 - old dogs/","tags":["cutscene","mellik","fulcrum-guild","faustus","arendur","Arendur"],"dg-note-properties":{"type":"cutscene","number":5,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Mellik Returns to Action","tags":["cutscene","mellik","fulcrum-guild","faustus","arendur","Arendur"],"cutscenenr":"05"}}
 ---
 
 

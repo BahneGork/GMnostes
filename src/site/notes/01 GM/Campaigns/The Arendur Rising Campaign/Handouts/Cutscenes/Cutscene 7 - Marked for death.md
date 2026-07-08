@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 7 - Marked for death/","tags":["cutscene","stormshadow","jawbreaker","marked-for-death","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 7 - Marked for death/","tags":["cutscene","stormshadow","jawbreaker","marked-for-death","Arendur"],"dg-note-properties":{"type":"cutscene","number":7,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Party Marked for Death by Stormshadow","tags":["cutscene","stormshadow","jawbreaker","marked-for-death","Arendur"],"cutscenenr":"07"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 3 - A Crystal Dreams in the mist/","tags":["cutscene","qatek","crystal-warrior","ruby-prison","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 3 - A Crystal Dreams in the mist/","tags":["cutscene","qatek","crystal-warrior","ruby-prison","Arendur"],"dg-note-properties":{"type":"cutscene","number":3,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Crystal Warrior Awakened - Qa'tek Created","tags":["cutscene","qatek","crystal-warrior","ruby-prison","Arendur"],"cutscenenr":"03"}}
 ---
 
 

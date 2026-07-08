@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Active mission - misante zardanti/","title":"Misante Zardanti","tags":["active","housezardanti","mission","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/The Shadow Company/Bible/Player Vault/Missions/Active mission - misante zardanti/","title":"Misante Zardanti","tags":["active","housezardanti","mission","Arendur"],"dg-note-properties":{"title":"Misante Zardanti","aliases":["Misante Zardanti"],"type":"PC quest","questgiver":[["Rochefort Scheneschal of House Zardanti"]],"session":3,"questgiverlocation":[["Arendur"]],"status":"active","tags":["active","housezardanti","mission","Arendur"]}}
 ---
 
 

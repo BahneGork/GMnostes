@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 9 - smoldering search/","tags":["cutscene","qatek","teslions","crystal-warrior","Arendur"]}
+{"dg-publish":true,"permalink":"/01 GM/Campaigns/The Arendur Rising Campaign/Handouts/Cutscenes/Cutscene 9 - smoldering search/","tags":["cutscene","qatek","teslions","crystal-warrior","Arendur"],"dg-note-properties":{"type":"cutscene","number":9,"delivered_date":null,"session_after":null,"session_before":null,"recipients":["all players"],"event":"Qa'tek Searches the Ruins of Teslions","tags":["cutscene","qatek","teslions","crystal-warrior","Arendur"],"cutscenenr":"09"}}
 ---
 
 
