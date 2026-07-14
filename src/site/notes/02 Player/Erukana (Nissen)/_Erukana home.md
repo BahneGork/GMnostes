@@ -30,6 +30,7 @@ Rod of Resurrection
 
 # Sessions
 
+- [[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen\|45 - The Dracolich attacks Delios - Nissen]]
 - [[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|44 - rescue mission Evelyn in Feywood - Nissen]]
 - [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]
