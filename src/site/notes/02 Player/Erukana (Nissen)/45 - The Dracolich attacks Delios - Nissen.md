@@ -4,7 +4,7 @@
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]
 
-# HEADLINE
+# Dracolich aspect of Seralyth Attacks!
 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-Greengrass' data-date-end='' data-img='Inline Example/Event_2.jpg' data-name='Dracolich attack'></span>
 	- Vi løber efter skjoldungerne, formegentligt imod den udøde drage der flyver rundt om soltræet og nærområdet. 
