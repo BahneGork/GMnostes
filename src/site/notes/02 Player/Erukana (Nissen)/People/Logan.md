@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Logan/","tags":["erukana","pc","rogue"],"dg-note-properties":{"sessions":["[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]","[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"pc","Profession":["Rogue/Cobbler"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","pc","rogue"],"race":"human","role":"resistance","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Logan/","tags":["erukana","pc","rogue"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]","[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"pc","Profession":["Rogue/Cobbler"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","tags":["erukana","pc","rogue"],"race":"human","role":"resistance","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
 ---
 
 
@@ -28,7 +28,7 @@ Logan er et medlem af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Ast
 - Fik af vide at Urza har en hytte i landsbyen og en ritual-hule
 
 ### Session 38
-- Deltog i delegationen til [[Lord Magdova\|Lord Magdova]]
+- Deltog i delegationen til [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
 
 ## Relationships
 - **Gruppemember**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]

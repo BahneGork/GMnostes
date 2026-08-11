@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hydra/","tags":["erukana","monster"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]"],"category":"monster","Profession":["Feywood Beast"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]"],"Campaign":"Erukana","tags":["erukana","monster"],"race":"unspecified","role":["antagonist"],"social_status":"outcast","affiliation":[],"disposition":"enemy","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Hydra/","tags":["erukana","monster"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]"],"category":"monster","Profession":["Feywood Beast"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Feywood]]"],"Campaign":"Erukana","tags":["erukana","monster"],"race":"unspecified","role":["antagonist"],"social_status":"outcast","affiliation":[],"disposition":"enemy","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Feywood]]"}}
 ---
 
 

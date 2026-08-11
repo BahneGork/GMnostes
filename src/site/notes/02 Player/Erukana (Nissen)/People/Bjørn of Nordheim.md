@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Bjørn of Nordheim/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"military","social_status":"commoner","affiliation":["[[Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Nordheim]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Bjørn of Nordheim/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"military","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Nordheim]]"}}
 ---
 
 
@@ -22,7 +22,7 @@ Bjørn of Nordheim er en PC (spillerkarakter). Han er fra Nordheim og er en tidl
 - **Hjemland**: Nordheim
 
 ## Referenced In
-- [[Factions/Bone Tribe\|Factions/Bone Tribe]]
+- [[02 Player/Erukana (Nissen)/Factions/Bone Tribe\|Factions/Bone Tribe]]
 - [[02 Player/Erukana (Nissen)/Missions/Mission Debriefing - The murder of Miri Sangstrup\|Missions/Mission Debriefing - The murder of Miri Sangstrup]]
 
 ## Tags

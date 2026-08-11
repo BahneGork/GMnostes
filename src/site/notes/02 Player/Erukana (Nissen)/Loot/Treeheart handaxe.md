@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Treeheart handaxe/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Vargoth Sul]]","itemtype":"weapon, handaxe","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Treehart","tags":["erukana","erukanaloot"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Treeheart handaxe/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/Vargoth Sul]]","itemtype":"weapon, handaxe","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Treehart","tags":["erukana","erukanaloot"]}}
 ---
 
 

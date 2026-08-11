@@ -8,7 +8,7 @@ Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/
 
 ## Notes
 ### Dværgehaller
-- **[[Slatestone dværgehallerne\|Slatestone dværgehallerne]]** - Den ældste og mest traditionelle hal, styret af Rådet af Bjerget
+- **[[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]** - Den ældste og mest traditionelle hal, styret af Rådet af Bjerget
 - **[[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Silverstream dværge hallerne]]** - En nyere hal med mere progressive holdninger, har egen Højkonge
 - **Glemte dværge haller** - Gamle haller under [[02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves\|Dark Gem Kobold clan caves]] med magisk forseglede døre
 
@@ -28,7 +28,7 @@ Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/
 - Bahamut præst med slange-tatoveringer (mødt i session 9)
 
 ## Relationships
-- **Haller**: [[Slatestone dværgehallerne\|Slatestone dværgehallerne]], [[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Silverstream dværge hallerne]]
+- **Haller**: [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]], [[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Silverstream dværge hallerne]]
 - **Allierede**: [[Gnomerne\|Gnomerne]], Bjergenes Børn
 - **Handel**: Eksport til [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Trusler**: [[02 Player/Erukana (Nissen)/Factions/Horden\|Horden]], kobolder i bjergene
@@ -36,7 +36,7 @@ Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Factions/Stenvogterne]]
-- [[Locations/Slatestone dværgehallerne\|Locations/Slatestone dværgehallerne]]
+- [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Locations/Slatestone dværgehallerne]]
 - [[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Locations/Silverstream dværge hallerne]]
 
 ## Tags

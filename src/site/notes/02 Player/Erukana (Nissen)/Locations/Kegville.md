@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Kegville/","tags":["erukana","location","town"],"dg-note-properties":{"sessions":["[[3-300923 - Changer of time session 3|session 3]]"],"type":"location","subtype":"town","campaign":"Erukana","tags":["erukana","location","town"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Kegville/","tags":["erukana","location","town"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3|session 3]]"],"type":"location","subtype":"town","campaign":"Erukana","tags":["erukana","location","town"]}}
 ---
 
 
@@ -22,7 +22,7 @@ Kegville er en by i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baro
 
 ## Relationships
 - **Baroni**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]
-- **Baron**: [[Baron Zhaarko af Eresby\|Baron Zhaarko]]
+- **Baron**: [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko]]
 - **Eventyr**: [[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]]
 - **Tavern**: [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]]
 

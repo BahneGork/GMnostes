@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"court","status":"active","friend-or-foe":"enemy","leader":["[[Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]"],"Campaign":"Erukana","aliases":["Baron Zhaarko"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"court","status":"active","friend-or-foe":"enemy","leader":["[[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby]]"],"Campaign":"Erukana","aliases":["Baron Zhaarko"],"tags":["erukana","faction"]}}
 ---
 
 
@@ -13,7 +13,7 @@ Baronen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresb
 - har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til at hente dem 
 - har en udsending i [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]] 
 
-[[Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]]
+[[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]]
 
 ![Baron Zhaarko af Eresby.png\|300](/img/user/10%20Attachments/Baron%20Zhaarko%20af%20Eresby.png)
 

@@ -30,6 +30,8 @@ Rod of Resurrection
 
 # Sessions
 
+- [[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|46 - 080826 - Under Soltræet - Nissen]]
+- [[02 Player/Erukana (Nissen)/45.5 - Logan's trip to Skullborg - Nisse - 'offline'\|45.5 - Logan's trip to Skullborg - Nisse - 'offline']]
 - [[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen\|45 - The Dracolich attacks Delios - Nissen]]
 - [[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|44 - rescue mission Evelyn in Feywood - Nissen]]
 - [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]

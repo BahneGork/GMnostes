@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Frostheim Klanen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"faction","faction_type":"clan","status":"unknown","friend-or-foe":"neutral","Location":["[[Nordheim]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Frostheim Klanen/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"faction","faction_type":"clan","status":"unknown","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/Locations/Nordheim]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 

@@ -30,7 +30,7 @@ Scroll of Time (også kendt som [[02 Player/Erukana (Nissen)/Loot/Timescroll\|ti
 - **Oprindelig ejer**: [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]]
 
 ## Referenced In
-- [[People/Baron Zhaarko af Eresby\|People/Baron Zhaarko af Eresby]]
+- [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|People/Baron Zhaarko af Eresby]]
 - [[Miscellaneous/Timescroll Missionen\|Miscellaneous/Timescroll Missionen]]
 - [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Loot/Timescroll]]
 

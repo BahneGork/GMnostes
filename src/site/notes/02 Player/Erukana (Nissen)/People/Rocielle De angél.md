@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Rocielle De angél/","dg-note-properties":{"Location":["[[Astley]]"],"category":"npc","Campaign":"Erukana"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Rocielle De angél/","dg-note-properties":{"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"category":"npc","Campaign":"Erukana"}}
 ---
 
 

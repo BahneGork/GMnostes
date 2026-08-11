@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House Leitner/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"noble-house","status":"weakened","friend-or-foe":"enemy","Location":["[[Baroniet Eresby]]"],"Campaign":"Erukana","aliases":["Leitner familien"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House Leitner/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"noble-house","status":"weakened","friend-or-foe":"enemy","Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby]]"],"Campaign":"Erukana","aliases":["Leitner familien"],"tags":["erukana","faction"]}}
 ---
 
 
 ## Description
-House Leitner er en adelig familie der konspirerede mod [[Lord Magdova\|Lord Magdova]]. Familien er forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] og forsøgte at indsætte en marionet-leder gennem fortryllelse og snigmord.
+House Leitner er en adelig familie der konspirerede mod [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]. Familien er forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] og forsøgte at indsætte en marionet-leder gennem fortryllelse og snigmord.
 
 ## Notes
 ### Komplot mod Lord Magdova
-- [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]] planlagde at snigmyrde [[Lord Magdova\|Lord Magdova]]
+- [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]] planlagde at snigmyrde [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
 - Planen var at indsætte [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] som marionet-leder
 - [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulrika Leitner]] fortryllede Kasimer til at forråde sin far
 - Efter besøg hos Ulrika opførte Kasimer sig mekanisk og flygtede nordpå
@@ -26,13 +26,13 @@ House Leitner er en adelig familie der konspirerede mod [[Lord Magdova\|Lord Mag
 - [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]] - forfører der fortryllede Kasimer
 
 ## Relationships
-- **Fjende**: [[Lord Magdova\|Lord Magdova]] - mål for snigmord
+- **Fjende**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] - mål for snigmord
 - **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] - korruption
 - **Offer**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] - fortryllet til forræderi
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/En Bøn og sidste farvel\|Journal/En Bøn og sidste farvel]]
-- [[Lord Magdova\|Lord Magdova]]
+- [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
 - [[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova\|38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova]]
 
 ## Tags

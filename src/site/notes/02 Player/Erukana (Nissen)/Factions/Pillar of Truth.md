@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Pillar of Truth/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"faction","faction_type":"religious-order","status":"unknown","friend-or-foe":"unknown","Location":["[[Astley]]"],"Campaign":"Erukana","aliases":["Sandhedens Søjle"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Pillar of Truth/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"faction","faction_type":"religious-order","status":"unknown","friend-or-foe":"unknown","Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","aliases":["Sandhedens Søjle"],"tags":["erukana","faction"]}}
 ---
 
 
 ## Description
-Pillar of Truth (Sandhedens Søjle) er en hemmelig indre cirkel af "vise og pålidelige" individer, grundlagt af [[Edmund af Vitano\|Edmund af Vitano]]. Ordenen opererer i det skjulte og rekrutterer via invitation. Ordenens symbol er et bjerg med en glorie om toppen. Gruppen har bedt [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] om hjælp til at finde en stjålet **Rod of Resurrection** - et artefakt der angiveligt kan slå guder ihjel.
+Pillar of Truth (Sandhedens Søjle) er en hemmelig indre cirkel af "vise og pålidelige" individer, grundlagt af [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]. Ordenen opererer i det skjulte og rekrutterer via invitation. Ordenens symbol er et bjerg med en glorie om toppen. Gruppen har bedt [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] om hjælp til at finde en stjålet **Rod of Resurrection** - et artefakt der angiveligt kan slå guder ihjel.
 
 ## Members
-- **[[Edmund af Vitano\|Edmund af Vitano]]** - Grundlægger, tidligere ridder, nu præst af Bahamut i Astley
+- **[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]** - Grundlægger, tidligere ridder, nu præst af Bahamut i Astley
 - **[[02 Player/Erukana (Nissen)/People/Daine waymar\|Daine waymar]]** - Agent (deceased) - Sendt til Astley med advarsel om den stjålne stav. Myrdet under missionen.
 - **[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]** - Inviterede medlemmer (fik emblemer)
 
@@ -24,7 +24,7 @@ Pillar of Truth (Sandhedens Søjle) er en hemmelig indre cirkel af "vise og pål
 - Hvad er ordenens fulde omfang og mål?
 
 ## Relationships
-- **Grundlægger**: [[Edmund af Vitano\|Edmund af Vitano]]
+- **Grundlægger**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
 - **Tilknyttet**: [[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere\|Bahamuts Tilhængere]] (Edmund er Bahamut-præst)
 - **Kontakt**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 

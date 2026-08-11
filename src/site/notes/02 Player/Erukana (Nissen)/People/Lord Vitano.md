@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Vitano/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]","aliases":["Edmund Vitano","Edmund af Vitano"],"sessions":["[[20 - 110125 - Changer of time - nissen - session 16|session 20]]"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Vitano/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]","aliases":["Edmund Vitano","Edmund af Vitano"],"sessions":["[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16|session 20]]"]}}
 ---
 
 
 ## Description
-Lord Vitano er titlen brugt af [[Edmund af Vitano\|Edmund af Vitano]], overhoved for [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]. Nævnt i forbindelse med Clarabels downtime-aktiviteter i Astley.
+Lord Vitano er titlen brugt af [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]], overhoved for [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]. Nævnt i forbindelse med Clarabels downtime-aktiviteter i Astley.
 
 Edmund er aldelig. 
 Bahamut præst
@@ -14,7 +14,7 @@ tidligere ridder
 - Nævnt i Clarabels downtime i Astley under Ches og Tarsakh 1517
 
 ## Relationships
-- **Identitet**: Titel for [[Edmund af Vitano\|Edmund af Vitano]]
+- **Identitet**: Titel for [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
 
 ## Referenced In

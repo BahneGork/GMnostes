@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/mausoleum/","tags":["erukana","location","mausoleum"],"dg-note-properties":{"sessions":["[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]"],"type":"location","subtype":"mausoleum","campaign":"Erukana","aliases":["Sir Seillings mausoleum"],"tags":["erukana","location","mausoleum"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/mausoleum/","tags":["erukana","location","mausoleum"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]"],"type":"location","subtype":"mausoleum","campaign":"Erukana","aliases":["Sir Seillings mausoleum"],"tags":["erukana","location","mausoleum"]}}
 ---
 
 
@@ -16,13 +16,13 @@ Mausoleum refererer til [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mau
 
 ### Betydning
 - [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] har drømme forbundet til stedet
-- [[Edmund af Vitano\|Lord Edmund af Vitano]] kræver at Winston løser en opgave ved mausoleet som del af hans ridder-ceremoni
+- [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Edmund af Vitano]] kræver at Winston løser en opgave ved mausoleet som del af hans ridder-ceremoni
 - Winston skal finde en hvid måneblomst og bringe den til graven
 
 ## Relationships
-- **Tilknyttet**: [[Sir Seiling\|Sir Seiling]]
+- **Tilknyttet**: [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]]
 - **PC forbindelse**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] (drømme)
-- **Relateret til**: [[Edmund af Vitano\|Edmund af Vitano]]
+- **Relateret til**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
 - **Lokation**: Syd for [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In

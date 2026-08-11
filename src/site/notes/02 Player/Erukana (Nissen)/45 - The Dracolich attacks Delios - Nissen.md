@@ -38,6 +38,6 @@
 NEXT: CATACOMBER UNDER SOLTRÆET
 
 
-[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|<< Previous Session 44 ]] ----[[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen\|TOP]]----  [[ \|Next Session 46  >>]]
+[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|<< Previous Session 44 ]] ----[[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen\|TOP]]----  [[02 Player/Erukana (Nissen)/45.5 - Logan's trip to Skullborg - Nisse - 'offline'\|Next Session 45.5  >>]]
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]

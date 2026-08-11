@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Evelyns resurrection ritual in Port Drakkan/","tags":["erukana","lore","journal"],"dg-note-properties":{"sessions":["[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"journal","category":"journal","campaign":"Erukana","aliases":[null],"tags":["erukana","lore","journal"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Journal/Evelyns resurrection ritual in Port Drakkan/","tags":["erukana","lore","journal"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"journal","category":"journal","campaign":"Erukana","aliases":[null],"tags":["erukana","lore","journal"]}}
 ---
 
 

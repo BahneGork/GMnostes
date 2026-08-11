@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire/","tags":["erukana/npc","thequeensguard"],"dg-note-properties":{"category":"npc","faction":"Queensguard","Profession":["Knight"],"Campaign":"Erukana","Location":["[[Astley]]"],"tags":["erukana/npc","thequeensguard"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire/","tags":["erukana/npc","thequeensguard"],"dg-note-properties":{"category":"npc","faction":"Queensguard","Profession":["Knight"],"Campaign":"Erukana","Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"tags":["erukana/npc","thequeensguard"]}}
 ---
 
 

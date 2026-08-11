@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House De'Evers/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[5-281023 - Changer of time session 5|session 5]]"],"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"conditional","leader":["[[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]"],"Campaign":"Erukana","aliases":["De'Evers familien"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House De'Evers/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5|session 5]]"],"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"conditional","leader":["[[02 Player/Erukana (Nissen)/People/Lady De'evers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Mistville]]"],"Campaign":"Erukana","aliases":["De'Evers familien"],"tags":["erukana","faction"]}}
 ---
 
 
@@ -12,7 +12,7 @@ House De'Evers er en adelsfamilie baseret i [[02 Player/Erukana (Nissen)/Locatio
 
 ## Notes
 ### Session 5
-- Lady De'evers deltog i forsvaret af Mistville mod [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]s udøde invasion
+- Lady De'evers deltog i forsvaret af Mistville mod [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]s udøde invasion
 - Tilbød handel: 4 tradebars og Fireball scroll mod en opgave ([[02 Player/Erukana (Nissen)/Locations/Troldmands tårn ruin i nordlandet\|Troldmands tårn ruin i nordlandet]])
 - 2 Rose Riddere ankom til Mistville og bankede på hos De'Evers huset
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Mage armor wand/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Nibar Brassbit]]","itemtype":"wand","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Wand of Mage armor","tags":["erukana","erukanaloot"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Mage armor wand/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit]]","itemtype":"wand","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Wand of Mage armor","tags":["erukana","erukanaloot"]}}
 ---
 
 

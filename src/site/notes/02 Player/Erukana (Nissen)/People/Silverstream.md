@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Silverstream/","tags":["erukana","location","dwarf","hall"],"dg-note-properties":{"category":"location","type":"dwarf-hall","Faction":["[[02 Player/Erukana (Nissen)/Factions/Dværgene\|Dværgene]]","[[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn\|Bjergenes Børn]]"],"Location":["[[Slatestone|Sydøst for Slatestone]]"],"Campaign":"Erukana","aliases":["Silverstream dværge hallerne"],"tags":["erukana","location","dwarf","hall"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Silverstream/","tags":["erukana","location","dwarf","hall"],"dg-note-properties":{"category":"location","type":"dwarf-hall","Faction":["[[02 Player/Erukana (Nissen)/Factions/Dværgene]]","[[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Slatestone|Sydøst for Slatestone]]"],"Campaign":"Erukana","aliases":["Silverstream dværge hallerne"],"tags":["erukana","location","dwarf","hall"]}}
 ---
 
 
@@ -29,7 +29,7 @@ Silverstream er en dværgehalle beliggende i bjergene sydøst fra [[02 Player/Er
 - Der har været mindre krige og kampe mellem hallerne
 
 ## Relationships
-- **Rival**: [[Slatestone dværgehallerne\|Slatestone dværgehallerne]]
+- **Rival**: [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]
 - **Herskere**: [[Højkongen Gorm den tålmodige\|Højkongen Gorm den tålmodige]], [[Dronningen Frava den kløgtige\|Dronningen Frava den kløgtige]]
 - **Tilknyttet PC**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]]
 - **Fraktion**: [[02 Player/Erukana (Nissen)/Factions/Dværgene\|Dværgene]], [[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn\|Bjergenes Børn]]

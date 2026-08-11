@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vinterskov - Grøndalen - Erukana.png/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|session 1]]"],"type":"location","subtype":null,"campaign":"Erukana","tags":["erukana","location"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Vinterskov - Grøndalen - Erukana.png/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1|session 1]]"],"type":"location","subtype":null,"campaign":"Erukana","tags":["erukana","location"]}}
 ---
 
 

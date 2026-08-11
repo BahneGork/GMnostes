@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Daine waymar/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","spy"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Pillar of Truth\|Pillar of Truth]]"],"disposition":"deceased-ally","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Daine waymar/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","spy"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Pillar of Truth]]"],"disposition":"deceased-ally","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
 ---
 
 
@@ -25,7 +25,7 @@ Daine Waymar var en agent fra [[02 Player/Erukana (Nissen)/Factions/Pillar of Tr
 ## Relationships
 - **Organisation**: Agent af [[02 Player/Erukana (Nissen)/Factions/Pillar of Truth\|Pillar of Truth]] / Sandhedens Søjle
 - **Kontakter**: Skulle møde [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] ved varehus 13
-- **Forbindelse**: Sendt af [[Edmund af Vitano\|Edmund af Vitano]]'s indre cirkel
+- **Forbindelse**: Sendt af [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]'s indre cirkel
 
 ## Dødsfald
 Daine Waymar blev fundet død, spiddet fast af spidse kæder under en taggavl nær varehusområdet. Ved liget fandtes hovspor som stoppede brat - som om væsenet var hoppet op og væk. Dette, kombineret med tilstedeværelsen af helvedes hunde i området, tyder på dæmonisk involvering.

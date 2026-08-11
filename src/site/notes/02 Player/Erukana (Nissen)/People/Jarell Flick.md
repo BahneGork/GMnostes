@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Jarell Flick/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","Profession":["Historian"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley historian society\|Astley historian society]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","aliases":["Jarrell Flick","Jarrell","Jarrel","Hr. Flick","Hr.Flick"],"tags":["erukana","npc"],"race":"human","role":["scholar"],"social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley historian society\|Astley historian society]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Jarell Flick/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","Profession":["Historian"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley historian society]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","aliases":["Jarrell Flick","Jarrell","Jarrel","Hr. Flick","Hr.Flick"],"tags":["erukana","npc"],"race":"human","role":["scholar"],"social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley historian society]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
 ---
 
 
@@ -8,7 +8,7 @@ Jarell Flick er historiker i [[02 Player/Erukana (Nissen)/Factions/Astley histor
 
 ## Notes
 ### Session 38
-- [[02 Player/Erukana (Nissen)/People/Orlock Helmsveil\|Orlock Helmsveil]] scribe og page til Sir [[Edmund af Vitano\|Edmund af Vitano]]
+- [[02 Player/Erukana (Nissen)/People/Orlock Helmsveil\|Orlock Helmsveil]] scribe og page til Sir [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
 	- [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Jarell Flick]] historiker i [[02 Player/Erukana (Nissen)/Factions/Astley historian society\|Astley historian society]]
 	- [[02 Player/Erukana (Nissen)/People/Hans Baudler\|Hans Baudler]], Sgt. [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]
 

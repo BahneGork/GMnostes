@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Nordheim/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[13 - 220624 - steffen session 1|session 1]]","[[42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"location","subtype":null,"campaign":"Erukana","tags":["erukana","location"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Nordheim/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1|session 1]]","[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"type":"location","subtype":null,"campaign":"Erukana","tags":["erukana","location"]}}
 ---
 
 
@@ -74,7 +74,7 @@ Shadowfolk sigils
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]
 - [[02 Player/Erukana (Nissen)/Journal/Clarabel Diary\|Journal/Clarabel Diary]]
 - [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Locations/Grøndalen]]
-- [[Locations/Locationsvisited/Vinterskov\|Locations/Locationsvisited/Vinterskov]]
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov\|Locations/Locationsvisited/Vinterskov]]
 
 ## Tags
 #erukana

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Boots of the ancients/","tags":["erukana","erukanaloot","winston"],"dg-note-properties":{"used-by":"[[Winston Wildwood]]","itemtype":"boots","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"tags":["erukana","erukanaloot","winston"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Boots of the ancients/","tags":["erukana","erukanaloot","winston"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood]]","itemtype":"boots","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"tags":["erukana","erukanaloot","winston"]}}
 ---
 
 

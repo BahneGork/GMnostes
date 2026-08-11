@@ -23,7 +23,7 @@
 Main:
 Related: [[02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1\|Downtime Mistville 1]]
 
-[[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] 
+[[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] 
 	- passer kirkegården, begraver folk selv
 	- balsamere de døde, afholder ritual for de efterladte
 	- leder de 2 årlige events 
@@ -32,7 +32,7 @@ Related: [[02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1\|Downtime Mis
 	- har primært med folk at gøre ud af pligt 
 	- grønne fingrer 
 		- mange blomster er planter der bruges til helbredning og poison 
-	- [[Archibald Oddball\|Archibald Oddball]] 
+	- [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]] 
 		- Oddball spillede kort med [[02 Player/Erukana (Nissen)/People/Celia Hammerhånd\|Celia Hammerhånd]] , [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] , [[02 Player/Erukana (Nissen)/People/Constance Fortright\|Constance Fortright]] 
 		- Oddball forlod byen et par dage efter os og sku rejse til Darthormir isles 
 		- Odball gav drikke omgang på kroen og var meget glad og ovenpå 
@@ -62,7 +62,7 @@ Mistville skoven
 	- Nerrin kommer fra en familie der stammer fra en by hvor det rygtes at der er en heksering.
 	- Kapellet er låst af. 
 	- den sidste han bemærkede ca 3 uger siden. 
-- Medbring [[02 Player/Erukana (Nissen)/Journal/Natteblommer\|Natteblommer]]  til [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]  en dag hvis muligt #erukana/personalagenda
+- Medbring [[02 Player/Erukana (Nissen)/Journal/Natteblommer\|Natteblommer]]  til [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]  en dag hvis muligt #erukana/personalagenda
 - Undersøg Hammerhånd huset, hvis Marskallen vil give os lov  #erukana/partyagenda 
 - 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/ørkenstorm/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Winston Wildwood]]","itemtype":"weapon, scimitar","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Desert Storm","tags":["erukana","erukanaloot"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/ørkenstorm/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood]]","itemtype":"weapon, scimitar","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Desert Storm","tags":["erukana","erukanaloot"]}}
 ---
 
 

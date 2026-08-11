@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Silver coin of luck/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Vargoth Sul]]","itemtype":"Wonderous item","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Silver coin of lucky","tags":["erukana","erukanaloot"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Silver coin of luck/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/Vargoth Sul]]","itemtype":"Wonderous item","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Silver coin of lucky","tags":["erukana","erukanaloot"]}}
 ---
 
 

@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Skjoldungerne/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"faction","faction_type":"mercenary-company","status":"active","friend-or-foe":"ally","affiliation":["[[Waning Moon merchant house]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Skjoldungerne/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"faction","faction_type":"mercenary-company","status":"active","friend-or-foe":"ally","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 
 ## Description
-Skjoldungerne er en militær organisation, muligvis en vagtenhed eller militskompagni. De leverede personel til delegationen der blev sendt til [[Lord Magdova\|Lord Magdova]] for at forhandle på vegne af [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]].
+Skjoldungerne er en militær organisation, muligvis en vagtenhed eller militskompagni. De leverede personel til delegationen der blev sendt til [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] for at forhandle på vegne af [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]].
 
 ## Notes
 ### Session 38
 - [[02 Player/Erukana (Nissen)/People/Hans Baudler\|Hans Baudler]] er Sergent i Skjoldungerne
 - [[02 Player/Erukana (Nissen)/People/Merita Verplex\|Merita Verplex]] er guardist i Skjoldungerne
-- Begge deltog i delegationen til [[Lord Magdova\|Lord Magdova]]
+- Begge deltog i delegationen til [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] fortalte åbent Hans Baudler om sin Lycantropi
 
 ## Relationships

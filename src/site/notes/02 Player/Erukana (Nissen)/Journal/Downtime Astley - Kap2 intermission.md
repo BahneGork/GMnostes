@@ -50,10 +50,10 @@
 
 #downtime2-astley
 
-- Winston, Nibar og [[Assana Lemiuex\|Assana Lemiuex]] mødes med [[Illyrias Starmantle\|Illyrias Starmantle]] 
+- Winston, Nibar og [[Assana Lemiuex\|Assana Lemiuex]] mødes med [[02 Player/Erukana (Nissen)/People/Illyrias Starmantle\|Illyrias Starmantle]] 
 	- køb af magiske artefakter (genstande)
 	- nibar snakker om magiske rejse metoder (fragt med teleportation circles)
-	- [[Assana Lemiuex\|Assana Lemiuex]] færdiggør aftalen med [[Illyrias Starmantle\|Illyrias Starmantle]] 
+	- [[Assana Lemiuex\|Assana Lemiuex]] færdiggør aftalen med [[02 Player/Erukana (Nissen)/People/Illyrias Starmantle\|Illyrias Starmantle]] 
 
 - 2 riding horse, 1 draft horse 
 - 30th day potion of climbing, mount 200gp 

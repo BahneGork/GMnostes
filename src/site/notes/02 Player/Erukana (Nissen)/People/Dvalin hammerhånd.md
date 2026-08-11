@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dvalin hammerhånd/","tags":["erukana/npc"],"dg-note-properties":{"category":"npc","Location":["Mistville"],"Profession":["Skovridder"],"Kin":"[[Celia Hammerhånd]]","Campaign":"Erukana","tags":["erukana/npc"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dvalin hammerhånd/","tags":["erukana/npc"],"dg-note-properties":{"category":"npc","Location":["Mistville"],"Profession":["Skovridder"],"Kin":"[[02 Player/Erukana (Nissen)/People/Celia Hammerhånd]]","Campaign":"Erukana","tags":["erukana/npc"]}}
 ---
 
 

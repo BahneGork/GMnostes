@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Boon from the divine manta ray Nayaru - The moonveil Ray/","tags":["erukana","erukanaloot","erukanarewards"],"dg-note-properties":{"used-by":["[[Winston Wildwood|winston]]","[[Logan 'the nine' Hlafdan]]","[[Evelyn Adair]]","[[Corwin]]"],"itemtype":null,"attunement":null,"class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":null,"tags":["erukana","erukanaloot","erukanarewards"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Boon from the divine manta ray Nayaru - The moonveil Ray/","tags":["erukana","erukanaloot","erukanarewards"],"dg-note-properties":{"used-by":["[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood|winston]]","[[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan]]","[[02 Player/Erukana (Nissen)/People/Evelyn Adair]]","[[02 Player/Erukana (Nissen)/People/Corwin]]"],"itemtype":null,"attunement":null,"class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":null,"tags":["erukana","erukanaloot","erukanarewards"]}}
 ---
 
 

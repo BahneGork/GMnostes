@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulricha Leitner/","tags":["erukana","npc","nobility","enemy"],"dg-note-properties":{"category":"npc","Profession":["Adelig","Forfører"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]"],"Location":null,"Campaign":"Erukana","aliases":["Ulrika Leitner"],"tags":["erukana","npc","nobility","enemy"],"race":"human","role":["nobility","antagonist"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]"],"disposition":"enemy","status":"alive","location_primary":"[[Erukana]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulricha Leitner/","tags":["erukana","npc","nobility","enemy"],"dg-note-properties":{"category":"npc","Profession":["Adelig","Forfører"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]"],"Location":null,"Campaign":"Erukana","aliases":["Ulrika Leitner"],"tags":["erukana","npc","nobility","enemy"],"race":"human","role":["nobility","antagonist"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Erukana]]"}}
 ---
 
 
 ## Description
-Ulricha Leitner (også stavet Ulrika) er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] der fortryllede [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] til at forråde sin far [[Lord Magdova\|Lord Magdova]].
+Ulricha Leitner (også stavet Ulrika) er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] der fortryllede [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] til at forråde sin far [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]].
 
 ## Notes
 ### Fortryllelsen af Kasimer
 - Fortryllede [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] til at forråde sin far
 - Efter besøg hos hende opførte Kasimer sig mekanisk
 - Kasimer flygtede senere nordpå
-- Del af [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]]s komplot mod [[Lord Magdova\|Lord Magdova]]
+- Del af [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]]s komplot mod [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
 
 ### Familie
 - Del af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
@@ -23,7 +23,7 @@ Ulricha Leitner (også stavet Ulrika) er et medlem af [[02 Player/Erukana (Nisse
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
 - **Offer**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] - fortryllede ham
 - **Sammensvoren**: [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]]
-- **Mål**: [[Lord Magdova\|Lord Magdova]] - indirekte
+- **Mål**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] - indirekte
 - **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]
 
 ## Referenced In

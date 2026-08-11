@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Astley/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[8-160324 - Changer of time session 8|session 8]]","[[11 - 130624 - Changer of time session 11|session 11]]","[[17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[7-170224 - Changer of time session 7|session 7]]","[[10 - 220524 - Changer of time session 10|session 10]]","[[27 - 210625 - Eurkana - nissen 19 -|session 27]]","[[6-301023 - Changer of time session 6|session 6]]","[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[16 - 160724 - steffen session 4|session 4]]","[[19 - 140824- Changer of time - nissen -  session 15|session 15]]","[[20 - 110125 - Changer of time - nissen - session 16|session 16]]","[[26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[22 - 270325 - Erukana Steffen 2|session 22]]","[[13 - 220624 - steffen session 1|session 1]]","[[9 -150524 - Changer of time session 9|session 9]]"],"type":"location","subtype":null,"campaign":"Erukana","tags":["erukana","location"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Astley/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8|session 8]]","[[02 Player/Erukana (Nissen)/11 - 130624 - Changer of time session 11|session 11]]","[[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7|session 7]]","[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10|session 10]]","[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -|session 27]]","[[02 Player/Erukana (Nissen)/6-301023 - Changer of time session 6|session 6]]","[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4|session 4]]","[[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15|session 15]]","[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16|session 16]]","[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/22 - 270325 - Erukana Steffen 2|session 22]]","[[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1|session 1]]","[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]"],"type":"location","subtype":null,"campaign":"Erukana","tags":["erukana","location"]}}
 ---
 
 
@@ -20,7 +20,7 @@ Astley er politisk splittet mellem støtter af **Borgmesteren** og tilhængere a
 
 **Borgmesterens modstandere inkluderer:**
 - [[02 Player/Erukana (Nissen)/Factions/Fafnirs gruppe\|Fafnirs gruppe]]
-- [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]] (anført af [[Edmund af Vitano\|Edmund af Vitano]])
+- [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]] (anført af [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]])
 - [[02 Player/Erukana (Nissen)/Factions/Adelhuset Urazzan\|Adelhuset Urazzan]]
 - [[02 Player/Erukana (Nissen)/Factions/Adelhuset Astleysson\|Adelhuset Astleysson]]
 
@@ -33,7 +33,7 @@ Astley er politisk splittet mellem støtter af **Borgmesteren** og tilhængere a
 ## Relationships
 - **Baroni**: Del af [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 - **Fraktioner**: Hjemsted for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
-- **Personer**: [[Edmund af Vitano\|Edmund af Vitano]] (tidligere Queensguard), [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]], [[Assana Lemiuex\|Assana Lemiuex]] (forvalter)
+- **Personer**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] (tidligere Queensguard), [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]], [[Assana Lemiuex\|Assana Lemiuex]] (forvalter)
 - **Trusler**: Konflikter med [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] og den lilla plage
 
 ## Referenced In

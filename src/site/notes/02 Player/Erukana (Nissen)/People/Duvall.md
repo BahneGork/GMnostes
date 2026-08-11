@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Duvall/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[2-130723 - Changer of time session 2|session 2]]","[[1-080723 - Changer of time session 1|session 1]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["spy","scholar"],"social_status":"lord","affiliation":["[[House Zhaarko]]","[[02 Player/Erukana (Nissen)/Factions/The Sentinel\|The Sentinel]]"],"disposition":"conditional","status":"alive","location_primary":"[[Miragehill]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Duvall/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2|session 2]]","[[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1|session 1]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["spy","scholar"],"social_status":"lord","affiliation":["[[House Zhaarko]]","[[02 Player/Erukana (Nissen)/Factions/The Sentinel]]"],"disposition":"conditional","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Miragehill]]"}}
 ---
 
 

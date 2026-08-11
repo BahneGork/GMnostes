@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper/","dg-note-properties":{"used-by":"[[Clarabel Lancaster|Clarabel Lancaster]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper/","dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster|Clarabel Lancaster]]"}}
 ---
 
 

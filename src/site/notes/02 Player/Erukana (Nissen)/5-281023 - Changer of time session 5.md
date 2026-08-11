@@ -12,24 +12,24 @@ Efter 2 dages downtime i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistv
 - mord i conner huset midt om natten 
 - [[02 Player/Erukana (Nissen)/People/Petyr Gottmann\|Petyr Gottmann]] myrdet med udøds skabende gift væske
 - Celia's dagbog 
-	- [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] kendte til varulve forbandelsen på Dvalin
-	- [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] gav celia urter til [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] 
-	- [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] fortalte intet om dette da Clara talte med ham 
-- [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]'s hus
+	- [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] kendte til varulve forbandelsen på Dvalin
+	- [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] gav celia urter til [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] 
+	- [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] fortalte intet om dette da Clara talte med ham 
+- [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]'s hus
 	- baghaven var fyldt med skeletter, ca 20
 	- planter til magi bagom huset 
 	- en magisk bog, dedikeret til [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]] både bønner og troldsmands formularer, som ikke kunne åbnes.
 	- magisk fælde på døren til pulterkammer
-	- et kælder rum med alter til [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]], et stort bur med lig, en tortur bænk med liget af [[Archibald Oddball\|Archibald Oddball]] 
+	- et kælder rum med alter til [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]], et stort bur med lig, en tortur bænk med liget af [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]] 
 	- alteret havde 2 skelet hænder der ku holde bogen og når bogen blev lagt på dem åbnede den sig selv.
 	- Winston tog bogen og et lysende kranie fra alteret 
 	- Clarabel smadrede alteret og forsøgte at channel Bahamut og rense stedet, men der skal mere til. 
-- Råb og skrig fra byen, [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] - Necromancer præsten af [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]] har invaderet byen med sine hær af udøde.
+- Råb og skrig fra byen, [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] - Necromancer præsten af [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]] har invaderet byen med sine hær af udøde.
 - Hele byen kæmper, militia, borgmester, smeden [[02 Player/Erukana (Nissen)/People/Constance Fortright\|Constance Fortright]], [[02 Player/Erukana (Nissen)/People/Qenes Markmoon\|Qenes Markmoon]], [[02 Player/Erukana (Nissen)/People/Merryn Foehammer\|Merryn Foehammer]], [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]] 
 - En turn undead fra Vargoth rømmer de fleste skeletter.
-- [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]  kommer løbende og angriber [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]
+- [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]  kommer løbende og angriber [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]
 - Clarabel kan ikke modstå ulven og forvandler sig 
-- Da [[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] er besejret falder alle udøde til jorden og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] synger en sang om vores tur gennem skoven, Dvalin og Celia.
+- Da [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] er besejret falder alle udøde til jorden og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] synger en sang om vores tur gennem skoven, Dvalin og Celia.
 - Gruppen bliver æresmedlemmer af [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] og modtager en gave af værdier med byens taknemmelighed
 - 1500 gp i tradebars
 - Winston & Nibar besøger [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]] og får omsat 4 tradebars og en scroll med 2 x [[No Graph/5e Reference/spells/Fireball\|Fireball]] som vi siger ja til en opgave for som betaling [[02 Player/Erukana (Nissen)/Locations/Troldmands tårn ruin i nordlandet\|Troldmands tårn ruin i nordlandet]] som vi mangler detaljer på.

@@ -163,7 +163,7 @@ I am Watcher. I am free."*
 | Slow, careful influence | Rapid intelligence gathering |
 | Institutional legitimacy | Operational flexibility |
 
-**Strategy:** Alliance through [[Edmund af Vitano\|Edmund af Vitano]]. They provide resources and legitimacy, we provide eyes and ears.
+**Strategy:** Alliance through [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]. They provide resources and legitimacy, we provide eyes and ears.
 
 ---
 
@@ -242,7 +242,7 @@ I am Watcher. I am free."*
 
 **Personnel Assets:**
 - **Party Members**: Founding members and close allies
-- **[[Edmund af Vitano\|Edmund af Vitano]]**: Former Queensguard, Pillar of Truth connection
+- **[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]**: Former Queensguard, Pillar of Truth connection
 - **Hidden Bahamut Priests**: Network already meeting in secret in Astley
 - **[[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]'s Network**: Existing resistance infrastructure
 - **Waning Moon Contacts**: [[Assana Lemiuex\|Assana Lemiuex]] and trade connections
@@ -435,7 +435,7 @@ I am Watcher. I am free."*
 
 ### Key Allied NPCs
 
-**[[Edmund af Vitano\|Edmund af Vitano]]**
+**[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]**
 - Former Queensguard, now Bahamut priest
 - Pillar of Truth member
 - **Relationship:** Institutional ally, resource provider

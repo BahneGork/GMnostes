@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Beril Højmølle/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[7-170224 - Changer of time session 7|session 7]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","resistance"],"social_status":"priest","affiliation":["[[paladine templet i Astley]]","[[Fafnirs gruppe]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Beril Højmølle/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7|session 7]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","resistance"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley]]","[[02 Player/Erukana (Nissen)/Factions/Fafnirs gruppe]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
 ---
 
 

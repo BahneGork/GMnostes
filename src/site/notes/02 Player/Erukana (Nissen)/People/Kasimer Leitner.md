@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kasimer Leitner/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]","[[House Magdova]]"],"disposition":"enemy","status":"alive","location_primary":"[[Northern territories]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kasimer Leitner/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]","[[02 Player/Erukana (Nissen)/Factions/House Magdova]]"],"disposition":"enemy","status":"alive","location_primary":"[[Northern territories]]"}}
 ---
 
 
 ## Description
-Kasimer Leitner er [[Lord Magdova\|Lord Magdova]]s søn. Han blev fortryllet af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|Leitner-familien]] gennem [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulrika Leitner]] til at forråde sin far. Efter besøg hos Ulrika opførte han sig mekanisk og flygtede senere nordpå. Hans familie var involveret i et komplot mod Lord Magdova.
+Kasimer Leitner er [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]s søn. Han blev fortryllet af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|Leitner-familien]] gennem [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulrika Leitner]] til at forråde sin far. Efter besøg hos Ulrika opførte han sig mekanisk og flygtede senere nordpå. Hans familie var involveret i et komplot mod Lord Magdova.
 
 ## Notes
 ### Session 38
@@ -14,7 +14,7 @@ Kasimer Leitner er [[Lord Magdova\|Lord Magdova]]s søn. Han blev fortryllet af 
 - Han flygtede nordpå.
 
 ## Relationships
-- **Far**: [[Lord Magdova\|Lord Magdova]]
+- **Far**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
 - **Forfører**: [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulrika Leitner]] (fortryllede ham)
 - **Bagmand**: [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]] (planlagde komplottet)
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] (fjendtlig)

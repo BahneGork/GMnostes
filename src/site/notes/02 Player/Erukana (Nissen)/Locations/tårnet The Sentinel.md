@@ -14,7 +14,7 @@ The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave"
 
 ### Kendte tilknyttede
 - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]] blev uddannet her
-- [[Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]] sponsorerede hendes optagelse
+- [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]] sponsorerede hendes optagelse
 
 ### Viden
 - Tårnet kender til sjælespejle (soul mirrors)

@@ -18,7 +18,7 @@ Bjergenes Børn er sammen med [[02 Player/Erukana (Nissen)/People/De Ældste\|De
 - Loyalitet og tro er rettet mod elementerne
 
 ### Bosættelser
-- [[Slatestone dværgehallerne\|Slatestone dværgehallerne]] - hovedhaller med kongeråd
+- [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]] - hovedhaller med kongeråd
 - [[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Silverstream dværge hallerne]] - rige haller sydøst fra Slatestone
 - Silverstream blev grundlagt efter årtiers søgen
 
@@ -30,7 +30,7 @@ Bjergenes Børn er sammen med [[02 Player/Erukana (Nissen)/People/De Ældste\|De
 ## Relationships
 - **Vogtere**: [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]] - bevarer traditioner
 - **Søsterrace**: [[02 Player/Erukana (Nissen)/People/De Ældste\|De Ældste]]
-- **Bosættelser**: [[Slatestone dværgehallerne\|Slatestone dværgehallerne]], [[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Silverstream dværge hallerne]]
+- **Bosættelser**: [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]], [[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Silverstream dværge hallerne]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Factions/Stenvogterne]]

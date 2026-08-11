@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Ritual Dagger/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[Nibar Brassbit]]","itemtype":"weapon, dagger","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Ritual Dagger","tags":["erukana","erukanaloot"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Ritual Dagger/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit]]","itemtype":"weapon, dagger","attunement":"yes","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Ritual Dagger","tags":["erukana","erukanaloot"]}}
 ---
 
 

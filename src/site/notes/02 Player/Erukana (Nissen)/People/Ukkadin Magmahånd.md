@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ukkadin Magmahånd/","tags":["erukana","npc","dwarf","stenvogter"],"dg-note-properties":{"category":"npc","Profession":["Stenvogter","Rådsmedlem"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]]","[[Bjergenes Børn]]"],"Location":["[[Slatestone dværgehallerne\|Slatestone dværgehallerne]]"],"Campaign":"Erukana","tags":["erukana","npc","dwarf","stenvogter"],"race":"dwarf","role":["religious","nobility"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]]","[[Bjergenes Børn]]"],"disposition":"neutral","status":"alive","location_primary":"[[Slatestone dværgehallerne\|Slatestone dværgehallerne]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ukkadin Magmahånd/","tags":["erukana","npc","dwarf","stenvogter"],"dg-note-properties":{"category":"npc","Profession":["Stenvogter","Rådsmedlem"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Stenvogterne]]","[[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne]]"],"Campaign":"Erukana","tags":["erukana","npc","dwarf","stenvogter"],"race":"dwarf","role":["religious","nobility"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Stenvogterne]]","[[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn]]"],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne]]"}}
 ---
 
 
 ## Description
-Ukkadin Magmahånd er en Stenvogter i [[Slatestone dværgehallerne\|Slatestone dværgehallerne]]. Han er udvalgt til at repræsentere [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]] i [[Slatestone dværgehallerne\|Slatestones]] Kongeråd (Rådet af Bjerget).
+Ukkadin Magmahånd er en Stenvogter i [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]. Han er udvalgt til at repræsentere [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]] i [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestones]] Kongeråd (Rådet af Bjerget).
 
 ## Notes
 ### Position
@@ -20,12 +20,12 @@ Ukkadin Magmahånd er en Stenvogter i [[Slatestone dværgehallerne\|Slatestone d
 ## Relationships
 - **Organisation**: [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]]
 - **Råd**: Rådet af Bjerget
-- **Lokation**: [[Slatestone dværgehallerne\|Slatestone dværgehallerne]]
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]
 - **Kollega**: [[Bratanna Jernmalm\|Bratanna Jernmalm]] (Højpræst)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Factions/Stenvogterne]]
-- [[Locations/Slatestone dværgehallerne\|Locations/Slatestone dværgehallerne]]
+- [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Locations/Slatestone dværgehallerne]]
 
 ## Tags
 #erukana #npc #dwarf #stenvogter #rådsmedlem

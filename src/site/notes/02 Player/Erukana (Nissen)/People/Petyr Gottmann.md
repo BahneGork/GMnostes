@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Petyr Gottmann/","tags":["erukana/npc"],"dg-note-properties":{"category":"npc","Location":["Mistville"],"Profession":["Marskal"],"Kin":"[[Lizzie Gottmann]]","Assosiates":"[[02 Player/Erukana (Nissen)/People/Verner Mistvale\|Verner Mistvale]]","Campaign":"Erukana","tags":["erukana/npc"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Petyr Gottmann/","tags":["erukana/npc"],"dg-note-properties":{"category":"npc","Location":["Mistville"],"Profession":["Marskal"],"Kin":"[[02 Player/Erukana (Nissen)/People/Lizzie Gottmann]]","Assosiates":"[[02 Player/Erukana (Nissen)/People/Verner Mistvale]]","Campaign":"Erukana","tags":["erukana/npc"]}}
 ---
 
 

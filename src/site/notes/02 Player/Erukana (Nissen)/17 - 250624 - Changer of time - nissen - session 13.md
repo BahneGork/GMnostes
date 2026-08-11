@@ -23,8 +23,8 @@
 - vi fortsætter med samtaler 
 - på et senere tidspunkt høre Clara ulve hyle i det fjerne og alting begynder at irritere hende. Hun forlader gruppen og løber ud i natten og forvandler sig og jæger.
 - Winston vækker Clara på hendes værelse, med en finger negl i munden. 
-- Lord [[Edmund af Vitano\|Edmund af Vitano]] opsøger os på kroen 
-- Lord [[Edmund af Vitano\|Edmund af Vitano]] oplyser han kan udføre ridder ceremonien/ritualet 
+- Lord [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] opsøger os på kroen 
+- Lord [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] oplyser han kan udføre ridder ceremonien/ritualet 
 
 ## Bjørn Leder Efter Fritte Og Lytter Efter Nyheder
 - krigen mellem de 2 baronier er blusset op igen. 
@@ -112,7 +112,7 @@ Med den forskel at de alle fire lod til at være wizards, men forskellige typer?
 
 **4 – Ridderceremonien.**
 
-[[Edmund af Vitano\|Lord Edmund af Vitano]] har tilbudt at afholde ridderceremonien, så længe at Winston returnere med opgaven løst fra [[Sir Seillings mausoleum 1\|Sir Seillings mausoleum 1]]. Han insisterede på at Winston skulle sørge for at finde en hvid måneblomst og bringe den til graven.
+[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Edmund af Vitano]] har tilbudt at afholde ridderceremonien, så længe at Winston returnere med opgaven løst fra [[Sir Seillings mausoleum 1\|Sir Seillings mausoleum 1]]. Han insisterede på at Winston skulle sørge for at finde en hvid måneblomst og bringe den til graven.
 
 En hvid måneblomst vokser kun få steder, og altid når der er behov for den. Den blomster om natten og man vil finde den et sted der har betydning for det som den skal bruges til.
 

@@ -76,7 +76,7 @@
 - [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] og [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica Dawnspire]] er søstrer, men har aldrig været vidende om hinandens eksistens #erukanasecretsnclues 
 - De ældste og børn af stenene arbejdede sammen og skabte nogle "fælles haller" #erukanasecretsnclues 
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] Chaptermaster var korrupteret af den lilla plage og er nu død, hans plate og familie emblem er i vores besiddelse #erukanasecretsnclues 
-- Sir [[Edmund af Vitano\|Edmund af Vitano]] har ikke de rette beføjelser til at gøre Winston til ridder #erukanasecretsnclues 
+- Sir [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] har ikke de rette beføjelser til at gøre Winston til ridder #erukanasecretsnclues 
 - [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] er død og på vej til "et nyt eventyr" #erukanasecretsnclues 
 - [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica Dawnspire]] har et hellig symbol der ikke ligner noget tiamat symbol vi nogen sinde har set eller hørt om, men påstår det er hende hun tilbeder #erukanasecretsnclues 
 

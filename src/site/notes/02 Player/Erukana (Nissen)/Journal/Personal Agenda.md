@@ -81,7 +81,7 @@ Andre målsætninger.
 ### Short Term Goals
 - [x] Find out it's location ✅ 2024-08-02
 - [x] Research the history of Sir Seiling ✅ 2024-08-02
-	- [x] [[Sir Seiling\|Sir Seiling]] research ✅ 2024-08-02
+	- [x] [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] research ✅ 2024-08-02
 - [ ] Prepare the expedition
 - [ ] Start the expedition 
 - [ ] Find the tomb

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley/","tags":["erukanamission","playermission"],"dg-note-properties":{"Title":"Solve the murder of Miri in Astley","missionstatus":"completed","faction":"Astley","related":null,"locations":["[[Astley]]","Alistair estate"],"reward":"Clearing Clarabel's name from doubt","tags":["erukanamission","playermission"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Missions/Solve the murder of Miri in Astley/","tags":["erukanamission","playermission"],"dg-note-properties":{"Title":"Solve the murder of Miri in Astley","missionstatus":"completed","faction":"Astley","related":null,"locations":["[[02 Player/Erukana (Nissen)/Locations/Astley]]","Alistair estate"],"reward":"Clearing Clarabel's name from doubt","tags":["erukanamission","playermission"]}}
 ---
 
 

@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Orlock Helmsveil/","tags":["erukana","npc","scribe","ally"],"dg-note-properties":{"sessions":["[[38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","Profession":["Scribe","Page"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","scribe","ally"],"race":"human","role":["servant"],"social_status":"servant","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Orlock Helmsveil/","tags":["erukana","npc","scribe","ally"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","Profession":["Scribe","Page"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","scribe","ally"],"race":"human","role":["servant"],"social_status":"servant","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
 ---
 
 
 ## Description
-Orlock Helmsveil er scribe og page for Sir [[Edmund af Vitano\|Edmund af Vitano]]. Han deltog i delegationen til [[Lord Magdova\|Lord Magdova]] og faldt i kamp under missionen, men blev genoplivet af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] med Raise Dead takket være en ædelsten Lord Magdova stillede til rådighed.
+Orlock Helmsveil er scribe og page for Sir [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]. Han deltog i delegationen til [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] og faldt i kamp under missionen, men blev genoplivet af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] med Raise Dead takket være en ædelsten Lord Magdova stillede til rådighed.
 
 ## Notes
 ### Session 38
-- Scribe og page til Sir [[Edmund af Vitano\|Edmund af Vitano]]
-- Deltog i delegationen til [[Lord Magdova\|Lord Magdova]] sammen med:
+- Scribe og page til Sir [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
+- Deltog i delegationen til [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] sammen med:
   - [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Jarell Flick]] fra [[02 Player/Erukana (Nissen)/Factions/Astley historian society\|Astley historian society]]
   - [[02 Player/Erukana (Nissen)/People/Hans Baudler\|Hans Baudler]] og [[02 Player/Erukana (Nissen)/People/Merita Verplex\|Merita Verplex]] fra [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]
 - Ankom lidt senere til middagen på [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] mansion
@@ -19,9 +19,9 @@ Orlock Helmsveil er scribe og page for Sir [[Edmund af Vitano\|Edmund af Vitano]
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] opstandede ham med Raise Dead ved hjælp af en ædelsten fra Lord Magdova
 
 ## Relationships
-- **Herre**: Sir [[Edmund af Vitano\|Edmund af Vitano]] - tjener som scribe og page
+- **Herre**: Sir [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] - tjener som scribe og page
 - **Allieret**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] - reddede hans liv
-- **Patron**: [[Lord Magdova\|Lord Magdova]] - stillede ædelsten til rådighed for genoplivning
+- **Patron**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] - stillede ædelsten til rådighed for genoplivning
 - **Faction**: [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
 
 ## Referenced In

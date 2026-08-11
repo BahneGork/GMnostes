@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum/","tags":["erukana","location","mausoleum","seiling"],"dg-note-properties":{"sessions":["[[10 - 220524 - Changer of time session 10|session 10]]","[[12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[17 - 250624 - Changer of time - nissen - session 13|session 13]]"],"type":"location","subtype":"mausoleum","campaign":"Erukana","aliases":["Sir Seillings mausoleum 1"],"tags":["erukana","location","mausoleum","seiling"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum/","tags":["erukana","location","mausoleum","seiling"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10|session 10]]","[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13|session 13]]"],"type":"location","subtype":"mausoleum","campaign":"Erukana","aliases":["Sir Seillings mausoleum 1"],"tags":["erukana","location","mausoleum","seiling"]}}
 ---
 
 
 ## Description
-Sir Seillings mausoleum er et gravkammer beliggende syd for [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Det er gravstedet for [[Sir Seiling\|Sir Seiling]] og Kong Norgassa, der blev begravet samme sted efter Sigismunds fald. Mausoleet er forbundet med [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]]s drømme.
+Sir Seillings mausoleum er et gravkammer beliggende syd for [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Det er gravstedet for [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] og Kong Norgassa, der blev begravet samme sted efter Sigismunds fald. Mausoleet er forbundet med [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]]s drømme.
 
 ## Notes
 ### Session 10
@@ -19,19 +19,19 @@ Sir Seillings mausoleum er et gravkammer beliggende syd for [[02 Player/Erukana 
 - Mausoleet har måske noget folk kan samles om (rally-punkt for modstanden mod [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]])
 
 ### Session 13
-- [[Edmund af Vitano\|Lord Edmund af Vitano]] har tilbudt at afholde ridder-ceremonien for Winston
+- [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Edmund af Vitano]] har tilbudt at afholde ridder-ceremonien for Winston
 - Betingelse: Winston skal løse en opgave ved mausoleet
 - Han skal finde en hvid måneblomst og bringe den til graven
 
 ### Historie
-- [[Sir Seiling\|Sir Seiling]] var tjener af Kong Norgassa
+- [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] var tjener af Kong Norgassa
 - Sir Seiling kunne guide kongen til mere nænsomme retninger
 - Efter Sigismunds fald blev Seiling og kongen begravet samme sted
 
 ## Relationships
-- **Tilknyttet**: [[Sir Seiling\|Sir Seiling]], Kong Norgassa
+- **Tilknyttet**: [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]], Kong Norgassa
 - **PC forbindelse**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] (drømme og ridder-ceremoni)
-- **Relateret til**: [[Edmund af Vitano\|Edmund af Vitano]], [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] (modstandsbevægelsen)
+- **Relateret til**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]], [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] (modstandsbevægelsen)
 - **Lokation**: Syd for [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In
@@ -41,7 +41,7 @@ Sir Seillings mausoleum er et gravkammer beliggende syd for [[02 Player/Erukana 
 - [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Journal/Personal Agenda]]
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[Journal/The Grand Alliance/The Banner\|Journal/The Grand Alliance/The Banner]]
-- [[People/Sir Seiling\|People/Sir Seiling]]
+- [[02 Player/Erukana (Nissen)/People/Sir Seiling\|People/Sir Seiling]]
 
 ## Tags
 #erukana #location #mausoleum #seiling #winston #norgassa

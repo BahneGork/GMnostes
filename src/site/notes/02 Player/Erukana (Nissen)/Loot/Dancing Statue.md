@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Dancing Statue/","tags":["erukana","erukanaloot","alunethriels-grace"],"dg-note-properties":{"used-by":"[[Nibar Brassbit]]","itemtype":"Wonderous item","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":"backpack","Location":null,"itemname":"Dancing Statue","tags":["erukana","erukanaloot","alunethriels-grace"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Dancing Statue/","tags":["erukana","erukanaloot","alunethriels-grace"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit]]","itemtype":"Wonderous item","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":"backpack","Location":null,"itemname":"Dancing Statue","tags":["erukana","erukanaloot","alunethriels-grace"]}}
 ---
 
 

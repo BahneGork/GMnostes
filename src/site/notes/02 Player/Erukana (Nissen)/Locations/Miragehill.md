@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Miragehill/","tags":["erukana","location","city"],"dg-note-properties":{"sessions":["[[2-130723 - Changer of time session 2|session 2]]","[[1-080723 - Changer of time session 1|session 1]]"],"type":"location","subtype":"city","campaign":"Erukana","tags":["erukana","location","city"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Miragehill/","tags":["erukana","location","city"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2|session 2]]","[[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1|session 1]]"],"type":"location","subtype":"city","campaign":"Erukana","tags":["erukana","location","city"]}}
 ---
 
 
@@ -20,7 +20,7 @@ Miragehill er en by der ligger på den østlige side af [[02 Player/Erukana (Nis
 - **Adelig familie**: Slægten [[02 Player/Erukana (Nissen)/People/Duvall\|Duvall]]
 - **Kendt person**: [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
 - **Nærliggende**: [[02 Player/Erukana (Nissen)/Locations/Grimrock Woods\|Grimrock Woods]] (vest for byen)
-- **Tilknytning**: [[Baron Zhaarko af Eresby\|Baron Zhaarko]]s hof
+- **Tilknytning**: [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko]]s hof
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|People/Marie Louise Duvall af Miragehill]]

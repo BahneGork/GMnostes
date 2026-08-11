@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Winston/","tags":["erukana","pc","knight","queensguard"],"dg-note-properties":{"category":"pc","Profession":["Ridder","Queensguard"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]"],"Location":["[[Astley]]"],"Campaign":"Erukana","aliases":["Winston","Winston Wildwood"],"tags":["erukana","pc","knight","queensguard"],"race":"human","role":["paladin","military"],"social_status":"knight","affiliation":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Astley]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Winston/","tags":["erukana","pc","knight","queensguard"],"dg-note-properties":{"category":"pc","Profession":["Ridder","Queensguard"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","aliases":["Winston","Winston Wildwood"],"tags":["erukana","pc","knight","queensguard"],"race":"human","role":["paladin","military"],"social_status":"knight","affiliation":["[[02 Player/Erukana (Nissen)/Factions/The Queensguard]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
 ---
 
 
@@ -19,7 +19,7 @@ Sir Winston Wildwood er en ridder af [[02 Player/Erukana (Nissen)/Factions/The Q
 
 ### Relationer
 - **Squire**: [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] - paladin fra Bortreaux
-- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Pierre\|Pierre]] - giver adgang til præstemøder via [[Edmund af Vitano\|Edmund af Vitano]]
+- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Pierre\|Pierre]] - giver adgang til præstemøder via [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
 - **Gud**: Bad til [[02 Player/Erukana (Nissen)/People/Paladine\|Paladine]] om guidance
 
 ### Gruppe
@@ -31,7 +31,7 @@ Sir Winston Wildwood er en ridder af [[02 Player/Erukana (Nissen)/Factions/The Q
 - **Gruppe**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 - **Squire**: [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]
 - **Våben**: [[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]] (Zazmir scimitar)
-- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Pierre\|Pierre]], [[Edmund af Vitano\|Edmund af Vitano]]
+- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Pierre\|Pierre]], [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]

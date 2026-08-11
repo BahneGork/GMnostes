@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrik Stadtfelt/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","antagonist"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Chauntea\|Chauntea]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]","aliases":["Ulrick Stadtfeldt"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrik Stadtfelt/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","antagonist"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Chauntea]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mistville]]","aliases":["Ulrick Stadtfeldt"]}}
 ---
 
 
@@ -25,7 +25,7 @@ Han befærder sig rundt i hele [[02 Player/Erukana (Nissen)/Locations/Mistville\
 Main:
 Related: [[02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1\|Downtime Mistville 1]]
 
-[[Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] 
+[[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] 
 	- passer kirkegården, begraver folk selv
 	- balsamere de døde, afholder ritual for de efterladte
 	- leder de 2 årlige events 
@@ -34,7 +34,7 @@ Related: [[02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1\|Downtime Mis
 	- har primært med folk at gøre ud af pligt 
 	- grønne fingrer 
 		- mange blomster er planter der bruges til helbredning og poison 
-	- [[Archibald Oddball\|Archibald Oddball]] 
+	- [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]] 
 		- Oddball spillede kort med [[02 Player/Erukana (Nissen)/People/Celia Hammerhånd\|Celia Hammerhånd]] , [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] , [[02 Player/Erukana (Nissen)/People/Constance Fortright\|Constance Fortright]] 
 		- Oddball forlod byen et par dage efter os og sku rejse til Darthormir isles 
 		- Odball gav drikke omgang på kroen og var meget glad og ovenpå 

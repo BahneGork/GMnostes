@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[9 -150524 - Changer of time session 9|session 9]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]"],"Campaign":"Erukana","aliases":["Bahamut Church","Bahamuts kirke","Paladine tilhængere"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley]]"],"Campaign":"Erukana","aliases":["Bahamut Church","Bahamuts kirke","Paladine tilhængere"],"tags":["erukana","faction"]}}
 ---
 
 
@@ -8,7 +8,7 @@ Bahamuts Tilhængere er en religiøs orden dedikeret til Bahamut - den gode drag
 
 ## Known Members
 - **[[02 Player/Erukana (Nissen)/People/Tyra volkmarr\|Tyra Volkmarr]]** - Rødhåret dværg, præst af Bahamut, bærer kåbe og brynje med warhammer, har slange-tatoveringer
-- **[[Edmund af Vitano\|Edmund af Vitano]]** - Tidligere ridder, nu præst, grundlægger af den hemmelige indre cirkel [[02 Player/Erukana (Nissen)/Factions/Pillar of Truth\|Pillar of Truth]]
+- **[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]** - Tidligere ridder, nu præst, grundlægger af den hemmelige indre cirkel [[02 Player/Erukana (Nissen)/Factions/Pillar of Truth\|Pillar of Truth]]
 - **[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]** - Spiller karakter, tilbeder af Bahamut
 
 ## Notes

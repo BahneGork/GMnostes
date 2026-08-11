@@ -15,7 +15,7 @@ De Ældste af Bjergenes Børn er de uroldgamle forfædre til [[02 Player/Erukana
 ### Traditioner
 - [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]] hævder at have rødder helt tilbage til de Ældste af Bjergenes Børn
 - Deres formål er at sikre at traditionerne holdes i hævd
-- [[Slatestone dværgehallerne\|Slatestone dværgehallerne]] er centrum for bevarelse af disse traditioner
+- [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]] er centrum for bevarelse af disse traditioner
 
 ### Hemmeligheder
 - Gruppen er begyndt at opdage og forstå hemmelighederne bag [[02 Player/Erukana (Nissen)/People/De Ældste\|De Ældste]] og Bjergenes Børn
@@ -26,7 +26,7 @@ De Ældste af Bjergenes Børn er de uroldgamle forfædre til [[02 Player/Erukana
 - **Efterkommere**: [[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn\|Bjergenes Børn]], [[02 Player/Erukana (Nissen)/Factions/Dværgene\|Dværgene]], [[Gnomerne\|Gnomerne]]
 - **Bevarere**: [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Stenvogterne]]
 - **Beslægtet**: [[02 Player/Erukana (Nissen)/People/De Ældste\|De Ældste]]
-- **Traditionscentrum**: [[Slatestone dværgehallerne\|Slatestone dværgehallerne]]
+- **Traditionscentrum**: [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Factions/Stenvogterne]]
