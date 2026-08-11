@@ -20,8 +20,8 @@
 ![Pasted image 20251120091656.png\|1000](/img/user/10%20Attachments/Pasted%20image%2020251120091656.png)
 
 
-#### Current Date: 16th Tarsakh
-#### Current Location: Nordheim
+#### Current Date: 3rd Mirtul
+#### Current Location: Astley - Welles barony
 
 # Active Missions
 The [[02 Player/Erukana (Nissen)/Mission Board\|Mission Board]]
