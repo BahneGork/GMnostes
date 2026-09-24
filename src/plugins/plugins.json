@@ -13,7 +13,11 @@
         "src/plugins/recently-tended/index.js",
         "src/plugins/recently-tended/styles/list.scss",
         "src/plugins/recently-tended/templates/list.njk"
-      ]
+      ],
+      "settings": {
+        "heading": "Recently tended",
+        "count": 5
+      }
     },
     "home-graph": {
       "repo": "oleeskild/garden-plugin-home-graph",
