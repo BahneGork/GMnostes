@@ -4,7 +4,7 @@
 
 
 ## Description
-Eternal Lustre er en magisk genstand der giver healing og regeneration. Det bruges af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]].
+Eternal Lustre er en magisk genstand der giver healing og regeneration. Det bruges af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]].
 
 ## Notes
 ### Effekt
@@ -15,11 +15,11 @@ Eternal Lustre er en magisk genstand der giver healing og regeneration. Det brug
 - Aktivering: Bonus action
 
 ### Brug
-- Del af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]s udstyr
+- Del af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]s udstyr
 - Noteret i [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabell sheet notes/Clarabels Spellbook\|Clarabels Spellbook]]
 
 ## Relationships
-- **Ejer**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
+- **Ejer**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Characters/My characters/Clarabel/Clarabel Lancaster]]

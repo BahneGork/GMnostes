@@ -6,9 +6,9 @@
 #erukana #erukanasessionlog #erukana/campaign 
 
 # [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blod Rosen]] Fanger
-[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] overdrages til [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]'s vagter, ved en vagt post ude for byen.
+[[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] overdrages til [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]'s vagter, ved en vagt post ude for byen.
 
-[[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] har fået sit et grimt ar og [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] har indre kvæstelser, problemer med at trække vejret og er for det meste bevidstløs.
+[[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] har fået sit et grimt ar og [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] har indre kvæstelser, problemer med at trække vejret og er for det meste bevidstløs.
 
 [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] kommer til vagt posten. 
 
@@ -33,10 +33,10 @@ Paladine præsten som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Ni
 Et tidligere tyvelaug [[Jernkniven 1\|Jernkniven 1]] er blevet udrydet af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]]. 
 
 # Ulve Blod
-I [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] ligger et æld gammelt tempel til [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]] og varetageren for det er en halv hjort halv kvinde som gerne vil hjælpe [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] med at få selv kontrol nok til at styre sin nye Varulve identitet. Hun kan også hjælpe med en kur hvis [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] ønsker at blive helt af med den. 
+I [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] ligger et æld gammelt tempel til [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]] og varetageren for det er en halv hjort halv kvinde som gerne vil hjælpe [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] med at få selv kontrol nok til at styre sin nye Varulve identitet. Hun kan også hjælpe med en kur hvis [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] ønsker at blive helt af med den. 
 
 # Modstand
-en halv kæmpe, stort bar overkrop og tattoveringer spotter [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] i folkemængden på en af byens gader og begynder at jagte ham. [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] undslipper i en mængde af "Harlequins". [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] genkender senere beskrivelsen af halvkæmpen som noget [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] kaldte for [[02 Player/Erukana (Nissen)/Journal/Samtale med Silvara Dawnspire -Knights ab-errants\|Knight Aberrants]].
+en halv kæmpe, stort bar overkrop og tattoveringer spotter [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] i folkemængden på en af byens gader og begynder at jagte ham. [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|vargoth]] undslipper i en mængde af "Harlequins". [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] genkender senere beskrivelsen af halvkæmpen som noget [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] kaldte for [[02 Player/Erukana (Nissen)/Journal/Samtale med Silvara Dawnspire -Knights ab-errants\|Knight Aberrants]].
 
 Næste daggry bliver gruppen overfaldet af "ninaj'er" på [[02 Player/Erukana (Nissen)/Locations/kongens hvil\|kongens hvil]], de har stjålet [[02 Player/Erukana (Nissen)/Loot/tids scrollen\|tids scrollen]] til artefaktet. 
 

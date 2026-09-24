@@ -4,7 +4,7 @@
 
 
 ## Description
-Lord Rupert Solarson er en adelsmand i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] besøger ham under sine Tarsakh-aktiviteter. Hans mester, Vissini, er forsvundet eller død.
+Lord Rupert Solarson er en adelsmand i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] besøger ham under sine Tarsakh-aktiviteter. Hans mester, Vissini, er forsvundet eller død.
 
 ## Notes
 - Adelsmand i Astley
@@ -13,7 +13,7 @@ Lord Rupert Solarson er en adelsmand i [[02 Player/Erukana (Nissen)/Locations/As
 
 ## Relationships
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
-- **Kontakt**: Besøgt af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] under downtime
+- **Kontakt**: Besøgt af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] under downtime
 - **Tilknytning**: Mester Vissini (forsvundet/død)
 
 ## Referenced In

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House Magdova/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova]]"],"Location":["[[Stirling\|Stirling]]"],"Campaign":"Erukana","aliases":["Magdova familien"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House Magdova/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova]]"],"Location":["[[Stirling]]"],"Campaign":"Erukana","aliases":["Magdova familien"],"tags":["erukana","faction"]}}
 ---
 
 
@@ -20,13 +20,13 @@ Magdova familien har været lensherre over [[Stirling\|Stirling]]-området i man
 **Adelston Magdova:** Det nuværende overhoved er en ældre herre med 1 søn og fire døtre. Hans kone døde i barselsengen ved den yngste datters fødsel (for 17-19 år siden). Han var tidligere et brushoved og en dygtig sværdkæmper, men er siden blevet gammel og slidt.
 
 ### Hemmelig forbindelse til Queensguarden
-*(Kilde: Waning Moon arkiver — fundet af [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] under samtale med [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]], d. 8 Tarsakh 1517)*
+*(Kilde: Waning Moon arkiver — fundet af [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] under samtale med [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]], d. 8 Tarsakh 1517)*
 
 Magdova familien har tidligere været tætte allierede med [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]. Efter at Chapterhuset blev brændt ned og ordenen fordrevet fra Erukana, husede Magdova familien i hemmelighed riddere, når der var brug for det. **Adelstons broder og fader døde** i forsøget på at beskytte en gruppe væbnere og sende dem sydpå mod [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]], sammen med en handelskaravane fra [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]].
 
 ## Notes
 ### Session 38
-- Lord Magdova hidkaldte [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Wildwood]], men da han var udenbys drog [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] i hans sted
+- Lord Magdova hidkaldte [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Wildwood]], men da han var udenbys drog [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] i hans sted
 - Kasimér var under [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]s indflydelse
 
 ## Relationships

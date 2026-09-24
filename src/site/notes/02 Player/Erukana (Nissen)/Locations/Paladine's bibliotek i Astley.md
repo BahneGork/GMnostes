@@ -15,7 +15,7 @@ Paladine's bibliotek i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] e
 - Gruppen besøgte biblioteket for information om Feywood bæstet
 - Det gamle bibliotek har information om "rædslen i [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]"
 - Nogle i biblioteket skjuler Bahamuts mærke
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] spurgte efter [[02 Player/Erukana (Nissen)/People/Tyra volkmarr\|Tyra volkmarr]] her
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] spurgte efter [[02 Player/Erukana (Nissen)/People/Tyra volkmarr\|Tyra volkmarr]] her
 
 ## Relationships
 - **Tilknyttet**: [[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley\|paladine templet i Astley]]

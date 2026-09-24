@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Viktor Baigorri/","tags":["erukana","pc","warrior","azur-ordenen","astley-avengers"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]","[[02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15|session 37]]","[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]","[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]","[[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]"],"category":"pc","Profession":["Warrior"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"Location":["[[Baroniet Botreaux\|Baroniet Botreaux]]"],"Campaign":"Erukana","aliases":["Viktor","Victor","Viktor Baigorri"],"tags":["erukana","pc","warrior","azur-ordenen","astley-avengers"],"race":"human","role":["military"],"social_status":"nobility","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"disposition":"ally","status":"alive","location_primary":"[[Baroniet Botreaux\|Baroniet Botreaux]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Viktor Baigorri/","tags":["erukana","pc","warrior","azur-ordenen","astley-avengers"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]","[[02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15|session 37]]","[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]","[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]","[[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]","[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen|session 44]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]","[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"pc","Profession":["Warrior"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"Location":["[[Baroniet Botreaux]]"],"Campaign":"Erukana","aliases":["Viktor","Victor","Viktor Baigorri"],"tags":["erukana","pc","warrior","azur-ordenen","astley-avengers"],"race":"human","role":["military"],"social_status":"nobility","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"disposition":"ally","status":"alive","location_primary":"[[Baroniet Botreaux]]"}}
 ---
 
 
@@ -34,12 +34,29 @@ Viktor Baigorri er en kriger fra [[Baroniet Botreaux\|Baroniet Botreaux]] med ad
 - Modtager [[02 Player/Erukana (Nissen)/Items/Halskæde - Caster boost\|Halskæde - Caster boost]] (9000gp) fra [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]]
 - Victor og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] drømmer om fangetransport igennem [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
 
+### Session 44 - Feywood-ekspeditionen
+- Aner en rødlig aura i området ved raste-pladsen, en energi der er gået ind i væsener og blevet en del af dem
+- Hjælper med at undersøge om potaftryk giver indtryk af korruption
+
+### Session 46 - Under Soltræet
+- Kigger på runeinskriptionerne i katakombernes første kammer og følger efter Nibar ned ad gangen
+- Sammen med Clara ser han Celedriels spor gå videre gennem den første udgang, og fornemmer "sorg" ved den anden udgang
+- Får sit våben ødelagt af varmen fra Ember Snake-væsenet (senere mendet af Clarabel)
+- I [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]] får han noget af det rene blod fra krystalkarret op i sig og føler han har åbnet en dør til ny magi
+- Flyver med Clarabel ud til hæren der forsvarer byen for at hjælpe med at koordinere modstandsindsatsen
+
+### Session 47 - After the dragon essence
+- Opsøger luftskibet og ser at byen er under angreb og at sydflanken er svag
+- Kaster Speak with Dead på [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]] i [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]] og spørger om gruppen må låne hans udstyr - svar: "ja, hvis vi får det tilbage når vi kommer tilbage"
+- Kaster Speak with Dead på [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seilling]] også, hvorefter Winston og Clarabel sværger en ed om brugen af hans udstyr
+- Modtager [[02 Player/Erukana (Nissen)/Items/Crown of the kings\|Crown of the kings]] (lånt fra Kong Norgassa)
+
 ## Relationships
 - **Gruppe**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 - **Orden**: [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] (uforklaret forbindelse)
 - **Hjemsted**: [[Baroniet Botreaux\|Baroniet Botreaux]]
 - **Kontakt**: Ukendt (fremskaffer dokumenter, info om sort metal)
-- **Udstyr**: Magisk bracer-skjold (ild-fokus), glaive, [[02 Player/Erukana (Nissen)/Items/Halskæde - Caster boost\|Halskæde - Caster boost]]
+- **Udstyr**: Magisk bracer-skjold (ild-fokus), glaive, [[02 Player/Erukana (Nissen)/Items/Halskæde - Caster boost\|Halskæde - Caster boost]], [[02 Player/Erukana (Nissen)/Items/Crown of the kings\|Crown of the kings]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14\|36 - Erukana - Steffen - Corwin & Viktor 14]]
@@ -47,6 +64,9 @@ Viktor Baigorri er en kriger fra [[Baroniet Botreaux\|Baroniet Botreaux]] med ad
 - [[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen\|39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen]]
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]
 - [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]
+- [[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|44 - rescue mission Evelyn in Feywood - Nissen]]
+- [[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|46 - 080826 - Under Soltræet - Nissen]]
+- [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]
 
 ## Tags
 #erukana #pc #warrior #azur-ordenen #astley-avengers

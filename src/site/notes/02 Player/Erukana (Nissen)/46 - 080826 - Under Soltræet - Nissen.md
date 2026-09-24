@@ -80,6 +80,6 @@
 
 
 
- [[02 Player/Erukana (Nissen)/45.5 - Logan's trip to Skullborg - Nisse - 'offline'\| << Previous Session 45.5]] ----[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|TOP]]----  [[ \|Next Session 47  >>]]
+ [[02 Player/Erukana (Nissen)/45.5 - Logan's trip to Skullborg - Nisse - 'offline'\| << Previous Session 45.5]] ----[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|TOP]]----  [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|Next Session 47  >>]]
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]

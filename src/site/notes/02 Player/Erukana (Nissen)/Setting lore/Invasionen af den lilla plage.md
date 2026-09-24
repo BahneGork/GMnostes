@@ -21,7 +21,7 @@ Den lilla plage er en ondsindet og korrupterende kraft der truer hele [[02 Playe
 
 ### Session 20
 - [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]] var stærkt inficeret af den lilla plage
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]]s guddommelige intervention trak ham væk for altid
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]]s guddommelige intervention trak ham væk for altid
 - Baronen af Eresbys søn kontrollerede sin udøde far via plagen
 
 ## Relationships

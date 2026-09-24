@@ -4,7 +4,7 @@
 
 
 ## Description
-Warden af Soltræet er en beskytterrolle for [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] er blevet Warden og opdager parasitiske rødder der angriber det hellige træ.
+Warden af Soltræet er en beskytterrolle for [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] er blevet Warden og opdager parasitiske rødder der angriber det hellige træ.
 
 ## Notes
 ### Rolle
@@ -13,7 +13,7 @@ Warden af Soltræet er en beskytterrolle for [[02 Player/Erukana (Nissen)/Locati
 - Ansvar for at beskytte det hellige natursted
 
 ### Clarabel som Warden
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] er nuværende Warden
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] er nuværende Warden
 - Opdagede parasitiske rødder der angriber Soltræet
 - Arbejder sammen med [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]]
 
@@ -23,7 +23,7 @@ Warden af Soltræet er en beskytterrolle for [[02 Player/Erukana (Nissen)/Locati
 - Hjem for [[Silvara\|Silvara]] og [[Elrond\|Elrond]] (satyr)
 
 ## Relationships
-- **Nuværende Warden**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
+- **Nuværende Warden**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]
 - **Beskytter**: [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
 - **Forbundet guddom**: [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 - **Samarbejdspartner**: [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]]

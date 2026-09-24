@@ -4,7 +4,7 @@
 
 
 ## Description
-Gemstone Radiance er en magisk genstand der giver modstand mod ild og lyn. Det bruges af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]].
+Gemstone Radiance er en magisk genstand der giver modstand mod ild og lyn. Det bruges af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]].
 
 ## Notes
 ### Effekt
@@ -14,10 +14,10 @@ Gemstone Radiance er en magisk genstand der giver modstand mod ild og lyn. Det b
 - Aktivering: Bonus action
 
 ### Brug
-- Del af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]s udstyr
+- Del af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]s udstyr
 
 ## Relationships
-- **Ejer**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
+- **Ejer**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Characters/My characters/Clarabel/Clarabel Lancaster]]

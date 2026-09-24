@@ -10,7 +10,7 @@ Krypten er en krypt beliggende nær [[02 Player/Erukana (Nissen)/Locations/Soltr
 ### Session 41
 - En lille vej fører om til krypten fra [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
 - Der er en revne og sygdom ved krypten
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] mærker en kold fornemmelse og drages mod krypten
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] mærker en kold fornemmelse og drages mod krypten
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] beder gruppen opsøge ham når de er klar til at undersøge
 
 ## Relationships

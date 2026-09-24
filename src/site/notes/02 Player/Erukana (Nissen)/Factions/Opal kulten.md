@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Opal kulten/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1|session 1]]","[[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8|session 8]]","[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16|session 20]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"enemy","Campaign":"Erukana","aliases":["The cult of the Opal society"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Opal kulten/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1|session 1]]","[[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8|session 8]]","[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16|session 20]]","[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"enemy","Campaign":"Erukana","aliases":["The cult of the Opal society"],"tags":["erukana","faction"]}}
 ---
 
 
@@ -32,6 +32,10 @@ Den sociale manifestation af Opal kulten i [[02 Player/Erukana (Nissen)/Location
 - Skandale involverede [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
 - **Status**: Den ydre kult i Astley er nedkæmpet — Lord Alistair besejret
 
+### Session 47 - After the dragon essence
+- Gruppens næste skridt: til [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]] for at finde efterkommere af Nidviger-familien, som slog Opal kulten ned, og se hvad de har af informationer
+- Derefter til [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og biblioteket for at undersøge den sorte fyrste, Opal kulten, underdæmoner under [[Graz'zt\|Graz'zt]] og sjælespejle
+
 ## Relationships
 - **Forbundet med**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]] — den ondskabsfulde kraft bag korruptionen
 - **Relateret**: [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] — kobolder påvirket af kulten
@@ -50,6 +54,7 @@ Den sociale manifestation af Opal kulten i [[02 Player/Erukana (Nissen)/Location
 - [[02 Player/Erukana (Nissen)/Missions/Mission Debriefing - The murder of Miri Sangstrup\|Missions/Mission Debriefing - The murder of Miri Sangstrup]]
 - [[02 Player/Erukana (Nissen)/Journal/Downtime Astley - Kap2 intermission\|Journal/Downtime Astley - Kap2 intermission]]
 - [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|People/Lady lucille vitano]]
+- [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]
 
 ## Tags
 #factions #erukana #antagonist #corruption #lillaplage

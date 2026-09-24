@@ -11,7 +11,7 @@ Marskal Henry Willsfort er en marskal nævnt i forbindelse med Clarabels downtim
 - Clara møder ham om karavane-vagt reform
 
 ## Relationships
-- **Kontakt**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] møder ham under downtime
+- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] møder ham under downtime
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In

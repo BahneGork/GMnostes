@@ -15,7 +15,7 @@ Paladine templet i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] er et
 ### Session 9
 - Gruppen besøgte [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] for information om Feywood bæstet
 - Nogle i biblioteket skjuler Bahamuts mærke
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] flashede diskret Bahamuts symbol og spurgte efter [[02 Player/Erukana (Nissen)/People/Tyra volkmarr\|Tyra volkmarr]]
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] flashede diskret Bahamuts symbol og spurgte efter [[02 Player/Erukana (Nissen)/People/Tyra volkmarr\|Tyra volkmarr]]
 - En rødhåret dværg i kåbe og brynje (Bahamut præst) var til stede
 
 ## Relationships

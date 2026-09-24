@@ -4,7 +4,7 @@
 
 
 ## Description
-Hydraen er et Feywood-bæst der angreb Eastwatch-ruinerne i session 9. Den blev dræbt af gruppen, og dens lava-agtige hjerte blev samlet op af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]. Hydraen er et monster, ikke en person, men er kategoriseret her som NPC-encounter.
+Hydraen er et Feywood-bæst der angreb Eastwatch-ruinerne i session 9. Den blev dræbt af gruppen, og dens lava-agtige hjerte blev samlet op af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]. Hydraen er et monster, ikke en person, men er kategoriseret her som NPC-encounter.
 
 ## Notes
 ### Session 9
@@ -21,7 +21,7 @@ Hydraen er et Feywood-bæst der angreb Eastwatch-ruinerne i session 9. Den blev 
 
 ## Relationships
 - **Lokation**: Angreb ruinerne i [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
-- **Loot**: Lava-agtigt hjerte indsamlet af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
+- **Loot**: Lava-agtigt hjerte indsamlet af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]
 - **Mission**: Forbundet med [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Missions/Feywood Beast Bounty]]
 
 ## Referenced In

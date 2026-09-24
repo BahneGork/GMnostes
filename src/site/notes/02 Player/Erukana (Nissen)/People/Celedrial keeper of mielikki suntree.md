@@ -4,7 +4,7 @@
 
 
 ## Description
-Celedrial er keeper af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræ]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Hun beskrives som halv-hjort, halv-kvinde ved et oldgammelt Mielikki-tempel. Hun giver religiøs rådgivning og har hjulpet [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] med at kontrollere hendes varulv-tilstand.
+Celedrial er keeper af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræ]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Hun beskrives som halv-hjort, halv-kvinde ved et oldgammelt Mielikki-tempel. Hun giver religiøs rådgivning og har hjulpet [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] med at kontrollere hendes varulv-tilstand.
 
 ## Notes
 ### Session 7 & 9
@@ -13,7 +13,7 @@ Celedrial er keeper af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s
 
 ### Session 12
 - Placerede [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] i en regenerativ kokon
-- Talte med [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] om kontrol af varulven
+- Talte med [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] om kontrol af varulven
 - Giver religiøs rådgivning ved [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
 
 ### Session 17
@@ -28,7 +28,7 @@ Celedrial er keeper af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s
 - **Guddom**: [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]] - Keeper af hendes Suntree
 - **Underordnet**: [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]]
 - **Hjælper**: [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] - placerede hende i regenerativ kokon
-- **Rådgiver for**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] - varulv-kontrol og identitet
+- **Rådgiver for**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] - varulv-kontrol og identitet
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7\|7-170224 - Changer of time session 7]]

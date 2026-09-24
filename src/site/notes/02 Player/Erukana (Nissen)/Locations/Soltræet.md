@@ -8,12 +8,12 @@ Soltræet (Sun Tree) er et helligt træ dedikeret til [[02 Player/Erukana (Nisse
 
 ## Notes
 ### Session 12 - Downtime
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] besøgte Silvara dagligt i Soltræet
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] besøgte Silvara dagligt i Soltræet
 - Talte med [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] om kontrol af varulven
 - Et sted for bøn, meditation og communion
 
 ### Session 41
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] får fornemmelsen af at der er mindre volume i trætoppen
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] får fornemmelsen af at der er mindre volume i trætoppen
 - Clara mærker en mærkelig fornemmelse i hjertet da middagssolen forsvinder fra træet - som om noget er gået tabt
 - En præst er oprørt over en mand, stikker ham en flad og vandrer op mod Soltræet
 - [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] samler usædvanligt mange blade op af ponden
@@ -36,7 +36,7 @@ Soltræet (Sun Tree) er et helligt træ dedikeret til [[02 Player/Erukana (Nisse
 - **Gud**: [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 - **Beboer**: [[Silvara\|Silvara]]
 - **Vogtere**: [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]], [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]], [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]], [[02 Player/Erukana (Nissen)/Setting lore/Warden af Soltræet\|Warden af Soltræet]]
-- **Besøgende**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]], [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]]
+- **Besøgende**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]], [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 - **Artefakt**: [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] (under træet)
 

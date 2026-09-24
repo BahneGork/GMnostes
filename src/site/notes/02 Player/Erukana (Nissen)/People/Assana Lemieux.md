@@ -24,7 +24,7 @@ Hun er kendt for sin tålmodighed, professionalisme og evne til at navigere komp
 ## Relationships
 - **Organisation**: Forvalter af [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
 - **Arbejdsgivere**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] (tidligere [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]])
-- **Samarbejde**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] - har etableret et godt arbejdsforhold
+- **Samarbejde**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] - har etableret et godt arbejdsforhold
 - **Netværk**: Kontakter til købmænd i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]], [[02 Player/Erukana (Nissen)/People/Mecina\|Mecina]], [[02 Player/Erukana (Nissen)/Locations/Castle Brienne\|Castle Brienne]], og flere lejesoldatsorganisationer i [[Mowbray\|Mowbray]] og [[Welles\|Welles]]
 - **Rivaler**: Kender til [[02 Player/Erukana (Nissen)/People/Merchant Konglomeratet\|Merchant Konglomeratet]] som [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] støtter, og deres modstander [[02 Player/Erukana (Nissen)/Factions/The Silver Drake guild\|The Silver Drake guild]] fra Valence
 

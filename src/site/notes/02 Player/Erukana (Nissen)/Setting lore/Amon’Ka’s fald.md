@@ -24,7 +24,7 @@ Amon'Ka's fald er et historisk motiv der viser "Metalmænd" stående foran høje
 - Belejring af Dragemænd antyder konflikt mellem drager og denne civilisation
 
 ## Relationships
-- **Fundet af**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
+- **Fundet af**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]
 - **Lokation**: Biblioteket i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 - **Relateret research**: Lilla drage, Safir Ordenen, metal-mænd
 

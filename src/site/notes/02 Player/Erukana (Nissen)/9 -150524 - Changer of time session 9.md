@@ -9,7 +9,7 @@
 ## Downtime I Astley
 - [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] har lagt [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] i en puppe som har til henblik at regenere og bringe hende tilbage til livet hvis hun ønsker det selv.
 - [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|winston]] træner med sit nye sværd
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] bruger tiden på at fordøje den nye situation 
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] bruger tiden på at fordøje den nye situation 
 - Bondemanden spørger en af dagene om vi vil med hen til et "drikkested", kort, terninger, drikke. [[02 Player/Erukana (Nissen)/Locations/Svinestien - Bar i Astley shanty town\|Svinestien - Bar i Astley shanty town]]
 - Clara, Vargoth og Winston takker ja og tager med, til udkanten af byen. 
 - Winston ser en dusør på baren, på et "Feywood bæst", 500gp

@@ -4,13 +4,13 @@
 
 
 ## Description
-Mielikki tilhængere er en religiøs orden dedikeret til Mielikki - naturens og skovens gudinde. Ordenens helligste sted er [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]], et ældgammelt helligsted. Ordenens nuværende vogter er [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]].
+Mielikki tilhængere er en religiøs orden dedikeret til Mielikki - naturens og skovens gudinde. Ordenens helligste sted er [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]], et ældgammelt helligsted. Ordenens nuværende vogter er [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]].
 
 ## Known Members
 - **[[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]]** - Halvhjort/halvkvinde, keeper af Mielikki's Soltræet, udfører helbredelsesritualer
 - **[[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]]** - Tempelvogter, passer ponden ved Soltræet i Celedriels fravær
 - **[[02 Player/Erukana (Nissen)/People/Seiran\|Seiran]]** - Kvindelig druid, passede [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]], forsvandt for ~10 år siden da en blå drage ankom. Status: forsvundet
-- **[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]** - Spiller karakter, nuværende vogter af Soltræet
+- **[[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]** - Spiller karakter, nuværende vogter af Soltræet
 
 ## Notes
 ### Session 9

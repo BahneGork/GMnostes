@@ -11,7 +11,7 @@ Morgion er en ond gud associeret med pest, sygdom og forfald. Hans tilbedere ink
 - En magisk bog dedikeret til Morgion indeholder både bønner og troldmandsformularer
 - I et kælderrum fandtes et alter til Morgion med skelet-hænder der kunne holde bogen
 - Alteret var sammen med et stort bur med lig og en torturbænk med liget af [[02 Player/Erukana (Nissen)/People/Archibald Oddball\|Archibald Oddball]]
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] smadrede alteret og forsøgte at channel Bahamut for at rense stedet
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] smadrede alteret og forsøgte at channel Bahamut for at rense stedet
 - [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] - necromancer-præst af Morgion - invaderede byen med udøde
 
 ### Session 10
@@ -21,7 +21,7 @@ Morgion er en ond gud associeret med pest, sygdom og forfald. Hans tilbedere ink
 ## Relationships
 - **Tilbedere**: [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] - necromancer-præst
 - **Artefakter**: Morgion-bøger med bønner og formularer
-- **Modstander**: Bahamut, [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
+- **Modstander**: Bahamut, [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]
 - **Domæne**: Pest, sygdom, forfald, necromancy
 
 ## Referenced In

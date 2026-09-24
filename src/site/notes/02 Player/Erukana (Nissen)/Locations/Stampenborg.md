@@ -8,7 +8,7 @@ Stampenborg er et sted [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelo
 
 ## Notes
 ### Session 43
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] spørger [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til råds om Evelyns situation
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] spørger [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til råds om Evelyns situation
 - Vaelon tænker på Stampenborg i den forbindelse
 - Evelyn er ifølge commune i bjergene sydpå i Eresby, grænsende mod [[Ceystanya\|Ceystanya]]
 

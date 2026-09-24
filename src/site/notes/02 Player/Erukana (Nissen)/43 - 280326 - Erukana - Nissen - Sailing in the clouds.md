@@ -35,9 +35,9 @@ NEXT: få skibet i stand, find ud af det sorte metal, tilbage til mistville elle
 	- vi bliver boardet af draconians som tager Evelyn til fange! 
 	- vi afsøger havet og port alexander
 	- Nibar lærer formularen [[No Graph/5e Reference/spells/Dream\|Dream]] som han bruger på Winstons så han kan tale med [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]
-	- Derefter taler [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] med [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] via dream og forklarer situationen og at de har brug for hjælp til at finde Evelyn 
+	- Derefter taler [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] med [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] via dream og forklarer situationen og at de har brug for hjælp til at finde Evelyn 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-22' data-date-end='1517-Tarsakh-22' data-img='Inline Example/Event_2.jpg' data-name='Clara communer'></span>
-	- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] bruger commune til at spørge sin gudinde til råds og sporer sig ind på at Evelyn er i Erukana, i Eresby baroniet. 
+	- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] bruger commune til at spørge sin gudinde til råds og sporer sig ind på at Evelyn er i Erukana, i Eresby baroniet. 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-23' data-date-end='1517-Tarsakh-23' data-img='Inline Example/Event_2.jpg' data-name='Clarabel Mødes med Vaelon Dunmere'></span>
 	- Vaelon har stadig base i bronze tønden, men hans eventyrer guild står stille siden Eresby erklærede krig mod Welles. 
 		Mowbray støtter Eresby. 

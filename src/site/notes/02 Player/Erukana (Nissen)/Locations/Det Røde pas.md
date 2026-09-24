@@ -13,7 +13,7 @@ Det Røde pas er et bjergpas syd-øst for [[02 Player/Erukana (Nissen)/Locations
 - Det er et strategisk punkt
 
 ### Session 9
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] spurgte bondemanden om Det Røde pas
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] spurgte bondemanden om Det Røde pas
 - Ligger syd-øst i bjergene fra [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Relationships

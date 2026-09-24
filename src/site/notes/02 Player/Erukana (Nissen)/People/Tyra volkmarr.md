@@ -8,7 +8,7 @@ Tyra Volkmarr er en rødhåret dværg og præst af Bahamut. Hun bærer kåbe og 
 
 ## Notes
 ### Session 9
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] spurgte efter Tyra Volkmarr i biblioteket
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] spurgte efter Tyra Volkmarr i biblioteket
 - Clara flashede diskret Bahamuts symbol for at identificere sig
 - En rødhåret dværg i kåbe og brynje med warhammer og slange-tatoveringer spurgte om gruppen søgte Tyra Volkmarr
 - Bahamut-præst forbundet med biblioteket
@@ -16,7 +16,7 @@ Tyra Volkmarr er en rødhåret dværg og præst af Bahamut. Hun bærer kåbe og 
 ## Relationships
 - **Gud**: Bahamut - præst
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
-- **Kontakt**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] - deler Bahamut-tilbedelse
+- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] - deler Bahamut-tilbedelse
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|9 -150524 - Changer of time session 9]]

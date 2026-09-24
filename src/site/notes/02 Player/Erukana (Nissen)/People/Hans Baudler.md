@@ -19,7 +19,7 @@ Hans Baudler er sergent i [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|S
 ## Relationships
 - **Militær enhed**: Sergent i [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]
 - **Kollega**: [[02 Player/Erukana (Nissen)/People/Merita Verplex\|Merita Verplex]] (guardist i Skjoldungerne)
-- **Forbindelse**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] (fortalt om hendes lykanthropi)
+- **Forbindelse**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] (fortalt om hendes lykanthropi)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova\|38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova]]

@@ -18,7 +18,7 @@ Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Baroniet Well
 
 ### Kontakter
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] har kontaktpunkt her
-- Nogen [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] kender er stationeret her
+- Nogen [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] kender er stationeret her
 - Besked: "Lancaster, der er en person som jeg ikke forventede at høre fra igen. Jeg er i Castle Brienne. Måske på tilbagevejen kan svinge forbi Astley."
 
 ## Relationships

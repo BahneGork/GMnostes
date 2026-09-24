@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Colville/","tags":["erukana","location","city","welles"],"dg-note-properties":{"type":"location","subtype":"city","campaign":"Erukana","aliases":["Coleville"],"tags":["erukana","location","city","welles"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Colville/","tags":["erukana","location","city","welles"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"type":"location","subtype":"city","campaign":"Erukana","aliases":["Coleville"],"tags":["erukana","location","city","welles"]}}
 ---
 
 
@@ -20,6 +20,11 @@ Colville (også stavet Coleville) er en by i [[02 Player/Erukana (Nissen)/Locati
 ### Politisk forbindelse
 - [[02 Player/Erukana (Nissen)/People/Lord Vitano\|Lord Vitano]] arbejder på at få adgang til baronessens råd i Colville
 
+### Session 47 - After the dragon essence
+- Det gamle tempel hvor [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]] opholder sig ligger en halv dags rejse nordøst for Colville - se [[02 Player/Erukana (Nissen)/Locations/Det gamle tempel nordøst for Colville\|Det gamle tempel nordøst for Colville]]
+- For mindre end et døgn siden er en gruppe fra Colville rejst mod [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
+- Gruppen planlægger at vende tilbage for at finde efterkommere af Nidviger-familien og deres optegnelser om [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
+
 ## Relationships
 - **Region**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
 - **Baronesse**: [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
@@ -30,6 +35,7 @@ Colville (også stavet Coleville) er en by i [[02 Player/Erukana (Nissen)/Locati
 - [[02 Player/Erukana (Nissen)/Journal/Erukana Party Agenda\|Journal/Erukana Party Agenda]]
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Locations/Baroniet Welles]]
 - [[Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
+- [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]
 
 ## Tags
 #erukana #location #city #welles #mission

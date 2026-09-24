@@ -18,3 +18,4 @@
 - [ ] Interview Nidviger familien i Colville
 	- [ ] send brev med ønske om deling af informationer eller møde 
 - [ ] Gain entry and knowledge about soulmirrors from the wizard tower [[02 Player/Erukana (Nissen)/Factions/The Sentinel\|The Sentinel]]
+- [ ] mesteren bag opal kulten kalder sig muligvis "Den sorte fyrste", han har følgere der bærer en sort sten. 

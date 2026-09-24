@@ -8,7 +8,7 @@ Vagtkaptajn ved Nord distriktet i [[02 Player/Erukana (Nissen)/Locations/Astley\
 
 ## Notes
 ### Session 12
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabell]] mødes med hende ved den ugentlige Bahamut-højmesse
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabell]] mødes med hende ved den ugentlige Bahamut-højmesse
 - Højmessen afholdes den niende dag ved den niende klokke
 - Hun viser Clarabell hen til en stor kælder ved et palæ i øst distriktet
 - Hun er en af de skjulte Bahamut-troende i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
@@ -20,7 +20,7 @@ Vagtkaptajn ved Nord distriktet i [[02 Player/Erukana (Nissen)/Locations/Astley\
 ## Relationships
 - **Arbejdsgiver**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] byvagt
 - **Religion**: [[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere\|Bahamuts Tilhængere]] (hemmeligt)
-- **Kontakt**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
+- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]
 - **Lokation**: Nord distriktet i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In

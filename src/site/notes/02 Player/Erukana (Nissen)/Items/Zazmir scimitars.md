@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Zazmir scimitars/","tags":["erukana","erukanaloot","weapon"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3|session 3]]"],"itemname":"Zazmir Scimitars","itemtype":"weapon","used-by":"[[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]], [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]]","attunement":false,"tags":["erukana","erukanaloot","weapon"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Zazmir scimitars/","tags":["erukana","erukanaloot","weapon"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3|session 3]]"],"itemname":"Zazmir Scimitars","itemtype":"weapon","used-by":"[[Sir Winston]], [[Clarabel Lancaster|Clarabel]]","attunement":false,"tags":["erukana","erukanaloot","weapon"]}}
 ---
 
 
@@ -18,7 +18,7 @@ Zazmir scimitars er store, kraftfulde sværd fra [[02 Player/Erukana (Nissen)/Fa
 
 ### Navngivne sværd
 - **[[02 Player/Erukana (Nissen)/Loot/ørkenstorm\|ørkenstorm]]**: Givet til [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]]
-- **[[02 Player/Erukana (Nissen)/Loot/Warhawk\|Warhawk]]**: Sølvtråde i læderskæftet, givet til [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]]
+- **[[02 Player/Erukana (Nissen)/Loot/Warhawk\|Warhawk]]**: Sølvtråde i læderskæftet, givet til [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]]
 
 ### Kampteknik
 - [[02 Player/Erukana (Nissen)/Factions/Zazmir stamme\|Zazmir stamme]]n bruger våbnets vægt til at påvirke bevægelser
@@ -28,7 +28,7 @@ Zazmir scimitars er store, kraftfulde sværd fra [[02 Player/Erukana (Nissen)/Fa
 ## Relationships
 - **Oprindelse**: [[02 Player/Erukana (Nissen)/Factions/Zazmir stamme\|Zazmir stamme]]
 - **Tidligere ejere**: [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]], [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
-- **Nuværende ejere**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] (ørkenstorm), [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] (Warhawk)
+- **Nuværende ejere**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] (ørkenstorm), [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] (Warhawk)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/3-300923 - Changer of time session 3\|3-300923 - Changer of time session 3]]

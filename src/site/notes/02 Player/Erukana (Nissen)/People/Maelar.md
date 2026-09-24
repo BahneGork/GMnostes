@@ -11,7 +11,7 @@ Maelar passer ponden i [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræ
 - Passer ponden i Soltræet
 - Samler en hel del blade op af ponden - meget usædvanligt
 - Viser Clarabel et af bladene: lille sammenkrøllet, grønt og frodigt men mørkt, falmet og hårdt, ser vådt og slimet ud på kanterne
-- Introduceres for [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]] af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]]
+- Introduceres for [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]] af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]]
 - Fortæller om aggressive satyrer på rejsen
 - Anbefaler at snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]]
 

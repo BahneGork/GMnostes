@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Warhawk/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster|Clarabel Lancaster]]","itemtype":"weapon, scimitar","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Warhawk","tags":["erukana","erukanaloot"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Loot/Warhawk/","tags":["erukana","erukanaloot"],"dg-note-properties":{"used-by":"[[02 Player/Erukana (Nissen)/People/Clarabel Lancaster|Clarabel Lancaster]]","itemtype":"weapon, scimitar","attunement":"no","class restrictions":null,"alignment restrictions":null,"Container":null,"Location":null,"itemname":"Warhawk","tags":["erukana","erukanaloot"]}}
 ---
 
 

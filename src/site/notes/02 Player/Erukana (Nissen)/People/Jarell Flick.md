@@ -13,7 +13,7 @@ Jarell Flick er historiker i [[02 Player/Erukana (Nissen)/Factions/Astley histor
 	- [[02 Player/Erukana (Nissen)/People/Hans Baudler\|Hans Baudler]], Sgt. [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]
 
 ### Session 41
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] henter Hr. Flick til at besøge [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] henter Hr. Flick til at besøge [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
 - Lægger mærke til en præst der er oprørt over en mand
 - Introduceres for [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] af Clarabel
 - Besøger [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]] med Clara

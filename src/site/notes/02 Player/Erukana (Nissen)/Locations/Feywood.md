@@ -11,7 +11,7 @@ Feywood er en mystisk og farlig skov nær [[02 Player/Erukana (Nissen)/Locations
 - Gruppen fik information om Feywood bæstet fra "Carl" i [[02 Player/Erukana (Nissen)/Locations/Svinestien - Bar i Astley shanty town\|Svinestien - Bar i Astley shanty town]]
 - Det gamle [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] har mere information om bæstet
 - Konstabel ved byvagten har udstedt dusøren på 500gp
-- Skoven har levende lianer - en viklet sig om [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] mens hun sov
+- Skoven har levende lianer - en viklet sig om [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] mens hun sov
 - Gruppen fandt en frisk grav undervejs
 - Ved ruinerne "Eastwatch" mødte de [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] soldater under [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]]
 

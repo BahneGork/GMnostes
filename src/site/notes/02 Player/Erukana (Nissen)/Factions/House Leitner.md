@@ -16,7 +16,7 @@ House Leitner er en adelig familie der konspirerede mod [[02 Player/Erukana (Nis
 ### Forbindelse til den Lilla Plage
 - [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]] var stærkt inficeret af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]
 - Dolph ankom til duelstedet med 30-50 mænd i stedet for Kasimer
-- Han blev ødelagt af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]]s guddommelige intervention
+- Han blev ødelagt af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]]s guddommelige intervention
 - Silvara og Danicas ånder drog ham væk
 
 ## Members

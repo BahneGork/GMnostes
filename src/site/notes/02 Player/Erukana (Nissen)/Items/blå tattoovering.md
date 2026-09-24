@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/blå tattoovering/","tags":["erukana","erukanaloot","mystery","timetravel"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1|session 1]]","[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]"],"itemname":"Safirblå tatovering","itemtype":"Mystisk mærke","used-by":"[[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]","attunement":null,"tags":["erukana","erukanaloot","mystery","timetravel"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/blå tattoovering/","tags":["erukana","erukanaloot","mystery","timetravel"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1|session 1]]","[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]"],"itemname":"Safirblå tatovering","itemtype":"Mystisk mærke","used-by":"[[Astley Avengers]], [[Baronesse Avalande]]","attunement":null,"tags":["erukana","erukanaloot","mystery","timetravel"]}}
 ---
 
 
@@ -18,7 +18,7 @@ Den safirblå tatovering er et mystisk mærke som alle medlemmer af [[02 Player/
 - Med et brag og røg dukkede [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] op - han teleporterede sig selv via tatoveringernes forbindelse
 
 ## Relationships
-- **Bærere**: [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]], [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]], [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]], [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
+- **Bærere**: [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]], [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]], [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]], [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
 - **Forbundet med**: [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]], [[02 Player/Erukana (Nissen)/Factions/safir ordenen\|safir ordenen]]
 - **Funktion**: Aktivering af tidsartefakt, teleportation mellem bærere
 

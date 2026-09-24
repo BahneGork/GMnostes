@@ -8,7 +8,7 @@ Zazmir stammen er en kriger-stamme kendt for deres unikke kamp-teknikker med sto
 
 ## Notes
 ### Session 3
-- En våbenbroder fra stammen trænede [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] kort en aften
+- En våbenbroder fra stammen trænede [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]] og [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] kort en aften
 - Træningen fokuserede på store scimitarer
 - Deres teknik: bruger våbnets vægt til at påvirke bevægelser
 - Behøver ikke skjold pga. deres kampstil
@@ -23,7 +23,7 @@ Zazmir stammen er en kriger-stamme kendt for deres unikke kamp-teknikker med sto
 - [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
 
 ## Relationships
-- **Trænede**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]], [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]]
+- **Trænede**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]], [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]]
 - **Medlemmer**: [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]], [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
 - **Forbindelse**: [[02 Player/Erukana (Nissen)/People/Azul\|Azul]]
 - **Våben**: [[02 Player/Erukana (Nissen)/Loot/Zazmir scimitars\|Zazmir scimitars]]

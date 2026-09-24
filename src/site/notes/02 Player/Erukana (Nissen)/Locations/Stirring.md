@@ -18,7 +18,7 @@ Stirling (også stavet Stirring) er et ældgammelt lensherred beliggende nord fo
 - Familieherresæde: Jarlsborg
 
 ### Session 38 — Delegationen til Stirling
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] sendte en delegation afsted d. 11 Tarsakh 1517
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] sendte en delegation afsted d. 11 Tarsakh 1517
 - Delegationen mødte [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Adelston Magdova]] d. 13 Tarsakh
 - En Eresby-minion forstærket af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] forsøgte at overtage lensherredømmet
 - Bekymrende styrke af lilla korruption blev observeret

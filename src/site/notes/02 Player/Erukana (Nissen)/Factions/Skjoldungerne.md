@@ -11,7 +11,7 @@ Skjoldungerne er en militær organisation, muligvis en vagtenhed eller militskom
 - [[02 Player/Erukana (Nissen)/People/Hans Baudler\|Hans Baudler]] er Sergent i Skjoldungerne
 - [[02 Player/Erukana (Nissen)/People/Merita Verplex\|Merita Verplex]] er guardist i Skjoldungerne
 - Begge deltog i delegationen til [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] fortalte åbent Hans Baudler om sin Lycantropi
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] fortalte åbent Hans Baudler om sin Lycantropi
 
 ## Relationships
 - **Medlemmer**: [[02 Player/Erukana (Nissen)/People/Hans Baudler\|Hans Baudler]] (Sergent), [[02 Player/Erukana (Nissen)/People/Merita Verplex\|Merita Verplex]] (guardist)

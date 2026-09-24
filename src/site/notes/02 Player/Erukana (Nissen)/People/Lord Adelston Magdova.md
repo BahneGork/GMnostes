@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Adelston Magdova/","tags":["erukana","npc","stirling","noble","magdova"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","aliases":["Lord Magdova","Adelston Magdova"],"Profession":["Lensherre"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Magdova]]"],"Location":["[[Stirling\|Stirling]]"],"Campaign":"Erukana","tags":["erukana","npc","stirling","noble","magdova"],"race":"human","role":["noble","lord"],"social_status":"noble","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Magdova]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Stirling\|Stirling]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Adelston Magdova/","tags":["erukana","npc","stirling","noble","magdova"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","aliases":["Lord Magdova","Adelston Magdova"],"Profession":["Lensherre"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Magdova]]"],"Location":["[[Stirling]]"],"Campaign":"Erukana","tags":["erukana","npc","stirling","noble","magdova"],"race":"human","role":["noble","lord"],"social_status":"noble","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Magdova]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Stirling]]"}}
 ---
 
 
@@ -8,7 +8,7 @@ Lord Adelston Magdova er lensherre over [[Stirling\|Stirling]] og overhoved for 
 
 ## Notes
 ### Session 38
-- Hidkaldte [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Wildwood]], men da han var udenbys tog [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] hans sted
+- Hidkaldte [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Wildwood]], men da han var udenbys tog [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] hans sted
 - Hans søn [[Kasimér Magdova\|Kasimér Magdova]] var fortryllet af [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]] og planlagde at forråde ham
 - [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]] ankom til duelstedet med 30-50 mænd — forsøg på overtagelse af lensherredømmet
 - Dolph Leitner blev ødelagt ved guddommelig intervention

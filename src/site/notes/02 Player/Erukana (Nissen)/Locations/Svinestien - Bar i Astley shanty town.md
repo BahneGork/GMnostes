@@ -9,7 +9,7 @@ Svinestien er et drikkested i [[02 Player/Erukana (Nissen)/Locations/Astley\|Ast
 ## Notes
 ### Session 9
 - Bondemanden inviterede gruppen til Svinestien
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]], [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] tog med
+- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]], [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] tog med
 - Ligger i udkanten af [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 - En mand ved navn Carl fortalte gruppen om Feywood bæstet her
 - Information om dusøren på 500gp for Feywood bæstet

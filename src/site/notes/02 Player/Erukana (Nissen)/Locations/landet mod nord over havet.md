@@ -8,7 +8,7 @@ Landet mod nord over havet er et mystisk land på den anden side af havet nord f
 
 ## Notes
 ### Forbindelse til Knight Ab-errants
-- [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] fortalte [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] om Knight Ab-errants
+- [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] fortalte [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] om Knight Ab-errants
 - "De spor som vi har afdækket viser at de enten stammer fra landet mod nord over havet, eller at de er tidligere riddere af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]], måske endda vores egen rækker, som har brudt deres ed."
 
 ### Karakteristika
