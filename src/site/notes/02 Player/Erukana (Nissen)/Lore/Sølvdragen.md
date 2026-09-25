@@ -15,7 +15,7 @@ Sølvdragen, ved navn **Seralyth**, var patron af [[02 Player/Erukana (Nissen)/F
 - Staven blev efterfølgende delt i 4 dele
 
 ### Session 45 - Dracolichen angriber
-- Jorden flækker under [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] og Seralyths genfærd, forvreden og drevet af vanvid og raseri over at hendes blod er blevet korrumperet, river sig op som Dracolich og angriber Astley
+- Jorden flækker under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] og Seralyths genfærd, forvreden og drevet af vanvid og raseri over at hendes blod er blevet korrumperet, river sig op som Dracolich og angriber Astley
 - Skriger om de dødeliges brud på deres løfte om at passe på hendes blod og legeme
 - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] fremkalder en illusion af Seralyth og viser en del af Staven frem
 - [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] caster Calm Emotions og påkalder Bahamut, Mielikki, Queensguarden og Azur Ordenen, og beder hende kvæle sin vrede og genoptage eden
@@ -23,7 +23,7 @@ Sølvdragen, ved navn **Seralyth**, var patron af [[02 Player/Erukana (Nissen)/F
 - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bryder den sidste kæde der binder hende, så hun flyver mod den lilla horde i stedet for byen
 
 ### Session 46 - Under Soltræet
-- Hendes dragelig ligger i [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]] sammen med det tomme krystalkar hvor [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] har ligget
+- Hendes dragelig ligger i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] sammen med det tomme krystalkar hvor [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] har ligget
 - [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] knæler ved dragekraniet, beder til Bahamut, begræder at Seralyths essens er blevet korrumperet og sat fri i verden som en forvrænget udgave af hende, og sværger at finde en vej til at gøre en ende på det
 - Legend Lore: Hjertekammeret er 1 af 4 lokationer [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]] brugte til at spærre Staven inde
 
@@ -35,7 +35,7 @@ Sølvdragen, ved navn **Seralyth**, var patron af [[02 Player/Erukana (Nissen)/F
 - **Ofrede sig til**: [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]]
 - **Modstander af**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]
 - **Korrumperet aspekt**: Dracolichen der angreb Astley (session 45)
-- **Dragelig**: [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]]
+- **Dragelig**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]

@@ -34,12 +34,12 @@ Find og dræb et Feywood Beast.
 - følg hærvejen indtil skoven bliver sumpet, følg en sti dybere østpå ved ruiner af en fæstning.
 - 4 dages vandring den ene vej 
 ## Related Locations
-[[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]] 
-[[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
+[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]] 
+[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
 
 ## NPC's Encountered on Mission
 Carl - en mand der uopfordret taler med os om feywood bæstet og anbefaler biblioteket. 
-[[02 Player/Erukana (Nissen)/People/Tyra volkmarr\|Tyra volkmarr]] bliver anbefalet at vi opsøger for mere information om bæstet og [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
+[[02 Player/Erukana (Nissen)/People/Tyra volkmarr\|Tyra volkmarr]] bliver anbefalet at vi opsøger for mere information om bæstet og [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
 
 ## Mission Reward
 500gp

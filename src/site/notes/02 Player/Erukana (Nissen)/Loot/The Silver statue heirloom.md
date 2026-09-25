@@ -14,7 +14,7 @@
 
 Gruppen fandt via ledetråde frem til at Statuen var gået tabt under en flytning mellem [[02 Player/Erukana (Nissen)/Locations/Pembroke\|Pembroke]] og [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]], hvor også *en af familiens døtre var omkommet under et angreb.*
 
-Sporene pegede mod, at statuen var blevet købt på markedet i [[Segrave\|Segrave]] af en kunstsamler som har sin sommerresidens i den lille idylliske landsby [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] som ligger tæt på grænsen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] mod [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]].
+Sporene pegede mod, at statuen var blevet købt på markedet i [[Segrave\|Segrave]] af en kunstsamler som har sin sommerresidens i den lille idylliske landsby [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] som ligger tæt på grænsen i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] mod [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]].
 
 I landsbyen mødte de kunstsamleren, som viste sig at være en ældre gnome og tidligere købmand, der nu har trukket sig tilbage og lever af hans formue. Gnomen hedder [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] og var rigt klædt i røde og grønne klæder. 
 
@@ -27,11 +27,11 @@ For rejsen tilbage til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelo
 Reward:: 200gp
 
 ## Location Clues
-- statue was sold in the market of [[Segrave\|Segrave]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] #erukanasecretsnclues
-- buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] #erukanasecretsnclues 
+- statue was sold in the market of [[Segrave\|Segrave]], [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] #erukanasecretsnclues
+- buyer was an art collector, currently living in summer residence in [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]], [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] #erukanasecretsnclues 
 
 ## People Clues
-- art collector, gnome, [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]  #erukanasecretsnclues 
+- art collector, gnome, [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] , summer residence in [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]  #erukanasecretsnclues 
 
 
 ## Objectives & Goals

@@ -6,12 +6,12 @@
 #erukana/npc 
 # Celia Hammerhånd
 
-Fundet død i hvad vi formoder var [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] 's  varulve huler ude i skoven nær [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
+Fundet død i hvad vi formoder var [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]] 's  varulve huler ude i skoven nær [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] 
 
-Vi tog hendes lig med til [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] for at blive begravet og lagt ordenligt til hvile.
+Vi tog hendes lig med til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] for at blive begravet og lagt ordenligt til hvile.
 
 
 Relateret: 
 [[091023 - Changer of time session 4\|091023 - Changer of time session 4]]
 [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]
-[[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]

@@ -21,8 +21,8 @@ Vaelon kommer selv fra [[02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere
 
 ## Notes
 ### Session 43 (Tarsakh 23, 1517)
-- Har stadig base i [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|bronze tønden]]
-- Hans eventyrer guild er stillet i bero siden [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] erklærede krig mod [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] — [[02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray\|Baroniet Mowbray]] støtter Eresby
+- Har stadig base i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|bronze tønden]]
+- Hans eventyrer guild er stillet i bero siden [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] erklærede krig mod [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] — [[02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray\|Baroniet Mowbray]] støtter Eresby
 - **Azur Ordenen**: Vaelon sendte nogen til en by i [[Ceystanya\|Ceystanya]] nær hovedstaden ved en stor sø — de fandt en bog med informationer om Azur ordenen
 - Gav [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] en **diplomacy pouch** (skriftrulle)
 - Da Clarabel spurgte om [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]s situation, tænkte han på [[02 Player/Erukana (Nissen)/Locations/Stampenborg\|Stampenborg]]

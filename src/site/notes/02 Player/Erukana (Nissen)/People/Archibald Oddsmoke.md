@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Archibald Oddsmoke/","tags":["erukana","npc","mistville","gnome"],"dg-note-properties":{"category":"npc","aliases":["Archibald Oddball","Oddball"],"Profession":["Pensioneret købmand"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Mistville]]"],"Campaign":"Erukana","tags":["erukana","npc","mistville","gnome"],"race":"gnome","role":"merchant","social_status":"merchant","affiliation":[],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mistville]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Archibald Oddsmoke/","tags":["erukana","npc","mistville","gnome"],"dg-note-properties":{"category":"npc","aliases":["Archibald Oddball","Oddball"],"Profession":["Pensioneret købmand"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]"],"Campaign":"Erukana","tags":["erukana","npc","mistville","gnome"],"race":"gnome","role":"merchant","social_status":"merchant","affiliation":[],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]"}}
 ---
 
 
 ![Pasted image 20231021195636.png](/img/user/10%20Attachments/Pasted%20image%2020231021195636.png)
 
 ## Description
-Archibald Oddsmoke (også kaldet Oddball) er en lille ældre gnom-købmand, der efter mange år som handelsmand i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]] har trukket sig tilbage til [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]. Hans passion er kunstværker og oldgamle artefakter. En smule excentrisk, men ganske flink.
+Archibald Oddsmoke (også kaldet Oddball) er en lille ældre gnom-købmand, der efter mange år som handelsmand i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]] har trukket sig tilbage til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]. Hans passion er kunstværker og oldgamle artefakter. En smule excentrisk, men ganske flink.
 
 Han er forbundet til sølvstatue-missionen og blev fanget og torteret af nekromanceren [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] i dennes kælder.
 
@@ -18,13 +18,13 @@ Han er forbundet til sølvstatue-missionen og blev fanget og torteret af nekroma
 - Forbundet til sølvstatue-missionen — var i besiddelse af [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|sølvstatuen]]
 
 ## Relationships
-- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] - bopæl
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] - bopæl
 - **Antagonist**: [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] - fangede og torterede ham
 - **Mission**: [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Missions/The silver statue heirloom - mission 1]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Erukana Quests and Questions\|Journal/Erukana Quests and Questions]]
-- [[02 Player/Erukana (Nissen)/Locations/Mistville\|Locations/Mistville]]
+- [[Locations/Mistville\|Locations/Mistville]]
 - [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Missions/The silver statue heirloom - mission 1]]
 
 ## Tags

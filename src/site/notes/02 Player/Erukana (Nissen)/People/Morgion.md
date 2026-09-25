@@ -15,7 +15,7 @@ Morgion er en ond gud associeret med pest, sygdom og forfald. Hans tilbedere ink
 - [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] - necromancer-præst af Morgion - invaderede byen med udøde
 
 ### Session 10
-- En Morgion-bog (bind 1) blev fundet i en stenkiste i [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]] sumpen
+- En Morgion-bog (bind 1) blev fundet i en stenkiste i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]] sumpen
 - [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] insisterer på at bøgerne ikke kan være onde
 
 ## Relationships

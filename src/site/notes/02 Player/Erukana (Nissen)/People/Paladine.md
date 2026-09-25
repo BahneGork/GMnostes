@@ -4,7 +4,7 @@
 
 
 ## Description
-Paladine (også kendt som Bahamut) er den Prime God of the Light i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]. Han er guddom for orden og lov. Han er sammen med [[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]] patron for [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] og [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]. Bahamut tilbedes hemmeligt ved [[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley\|paladine templet i Astley]], hvor tempelpersonalet bærer et skjult mærke.
+Paladine (også kendt som Bahamut) er den Prime God of the Light i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]. Han er guddom for orden og lov. Han er sammen med [[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]] patron for [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] og [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]. Bahamut tilbedes hemmeligt ved [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]], hvor tempelpersonalet bærer et skjult mærke.
 
 ## Notes
 ### Guddomsinfo
@@ -25,16 +25,16 @@ Paladine (også kendt som Bahamut) er den Prime God of the Light i [[02 Player/E
 - Paladines sans for orden og lov driver organisationen
 
 ### Tilbedelse
-- [[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley\|paladine templet i Astley]] - tempel i Astley
-- [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] - stort bibliotek med historisk viden
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]] - tempel i Astley
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] - stort bibliotek med historisk viden
 - [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] bad til Paladine om guidance
 - Præster inkluderer [[02 Player/Erukana (Nissen)/People/Beril Højmølle\|Beril Højmølle]]
 - Bahamut tilbedes hemmeligt bag Paladines facade
 - Tempelpersonale bærer skjult mærke
 
 ### Tilstedeværelse i Astley
-- [[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley\|paladine templet i Astley]] - hovedtempel
-- [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] - stort bibliotek med historisk viden
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]] - hovedtempel
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] - stort bibliotek med historisk viden
 - Skjult Bahamut-tilbedelse finder sted her
 
 ### Astley Avengers
@@ -46,7 +46,7 @@ Paladine (også kendt som Bahamut) er den Prime God of the Light i [[02 Player/E
 - **Partner-guddom**: [[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]]
 - **Avatar**: [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Neferata]]
 - **Organisation**: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]], [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
-- **Tempel**: [[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley\|paladine templet i Astley]]
+- **Tempel**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]]
 
 
 ## Referenced In

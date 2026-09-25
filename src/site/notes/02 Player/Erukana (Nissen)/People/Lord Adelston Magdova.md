@@ -18,7 +18,7 @@ Lord Adelston Magdova er lensherre over [[Stirling\|Stirling]] og overhoved for 
 - **Lensherredømme**: [[Stirling\|Stirling]]
 - **Hus**: [[02 Player/Erukana (Nissen)/Factions/House Magdova\|Factions/House Magdova]]
 - **Søn**: [[Kasimér Magdova\|Kasimér Magdova]] - fortryllet, flygtede nordpå
-- **Rival**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|Factions/House Leitner]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]
+- **Rival**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|Factions/House Leitner]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]
 - **Støtter**: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
 - **Allieret**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lady De'evers/","tags":["erukana","npc","noble","deevers"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5|session 5]]"],"category":"npc","Profession":["Adelsdame"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House De'Evers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Mistville]]"],"Campaign":"Erukana","tags":["erukana","npc","noble","deevers"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House De'Evers]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mistville]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lady De'evers/","tags":["erukana","npc","noble","deevers"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5|session 5]]"],"category":"npc","Profession":["Adelsdame"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House De'Evers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]"],"Campaign":"Erukana","tags":["erukana","npc","noble","deevers"],"race":"human","role":"nobility","social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House De'Evers]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]"}}
 ---
 
 
 ## Description
-Lady De'evers er leder af [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]] i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]. Hendes familie var tidligere affilieret med [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]], men hun har valgt at bryde båndene med dem.
+Lady De'evers er leder af [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]. Hendes familie var tidligere affilieret med [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]], men hun har valgt at bryde båndene med dem.
 
 ## Notes
 ### Session 5
@@ -14,7 +14,7 @@ Lady De'evers er leder af [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|
 
 - Winston & Nibar besøger Lady De'evers og får omsat 4 tradebars og en scroll med 2 x [[No Graph/5e Reference/spells/Fireball\|Fireball]]
 - Som betaling accepterer de en opgave: [[02 Player/Erukana (Nissen)/Locations/Troldmands tårn ruin i nordlandet\|Troldmands tårn ruin i nordlandet]]
-- 2 rose riddere ankommer til [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], den ene banker på hos De'Evers huset
+- 2 rose riddere ankommer til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]], den ene banker på hos De'Evers huset
 
 ### Familie og politik
 - De'evers familien har i mange år været affilieret med [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]
@@ -23,7 +23,7 @@ Lady De'evers er leder af [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|
 
 ## Relationships
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House De'Evers\|House De'Evers]]
-- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
 - **Tidligere tilknytning**: [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] (nu brudt)
 - **Tjener**: [[02 Player/Erukana (Nissen)/People/Vallis\|Vallis]]
 

@@ -4,7 +4,7 @@
 
 
 ## Description
-Anakteh er en oldgammel civilisation og/eller et sprog i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]-verdenen. [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] taler dette sprog, selvom det ikke er af hendes ophav.
+Anakteh er en oldgammel civilisation og/eller et sprog i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]-verdenen. [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] taler dette sprog, selvom det ikke er af hendes ophav.
 
 ## Notes
 ### Sprog

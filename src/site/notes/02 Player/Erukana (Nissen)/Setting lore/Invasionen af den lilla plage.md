@@ -4,7 +4,7 @@
 
 
 ## Description
-Den lilla plage er en ondsindet og korrupterende kraft der truer hele [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. Plagen korrupterer levende væsener og får ædelsten (særligt amethyster og opaler) til at gro ud af deres hud. Når korrupterede væsener dør, eksploderer de ofte i sorte flammer. Den lilla plage var skyld i [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]'s fald, hvilket førte til at [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] kom til Erukana for at bekæmpe den.
+Den lilla plage er en ondsindet og korrupterende kraft der truer hele [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. Plagen korrupterer levende væsener og får ædelsten (særligt amethyster og opaler) til at gro ud af deres hud. Når korrupterede væsener dør, eksploderer de ofte i sorte flammer. Den lilla plage var skyld i [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]'s fald, hvilket førte til at [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] kom til Erukana for at bekæmpe den.
 
 ## Notes
 ### Korruptionens natur

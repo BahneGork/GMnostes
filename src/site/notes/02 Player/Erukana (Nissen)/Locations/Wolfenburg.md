@@ -14,7 +14,7 @@ Wolfenburg er kongestaden i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]] o
 - Befolkningen anser sig selv for bedre end resten af baronierne
 
 ### Organisationer
-- [[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]] leder [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] ud fra sit palæ her
+- [[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]] leder [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]] ud fra sit palæ her
 - [[Erukana Chapterhouse\|Erukana Chapterhouse]] lå lidt udenfor byen
 - Hoffet i Wolfenburg er et vigtigt diplomatisk mål
 
@@ -37,7 +37,7 @@ Wolfenburg er kongestaden i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]] o
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]
-- [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Locations/Baroniet Eresby]]
+- [[Locations/Baroniet Eresby\|Locations/Baroniet Eresby]]
 - [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Missions/The silver statue heirloom - mission 1]]
 - [[02 Player/Erukana (Nissen)/Missions/Undersøgelse af angrebet på Erukana Chapterhuset\|Missions/Undersøgelse af angrebet på Erukana Chapterhuset]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Skik og kultur i Botreaux\|Setting lore/Skik og kultur i Botreaux]]

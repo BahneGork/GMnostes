@@ -8,7 +8,7 @@
 ![Baron Zhaarko af Eresby.png\|300](/img/user/10%20Attachments/Baron%20Zhaarko%20af%20Eresby.png)
 # Baron Zhaarko Af Eresby
 
-Related: [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] 
+Related: [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]], [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] 
 
 ## In-game
 Wizard of [[the arcana tower\|the arcana tower]]

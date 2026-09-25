@@ -4,11 +4,11 @@
 
 
 ## Description
-Warden af Soltræet er en beskytterrolle for [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] er blevet Warden og opdager parasitiske rødder der angriber det hellige træ.
+Warden af Soltræet er en beskytterrolle for [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] er blevet Warden og opdager parasitiske rødder der angriber det hellige træ.
 
 ## Notes
 ### Rolle
-- Beskytter af [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- Beskytter af [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - Forbundet med [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]] tilbedelsen
 - Ansvar for at beskytte det hellige natursted
 
@@ -24,13 +24,13 @@ Warden af Soltræet er en beskytterrolle for [[02 Player/Erukana (Nissen)/Locati
 
 ## Relationships
 - **Nuværende Warden**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]
-- **Beskytter**: [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- **Beskytter**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - **Forbundet guddom**: [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 - **Samarbejdspartner**: [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
-- [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Locations/Soltræet]]
+- [[Locations/Soltræet\|Locations/Soltræet]]
 
 ## Tags
 #erukana #lore #religion #mielikki #warden #soltræet

@@ -36,7 +36,7 @@ Sir Winston Wildwood er en ridder af [[02 Player/Erukana (Nissen)/Factions/The Q
 - Forsøger straks at falde af med vilje da dracolichen letter, og falder 50ft
 
 ### Session 46 - Under Soltræet
-- Går forrest ind i katakomberne under [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- Går forrest ind i katakomberne under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - Da han fører hånden hen over rune-inskriptionerne i det første kammer simrer det lidt i hans hånd
 - Ender på 1 hp efter kampen mod Ember Snake-væsenet
 - Får sit våben ødelagt af varmen (senere mendet af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]])
@@ -44,10 +44,10 @@ Sir Winston Wildwood er en ridder af [[02 Player/Erukana (Nissen)/Factions/The Q
 - Modtager troskabsed fra [[02 Player/Erukana (Nissen)/People/Tortin Mikkelborg\|Tortin Mikkelborg]] og [[Saren Valensia\|Saren Valensia]], to Queensguard-riddere rejst nordfra for at finde en ridder til at genetablere ordenen
 
 ### Session 47 - After the dragon essence
-- Tager til kontrolposten og får at vide at byen er under angreb og sydflanken er svag; beder om at der sendes bud til Nibar og Clara ved [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- Tager til kontrolposten og får at vide at byen er under angreb og sydflanken er svag; beder om at der sendes bud til Nibar og Clara ved [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - Deltager i kampen ved det sydlige angreb (Battle of Flowerstreet, 5. Mirtul 1517), hvor [[02 Player/Erukana (Nissen)/People/Tortin Mikkelborg\|Tortrin]] falder
 - Deltager i forsøget på at "[[No Graph/5e Reference/spells/Raise Dead\|Raise Dead]]" Tortrin - hans ånd er draget videre
-- I [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]] ignorerer skeletvogterne Winston, og hans sværds Mielikki-essens slukker, som om den ikke vil bruges mod hendes tjenere
+- I [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]] ignorerer skeletvogterne Winston, og hans sværds Mielikki-essens slukker, som om den ikke vil bruges mod hendes tjenere
 - Sværger sammen med Clarabel en ed over for [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seilling]] (via Speak with Dead) om at hans udstyr kun bruges efter ridderordenens værdier og i forsvar af Erukanas folkefærd
 - Modtager [[02 Player/Erukana (Nissen)/Items/Sir Seillings skjold\|Sir Seillings skjold]] (+3)
 - Skikkelsen på tronen ([[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]]) iagttager Winston på vej ud af gravkammeret

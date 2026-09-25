@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ægrin/","tags":["erukana","npc","azur","wizard"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"npc","Profession":["Ærketroldmand"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Det gamle tempel nordøst for Colville]]"],"Campaign":"Erukana","aliases":["Nibars læremester"],"tags":["erukana","npc","azur","wizard"],"race":"unspecified","role":["scholar","mentor"],"social_status":"unspecified","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Det gamle tempel nordøst for Colville]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ægrin/","tags":["erukana","npc","azur","wizard"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"npc","Profession":["Ærketroldmand"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Det gamle tempel nordøst for Colville]]"],"Campaign":"Erukana","aliases":["Nibars læremester"],"tags":["erukana","npc","azur","wizard"],"race":"unspecified","role":["scholar","mentor"],"social_status":"unspecified","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Det gamle tempel nordøst for Colville]]"}}
 ---
 
 
@@ -14,14 +14,14 @@
 - Genskabelse kræver en ærketroldmand fra broderskabet, en elversmed, arkanisten eller en elversmed-efterkommer
 - [[02 Player/Erukana (Nissen)/Items/Tidsartifaktet\|Tidsartifaktet]] er også skabt af Azurbroderskabet
 - Nogen jager Azurbroderskabet, og flere er forsvundet ([[02 Player/Erukana (Nissen)/Factions/Skyggekompagniet\|Skyggekompagniet]])
-- Anbefaler ikke at gå igennem de 2 døre i blod-delens kammer ([[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]])
+- Anbefaler ikke at gå igennem de 2 døre i blod-delens kammer ([[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]])
 - Giver Nibar [[02 Player/Erukana (Nissen)/Items/Oktogrammet\|Oktogrammet]] - den sidste lærdom - og pålægger ham at rejse et nyt tårn; titlen som ærketroldmand følger med
 
 ## Relationships
 - **Elev**: [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]
 - **Orden**: [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] (Azurbroderskabet)
 - **Jaget af**: [[02 Player/Erukana (Nissen)/Factions/Skyggekompagniet\|Skyggekompagniet]]
-- **Location**: [[02 Player/Erukana (Nissen)/Locations/Det gamle tempel nordøst for Colville\|Det gamle tempel nordøst for Colville]]
+- **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Det gamle tempel nordøst for Colville\|Det gamle tempel nordøst for Colville]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]

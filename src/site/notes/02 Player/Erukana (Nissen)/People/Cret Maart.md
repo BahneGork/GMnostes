@@ -5,7 +5,7 @@
 
 #erukana/npc  #halforc #rødtandklan
 # Cret Maart
-Halv-ork, velkendt i [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
+Halv-ork, velkendt i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] 
 lavstammet men bred og bygget som en okse. 
 Skaldet og arret, med tyk hud på knoerne.
 Glad for livet, griner ofte og højt og drikker gladeligt med venner og bekendte.

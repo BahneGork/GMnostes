@@ -14,11 +14,11 @@ Den lilla plage (også kendt som Time Ender) er en farlig entitet - sandsynligvi
 - Fængslet med staven og tidsartifaktet som nøgle og lås
 - En sølvdrage (patron af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]) gav sit liv og sjæl til staven
 - Staven blev delt i 4 dele for at gøre den sværere at finde
-- [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] ligger under [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] ligger under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 
 ### Korruption
 - Aggressive satyrer har brandemærke: en wyrm der sover og bider sig selv i halen
-- Korruptionen af naturens væsner ligger måske i [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
+- Korruptionen af naturens væsner ligger måske i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]
 - Bladene i Soltræets pond er påvirket (mørke, falmede, slimede)
 
 ### Tidligere referencer

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kong Norgassa/","tags":["erukana","npc","royalty","undead"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"npc","Profession":["Konge"],"Faction":[null],"Location":["[[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum]]"],"Campaign":"Erukana","aliases":["Norgassa"],"tags":["erukana","npc","royalty","undead"],"race":"unspecified","role":["nobility"],"social_status":"royalty","affiliation":[null],"disposition":"conditional","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kong Norgassa/","tags":["erukana","npc","royalty","undead"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"npc","Profession":["Konge"],"Faction":[null],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum]]"],"Campaign":"Erukana","aliases":["Norgassa"],"tags":["erukana","npc","royalty","undead"],"race":"unspecified","role":["nobility"],"social_status":"royalty","affiliation":[null],"disposition":"conditional","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum]]"}}
 ---
 
 
 ## Description
-Kong Norgassa er en død konge begravet i [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]] sammen med sin trofaste ridder [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seilling]]. Tidligere noter beskriver ham som "lidt af en tyran", som Sir Seilling kunne guide i mere nænsomme retninger.
+Kong Norgassa er en død konge begravet i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]] sammen med sin trofaste ridder [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seilling]]. Tidligere noter beskriver ham som "lidt af en tyran", som Sir Seilling kunne guide i mere nænsomme retninger.
 
 ## Notes
 ### Session 47 - After the dragon essence
@@ -16,7 +16,7 @@ Kong Norgassa er en død konge begravet i [[02 Player/Erukana (Nissen)/Locations
 
 ## Relationships
 - **Ridder**: [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seilling]]
-- **Gravsted**: [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
+- **Gravsted**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 - **Udstyr (lånt ud)**: [[02 Player/Erukana (Nissen)/Items/Crown of the kings\|Crown of the kings]], [[02 Player/Erukana (Nissen)/Items/Norgassas krigshammer\|Norgassas krigshammer]]
 
 ## Referenced In

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Fern/","tags":["erukana","npc","treeshaper","soltræet"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]","[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"npc","Profession":["Treeshaper"],"Faction":["[[02 Player/Erukana (Nissen)/Locations/Soltræet]]"],"Location":["[[02 Player/Erukana (Nissen)/Journal/Visdommens kammer]]"],"Campaign":"Erukana","tags":["erukana","npc","treeshaper","soltræet"],"race":"unspecified","role":["druid","scholar"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Soltræet]]"],"disposition":"conditional","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Journal/Visdommens kammer]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Fern/","tags":["erukana","npc","treeshaper","soltræet"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]","[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"npc","Profession":["Treeshaper"],"Faction":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet]]"],"Location":["[[02 Player/Erukana (Nissen)/Journal/Visdommens kammer]]"],"Campaign":"Erukana","tags":["erukana","npc","treeshaper","soltræet"],"race":"unspecified","role":["druid","scholar"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet]]"],"disposition":"conditional","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Journal/Visdommens kammer]]"}}
 ---
 
 
 ![Pasted image 20260210195810.png\|300](/img/user/10%20Attachments/Pasted%20image%2020260210195810.png)
 
 ## Description
-Lord Fern er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|treeshaper]] der opholder sig i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]] i [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]. Han har viden om [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]].
+Lord Fern er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|treeshaper]] der opholder sig i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]. Han har viden om [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]].
 
 ## Notes
 ### Session 41
@@ -22,7 +22,7 @@ Lord Fern er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|treeshaper
 - [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] er også kendt som [[Time Ender\|Time Ender]]
 - [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] ligger under Soltræet
 - Beder gruppen opsøge ham når de er klar til at undersøge krypten
-- Mener korruptionen af naturens væsner måske ligger ude i [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
+- Mener korruptionen af naturens væsner måske ligger ude i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]
 
 ### Session 46 - Under Soltræet
 - Fundet ved bredden af poolen i det lukkede kammer i katakomberne, holdende 2 Ember Snakes fra at komme hen til den sovende [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedriel]]
@@ -36,7 +36,7 @@ Lord Fern er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|treeshaper
 - [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] bliver tilbage og hjælper ham med at "rydde op" i templet ved Soltræet
 
 ## Relationships
-- **Lokation**: [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]] i [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] (tidligere), [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]] i katakomberne (nu)
+- **Lokation**: [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] (tidligere), [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] i katakomberne (nu)
 - **Viden om**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]], staven
 - **Kontakt**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]], [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Jarell Flick]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]
 - **Beskyttede**: [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]] mod Morgions tjenere

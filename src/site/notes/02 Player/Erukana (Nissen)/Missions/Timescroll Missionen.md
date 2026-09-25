@@ -4,11 +4,11 @@
 
 
 ## Description
-Timescroll Missionen var den opgave der bragte [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] i kontakt med [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]] og [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]. [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] fra [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] hyrede [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til at skaffe disse artefakter fra [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/Solstice\|Solstice]].
+Timescroll Missionen var den opgave der bragte [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] i kontakt med [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]] og [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]. [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] fra [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] hyrede [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til at skaffe disse artefakter fra [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/Solstice\|Solstice]].
 
 ## Notes
 ### Session 1
-- [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] hyrede [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til missionen
+- [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] hyrede [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til missionen
 - En gruppe eventyrere blev sendt til [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/Solstice\|Solstice]] for at hente scrollet
 - Gruppen blev dræbt af 17 [[02 Player/Erukana (Nissen)/Factions/Rød tand stammen\|Rød tand stammen]] orker i et baghold
 - Den døde sellsword bar et papir med opgaven fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]

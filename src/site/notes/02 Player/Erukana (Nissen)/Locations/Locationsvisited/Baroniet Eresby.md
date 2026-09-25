@@ -1,0 +1,46 @@
+---
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby/","tags":["erukana","location"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/8-160324 - Changer of time session 8|session 8]]","[[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16|session 16]]","[[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1|session 1]]"],"type":"location","subtype":null,"campaign":"Erukana","aliases":["Eresby"],"tags":["erukana","location"]}}
+---
+
+
+# Baroniet Eresby
+
+Main:
+Related: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]]
+Skik og kultur: [[02 Player/Erukana (Nissen)/Setting lore/skik og kultur i Eresby\|skik og kultur i Eresby]]
+
+## Beskrivelse:
+Eresby er baroniet som grænser op til [[passet mod syd\|passet mod syd]] og det største kontinent i hele [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]]. Eresby nyder godt af handelskaravaner som kommer igennem, i deres rejse mod [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]. I sig selv har Eresby ikke meget at byde på ud over frodige vidder hvor landbrug og bomuld udvindes.
+Alligevel er området populært for folk og rejsende.
+
+## Ruler
+[[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]] af Eresby
+
+## Notable Locations
+
+[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] (ca. 500.000 indbyggere)
+
+"Kegville" - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] (ca. 8.500 indbyggere) – En rejse kro og destination for handelsfolk på vej igennem landet.
+Grundet kroens berømmelse er der over de sidste halvt hundrede år, flyttet folk til og opbygget en åben by. [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of Baron Zhaarko]] har tilladt dette, skønt byens folk ikke betaler skatter til ham.
+
+## Handel & Alliancer
+- Viden
+- kuriositeter
+- landbrug
+- bomuld
+
+## Notes
+### Session 43
+- Eresby erklærer krig mod [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] — [[02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray\|Baroniet Mowbray]] støtter Eresby
+- [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]s eventyrer guild er stillet i bero pga. krigen
+- [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] holdes fanget af [[02 Player/Erukana (Nissen)/Factions/Draconkin\|Draconkin]] i Eresbybjergene sydpå, grænsende mod [[Ceystanya\|Ceystanya]]
+- Bekræftet via Clarabels commune (Tarsakh 22 og 24): Evelyn er i live
+- [[02 Player/Erukana (Nissen)/Locations/Stampenborg\|Stampenborg]] nævnes som mulig lokation ([[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]])
+
+## Referenced In
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
+- [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]
+- [[02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning\|Journal/Kapitel 1 - Afslutning]]
+
+## Tags
+#erukana #location #barony

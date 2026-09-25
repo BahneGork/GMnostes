@@ -7,7 +7,7 @@
 Lensherren i [[Stirling\|Stirling]] 
 har 1 søn, Kasimér 
 er enkemand, hvis kone døde i barsels sengen for 17-19år siden 
-langvarig rival med [[House Lightner\|House Lightner]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]
+langvarig rival med [[House Lightner\|House Lightner]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]
 
 Magdova familien har støttet [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] i mange årtier
 

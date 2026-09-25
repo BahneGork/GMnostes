@@ -16,14 +16,14 @@
 
 ## Notes
 ### Session 47 - After the dragon essence
-- Hans kiste står på højkant som en sarkofag i en niche i gravkammeret i [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
+- Hans kiste står på højkant som en sarkofag i en niche i gravkammeret i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 - Kisten: S indgraveret over et L, simpelt "heater shield"-skjold med blålig aura på metalkanten, lanse/spyd - både våben og skjold ser ud som om de er smedet i går
 - [[02 Player/Erukana (Nissen)/Characters/Viktor Baigorri\|Victor]] kaster Speak with Dead på ham; [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]] og [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] sværger en ed om at hans udstyr kun bruges efter ridderordenens værdier og i forsvar af Erukanas folkefærd
 - Udstyr lånt af gruppen: [[02 Player/Erukana (Nissen)/Items/Sir Seillings skjold\|Sir Seillings skjold]], [[02 Player/Erukana (Nissen)/Items/Sir Seillings lanse\|Sir Seillings lanse]]
 
 ## Relationships
 - **Tjente**: [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]]
-- **Gravsted**: [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
+- **Gravsted**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 - **Udstyr**: [[02 Player/Erukana (Nissen)/Items/Sir Seillings skjold\|Sir Seillings skjold]], [[02 Player/Erukana (Nissen)/Items/Sir Seillings lanse\|Sir Seillings lanse]] (lånt af gruppen under ed)
 
 ## Referenced In

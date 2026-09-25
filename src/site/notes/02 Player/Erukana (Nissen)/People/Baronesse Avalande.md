@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baronesse Avalande/","tags":["erukana","npc","nobility","missing"],"dg-note-properties":{"category":"npc","Profession":["Baron"],"Faction":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Welles]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"Location":["[[Welles]]"],"Campaign":"Erukana","aliases":["Baronessen","Avalande"],"tags":["erukana","npc","nobility","missing"],"race":"human","role":["nobility","resistance"],"social_status":"baron","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Welles]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"disposition":"ally","status":"missing","location_primary":"[[Welles]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Baronesse Avalande/","tags":["erukana","npc","nobility","missing"],"dg-note-properties":{"category":"npc","Profession":["Baron"],"Faction":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"Location":["[[Welles]]"],"Campaign":"Erukana","aliases":["Baronessen","Avalande"],"tags":["erukana","npc","nobility","missing"],"race":"human","role":["nobility","resistance"],"social_status":"baron","affiliation":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"disposition":"ally","status":"missing","location_primary":"[[Welles]]"}}
 ---
 
 
@@ -18,7 +18,7 @@ Baronesse Avalande er Baronesse af Welles. Hun er forsvundet. I [[02 Player/Eruk
 - Eftersøges af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 
 ## Relationships
-- **Baroni**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] - Baronesse af Welles
+- **Baroni**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] - Baronesse af Welles
 - **Alliance**: [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]] - kæmper sammen i Nibars vision
 - **Forbindelse**: Safir-tatovering som gruppen
 - **Hof**: [[02 Player/Erukana (Nissen)/Factions/Court of Baronesse Avalande\|Court of Baronesse Avalande]]

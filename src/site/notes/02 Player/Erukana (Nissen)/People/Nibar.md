@@ -31,12 +31,12 @@ Nibar Brassbit er en gnomisk troldmand og et af de originale medlemmer af gruppe
 
 ### Session 26
 - Havde en drøm om troldmænd der udførte et ritual med en stav af sølvdrageknogler
-- Staven splintrede i dele: ben, ild, blod, sjæl - ben-delen i [[02 Player/Erukana (Nissen)/Locations/StormBjerget\|StormBjerget]]
+- Staven splintrede i dele: ben, ild, blod, sjæl - ben-delen i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/StormBjerget\|StormBjerget]]
 - Teleporterede sig selv til gruppens position via tatoveringernes forbindelse
 - Polymorfer Logan til en kæmpeugle for rekognoscering
 
 ### Session 44 - Feywood-ekspeditionen
-- Sender en ugle familiar ud til [[02 Player/Erukana (Nissen)/Factions/Fafnirs gruppe\|Fafnirs gruppe]] og modtager et kort over [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
+- Sender en ugle familiar ud til [[02 Player/Erukana (Nissen)/Factions/Fafnirs gruppe\|Fafnirs gruppe]] og modtager et kort over [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]
 - Udfører et magisk ritual og ser koncentrationer af lilla magi-knudepunkter i skoven, koncentreret omkring stendyssen [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] pegede ud
 - Finder ud af at den forladte vogn ved rastepladsen er fanget i en tidslomme hvor tiden går hurtigere
 - Bruger DREAM til at kontakte [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] og informere om den lilla plages march mod [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
@@ -51,7 +51,7 @@ Nibar Brassbit er en gnomisk troldmand og et af de originale medlemmer af gruppe
 ### Session 46 - Under Soltræet
 - Går ned ad en gang i katakomberne hvor fakler tændes hver gang han kommer tæt på dem
 - Ser noget gyldent og et par gyldne øjne i søen i kammeret med 3 udgange; forstyrrer vandet med Mage Hand så øjnene forsvinder
-- Tager nogle krystaller i [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]]
+- Tager nogle krystaller i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]]
 - Caster Fly på hele gruppen så de kan flyve op gennem sprækken over Hjertekammeret
 - Flyver til Waning Moon mansion med [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]] for at undersøge skaderne
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] fortæller ham at han skal finde sin mentor, som kan hjælpe med at samle [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]]
@@ -60,7 +60,7 @@ Nibar Brassbit er en gnomisk troldmand og et af de originale medlemmer af gruppe
 - Tager afsted mod kontrolposten da der sendes bud til ham og Clara ved Soltræet; møder budet på vejen og sendes til det sydlige angreb på byen
 - Deltager i forsøget på at "[[No Graph/5e Reference/spells/Raise Dead\|Raise Dead]]" [[02 Player/Erukana (Nissen)/People/Tortin Mikkelborg\|Tortrin]] - hans ånd er draget videre
 - Sender en Sending til sin læremester for at få en teleportation circle-kode; svaret: *"hvad i aller dybe grotters navn er dette, har den knægt nu glemt mit navn, nej. find mig i det gamle tempel en halv dag nordøst fra colville"*
-- Åbner en teleportation circle til [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
+- Åbner en teleportation circle til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 - Kaster Arcane Gate så gruppen kan krydse en flod på vej mod templet
 - En [[No Graph/5e Reference/monsters/Doppelganger\|Doppelganger]] udgiver sig for hans læremester og forsøger at dræbe ham; den rigtige læremester, [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]], findes bundet i en kiste
 - Privat samtale med Ægrin:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kaelen/","tags":["erukana","npc","captain"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"npc","Profession":["captain","sky captain"],"Faction":[],"Location":["[[02 Player/Erukana (Nissen)/Locations/Port Drakkan]]"],"Campaign":"Erukana","aliases":["Kaelen","sky kaptajn Kaelen"],"tags":["erukana","npc","captain"],"race":"unspecified","role":["military"],"social_status":"officer","affiliation":[],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Port Drakkan]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Kaelen/","tags":["erukana","npc","captain"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"npc","Profession":["captain","sky captain"],"Faction":[],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan]]"],"Campaign":"Erukana","aliases":["Kaelen","sky kaptajn Kaelen"],"tags":["erukana","npc","captain"],"race":"unspecified","role":["military"],"social_status":"officer","affiliation":[],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan]]"}}
 ---
 
 
@@ -14,7 +14,7 @@ Kaelen er en sky-kaptajn med en metal plade med en blå sten der, hvor hans øje
 
 ## Relationships
 - **Ship**: [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]]
-- **Location**: [[02 Player/Erukana (Nissen)/Locations/Port Drakkan\|Port Drakkan]]
+- **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan\|Port Drakkan]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]

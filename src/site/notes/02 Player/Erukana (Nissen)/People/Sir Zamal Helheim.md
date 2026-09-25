@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Zamal Helheim/","tags":["erukana","npc","noble","lensherre"],"dg-note-properties":{"category":"npc","Profession":["Lensherre"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Erukana]]"],"Campaign":"Erukana","tags":["erukana","npc","noble","lensherre"],"race":"human","role":["nobility"],"social_status":"lord","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Erukana]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Sir Zamal Helheim/","tags":["erukana","npc","noble","lensherre"],"dg-note-properties":{"category":"npc","Profession":["Lensherre"],"Faction":null,"Location":["[[02 Player/Erukana (Nissen)/Locations/Erukana1]]"],"Campaign":"Erukana","tags":["erukana","npc","noble","lensherre"],"race":"human","role":["nobility"],"social_status":"lord","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Erukana1]]"}}
 ---
 
 
 ## Description
-Sir Zamal Helheim er en lensherre i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. [[02 Player/Erukana (Nissen)/People/Petyr Gottmann\|Petyr Gottmann]] arbejder for ham som konstabel.
+Sir Zamal Helheim er en lensherre i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. [[02 Player/Erukana (Nissen)/People/Petyr Gottmann\|Petyr Gottmann]] arbejder for ham som konstabel.
 
 ## Notes
 ### Position

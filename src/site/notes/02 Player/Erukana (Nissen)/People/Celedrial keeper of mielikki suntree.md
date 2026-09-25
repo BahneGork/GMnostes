@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree/","tags":["erukana","npc","mielikki","soltræet","keeper"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7|session 7]]","[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","aliases":["Celedrial","Celedriels"],"Profession":["Keeper"],"Faction":["[[02 Player/Erukana (Nissen)/People/Mielikki]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Soltræet]]"],"Campaign":"Erukana","tags":["erukana","npc","mielikki","soltræet","keeper"],"race":"hybrid","role":["druid","religious"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Mielikki]]","[[02 Player/Erukana (Nissen)/Locations/Soltræet]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Soltræet]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree/","tags":["erukana","npc","mielikki","soltræet","keeper"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7|session 7]]","[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","aliases":["Celedrial","Celedriels"],"Profession":["Keeper"],"Faction":["[[02 Player/Erukana (Nissen)/People/Mielikki]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet]]"],"Campaign":"Erukana","tags":["erukana","npc","mielikki","soltræet","keeper"],"race":"hybrid","role":["druid","religious"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Mielikki]]","[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet]]"}}
 ---
 
 
 ## Description
-Celedrial er keeper af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræ]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Hun beskrives som halv-hjort, halv-kvinde ved et oldgammelt Mielikki-tempel. Hun giver religiøs rådgivning og har hjulpet [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] med at kontrollere hendes varulv-tilstand.
+Celedrial er keeper af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræ]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Hun beskrives som halv-hjort, halv-kvinde ved et oldgammelt Mielikki-tempel. Hun giver religiøs rådgivning og har hjulpet [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] med at kontrollere hendes varulv-tilstand.
 
 ## Notes
 ### Session 7 & 9
@@ -14,7 +14,7 @@ Celedrial er keeper af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s
 ### Session 12
 - Placerede [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] i en regenerativ kokon
 - Talte med [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] om kontrol af varulven
-- Giver religiøs rådgivning ved [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- Giver religiøs rådgivning ved [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 
 ### Session 17
 - Tilbød at hjælpe Clarabel med hendes varulve-identitet
@@ -24,7 +24,7 @@ Celedrial er keeper af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s
 - [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] passer ponden i hendes fravær
 
 ## Relationships
-- **Tempel**: [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- **Tempel**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - **Guddom**: [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]] - Keeper af hendes Suntree
 - **Underordnet**: [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]]
 - **Hjælper**: [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] - placerede hende i regenerativ kokon

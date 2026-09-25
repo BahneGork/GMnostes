@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Tyra volkmarr/","tags":["erukana","npc","bahamut","priest"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]"],"category":"npc","Profession":["Præst af Bahamut"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","bahamut","priest"],"race":"dwarf","role":["religious"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Bahamut]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Tyra volkmarr/","tags":["erukana","npc","bahamut","priest"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]"],"category":"npc","Profession":["Præst af Bahamut"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Bahamuts Tilhængere]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley]]"],"Campaign":"Erukana","tags":["erukana","npc","bahamut","priest"],"race":"dwarf","role":["religious"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Bahamut]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley]]"}}
 ---
 
 
 ## Description
-Tyra Volkmarr er en rødhåret dværg og præst af Bahamut. Hun bærer kåbe og brynje med en warhammer, og har slange-tatoveringer. Hun befinder sig ved [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] hvor flere af de tilstedeværende skjuler Bahamuts mærke.
+Tyra Volkmarr er en rødhåret dværg og præst af Bahamut. Hun bærer kåbe og brynje med en warhammer, og har slange-tatoveringer. Hun befinder sig ved [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] hvor flere af de tilstedeværende skjuler Bahamuts mærke.
 
 ## Notes
 ### Session 9
@@ -15,7 +15,7 @@ Tyra Volkmarr er en rødhåret dværg og præst af Bahamut. Hun bærer kåbe og 
 
 ## Relationships
 - **Gud**: Bahamut - præst
-- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]]
 - **Kontakt**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] - deler Bahamut-tilbedelse
 
 ## Referenced In

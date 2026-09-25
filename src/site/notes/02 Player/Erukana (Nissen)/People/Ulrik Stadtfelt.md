@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrik Stadtfelt/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","antagonist"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Chauntea]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Mistville]]","aliases":["Ulrick Stadtfeldt"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrik Stadtfelt/","tags":["erukana","npc"],"dg-note-properties":{"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["religious","antagonist"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Chauntea]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]","aliases":["Ulrick Stadtfeldt"]}}
 ---
 
 
 ## Original Content
 
 #erukana/npc #erukana/villain
-# Præst Af [[02 Player/Erukana (Nissen)/People/Chauntea\|Chauntea]] I [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+# Præst Af [[02 Player/Erukana (Nissen)/People/Chauntea\|Chauntea]] I [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
 
 ![Pasted image 20231021193240.png\|300](/img/user/10%20Attachments/Pasted%20image%2020231021193240.png)
 
 Ulrick Stadtfeldt er en ældre mand, der klæder sig i naturfarvet og tilnærmelsesvis slidte gevandter. 
 Han er godt oppe i årene, men virker i fuld vigør selvom han er bleg og virker hærget. 
-Han befærder sig rundt i hele [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] og er kendt af alle, specielt i hans funktion som forkynder af [[02 Player/Erukana (Nissen)/People/Chauntea\|Chauntea]]’s ord og er den facto præst for byen.
+Han befærder sig rundt i hele [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] og er kendt af alle, specielt i hans funktion som forkynder af [[02 Player/Erukana (Nissen)/People/Chauntea\|Chauntea]]’s ord og er den facto præst for byen.
 
 # Clarabel's Første Møde Med Ulrik
 

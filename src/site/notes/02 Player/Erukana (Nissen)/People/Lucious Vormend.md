@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lucious Vormend/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10|session 10]]","[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"military","social_status":"officer","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Feywood]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lucious Vormend/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10|session 10]]","[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":"military","social_status":"officer","affiliation":[],"disposition":"neutral","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood]]"}}
 ---
 
 
@@ -21,7 +21,7 @@ Lucious Vormend er en kaptajn med 10-11 soldater stationeret ved Eastwatch-ruine
 
 ## Relationships
 - **Tilknytning**: [[02 Player/Erukana (Nissen)/People/Erika Songfelt\|Erika Songfelt]] ved Eastwatch-ruinerne
-- **Lokation**: Eastwatch-ruinerne i [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
+- **Lokation**: Eastwatch-ruinerne i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10\|10 - 220524 - Changer of time session 10]]

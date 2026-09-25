@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Maelar/","tags":["erukana","npc","mielikki","soltræet"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","Profession":["Tempelvogter"],"Faction":["[[02 Player/Erukana (Nissen)/People/Mielikki]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Soltræet]]"],"Campaign":"Erukana","tags":["erukana","npc","mielikki","soltræet"],"race":"unspecified","role":["religious"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Mielikki]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Soltræet]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Maelar/","tags":["erukana","npc","mielikki","soltræet"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"npc","Profession":["Tempelvogter"],"Faction":["[[02 Player/Erukana (Nissen)/People/Mielikki]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet]]"],"Campaign":"Erukana","tags":["erukana","npc","mielikki","soltræet"],"race":"unspecified","role":["religious"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/People/Mielikki]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet]]"}}
 ---
 
 
 ## Description
-Maelar passer ponden i [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] mens [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial]] ikke er tilstede.
+Maelar passer ponden i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] mens [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial]] ikke er tilstede.
 
 ## Notes
 ### Session 41
@@ -13,10 +13,10 @@ Maelar passer ponden i [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræ
 - Viser Clarabel et af bladene: lille sammenkrøllet, grønt og frodigt men mørkt, falmet og hårdt, ser vådt og slimet ud på kanterne
 - Introduceres for [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]] af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]]
 - Fortæller om aggressive satyrer på rejsen
-- Anbefaler at snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]]
+- Anbefaler at snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]]
 
 ## Relationships
-- **Tempel**: [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- **Tempel**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - **Overordnet**: [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial]]
 - **Guddom**: [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 

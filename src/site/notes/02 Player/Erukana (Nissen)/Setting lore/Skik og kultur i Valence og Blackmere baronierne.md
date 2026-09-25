@@ -5,7 +5,7 @@
 
 #erukana #valence #blackmere #people 
 
-Related: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]], [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]],. [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+Related: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]], [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]],. [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]], [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 
 # Skik, Brug Og Kultur I VALENCE & BLACKMERE
 
