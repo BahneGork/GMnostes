@@ -15,9 +15,9 @@
 
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Mowbray\|Baroniet Mowbray]]
 
-- [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]
 
-- [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 
 # States
 - [[02 Player/Erukana (Nissen)/People/Silverstream\|Silverstream]]

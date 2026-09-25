@@ -4,7 +4,7 @@
 
 
 ## Description
-Dragefolket er en race af drageblodede væsner i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. De er en af de krigeriske racer der lever i vildmarken og udgør en trussel mod civiliserede lande.
+Dragefolket er en race af drageblodede væsner i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. De er en af de krigeriske racer der lever i vildmarken og udgør en trussel mod civiliserede lande.
 
 ## Notes
 ### Karakteristika

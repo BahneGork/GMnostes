@@ -11,7 +11,7 @@ Omrejsende merchants, årelange rejser.
 
 20th flamerule møder vi dem overfaldet af hill giants 
 
-Zazmir stammen, nomader. Fra det forbudte øst - [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]], [[02 Player/Erukana (Nissen)/Locations/sistana\|sistana]], [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]].
+Zazmir stammen, nomader. Fra det forbudte øst - [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]], [[02 Player/Erukana (Nissen)/Locations/sistana\|sistana]], [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]].
 
 handler primært med 
 - silke 

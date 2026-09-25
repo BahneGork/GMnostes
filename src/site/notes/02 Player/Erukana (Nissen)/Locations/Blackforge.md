@@ -4,7 +4,7 @@
 
 
 ## Description
-**Bemærk: Blackforge er en LOKATION, ikke en person.** Blackforge er Baron Breys hovedstad i Baroniet Mowbray med ca. 700.000 indbyggere. Byen er berømt for sin våbensmedning. Denne fil er fejlplaceret i People-mappen.
+Blackforge er Baron Breys hovedstad i Baroniet Mowbray med ca. 700.000 indbyggere. Byen er berømt for sin våbensmedning. 
 
 ## Notes
 - Hovedstad i Baroniet Mowbray

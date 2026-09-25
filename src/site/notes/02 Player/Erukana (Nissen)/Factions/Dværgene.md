@@ -4,13 +4,13 @@
 
 
 ## Description
-Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] og [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. De bor primært i underjordiske haller i bjergene, hvor de dyrker deres traditioner for håndværk, minedrift og stenarbejde.
+Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] og [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. De bor primært i underjordiske haller i bjergene, hvor de dyrker deres traditioner for håndværk, minedrift og stenarbejde.
 
 ## Notes
 ### Dværgehaller
 - **[[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]** - Den ældste og mest traditionelle hal, styret af Rådet af Bjerget
 - **[[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Silverstream dværge hallerne]]** - En nyere hal med mere progressive holdninger, har egen Højkonge
-- **Glemte dværge haller** - Gamle haller under [[02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves\|Dark Gem Kobold clan caves]] med magisk forseglede døre
+- **Glemte dværge haller** - Gamle haller under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Kobold clan caves]] med magisk forseglede døre
 
 ### Ledelse
 - **[[Højkongen Gorm den tålmodige\|Højkongen Gorm den tålmodige]]** - Hersker over Silverstream (dværg)

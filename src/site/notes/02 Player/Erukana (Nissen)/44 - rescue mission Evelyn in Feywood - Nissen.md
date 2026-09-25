@@ -11,8 +11,8 @@
 - Uglen kommer tilbage med et kort over Feywood 
 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-27' data-date-end='' data-img='Inline Example/Event_2.jpg' data-name='Feywood expedition to rescue Evelyn Adair'></span>
-	- Vi sætter mod Øst, ud mod [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
-	- efter ½ dag ankommer vi til udkanten af [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]] 
+	- Vi sætter mod Øst, ud mod [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]
+	- efter ½ dag ankommer vi til udkanten af [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]] 
 	- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] laver et magisk ritual og ser en masse lilla magi knude punkter for sig i skoven som var han en fugl der fløj hen over skoven. 
 	- han har set en koncentration af lilla energi omkring sten dyssen som [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] har peget ud for os 
 	- Logan ridder foran og scouter 
@@ -40,14 +40,14 @@
 		- vi holder lejr i byen 
 		- Nibar bruger formularen DREAM for at kontakte Clara og informere om den lilla plages march mod Astley 
 		- Clarabel beslutter at droppe hendes spontane expedition til soltræet for at finde [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] og istedet mobilisere Astley til enten at evakuere eller stå imod den lilla plage's bølge 
-	- Gruppen i [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]] begiver sig videre i aftenen mod stendyngen
+	- Gruppen i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]] begiver sig videre i aftenen mod stendyngen
 	- vi ankommer til et område hvor der er 8 sten søjler i en oktagon form 
 	- Der er en stor baunta sten hvor der er hamret en stor amathyst sten ind i, i midten af oktagonen
 	- Der er 2 [[No Graph/5e Reference/Dragonborn\|Dragonborn]] der står vægt der inde og en kobold der står i bøn op imod amatysten
 	- Logan starter kampen med at skyde en pil i baghovedet på kobolden og den er død 
 	- Winston ridder ind og angriber en dragon born, som har rustning på der ignorerer crits. 
 	- Da kampen er overstået forsøger Nibar og Victor at gøre noget ved amatyst stenen 
-	- Hatchet Thule træder frem, det var ham der skød en pil i en af dragemændene ude fra skoven af, han fortæller at der er 6 sites med amatyst sten i bautasten i [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]. 
+	- Hatchet Thule træder frem, det var ham der skød en pil i en af dragemændene ude fra skoven af, han fortæller at der er 6 sites med amatyst sten i bautasten i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]. 
 	- Vi antager at hver sten kontrollerer 1/6 af "flokken"
 	- Vi drager sydpå og finder endnu en sten og deaktiverer den 
 	- Vi drager sydpå igen og finder endnu en sten, denne gang er der 4 bodyguards 

@@ -4,7 +4,7 @@
 
 
 ## Description
-Stampenborg er et sted [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] nævnte i forbindelse med [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]s tilfangetagelse. Muligvis en borg eller fæstning i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]-regionen.
+Stampenborg er et sted [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] nævnte i forbindelse med [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]s tilfangetagelse. Muligvis en borg eller fæstning i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]-regionen.
 
 ## Notes
 ### Session 43
@@ -13,7 +13,7 @@ Stampenborg er et sted [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelo
 - Evelyn er ifølge commune i bjergene sydpå i Eresby, grænsende mod [[Ceystanya\|Ceystanya]]
 
 ## Relationships
-- **Region**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] (sandsynligvis)
+- **Region**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] (sandsynligvis)
 - **Connected to**: [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] (mulig fangested)
 - **Mentioned by**: [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
 

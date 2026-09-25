@@ -8,7 +8,7 @@ Azur ordenen (også kendt som Safir Ordenen) er en orden forbundet med [[02 Play
 
 ## Notes
 ### Session 8
-- [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]] og [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] besøgte [[02 Player/Erukana (Nissen)/Locations/Arcana tårnet\|Arcana tårnet]] som eksploderede.
+- [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]] og [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] besøgte [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Arcana tårnet\|Arcana tårnet]] som eksploderede.
 - I Nibars vision: [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] omgivet af Azur ordenen kæmper mod en barbar, en wizard, en mørk ridder og en dværgekriger. De vil have fat i Avalandes stav, og hun knækker staven.
 
 ### Session 43
@@ -22,7 +22,7 @@ Azur ordenen (også kendt som Safir Ordenen) er en orden forbundet med [[02 Play
 - Staven blev delt i 4 dele for at gøre den sværere at finde
 
 ### Session 46 - Under Soltræet
-- Legend Lore i [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]] afslører: dette er 1 af 4 lokationer ordenen brugte til at spærre Staven inde, beskyttet af en triade af guder sammen med menneskelig magi
+- Legend Lore i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] afslører: dette er 1 af 4 lokationer ordenen brugte til at spærre Staven inde, beskyttet af en triade af guder sammen med menneskelig magi
 - Sølvdragen identificeres nu ved navn: [[02 Player/Erukana (Nissen)/Lore/Sølvdragen\|Seralyth]] - hendes dragelig ligger i Hjertekammeret, og hendes korrumperede aspekt er dracolichen der angreb Astley (session 45)
 
 ### Session 47 - After the dragon essence
@@ -39,7 +39,7 @@ Azur ordenen (også kendt som Safir Ordenen) er en orden forbundet med [[02 Play
 - **Associeret**: [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]]
 - **Modstander**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]
 - **Artefakt**: [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]]
-- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Arcana tårnet\|Arcana tårnet]], [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]] (1 af 4 fængselslokationer)
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Arcana tårnet\|Arcana tårnet]], [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] (1 af 4 fængselslokationer)
 - **Medlemmer**: [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] (ny, via [[02 Player/Erukana (Nissen)/Items/Oktogrammet\|Oktogrammet]])
 - **Jages af**: [[02 Player/Erukana (Nissen)/Factions/Skyggekompagniet\|Skyggekompagniet]]
 

@@ -16,7 +16,7 @@ Svinestien er et drikkested i [[02 Player/Erukana (Nissen)/Locations/Astley\|Ast
 
 ## Relationships
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] shanty town
-- **Information**: Carl gav information om [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]] bæstet
+- **Information**: Carl gav information om [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]] bæstet
 - **Type**: Drikkested med hasardspil
 
 ## Referenced In

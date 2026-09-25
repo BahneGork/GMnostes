@@ -4,11 +4,11 @@
 
 
 ## Description
-Blod delen af staven er en af fire dele af en stav der fungerer som nøgle til fængslet der holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]. Denne del ligger under [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]].
+Blod delen af staven er en af fire dele af en stav der fungerer som nøgle til fængslet der holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]. Denne del ligger under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]].
 
 ## Notes
 ### Session 41
-- [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] afslører at denne del ligger under [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] afslører at denne del ligger under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - Staven blev delt i 4 dele efter devisen at det er sværere at finde 4 dele end 1
 - En sølvdrage (patron af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]) gav sit liv og sjæl til staven
 - Staven og tidsartifaktet er nøgle og lås til fængslet
@@ -20,7 +20,7 @@ Blod delen af staven er en af fire dele af en stav der fungerer som nøgle til f
 4. Ukendt del
 
 ## Relationships
-- **Lokation**: Under [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- **Lokation**: Under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - **Del af**: Staven (nøgle til fængslet)
 - **Relateret til**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]], tidsartifaktet
 - **Oprindelse**: Sølvdragens liv og sjæl

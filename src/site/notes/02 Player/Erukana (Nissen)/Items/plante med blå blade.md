@@ -4,7 +4,7 @@
 
 
 ## Description
-Plante med blå blade er en sjælden plante fundet i tunnellerne ved [[02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves\|Dark Gem Kobold Clan Caves]]. Den kan bruges til at lave healende pulp når den blandes med [[02 Player/Erukana (Nissen)/Items/jernurt\|jernurt]].
+Plante med blå blade er en sjælden plante fundet i tunnellerne ved [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Kobold clan caves]]. Den kan bruges til at lave healende pulp når den blandes med [[02 Player/Erukana (Nissen)/Items/jernurt\|jernurt]].
 
 ## Notes
 ### Session 1
@@ -23,7 +23,7 @@ Plante med blå blade er en sjælden plante fundet i tunnellerne ved [[02 Player
 - [[02 Player/Erukana (Nissen)/Journal/Natteblommer\|Natteblommer]] - lignende healende egenskaber når kombineret med jernurt
 
 ## Relationships
-- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Dark Gem Kobold clan caves\|Dark Gem Kobold Clan Caves]]
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Kobold clan caves]]
 - **Kombineres med**: [[02 Player/Erukana (Nissen)/Items/jernurt\|jernurt]]
 - **Lignende**: [[02 Player/Erukana (Nissen)/Journal/Natteblommer\|Natteblommer]]
 

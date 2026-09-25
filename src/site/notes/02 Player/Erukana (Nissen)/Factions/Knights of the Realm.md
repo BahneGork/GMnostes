@@ -4,7 +4,7 @@
 
 
 ## Description
-Knights of the Realm (Rigets Riddere) er [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]s egen ridderorden. De er loyale mod Kongen og adlen i Erukana, med hovedkvarter ved [[02 Player/Erukana (Nissen)/Locations/Castle Feucenberg\|Castle Feucenberg]] i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]].
+Knights of the Realm (Rigets Riddere) er [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]s egen ridderorden. De er loyale mod Kongen og adlen i Erukana, med hovedkvarter ved [[02 Player/Erukana (Nissen)/Locations/Castle Feucenberg\|Castle Feucenberg]] i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]].
 
 ## Notes
 ### Organisation

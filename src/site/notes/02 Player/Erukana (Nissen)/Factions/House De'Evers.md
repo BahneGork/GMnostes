@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House De'Evers/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5|session 5]]"],"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"conditional","leader":["[[02 Player/Erukana (Nissen)/People/Lady De'evers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Mistville]]"],"Campaign":"Erukana","aliases":["De'Evers familien"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/House De'Evers/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5|session 5]]"],"category":"faction","faction_type":"noble-house","status":"active","friend-or-foe":"conditional","leader":["[[02 Player/Erukana (Nissen)/People/Lady De'evers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]"],"Campaign":"Erukana","aliases":["De'Evers familien"],"tags":["erukana","faction"]}}
 ---
 
 
 ## Description
-House De'Evers er en adelsfamilie baseret i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]. Familien har i mange år været affilieret med [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]], men leder [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]] har valgt at bryde disse bånd.
+House De'Evers er en adelsfamilie baseret i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]. Familien har i mange år været affilieret med [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]], men leder [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]] har valgt at bryde disse bånd.
 
 ## Members
 - **[[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]** - Familiens leder, adelsdame i Mistville
@@ -17,7 +17,7 @@ House De'Evers er en adelsfamilie baseret i [[02 Player/Erukana (Nissen)/Locatio
 - 2 Rose Riddere ankom til Mistville og bankede på hos De'Evers huset
 
 ## Relationships
-- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
 - **Tidligere tilknytning**: [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] (nu brudt)
 - **Kontakt**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 

@@ -13,7 +13,7 @@ Tidsartifaktet er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/
 - Forbundet med [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]] og sølvdragen
 
 ### Session 46 - Under Soltræet
-- De to metaldøre i [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]] kan måske aktiveres af Tidsartifaktet, men det skal repareres først
+- De to metaldøre i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] kan måske aktiveres af Tidsartifaktet, men det skal repareres først
 - [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]], [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn]] forsøger at reparere det
 - Evelyn messer intenst til sin gudinde under processen; forbindelsen virker unormalt stærk
 - Tidsartifaktet bliver repareret, men prisen er at nogen frivilligt og oplyst giver sin essens - farven forsvinder fra Evelyns krop i takt med at timeglasset fyldes, til kun kroppen er tilbage

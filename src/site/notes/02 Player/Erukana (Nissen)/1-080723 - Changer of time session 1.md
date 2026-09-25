@@ -6,7 +6,7 @@
 #erukana #erukanasessionlog 
 
 # On the 6th of Flamerule in the Barony of Eresby
-På vej hjem til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] fra [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] beslutter gruppen sig for at søge mod en røgsøjle i horisonten for læ for natten. Men kort efter at de har vendt snuden vestpå ser de en flok fugle kredse og sender [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] afsted for at se det an. 
+På vej hjem til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] fra [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] beslutter gruppen sig for at søge mod en røgsøjle i horisonten for læ for natten. Men kort efter at de har vendt snuden vestpå ser de en flok fugle kredse og sender [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] afsted for at se det an. 
 
 ## Fallen Ambush
 Foran et buskads i kanten af en skov, der egner sig til et flaskehals baghold, ligger 17 døde Orker og en enkelt Sellsword. Manden har en hemmelig pung under armen med lidt mønter og et papir med en opgave fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. ([[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]])  
@@ -28,7 +28,7 @@ Efter at have ventet 10-15min går vi ind i hulen, stopper ved koboldernes barri
 
 [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  intimederer kobolderne, uden trusler og [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] ytre til sidst "bring os skriftrullen eller vi må tage den med magt", inden længe ligger der 8 døde kobolder. Clarabel's hår skifter til rødt i kampens hede.
 
-Længere inde i hulen er der 3 udgange: [[02 Player/Erukana (Nissen)/Locations/Dark Gem Cave - Tunnel med vandrisle lyde\|Dark Gem Cave - Tunnel med vandrisle lyde]] - [[02 Player/Erukana (Nissen)/Locations/Dark Gem Cave - Tunnel med violet lys\|Dark Gem Cave - Tunnel med violet lys]] - [[02 Player/Erukana (Nissen)/Locations/Dark Gem Cave - Tunnel til affaldsrum\|Dark Gem Cave - Tunnel til affaldsrum]]
+Længere inde i hulen er der 3 udgange: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Cave - Tunnel med vandrisle lyde\|Dark Gem Cave - Tunnel med vandrisle lyde]] - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Cave - Tunnel med violet lys\|Dark Gem Cave - Tunnel med violet lys]] - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Cave - Tunnel til affaldsrum\|Dark Gem Cave - Tunnel til affaldsrum]]
 
 Vi gik ind i affaldsrummet først... 
 
@@ -65,11 +65,11 @@ Alle undtagen [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Bras
 - Vi samlede loot fra et arbejds bord i hulen. 
 - Døren uden håndtag er forseglet med magi, kobolden prøvede muligvis at åbne den. #erukanasecretsnclues 
 
-Derefter rejste vi tilbage (hjem) til [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
+Derefter rejste vi tilbage (hjem) til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] 
 
 ## Hjemme Igen
 
-Da vi ankommer på [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] bemærker vi 3 personer der står lidt ud:
+Da vi ankommer på [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] bemærker vi 3 personer der står lidt ud:
 - en ældre herre der halter på venstre ben, rige klæder, i rustning og bevæbnet, fremstår som en veteran.
 		- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] bemærker han bærer en [[02 Player/Erukana (Nissen)/Loot/amulet af en rose ranke\|amulet af en rose ranke]]. #erukanasecretsnclues 
 - en Elver mand i rige klæder på en lille scene der spiller musik.
@@ -79,10 +79,10 @@ Da vi ankommer på [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Br
 ### Debriefing
 [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] belønner os med 200gp for at overbringe ham [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]] og afslutte [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] 
 Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hentede fra [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/soltice\|soltice]].  #erukanasecretsnclues 
-- Baronen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]  er den som har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]  til  [[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]] , vi beder om at mødes med [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]]  eller [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
+- Baronen i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]  er den som har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]  til  [[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]] , vi beder om at mødes med [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]]  eller [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
 - vi fortæller [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] at vi ikke vil overdrage skriftrullen til baronen og at vi selv har en interesse i den. 
 - vi tilbydes 1000gp for at aflevere den til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
-- vi beder [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] om at skaffe os adgang til [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] på en eller anden facon, da hun er den eneste han kender til som også har en tattoovering som os. #erukanasecretsnclues 
+- vi beder [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] om at skaffe os adgang til [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] på en eller anden facon, da hun er den eneste han kender til som også har en tattoovering som os. #erukanasecretsnclues 
 
 ## Hourglass Tinkering
 Vi undersøger det mystiske timeglas som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] rodede med i hulerne. Det har safir blåt sand og ringe rundt om timeglasset der bevæger sig når [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] "aktiverer" det.
@@ -111,7 +111,7 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 # Locations
 - [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
 - [[02 Player/Erukana (Nissen)/Locations/gamle glemte dværge haller\|gamle glemte dværge haller]] 
-- [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] 
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] 
 
 # Loot
 - [[02 Player/Erukana (Nissen)/Loot/Sort vest med sølvknapper\|Sort vest med sølvknapper]] #erukana/lootfound 

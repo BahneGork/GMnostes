@@ -12,7 +12,7 @@ Et oktogram givet af [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]] til [[
 - Nibars svorne pligt er nu at rejse et nyt tårn med oktogrammet (nøglen), hvormed han indgår i Azurbroderskabet ([[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]])
 
 ## Relationships
-- **Location**: [[02 Player/Erukana (Nissen)/Locations/Det gamle tempel nordøst for Colville\|Det gamle tempel nordøst for Colville]] (modtaget)
+- **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Det gamle tempel nordøst for Colville\|Det gamle tempel nordøst for Colville]] (modtaget)
 - **Owner**: [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]
 - **Related to**: [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]]
 

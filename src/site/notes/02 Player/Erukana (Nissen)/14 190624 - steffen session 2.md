@@ -6,7 +6,7 @@
 #erukana #erukanasessionlog #erukana/campaign/steffen 
 
 # Session 14 - Steffen Session 2
-## [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]]
+## [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Grøndalen\|Grøndalen]]
 ### Hellig Site, Grav Døren
 ![Pasted image 20240704191554.png](/img/user/10%20Attachments/Pasted%20image%2020240704191554.png)
 

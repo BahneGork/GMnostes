@@ -4,7 +4,7 @@
 
 
 ## Description
-Hjelmen fra metalvogter-konstruktionen i [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]]. [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]] samlede den op da gruppen besøgte Vardestjernen igen (Tarsakh 15).
+Hjelmen fra metalvogter-konstruktionen i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vardestjernen\|Vardestjernen]]. [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]] samlede den op da gruppen besøgte Vardestjernen igen (Tarsakh 15).
 
 ## Notes
 ### Session 43
@@ -12,7 +12,7 @@ Hjelmen fra metalvogter-konstruktionen i [[02 Player/Erukana (Nissen)/Locations/
 - Egenskaber ukendte
 
 ## Relationships
-- **Origin**: [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]] (metalvogter-konstruktionen)
+- **Origin**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vardestjernen\|Vardestjernen]] (metalvogter-konstruktionen)
 - **Owner**: [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]]
 
 ## Referenced In

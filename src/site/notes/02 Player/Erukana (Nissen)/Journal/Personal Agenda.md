@@ -160,7 +160,7 @@ Andre målsætninger.
 6. [x] (personlig) leve omkostninger ku måske dækkes af religiøse services, healing services, mending services ✅ 2023-10-27
 
 ## Bronzekeg - Session 1-2
-- [x] Get back to [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] with the [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Silver statuette]] ✅ 2023-07-14
+- [x] Get back to [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] with the [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Silver statuette]] ✅ 2023-07-14
 - [x] Talk to the half-orc about the red tooth orks we found ✅ 2023-09-25
 - [x] få bragt besked til den døde gruppes efterladte om deres skæbne ✅ 2023-09-25
 - [x] tale med folk i byen og finde ud af hvad de kan fortælle om [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] ✅ 2023-09-25

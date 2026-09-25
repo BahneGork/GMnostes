@@ -4,7 +4,7 @@
 
 
 ## Description
-Vinterspiret er et 36 meter højt tårn beliggende i [[02 Player/Erukana (Nissen)/Locations/Port Drakkan\|Port Drakkan]] på østkysten af [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]. Tårnet var hjemsted for [[02 Player/Erukana (Nissen)/Factions/Aethor Flåden\|Aethor Flåden]] - en flådeorganisation der brugte det som skole for flådefolk og officerer. Tårnet var fyldt med skyggevæsener kontrolleret af en skyggengel, men er nu renset.
+Vinterspiret er et 36 meter højt tårn beliggende i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan\|Port Drakkan]] på østkysten af [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]. Tårnet var hjemsted for [[02 Player/Erukana (Nissen)/Factions/Aethor Flåden\|Aethor Flåden]] - en flådeorganisation der brugte det som skole for flådefolk og officerer. Tårnet var fyldt med skyggevæsener kontrolleret af en skyggengel, men er nu renset.
 
 ## Notes
 ### Originale noter
@@ -49,7 +49,7 @@ Vinterspiret er et 36 meter højt tårn beliggende i [[02 Player/Erukana (Nissen
 - Bøger af [[02 Player/Erukana (Nissen)/People/Voldumand den tredje\|Voldumand den tredje]] (3 leksikon om verdens skabelse)
 
 ## Relationships
-- **Located in**: [[02 Player/Erukana (Nissen)/Locations/Port Drakkan\|Port Drakkan]], [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]
+- **Located in**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan\|Port Drakkan]], [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]
 - **Former occupant**: [[02 Player/Erukana (Nissen)/Factions/Aethor Flåden\|Aethor Flåden]]
 - **Deity**: [[02 Player/Erukana (Nissen)/Setting lore/Solbringeren\|Solbringeren]] (statuer)
 - **Nearby**: [[det flyvende skib\|det flyvende skib]] (fortøjret udenfor)

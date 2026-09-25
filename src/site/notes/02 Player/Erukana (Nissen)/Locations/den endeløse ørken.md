@@ -4,20 +4,20 @@
 
 
 ## Description
-Den endeløse ørken er en stor ørken øst for [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. Det er et geografisk vartegn der adskiller [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] fra de østlige riger.
+Den endeløse ørken er en stor ørken øst for [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. Det er et geografisk vartegn der adskiller [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]] fra de østlige riger.
 
 ## Notes
 ### Geografi
-- Ligger øst for [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]
+- Ligger øst for [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]
 - En del af "det forbudte øst"
-- Adskiller [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] fra [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]] og andre østlige riger
+- Adskiller [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]] fra [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]] og andre østlige riger
 
 ### Forbindelser til Queensguard
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] nævner ørkenen i forbindelse med deres operationer
 - Muligvis rejserute til [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]
 
 ## Relationships
-- **Nærliggende**: [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]
+- **Nærliggende**: [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]], [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]]
 - **Relateret**: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
 
 ## Referenced In

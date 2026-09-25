@@ -13,7 +13,7 @@ Warhammer +2 of viciousness. Rødt læder på skaftet, dværgeruner indgraveret 
 - Warhammer +2 of viciousness (crit 19-20), 3/dag ekstra fire damage
 
 ## Relationships
-- **Location**: [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
+- **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 - **Owner**: Kong Norgassa (lånt af gruppen; uafhentet - ingen bærer endnu)
 - **Related to**: [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]], [[02 Player/Erukana (Nissen)/Items/Crown of the kings\|Crown of the kings]]
 

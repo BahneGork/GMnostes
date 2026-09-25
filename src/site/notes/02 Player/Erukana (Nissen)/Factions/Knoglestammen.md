@@ -4,7 +4,7 @@
 
 
 ## Description
-Knoglestammen er en stamme af orker og drage-blandede væsner der bor i [[02 Player/Erukana (Nissen)/Locations/knoglestammens huler\|knoglestammens huler]] i [[02 Player/Erukana (Nissen)/Locations/StormBjerget\|StormBjerget]]. Hulerne tilhørte engang Wayruth-klanen, men i krigen mod stormkæmperne døde over halvdelen af Wayruth-stammen. Overlevende blandede blod med orker og drage-berørte og blev til Knoglestammen. Stammen tilbeder knogleherren/den sorte ged og praktiserer mørk nekromantisk shamanisme.
+Knoglestammen er en stamme af orker og drage-blandede væsner der bor i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler\|knoglestammens huler]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/StormBjerget\|StormBjerget]]. Hulerne tilhørte engang Wayruth-klanen, men i krigen mod stormkæmperne døde over halvdelen af Wayruth-stammen. Overlevende blandede blod med orker og drage-berørte og blev til Knoglestammen. Stammen tilbeder knogleherren/den sorte ged og praktiserer mørk nekromantisk shamanisme.
 
 ## Oprindelse
 Stammen hed engang **Elg-stammen**, men et stort slag decimerede dem. Stammelederens overlevelse skyldtes en pagt indgået med en ukendt magt — menes at have været [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]]. Herefter antog stammen sit nuværende navn.
@@ -31,7 +31,7 @@ Stammen hed engang **Elg-stammen**, men et stort slag decimerede dem. Stammelede
 - Ritualkammeret indeholdt et alter med en mørk nekromancer-præstebog
 
 ## Relationships
-- **Hjemsted**: [[02 Player/Erukana (Nissen)/Locations/knoglestammens huler\|knoglestammens huler]] i [[02 Player/Erukana (Nissen)/Locations/StormBjerget\|StormBjerget]]
+- **Hjemsted**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler\|knoglestammens huler]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/StormBjerget\|StormBjerget]]
 - **Allieret**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] (betinget)
 - **Fjende**: [[02 Player/Erukana (Nissen)/Factions/flodhvisker stammen\|flodhvisker stammen]]
 - **Religion**: Knogleherren / den sorte ged

@@ -10,7 +10,7 @@ Last session ending with the expedition to [[02 Player/Erukana (Nissen)/Location
 NEXT move: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver op til det. Sørger for det er sikkert og så henter vi Kaelen og hans crew op på skibet og finder ud af hvad der skal til for at det er flyveværdigt 
 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-14' data-date-end='' data-img='Inline Example/Event_2.jpg' data-name='(42) Ship Jacking'></span>
-	- Location: [[02 Player/Erukana (Nissen)/Locations/Port Drakkan\|Port Drakkan]] on the east coast of [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]] 
+	- Location: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan\|Port Drakkan]] on the east coast of [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]] 
 	- a port of call for all kind of people, thugs, cutthroats, pirates, mercenaries and other oppertunistic people 
 	- **Evening**
 		- Vi mødes for at gennem loot som Nibar har identificeret.

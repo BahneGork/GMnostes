@@ -13,7 +13,7 @@
 	- Der hvor dens hovede var er der nu en grotte indgang.
 	- Vi fornemmer en usynlig bobbel over krateret. 
 	- Der emmer af ro indefra krateret, Mielikki's ro kan Evelyn fornemme. 
-		- [[02 Player/Erukana (Nissen)/Locations/Crater shrine of Mielikki\|Crater shrine of Mielikki]] located in [[02 Player/Erukana (Nissen)/Locations/Sorrow Vale\|Sorrow Vale]]
+		- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Crater shrine of Mielikki\|Crater shrine of Mielikki]] located in [[02 Player/Erukana (Nissen)/Locations/Sorrow Vale\|Sorrow Vale]]
 	- Logan spørger Winston hvilken retning kompasset peger og det er Nord Øst
 	- Winston og Nibar går ind med de nu hjemløse wayfinder folk for at undersøge grotten
 	- Evelyn bliver ude for at planlægge den videre færd Nord Øst 

@@ -4,7 +4,7 @@
 
 
 ## Description
-Draconkin er et dragefolk eller drage-relateret race i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. De har historisk været en trussel mod elverne i [[02 Player/Erukana (Nissen)/People/Ellin Thalor\|Ellin Thalor]] og andre civiliserede folk.
+Draconkin er et dragefolk eller drage-relateret race i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. De har historisk været en trussel mod elverne i [[02 Player/Erukana (Nissen)/People/Ellin Thalor\|Ellin Thalor]] og andre civiliserede folk.
 
 ## Notes
 ### Historiske konflikter
@@ -17,9 +17,9 @@ Draconkin er et dragefolk eller drage-relateret race i [[02 Player/Erukana (Niss
 - Drageblodet væsner med krigeriske tendenser
 
 ### Session 43 — Aktive operationer
-- Store klo-fodspor (lidt større end de draconkin-lignende væsner gruppen mødte inden de faldt igennem sneen og fandt [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]]) fundet i [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]] — ledsaget af tegn på disintegration attacks i områder der ikke var ramt af disintegration
+- Store klo-fodspor (lidt større end de draconkin-lignende væsner gruppen mødte inden de faldt igennem sneen og fandt [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]]) fundet i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vardestjernen\|Vardestjernen]] — ledsaget af tegn på disintegration attacks i områder der ikke var ramt af disintegration
 - Tarsakh 21: Boarder [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]] og tager [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] til fange
-- Evelyn bekræftet holdt fanget i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]], i bjergene sydpå, grænsende mod [[Ceystanya\|Ceystanya]]
+- Evelyn bekræftet holdt fanget i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]], i bjergene sydpå, grænsende mod [[Ceystanya\|Ceystanya]]
 - Gruppen mistænker forbindelse til de draconkin de mødte i nordlandet
 
 ### Nutidige status

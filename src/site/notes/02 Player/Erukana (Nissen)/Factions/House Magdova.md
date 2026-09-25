@@ -13,7 +13,7 @@ House Magdova er en adelsfamilie med lensherredømme over [[Stirling\|Stirling]]
 ## History
 *(Kilde: [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] + [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning Moon]] arkiver, d. 8 Tarsakh 1517)*
 
-Magdova familien har været lensherre over [[Stirling\|Stirling]]-området i mange generationer. Familiens oprindelse er fra [[Sestanya\|Sestanya]], og inden de blev en del af den erukanske adel, var de en familie sendt i eksil mod vest. Her mødte de [[Welles\|Welles]]-familien, og over tid og generationer blev de to familier tætte venner. Da Welles familien var med til at løsrive det nuværende [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]], var Magdova en af deres stærkeste og mest loyale allierede. Som en del af det nye baroni blev familien tildelt titler og land.
+Magdova familien har været lensherre over [[Stirling\|Stirling]]-området i mange generationer. Familiens oprindelse er fra [[Sestanya\|Sestanya]], og inden de blev en del af den erukanske adel, var de en familie sendt i eksil mod vest. Her mødte de [[Welles\|Welles]]-familien, og over tid og generationer blev de to familier tætte venner. Da Welles familien var med til at løsrive det nuværende [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]], var Magdova en af deres stærkeste og mest loyale allierede. Som en del af det nye baroni blev familien tildelt titler og land.
 
 **Karakter og omdømme:** Familien er stolte traditionalister — "med næsen godt plantet i skyerne." En sand aristokratisk familie, kendt for deres storsnudethed. De forventer at få hvad de kræver eller spørger om, men til gengæld er de loyale, hvis man har indgået en aftale med dem.
 
@@ -32,7 +32,7 @@ Magdova familien har tidligere været tætte allierede med [[02 Player/Erukana (
 ## Relationships
 - **Lokation**: [[Stirling\|Stirling]]
 - **Støtter**: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
-- **Rival**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]]
+- **Rival**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]
 - **Allieret**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 
 ## Referenced In

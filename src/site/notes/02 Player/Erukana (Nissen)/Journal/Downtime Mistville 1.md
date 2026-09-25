@@ -5,12 +5,12 @@
 
 
 
-# Clarebel's Downtime I [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+# Clarebel's Downtime I [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
 ## 26th Flamerule
 
 - Får vedligeholdt rustning, våben, udstyr via Smed / [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] 
 - Begravelse af [[02 Player/Erukana (Nissen)/People/Celia Hammerhånd\|Celia Hammerhånd]] 
-- "tilbyde healing" - betaler livingcosts for hele party på [[02 Player/Erukana (Nissen)/Locations/Kroen Månehvil\|Kroen Månehvil]] 
+- "tilbyde healing" - betaler livingcosts for hele party på [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Kroen Månehvil\|Kroen Månehvil]] 
 	- 2 gp ekstra til mig self   
 - folk tilbeder Chauntea, Mielikki & Bahamut 
 - 

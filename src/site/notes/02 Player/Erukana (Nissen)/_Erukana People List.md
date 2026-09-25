@@ -150,6 +150,7 @@
 - [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]]
 - [[02 Player/Erukana (Nissen)/People/Sir Zamal Helheim\|Sir Zamal Helheim]]
 - [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]]
+- [[02 Player/Erukana (Nissen)/People/skur\|skur]]
 - [[02 Player/Erukana (Nissen)/People/Swinson\|Swinson]]
 - [[02 Player/Erukana (Nissen)/People/szas'ramma uconta\|szas'ramma uconta]]
 - [[02 Player/Erukana (Nissen)/People/Tani Ebonheart\|Tani Ebonheart]]

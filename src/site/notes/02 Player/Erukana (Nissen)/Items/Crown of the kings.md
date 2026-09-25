@@ -13,7 +13,7 @@ Kongens krone, båret på [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kon
 - Artefakt - "has more powers" (ikke afdækket endnu)
 
 ## Relationships
-- **Location**: [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
+- **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 - **Owner**: [[02 Player/Erukana (Nissen)/Characters/Viktor Baigorri\|Viktor Baigorri]] (lånt fra Kong Norgassa)
 - **Related to**: [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]], [[02 Player/Erukana (Nissen)/Items/Norgassas krigshammer\|Norgassas krigshammer]]
 

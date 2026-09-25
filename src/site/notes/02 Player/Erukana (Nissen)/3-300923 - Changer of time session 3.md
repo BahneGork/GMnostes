@@ -41,7 +41,7 @@ Rationer:
 		- 3 hill giants, 2 døde giants, 1 giant slap væk med en vogn 
 	- [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]] leder af de "[[02 Player/Erukana (Nissen)/Factions/blå nomader\|blå nomader]]"
 	- søster til Amit, [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
-	- tilbyder at reparere vogn og rejse med nomaderne til [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
+	- tilbyder at reparere vogn og rejse med nomaderne til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] 
 	- Amit tilbyder gruppen rewards for at redde dem. 
 		- heirlooms fra de døde nomader 
 		- 2 store [[02 Player/Erukana (Nissen)/Loot/Zazmir scimitars\|Zazmir scimitars]], ukendt metal, grants proficiency to wielder, versatile, 1d10/1d12, meget skarpe, +1 dmg, non-magical, finesse (use str/dex to hit or dmg)  

@@ -5,7 +5,7 @@
 
 #erukana #erukana/partyagenda
 # Todo List
-- [ ] Rejse til Byen [[Coleville\|Coleville]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] og finde vej til [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] 
+- [ ] Rejse til Byen [[Coleville\|Coleville]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] og finde vej til [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] 
 
 
 ## Next Action

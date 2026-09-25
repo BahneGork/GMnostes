@@ -15,19 +15,19 @@ Brakeshield familien er en adelig familie i Erukana. De ejede [[02 Player/Erukan
 
 ### Mission
 - [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] hentede statuen for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
-- Statuen var endt hos [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+- Statuen var endt hos [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
 - [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] betalte 200gp for leveringen
 
 ### Statuens rejse
 - Gik tabt under transport mellem [[02 Player/Erukana (Nissen)/Locations/Pembroke\|Pembroke]] og [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
 - Blev solgt på markedet i [[02 Player/Erukana (Nissen)/People/Segreve\|Segreve]]
-- Endte hos en kunstsamler i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]]
+- Endte hos en kunstsamler i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
 
 ## Relationships
 - **Artefakt**: [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|Sølvstatuen]]
 - **Kontakt**: [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] - modtog statuen
 - **Fundet hos**: [[02 Player/Erukana (Nissen)/People/Archibald Oddsmoke\|Archibald Oddsmoke]]
-- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] - hvor statuen blev fundet
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] - hvor statuen blev fundet
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Journal/Brakeshield Statue]]

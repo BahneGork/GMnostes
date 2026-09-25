@@ -10,7 +10,7 @@ Pembroke er en lokation i Erukana hvor et vigtigt slag fandt sted. Slaget ved Pe
 ### Historisk betydning
 - Sted for et afgørende slag
 - Slaget ved Pembroke blev tabt
-- [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] blev forstærket fra [[Mowbray\|Mowbray]] efter slaget
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] blev forstærket fra [[Mowbray\|Mowbray]] efter slaget
 - Kun elementer af Rosen holder ud men falder tilbage
 
 ### Sølvstatuen

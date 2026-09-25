@@ -12,7 +12,7 @@
 **Campaign:** [[02 Player/Erukana (Nissen)/Setting lore/Erukana - Kingdom\|Erukana]] - Changer of Time  
 **Session Created:** [To be filled]  
 **Current Status:** Planning Phase  
-**Primary Location:** [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]], [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+**Primary Location:** [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]], [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 
 ---
 
@@ -223,7 +223,7 @@ I am Watcher. I am free."*
 ### Current Resources
 
 **Physical Assets:**
-- **[[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]]**: Secret headquarters potential
+- **[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Alistair estate\|Alistair estate]]**: Secret headquarters potential
   - Already owned by party
   - Servants could be recruited
   - Multiple rooms for different functions
@@ -235,9 +235,9 @@ I am Watcher. I am free."*
   - Legitimate business cover
   - Financial backing
   
-- **[[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]]**: Historical meeting point
+- **[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]]**: Historical meeting point
   - Known neutral ground
-  - Far from Blood Rose influence ([[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]])
+  - Far from Blood Rose influence ([[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]])
   - Message drop potential
 
 **Personnel Assets:**
@@ -310,7 +310,7 @@ I am Watcher. I am free."*
 **Objective:** Extend beyond Astley
 
 1. **Additional Cells**
-   - [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] (friendly territory)
+   - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] (friendly territory)
    - Other Baroniet Welles locations
    - Eventually across baronies
    

@@ -4,7 +4,7 @@
 
 
 ## Description
-Solstice (også stavet "soltice") er en by i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] hvor [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]] bor. Familien Narsi var i besiddelse af [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]] og [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]] før gruppen fandt dem.
+Solstice (også stavet "soltice") er en by i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]] hvor [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]] bor. Familien Narsi var i besiddelse af [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]] og [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]] før gruppen fandt dem.
 
 ## Notes
 ### Session 1

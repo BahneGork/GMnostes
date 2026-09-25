@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"court","status":"active","friend-or-foe":"enemy","leader":["[[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby]]"],"Campaign":"Erukana","aliases":["Baron Zhaarko"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"court","status":"active","friend-or-foe":"enemy","leader":["[[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby]]"],"Campaign":"Erukana","aliases":["Baron Zhaarko"],"tags":["erukana","faction"]}}
 ---
 
 
@@ -7,11 +7,11 @@
 
 # [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]]
 
-Baronen i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] 
+Baronen i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] 
 
 - Leder efter [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]] og [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]] 
 - har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til at hente dem 
-- har en udsending i [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]] 
+- har en udsending i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]] 
 
 [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]]
 

@@ -4,7 +4,7 @@
 
 
 ## Description
-Viktor Baigorri er en kriger fra [[Baroniet Botreaux\|Baroniet Botreaux]] med adelig afstamning. Han er uddannet ved byens vagter og bærer en glaive. Han har en særlig forbindelse til [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] — [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]]s metalvogter identificerede ham som "arkanisk match, broder af ordnen". Han sluttede sig til gruppen i session 36 efter at hans tidligere eventyrergruppe forlod ham under en dæmonangreb.
+Viktor Baigorri er en kriger fra [[Baroniet Botreaux\|Baroniet Botreaux]] med adelig afstamning. Han er uddannet ved byens vagter og bærer en glaive. Han har en særlig forbindelse til [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] — [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vardestjernen\|Vardestjernen]]s metalvogter identificerede ham som "arkanisk match, broder af ordnen". Han sluttede sig til gruppen i session 36 efter at hans tidligere eventyrergruppe forlod ham under en dæmonangreb.
 
 ## Notes
 ### Session 36 — Introduktion
@@ -32,7 +32,7 @@ Viktor Baigorri er en kriger fra [[Baroniet Botreaux\|Baroniet Botreaux]] med ad
 - Kontakt er igang med at fremskaffe ejerskabs-dokumenter til tårnet ([[02 Player/Erukana (Nissen)/Locations/tårnet The Sentinel\|tårnet The Sentinel]]?)
 - Kontakt bekræfter: det sorte metal kommer fra Skyggelandet, kræver særlig ekspertise at bearbejde
 - Modtager [[02 Player/Erukana (Nissen)/Items/Halskæde - Caster boost\|Halskæde - Caster boost]] (9000gp) fra [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]]
-- Victor og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] drømmer om fangetransport igennem [[02 Player/Erukana (Nissen)/Locations/Feywood\|Feywood]]
+- Victor og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] drømmer om fangetransport igennem [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]
 
 ### Session 44 - Feywood-ekspeditionen
 - Aner en rødlig aura i området ved raste-pladsen, en energi der er gået ind i væsener og blevet en del af dem
@@ -42,12 +42,12 @@ Viktor Baigorri er en kriger fra [[Baroniet Botreaux\|Baroniet Botreaux]] med ad
 - Kigger på runeinskriptionerne i katakombernes første kammer og følger efter Nibar ned ad gangen
 - Sammen med Clara ser han Celedriels spor gå videre gennem den første udgang, og fornemmer "sorg" ved den anden udgang
 - Får sit våben ødelagt af varmen fra Ember Snake-væsenet (senere mendet af Clarabel)
-- I [[02 Player/Erukana (Nissen)/Locations/Hjertekammeret\|Hjertekammeret]] får han noget af det rene blod fra krystalkarret op i sig og føler han har åbnet en dør til ny magi
+- I [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] får han noget af det rene blod fra krystalkarret op i sig og føler han har åbnet en dør til ny magi
 - Flyver med Clarabel ud til hæren der forsvarer byen for at hjælpe med at koordinere modstandsindsatsen
 
 ### Session 47 - After the dragon essence
 - Opsøger luftskibet og ser at byen er under angreb og at sydflanken er svag
-- Kaster Speak with Dead på [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]] i [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]] og spørger om gruppen må låne hans udstyr - svar: "ja, hvis vi får det tilbage når vi kommer tilbage"
+- Kaster Speak with Dead på [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]] og spørger om gruppen må låne hans udstyr - svar: "ja, hvis vi får det tilbage når vi kommer tilbage"
 - Kaster Speak with Dead på [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seilling]] også, hvorefter Winston og Clarabel sværger en ed om brugen af hans udstyr
 - Modtager [[02 Player/Erukana (Nissen)/Items/Crown of the kings\|Crown of the kings]] (lånt fra Kong Norgassa)
 

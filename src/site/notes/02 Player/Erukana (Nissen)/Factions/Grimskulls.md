@@ -4,7 +4,7 @@
 
 
 ## Description
-Grimskulls er en ork-klan i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. De er del af [[02 Player/Erukana (Nissen)/Factions/Horden\|Horden]] og udgør en trussel mod civiliserede folk og rejsende.
+Grimskulls er en ork-klan i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. De er del af [[02 Player/Erukana (Nissen)/Factions/Horden\|Horden]] og udgør en trussel mod civiliserede folk og rejsende.
 
 ## Notes
 ### Karakteristika

@@ -67,13 +67,13 @@ Vi finder tilbage til [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]'s lej
 
 [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] er væk og den nye Baron er en [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]] ridder. 
 
-Der er krig mellem [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] og [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]], [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] er imod [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]. [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]]'s søn er død.
+Der er krig mellem [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] og [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]], [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] er imod [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]. [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]]'s søn er død.
 
 Det sydlige wizard tårn (Vogter tårnet) er fældet af en stor eksplosion.
 
 Der er mange flere [[02 Player/Erukana (Nissen)/People/knight aberrants\|knight aberrants]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] nu og der er set en eller flere drager ved de gamle dværge halller bjerge. 
 
-[[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]] og [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] besøgte [[02 Player/Erukana (Nissen)/Locations/Arcana tårnet\|Arcana tårnet]] som eksploderede. 
+[[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]] og [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] besøgte [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Arcana tårnet\|Arcana tårnet]] som eksploderede. 
 
 Vi hørte [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]] tale det mørke sprog da hun kastede magi ved ork lejren.
 

@@ -12,7 +12,7 @@ Simpelt heater shield +3 med blålig aura på metalkanten, ser ud som om det er 
 - Skjold +3 - går til [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]]
 
 ## Relationships
-- **Location**: [[02 Player/Erukana (Nissen)/Locations/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
+- **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
 - **Owner**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] (lånt fra Sir Seilling)
 - **Related to**: [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seilling]], [[02 Player/Erukana (Nissen)/Items/Sir Seillings lanse\|Sir Seillings lanse]]
 

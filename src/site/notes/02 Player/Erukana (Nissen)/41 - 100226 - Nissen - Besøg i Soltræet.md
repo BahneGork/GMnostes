@@ -19,10 +19,10 @@
 	- [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] samler en hel del blade op af ponden, meget usædvanligt. 
 	- Clarabel introducerer Hr.Flick for [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] 
 		- Agressive Satyrer på vores rejse
-		- Vi skal snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]], han er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|Treeshaper]]
+		- Vi skal snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]], han er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|Treeshaper]]
 		- Clara spørger til de mange blade. [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] viser et af bladene, et lille sammenkrøllet grønt og frodigt men mørkt, falmet og hårdt men ser vådt og slimet ud på kanterne.
 		- Clara kvaler en knurren inden det bliver for voldsomt og hendes hår skifter til farven grå 
-	- Hr.Flick og Clara fortsætter til [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]]
+	- Hr.Flick og Clara fortsætter til [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]]
 	- ![Pasted image 20260210195330.png\|300](/img/user/10%20Attachments/Pasted%20image%2020260210195330.png)
 	- Krystallen i midten af kammeret skifter farve efter årstiden 
 	- Her finder vi [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] som ikke er begejstret for vores besøg 

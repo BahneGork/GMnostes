@@ -4,7 +4,7 @@
 
 
 ## Description
-De vilde elvere er en elverrace i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. Kendskab til dem blev opnået som belønning for [[02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion\|Arcana Tower Explosion]] missionen, hvilket låste racen op som spillervalg.
+De vilde elvere er en elverrace i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. Kendskab til dem blev opnået som belønning for [[02 Player/Erukana (Nissen)/Missions/Arcana Tower Explosion\|Arcana Tower Explosion]] missionen, hvilket låste racen op som spillervalg.
 
 ## Notes
 ### Race-låsning

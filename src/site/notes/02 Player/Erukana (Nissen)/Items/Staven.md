@@ -12,13 +12,13 @@ Staven er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/Tidsarti
 - Sølvdragen gav sit liv og sjæl til staven
 - Staven er nøglen til fængslet (sammen med [[02 Player/Erukana (Nissen)/Items/Tidsartifaktet\|Tidsartifaktet]])
 - Blev delt i 4 dele efter devisen at det er sværere at finde 4 end 1
-- [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] ligger under [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+- [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] ligger under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 
 ### Session 45.5 - Logans tur til Skullborg
 - [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] genkender en rubin i [[Dasdant\|Dasdant]]s halskæde som den formodede fjerde del - se [[Rubin-delen af staven\|Rubin-delen af staven]]
 
 ### Stavens dele
-1. [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] - under [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]
+1. [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] - under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 2. Ukendt del
 3. Ukendt del
 4. [[Rubin-delen af staven\|Rubin-delen af staven]] (formodet) - set i [[Dasdant\|Dasdant]]s besiddelse i [[02 Player/Erukana (Nissen)/Skullborg\|Skullborg]]

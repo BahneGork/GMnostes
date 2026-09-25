@@ -18,7 +18,7 @@ Anaksa er et kongerige i verden, hjemsted for [[02 Player/Erukana (Nissen)/Peopl
 - Centrum for ordenens ledelse
 
 ### Geografi
-- Del af "det forbudte øst" sammen med [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]], [[02 Player/Erukana (Nissen)/Locations/sistana\|sistana]]
+- Del af "det forbudte øst" sammen med [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]], [[02 Player/Erukana (Nissen)/Locations/sistana\|sistana]]
 - [[02 Player/Erukana (Nissen)/Factions/blå nomader\|blå nomader]] (Zazmir stammen) kommer fra denne region
 
 ### Historisk betydning
@@ -29,7 +29,7 @@ Anaksa er et kongerige i verden, hjemsted for [[02 Player/Erukana (Nissen)/Peopl
 - **Hersker**: [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Queen Neferata]]
 - **Hovedkvarter**: [[02 Player/Erukana (Nissen)/Factions/Highguard Chapterhouse\|Highguard Chapterhouse]]
 - **Organisation**: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
-- **Nærliggende**: [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]], [[02 Player/Erukana (Nissen)/Locations/sistana\|sistana]]
+- **Nærliggende**: [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]], [[02 Player/Erukana (Nissen)/People/Jullan\|Jullan]], [[02 Player/Erukana (Nissen)/Locations/sistana\|sistana]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]

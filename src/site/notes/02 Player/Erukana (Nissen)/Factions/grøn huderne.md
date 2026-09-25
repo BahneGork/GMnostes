@@ -4,7 +4,7 @@
 
 
 ## Description
-Grøn huderne er en samlebetegnelse for [[02 Player/Erukana (Nissen)/People/Orker\|orker]], [[02 Player/Erukana (Nissen)/Factions/Gobliner\|gobliner]] og relaterede væsner med grøn hud. De er typisk fjendtlige over for civiliserede racer og udgør en konstant trussel i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]].
+Grøn huderne er en samlebetegnelse for [[02 Player/Erukana (Nissen)/People/Orker\|orker]], [[02 Player/Erukana (Nissen)/Factions/Gobliner\|gobliner]] og relaterede væsner med grøn hud. De er typisk fjendtlige over for civiliserede racer og udgør en konstant trussel i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]].
 
 ## Notes
 ### Inkluderede racer

@@ -60,7 +60,7 @@ Mens Winston, Vargoth, Bjørn & Logan undersøger Varehus problemet og drager in
 		 Clara foreslår at vi hyrer flere hænder så Assana ikke skal alting på samme tid alene og nævner at hun selv har erfaring med store hurtige og voldsomme forandringer så hun er altid velkommen til at tale med hende hvis der er noget som helst der trykker. Afsluttende med et lidt intenst *"Jeg ved vi har lagt meget på dine skuldre og du behøver ikke bære det alene. Så brug mig, til at tale med eller sæt mig til noget der kan aflaste dig."*
 		 
 		 *Clarabels ord og tilbud lader til at have indvirkning på Assana, og selvom hun ikke med det samme tager Clara op på hendes tilbud, så har Clara nu etableret et bedre forhold til Assana og er sikke på, at hun vil opsøge Clara når tidspunktet er korrekt for hende.*
-- **d. 11 Tarsakh** - Clara og delegation rejser til [[02 Player/Erukana (Nissen)/Locations/Stirring\|Stirring]] for at se hvad [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] har brug for 
+- **d. 11 Tarsakh** - Clara og delegation rejser til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Stirring\|Stirring]] for at se hvad [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] har brug for 
 - **13 Tarsakh**  Delegationen møder [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] i Stirring.
 	- Battle with [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]]
 	- [[02 Player/Erukana (Nissen)/People/Orlock Helmsveil\|Orlock Helmsveil]] bliver snigmyrdet, ved hans side ligger en død tjener. 
@@ -132,10 +132,10 @@ Mens Winston, Vargoth, Bjørn & Logan undersøger Varehus problemet og drager in
 	- [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] samler en hel del blade op af ponden, meget usædvanligt. 
 	- Clarabel introducerer Hr.Flick for [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] 
 		- Agressive Satyrer på vores rejse
-		- Vi skal snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]]i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]], han er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|Treeshaper]]
+		- Vi skal snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]]i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]], han er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|Treeshaper]]
 		- Clara spørger til de mange blade. [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] viser et af bladene, et lille sammenkrøllet grønt og frodigt men mørkt, falmet og hårdt men ser vådt og slimet ud på kanterne.
 		- Clara kvaler en knurren inden det bliver for voldsomt og hendes hår skifter til farven grå 
-	- Hr.Flick og Clara fortsætter til [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|Visdommens kammer]]
+	- Hr.Flick og Clara fortsætter til [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]]
 	- ![Pasted image 20260210195330.png\|300](/img/user/10%20Attachments/Pasted%20image%2020260210195330.png)
 	- Krystallen i midten af kammeret skifter farve efter årstiden 
 	- Her finder vi [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]]som ikke er begejstret for vores besøg 

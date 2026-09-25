@@ -4,7 +4,7 @@
 
 
 ## Beskrivelse
-En dagbogsindtastning fundet i [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]] under grupppens udforskning. Ordene flimrer svagt i luften, skrevet i et blåligt, magisk lys, før de sætter sig på bogens sider — som om de altid var der. Stemmen er [[Jormund\|Jormund]]s.
+En dagbogsindtastning fundet i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vardestjernen\|Vardestjernen]] under grupppens udforskning. Ordene flimrer svagt i luften, skrevet i et blåligt, magisk lys, før de sætter sig på bogens sider — som om de altid var der. Stemmen er [[Jormund\|Jormund]]s.
 
 ## Optegnelsen
 
@@ -28,12 +28,12 @@ En dagbogsindtastning fundet i [[02 Player/Erukana (Nissen)/Locations/Vardestjer
 - [[The Moonwood\|The Moonwood]] — gammelt elversamfund kaldet [[The Singing Tree\|The Singing Tree]] — indeholder visdommen om genforening
 - **Fire dele af en hellig stav** er spredt og skjult — skal samles
 - En vogter i [[The Moonwood\|The Moonwood]] har nøglen til at forene staven
-- Fragmenterne er gemt i [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]]s fundament af Jormund
+- Fragmenterne er gemt i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vardestjernen\|Vardestjernen]]s fundament af Jormund
 - Varsel: en ukendt ondskab vil jage fragmenterne
 
 ## Relationships
 - **Forfatter**: [[Jormund\|Jormund]]
-- **Fundsted**: [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]]
+- **Fundsted**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vardestjernen\|Vardestjernen]]
 - **Relateret**: [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]], [[Tidsvogterne\|Tidsvogterne]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
 - **Nævnte personer**: [[Højpræstinden Morwy\|Højpræstinden Morwy]], [[Broder Aldric\|Broder Aldric]], [[Sybilla Varelith\|Sybilla Varelith]]
 - **Nævnte steder**: [[The Moonwood\|The Moonwood]], [[The Singing Tree\|The Singing Tree]]

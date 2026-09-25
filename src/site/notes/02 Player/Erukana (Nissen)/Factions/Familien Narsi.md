@@ -12,7 +12,7 @@ Familien Narsi er en familie bosiddende i [[02 Player/Erukana (Nissen)/Locations
 - Var i besiddelse af [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]] og [[02 Player/Erukana (Nissen)/Loot/Timescroll\|Timescroll]]
 - [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] sendte en gruppe for at hente scrollet fra dem
 - Gruppen der hentede scrollet blev dræbt af [[02 Player/Erukana (Nissen)/Factions/Rød tand stammen\|Rød tand stammen]]
-- [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] hyrede [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til [[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]]
+- [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] hyrede [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til [[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]]
 
 ## Relationships
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Solstice\|Solstice]]

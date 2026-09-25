@@ -61,9 +61,9 @@ Mentor [[02 Player/Erukana (Nissen)/People/Lord Barriston Samuel\| Lord of the k
 Opgave til Knight
 - find ud af hvorfor chapterhouse blev angrebet
 - hvem stod bag angrebet 
-- møde sted med Silvara er [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]]
+- møde sted med Silvara er [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]]
 
-På [[02 Player/Erukana (Nissen)/Locations/The Bronze Keg\|The Bronze Keg]] mødte vi en mand der hyrer folk til at løse opgaver for andre.
+På [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] mødte vi en mand der hyrer folk til at løse opgaver for andre.
 - tilbudt at blive en del af en gruppe 
 
 [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]  er blomstret op alle de steder hvor [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] er uønsket, de bærer deres blod dryppende rose insigna frit og synligt.

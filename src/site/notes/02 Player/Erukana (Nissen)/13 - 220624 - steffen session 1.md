@@ -21,12 +21,12 @@ På kort tid finder vi en lille landsby.
 Alt er lidt nordisk/viking agtigt og rustikt. 
 
 # Gæstgiveriet
-Vi får af vide at stedet kaldes [[02 Player/Erukana (Nissen)/Locations/Vinterskov\|Vinterskov]] i [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] som ligger i [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]
+Vi får af vide at stedet kaldes [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vinterskov 1\|Vinterskov 1]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Grøndalen\|Grøndalen]] som ligger i [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]
 Byen handler i dyr, planter og tømmer og andet fra skoven. 
 nuværende lokal dato: Ukthar måned
 Innkeeper Håkan
-datteren [[02 Player/Erukana (Nissen)/Locations/skur\|skur]] 
-[[02 Player/Erukana (Nissen)/People/Håkan\|Håkan]] tegner et kort i jord på disken over [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]].
+datteren [[02 Player/Erukana (Nissen)/People/skur\|skur]] 
+[[02 Player/Erukana (Nissen)/People/Håkan\|Håkan]] tegner et kort i jord på disken over [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Grøndalen\|Grøndalen]].
 En druide - [[02 Player/Erukana (Nissen)/People/Seiran\|Seiran]] kom og hjalp med dalen, følger af [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 Der kom en blå drage for 10år og forsvandt for 5 år siden, druiden forsvandt da Dragen kom. 
 særligt træ i dalen, "blåt træ" 

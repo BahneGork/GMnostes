@@ -4,11 +4,11 @@
 
 
 ## Description
-Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]. Det er et kontaktpunkt for [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] og en kilde til krigsmateriale og udstyr.
+Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]. Det er et kontaktpunkt for [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] og en kilde til krigsmateriale og udstyr.
 
 ## Notes
 ### Beliggenhed
-- I [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+- I [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 - Et af regionens vigtige slotte
 
 ### Handel
@@ -22,7 +22,7 @@ Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Baroniet Well
 - Besked: "Lancaster, der er en person som jeg ikke forventede at høre fra igen. Jeg er i Castle Brienne. Måske på tilbagevejen kan svinge forbi Astley."
 
 ## Relationships
-- **Region**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+- **Region**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 - **Handel**: Krigsmateriale, udstyr
 - **Netværk**: [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]]
 - **Handelsrute**: [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]], [[02 Player/Erukana (Nissen)/People/Mecina\|Mecina]]
@@ -30,7 +30,7 @@ Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Baroniet Well
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
-- [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Locations/Baroniet Welles]]
+- [[Locations/Baroniet Welles\|Locations/Baroniet Welles]]
 
 ## Tags
 #erukana #location #castle #welles #trade

@@ -4,7 +4,7 @@
 
 
 ## Description
-Aethor Flåden var en flådeorganisation der havde base i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret]] i [[02 Player/Erukana (Nissen)/Locations/Port Drakkan\|Port Drakkan]], [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]. Deres symbol er en bjergtop med et skib foran. Organisationen er nu opløst eller nedlagt.
+Aethor Flåden var en flådeorganisation der havde base i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan\|Port Drakkan]], [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]. Deres symbol er en bjergtop med et skib foran. Organisationen er nu opløst eller nedlagt.
 
 ## Notes
 ### Session 42

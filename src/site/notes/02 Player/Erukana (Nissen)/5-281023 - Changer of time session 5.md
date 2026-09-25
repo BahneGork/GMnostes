@@ -7,7 +7,7 @@
 
 # Mistville Deadites
 
-Efter 2 dages downtime i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] 
+Efter 2 dages downtime i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] 
 
 - mord i conner huset midt om natten 
 - [[02 Player/Erukana (Nissen)/People/Petyr Gottmann\|Petyr Gottmann]] myrdet med udøds skabende gift væske
@@ -30,10 +30,10 @@ Efter 2 dages downtime i [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistv
 - [[02 Player/Erukana (Nissen)/People/Dvalin hammerhånd\|Dvalin hammerhånd]]  kommer løbende og angriber [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]]
 - Clarabel kan ikke modstå ulven og forvandler sig 
 - Da [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick Stadtfeldt]] er besejret falder alle udøde til jorden og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] synger en sang om vores tur gennem skoven, Dvalin og Celia.
-- Gruppen bliver æresmedlemmer af [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]] og modtager en gave af værdier med byens taknemmelighed
+- Gruppen bliver æresmedlemmer af [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] og modtager en gave af værdier med byens taknemmelighed
 - 1500 gp i tradebars
 - Winston & Nibar besøger [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]] og får omsat 4 tradebars og en scroll med 2 x [[No Graph/5e Reference/spells/Fireball\|Fireball]] som vi siger ja til en opgave for som betaling [[02 Player/Erukana (Nissen)/Locations/Troldmands tårn ruin i nordlandet\|Troldmands tårn ruin i nordlandet]] som vi mangler detaljer på.
-- 2 rose riddere ankommer til [[02 Player/Erukana (Nissen)/Locations/Mistville\|Mistville]], den ene går ind på kroen og den anden banker på hos De'Evers huset. 
+- 2 rose riddere ankommer til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]], den ene går ind på kroen og den anden banker på hos De'Evers huset. 
 - De'evers familien har i mange år været affilieret med [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] men [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]] har valgt at bryde båndene med dem. 
 - Winston overvåger den anden på kroen med instense øjne og bliver bemærket.
 - Da de 2 riddere sadler op og rider væk overhører clara at de har en lyshåret kvinde taget til fange. 

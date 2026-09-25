@@ -92,7 +92,7 @@ Can i find a path forward for myself, through the redemption of Bjørn?
 # Diary of Clarabel Lancaster
 
 6th of Flamerule in the Barony of Eresby
-We travelled back to [[02 Player/Erukana (Nissen)/Locations/Kegville\|Kegville]] from our latest job, procuring [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|The Silver statue heirloom]] for the [[Brakeshield Family\|Brakeshield Family]]. When we came upon an ambush scene, Red Tooth orcs had ambushed another of [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 's groups. We tracked some smaller footprints hoping to find someone alive.
+We travelled back to [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Kegville\|Kegville]] from our latest job, procuring [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|The Silver statue heirloom]] for the [[Brakeshield Family\|Brakeshield Family]]. When we came upon an ambush scene, Red Tooth orcs had ambushed another of [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 's groups. We tracked some smaller footprints hoping to find someone alive.
 
 We did not. But we did find a [[No Graph/5e Reference/monsters/Kobold\|No Graph/5e Reference/monsters/Kobold]] clan, that we had to fight when negotiations failed.
 
@@ -107,7 +107,7 @@ We found some ancient barred dwarven doors and [[02 Player/Erukana (Nissen)/Peop
 The kobold leader had all the belongings of the dead adventurer group, among those were an odd piece. An hour glass with blue sand, held between two bands that could revolve around it.
 
 
-# Alter Rummet I Templet I [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]] I [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]].
+# Alter Rummet I Templet I [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Grøndalen\|Grøndalen]] I [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]].
 Jeg bad en bøn til Bahamut og forsøgte at kanalisere hans hellighed imod en Necromancers magiske barriere som holdte os ude af alter rummet hvor kilden til korruptionen i templet befandt sig. 
 
 Mine frænder begyndte at aktivere tidsrejse artifactet, som altid har flyttet os i enten tid eller rum og jeg ville ikke forlade templet, men rense det i min gud, bahamut's navn.

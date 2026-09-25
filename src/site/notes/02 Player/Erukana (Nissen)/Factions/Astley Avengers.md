@@ -15,7 +15,7 @@ Når man er formelt inviteret og via en ceremoni er blevet optaget i Astley Aven
 ### Session 43 - Sejlads og fangst
 - [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]] sætter sejl Tarsakh 19
 - Tarsakh 21: Draconians boarder skibet — [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] tages til fange
-- Clarabel bruger commune: Evelyn er i [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]], bjergene mod syd
+- Clarabel bruger commune: Evelyn er i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]], bjergene mod syd
 - Gruppen er på vej mod Eresby for at redde Evelyn (ankomst Astley Tarsakh 25)
 
 ### Session 42 - Nye medlemmer

@@ -21,10 +21,10 @@
 #### 7th Highsun
 - Nibar sidder og læser i den onde bog 
 - Clara spørger bonden hvad han ved om [[02 Player/Erukana (Nissen)/Locations/Det Røde pas\|Det Røde pas]], Syd-øst, bjergene 
-- Vi begiver os ind til Astley for at finde [[02 Player/Erukana (Nissen)/Locations/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] 
+- Vi begiver os ind til Astley for at finde [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] 
 - Vi taler med en byvagt konstabel om "rædslen i Feywood"
 	- se "clues" i mission briefing [[02 Player/Erukana (Nissen)/Missions/Feywood Beast Bounty\|Feywood Beast Bounty]]
-- [[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley\|paladine templet i Astley]]
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]]
 ![Pasted image 20240515195729.png](/img/user/10%20Attachments/Pasted%20image%2020240515195729.png)
 - Nogle af dem der render rundt inde i biblioteket skjuler Bahamut's mærke.
 - Clara forsøger at flashe bahamuts symbol lidt diskret og sprøger efter [[02 Player/Erukana (Nissen)/People/Tyra volkmarr\|Tyra volkmarr]]
@@ -49,7 +49,7 @@
 ![Pasted image 20240515210837.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240515210837.png)
 [[02 Player/Erukana (Nissen)/People/Erika Songfelt\|Erika Songfelt]]
 ![Pasted image 20240515210851.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240515210851.png)
-- Ballade i NordHeim der truer [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] 
+- Ballade i NordHeim der truer [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]] 
 - Blodrosen har indgået en aftale med kongen om at hjælpe med truslen 
 - Hydra angriber ruinerne!! 
 ![Pasted image 20240515211858.png\|300](/img/user/10%20Attachments/Pasted%20image%2020240515211858.png)

@@ -4,14 +4,14 @@
 
 
 ## Description
-Astley er en mellemstor by med ca. 20.000 indbyggere i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]. Byen er beliggende i det nordlige Welles og fungerer som et vigtigt handels- og kulturcenter i baroniet. Byen er hjemsted for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] og har en lang historie med riddere og heltemod.
+Astley er en mellemstor by med ca. 20.000 indbyggere i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]. Byen er beliggende i det nordlige Welles og fungerer som et vigtigt handels- og kulturcenter i baroniet. Byen er hjemsted for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] og har en lang historie med riddere og heltemod.
 
 Byen er opdelt i flere distrikter, herunder Nord-distriktet som overvåges af en [[02 Player/Erukana (Nissen)/People/Vagtkaptajn ved Nord distriktet i Astley\|vagtkaptajn]]. Keepers Watch huser byens barakker, fængsel og vagtkaptajnens kontor.
 
 ## Vigtige Lokationer
-- **[[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]]** - Et helligt natursted, tilknyttet druide-cirklen og kirken
+- **[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]** - Et helligt natursted, tilknyttet druide-cirklen og kirken
 - **Keepers Watch** - Byens militære hovedkvarter og fængsel
-- **[[02 Player/Erukana (Nissen)/Locations/paladine templet i Astley\|Paladine templet i Astley]]** - Skjult Bahamut-tilbedelse finder sted her
+- **[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]]** - Skjult Bahamut-tilbedelse finder sted her
 - **[[02 Player/Erukana (Nissen)/Locations/Svinestien - Bar i Astley shanty town\|Svinestien - Bar i Astley shanty town]]** - Værtshus i byens fattigere kvarter
 - **Varehus 13** - [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]] lager
 
@@ -31,10 +31,10 @@ Astley er politisk splittet mellem støtter af **Borgmesteren** og tilhængere a
 - Gruppen overtog [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s ejendom og forretning efter at have nedkæmpet Opal-kulten
 
 ## Relationships
-- **Baroni**: Del af [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+- **Baroni**: Del af [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 - **Fraktioner**: Hjemsted for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
 - **Personer**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] (tidligere Queensguard), [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]], [[Assana Lemiuex\|Assana Lemiuex]] (forvalter)
-- **Trusler**: Konflikter med [[02 Player/Erukana (Nissen)/Locations/Baroniet Eresby\|Baroniet Eresby]] og den lilla plage
+- **Trusler**: Konflikter med [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] og den lilla plage
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]

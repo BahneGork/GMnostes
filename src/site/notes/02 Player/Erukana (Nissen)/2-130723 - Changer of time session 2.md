@@ -43,7 +43,7 @@ Dagsorden 15th flamerule, Marie Duvall
 	1. Marie mener baronen siger nej.
 
 # Next Action
-Få en opgave af [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]] så vi har noget at lave på vej ned til [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] 
+Få en opgave af [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] så vi har noget at lave på vej ned til [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] 
 
 # Nede I Krostuen Igen
 

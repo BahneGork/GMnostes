@@ -4,12 +4,12 @@
 
 
 ## Description
-Sorrow Vale er en region i [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]] hvor den guddommelige manta ray [[Nayaru\|Nayaru]] forlod gruppen og efterlod [[02 Player/Erukana (Nissen)/Locations/Crater shrine of Mielikki\|Crater shrine of Mielikki]].
+Sorrow Vale er en region i [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]] hvor den guddommelige manta ray [[Nayaru\|Nayaru]] forlod gruppen og efterlod [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Crater shrine of Mielikki\|Crater shrine of Mielikki]].
 
 ## Notes
 ### Session 31
 - Logan regnede ud at gruppen befandt sig i Sorrow Vale ud fra bjerge, skove og andre landmærker
-- [[02 Player/Erukana (Nissen)/Locations/Crater shrine of Mielikki\|Crater shrine of Mielikki]] befinder sig her
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Crater shrine of Mielikki\|Crater shrine of Mielikki]] befinder sig her
 - Wayfinders efterladte søger sydpå mod den forladte landsby Wolfguard
 
 ### Karakteristika
@@ -22,7 +22,7 @@ Sorrow Vale er en region i [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nord
 - Evelyn kunne fornemme [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s ro i krateret
 
 ## Relationships
-- **Helligdom**: [[02 Player/Erukana (Nissen)/Locations/Crater shrine of Mielikki\|Crater shrine of Mielikki]]
+- **Helligdom**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Crater shrine of Mielikki\|Crater shrine of Mielikki]]
 - **Region**: [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]]
 - **Nærliggende**: Wolfguard (forladt landsby sydpå)
 - **Guddommelig forbindelse**: [[Nayaru\|Nayaru]], [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]

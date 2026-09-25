@@ -6,4 +6,4 @@
 #erukana #regionmap 
 
 
-![Erukana.jpg\|1000](/img/user/02%20Player/Erukana%20(Nissen)/Locations/Erukana.jpg)
+![Erukana2.jpg\|1000](/img/user/02%20Player/Erukana%20(Nissen)/Locations/Erukana2.jpg)

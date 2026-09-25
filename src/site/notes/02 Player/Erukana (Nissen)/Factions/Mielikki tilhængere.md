@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Mielikki tilhængere/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]","[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Soltræet]]"],"Campaign":"Erukana","aliases":["Mielikki Cult","Mielikki ordenen"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Mielikki tilhængere/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]","[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"faction","faction_type":"religious-order","status":"active","friend-or-foe":"ally","Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet]]"],"Campaign":"Erukana","aliases":["Mielikki Cult","Mielikki ordenen"],"tags":["erukana","faction"]}}
 ---
 
 
 ## Description
-Mielikki tilhængere er en religiøs orden dedikeret til Mielikki - naturens og skovens gudinde. Ordenens helligste sted er [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]], et ældgammelt helligsted. Ordenens nuværende vogter er [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]].
+Mielikki tilhængere er en religiøs orden dedikeret til Mielikki - naturens og skovens gudinde. Ordenens helligste sted er [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]], et ældgammelt helligsted. Ordenens nuværende vogter er [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]].
 
 ## Known Members
 - **[[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial keeper of mielikki suntree]]** - Halvhjort/halvkvinde, keeper af Mielikki's Soltræet, udfører helbredelsesritualer
 - **[[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]]** - Tempelvogter, passer ponden ved Soltræet i Celedriels fravær
-- **[[02 Player/Erukana (Nissen)/People/Seiran\|Seiran]]** - Kvindelig druid, passede [[02 Player/Erukana (Nissen)/Locations/Grøndalen\|Grøndalen]], forsvandt for ~10 år siden da en blå drage ankom. Status: forsvundet
+- **[[02 Player/Erukana (Nissen)/People/Seiran\|Seiran]]** - Kvindelig druid, passede [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Grøndalen\|Grøndalen]], forsvandt for ~10 år siden da en blå drage ankom. Status: forsvundet
 - **[[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]]** - Spiller karakter, nuværende vogter af Soltræet
 
 ## Notes
@@ -27,7 +27,7 @@ Mielikki tilhængere er en religiøs orden dedikeret til Mielikki - naturens og 
 
 ## Relationships
 - **Guddom**: Mielikki - skovens og naturens gudinde
-- **Helligsted**: [[02 Player/Erukana (Nissen)/Locations/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
+- **Helligsted**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 - **Allieret**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 
 ## Referenced In

@@ -4,7 +4,7 @@
 
 
 ## Description
-Slatestone (også kendt som [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]) er den ældste og mest traditionelle dværgehal i [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]]. Her bevares de gamle traditioner af [[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn\|Bjergenes Børn]].
+Slatestone (også kendt som [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]) er den ældste og mest traditionelle dværgehal i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. Her bevares de gamle traditioner af [[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn\|Bjergenes Børn]].
 
 RULER
 Kong Varglum - Søn af Bjerget. 

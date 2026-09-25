@@ -24,7 +24,7 @@ Opal kulten er en mystisk kult forbundet med korruption og ædelsten-infuserede 
 - Den lilla plage var skyld i [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] fald
 
 ## Astley-kulten (session 19)
-Den sociale manifestation af Opal kulten i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] opererede under dækning af "en bogklub for de højere udviklede" — hemmelige fester for de rige og magtfulde afholdt i [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]].
+Den sociale manifestation af Opal kulten i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] opererede under dækning af "en bogklub for de højere udviklede" — hemmelige fester for de rige og magtfulde afholdt i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Alistair estate\|Alistair estate]].
 
 - **[[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]** — vært for kulten, afsløret som dæmon og besejret af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 - **[[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady Lucille Vitano]]** — menes at være den egentlige magt bag kulten; flygtede og er muligvis stadig aktiv
@@ -44,7 +44,7 @@ Den sociale manifestation af Opal kulten i [[02 Player/Erukana (Nissen)/Location
 - **Leder (Astley-kulten)**: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]] (besejret), [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady Lucille Vitano]] (flygtede)
 - **Tilbeder**: [[Graz'zt\|Graz'zt]]
 - **Skandale**: [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
-- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Alistair estate\|Alistair estate]]
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Alistair estate\|Alistair estate]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1\|1-080723 - Changer of time session 1]]

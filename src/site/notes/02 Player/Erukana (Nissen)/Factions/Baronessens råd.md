@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Baronessens råd/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"political-body","status":"active","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/Locations/Baroniet Welles]]"],"Campaign":"Erukana","aliases":["Baronesse Avalandes råd"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Baronessens råd/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"political-body","status":"active","friend-or-foe":"neutral","Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles]]"],"Campaign":"Erukana","aliases":["Baronesse Avalandes råd"],"tags":["erukana","faction"]}}
 ---
 
 
 ## Description
-Baronessens råd er det rådgivende organ for [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]. Rådet mødes i [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]].
+Baronessens råd er det rådgivende organ for [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]. Rådet mødes i [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]].
 
 ## Notes
 ### Funktion
 - Rådgivende organ for [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
-- Politisk magtcentrum i [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+- Politisk magtcentrum i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 - Mødes i [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]]
 
 ### Politisk betydning
@@ -19,7 +19,7 @@ Baronessens råd er det rådgivende organ for [[02 Player/Erukana (Nissen)/Peopl
 
 ## Relationships
 - **Leder**: [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
-- **Region**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Welles\|Baroniet Welles]]
+- **Region**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]]
 - **Kontakt**: [[02 Player/Erukana (Nissen)/People/Lord Vitano\|Lord Vitano]] (søger adgang)
 

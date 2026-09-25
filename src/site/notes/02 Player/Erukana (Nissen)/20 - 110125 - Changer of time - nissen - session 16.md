@@ -68,7 +68,7 @@
 
 - Baronen af Eresby er en udød styret af sin søn, som regerer baroniet by proxy.  #erukanasecretsnclues 
 - Den lilla plage var skyld i [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] fald #erukanasecretsnclues 
-- [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]] kom til [[02 Player/Erukana (Nissen)/Locations/Erukana\|Erukana]] for at kæmpe den kamp [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ikke kunne kæmpe #erukanasecretsnclues 
+- [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]] kom til [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]] for at kæmpe den kamp [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ikke kunne kæmpe #erukanasecretsnclues 
 - Nogle folk der tjener den lilla plage bærer en ring med 3 amatyst sten #erukanasecretsnclues 
 - Borgemester [[02 Player/Erukana (Nissen)/People/Denizar Volmar\|Denizar Volmar]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] bærer en ring med 3 amatyst sten #erukanasecretsnclues 
 - Den lilla plag er alles fjende #erukanasecretsnclues 
