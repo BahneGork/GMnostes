@@ -4,17 +4,17 @@
 
 
 ## Description
-Familien Botreaux er den herskende adelige familie i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. De regerer fra [[Botreaux byen\|Botreaux byen]] og [[02 Player/Erukana (Nissen)/Locations/Castle Botreaux\|Castle Botreaux]].
+Familien Botreaux er den herskende adelige familie i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. De regerer fra [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Botreaux byen]] og [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Castle Botreaux]].
 
 ## Notes
 ### Herredømme
-- Herskende familie i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
-- Regerer fra [[Botreaux byen\|Botreaux byen]]
+- Herskende familie i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- Regerer fra [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Botreaux byen]]
 - Et af de mægtigste hertugdømmer i regionen
 
 ### Kultur
 - Kendt for at sponsorere uddannelse og kultur
-- [[Botreaux byen\|Botreaux byen]] har store universiteter og akademier
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Botreaux byen]] har store universiteter og akademier
 - Rigdom fra handel
 
 ### Hof
@@ -22,13 +22,13 @@ Familien Botreaux er den herskende adelige familie i [[Hertugdømmet Botreaux\|H
 - Centrum for politisk magt i hertugdømmet
 
 ## Relationships
-- **Hersker over**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
-- **Residens**: [[Botreaux byen\|Botreaux byen]], [[02 Player/Erukana (Nissen)/Locations/Castle Botreaux\|Castle Botreaux]]
+- **Hersker over**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Residens**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Botreaux byen]], [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Castle Botreaux]]
 - **Hof**: [[02 Player/Erukana (Nissen)/Factions/Botreaux court\|Botreaux court]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Locations/Hertugdømmet Bortreaux]]
-- [[Locations/Botreaux byen\|Locations/Botreaux byen]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Bortreaux]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Locations/Botreaux byen]]
 
 ## Tags
 #erukana #faction #nobility #botreaux #ruling-family

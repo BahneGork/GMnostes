@@ -4,7 +4,7 @@
 
 
 ## Description
-Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] og [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]. De bor primært i underjordiske haller i bjergene, hvor de dyrker deres traditioner for håndværk, minedrift og stenarbejde.
+Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]] og [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana]]. De bor primært i underjordiske haller i bjergene, hvor de dyrker deres traditioner for håndværk, minedrift og stenarbejde.
 
 ## Notes
 ### Dværgehaller
@@ -23,14 +23,14 @@ Dværgene er en af de ældste racer i [[02 Player/Erukana (Nissen)/Setting lore/
 
 ### Kendte dværge
 - **[[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]** - Lejesoldat og leder af modstandsbevægelsen i Astley
-- **[[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]]** - Lord Kommandør for [[02 Player/Erukana (Nissen)/Factions/Blodrosen\|Blodrosen]]s Detachment i Astley
+- **[[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]]** - Lord Kommandør for [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blodrosen]]s Detachment i Astley
 - **[[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]** - Mountain Dwarf, PC
 - Bahamut præst med slange-tatoveringer (mødt i session 9)
 
 ## Relationships
 - **Haller**: [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]], [[02 Player/Erukana (Nissen)/Locations/Silverstream dværge hallerne\|Silverstream dværge hallerne]]
 - **Allierede**: [[Gnomerne\|Gnomerne]], Bjergenes Børn
-- **Handel**: Eksport til [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Handel**: Eksport til [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Trusler**: [[02 Player/Erukana (Nissen)/Factions/Horden\|Horden]], kobolder i bjergene
 
 ## Referenced In

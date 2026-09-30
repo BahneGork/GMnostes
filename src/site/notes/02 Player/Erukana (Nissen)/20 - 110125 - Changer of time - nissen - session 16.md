@@ -14,17 +14,17 @@
 - Vargoth begynder at mingle og smalltalke
 - Bjørn stabler mad på sin tallerken og folk er lidt intimiderede og ved ikke hvordan de skal bryde isen. Mange yngre kvinder virker meget optaget af Bjørn og hans imponerende fysik. Der bliver fniset i krogene.
 - Nibar får opmærksomhed på en høj mand af aristokratisk herkomst som er helt glatbarbaret med fine træk så han næsten kunne være en kvinde. Manglen på fortrin udelukker dog dette. Han taler med en anden mand med et emblem med en sølvhånd. [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]] virker mest ivrig for at tale med den androgyne mand end omvendt.
-- Nibar ser også en dværg i ceremoniel brystplade med sorte og grå klæder, mindre end Vargoth. På brystpladen er ingraveret 5 hoveder i de 5 farver. Lord Kommandør [[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]], Kommandør for [[02 Player/Erukana (Nissen)/Factions/Blodrosen\|Blodrosen]]s Detachment i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] er fra [[02 Player/Erukana (Nissen)/Factions/Frostheim Klanen\|Frostheim Klanen]] i [[02 Player/Erukana (Nissen)/Locations/Zezstanie\|Zezstanie]](?). Han har mørkeblå tegn i ansigtet som er klanens tegn. Hans venstre øje har et ar og øjet er erstattet med en sort gemstone (magisk).
+- Nibar ser også en dværg i ceremoniel brystplade med sorte og grå klæder, mindre end Vargoth. På brystpladen er ingraveret 5 hoveder i de 5 farver. Lord Kommandør [[02 Player/Erukana (Nissen)/People/Sargas Slatefist\|Sargas Slatefist]], Kommandør for [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blodrosen]]s Detachment i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] er fra [[02 Player/Erukana (Nissen)/Factions/Frostheim Klanen\|Frostheim Klanen]] i [[02 Player/Erukana (Nissen)/Locations/Zezstanie\|Zezstanie]](?). Han har mørkeblå tegn i ansigtet som er klanens tegn. Hans venstre øje har et ar og øjet er erstattet med en sort gemstone (magisk).
 - Winston kigger efter folk af våbenfør type og ser en høj meget bleg kvinde i sort tøj af udefinerbar alder, som han får fornemmelsen er meget ældre end man ville tro. Hendes bælte har tydeligvis plads til våben og hun må være Borgmesterens bodyguard. Hun skanner hele tiden rummet og forbliver tæt på borgmesteren. Indenfor 6m får Winston en bekymrende fornemmelse og beslutter ikke at gå hen til hende.
 - Vi mødes og Borgmesteren kommer hen til os. Bjørn og Winston føler pludselig et ekstremt ubehag og koldsveden pibler frem. Bjørn og Vargoth lægger mærke til en guld ring på borgmesterens hånd med 3 amethyster i fint håndværk. #erukanasecretsnclues 
 - Borgmesteren takker Astleys Avengers foran hele forsamlingen og spørger efterfølgende om han kan gøre brug af gruppens talenter en anden gang. Gruppen siger ja og da adspurgt siger de at prisen fra første opgave (550gp) vil variere afhængigt af opgaven. Borgmesteren virker ikke bekymret over en eventuel stigning i pris.
 - Bjørn inviterer Lallana Bortreaux ud og danse og det får han lov til. Til stor ærgrelse for mange andre unge mænd.
-- [[02 Player/Erukana (Nissen)/People/Illyria Starmantle\|Illyria Starmantle]] henvender sig til alle mens Bjørn danser. Han er fra Julland, nærmere betegnet byen [[02 Player/Erukana (Nissen)/Locations/Kolitan\|Kolitan]]. Han vil gerne snakke om en mulig handelsaftale. Han er den lettere androgyne mand Nibar observerede tidligere. Winston beder ham kontakte [[Assana Lemiuex\|Assana Lemiuex]] for at få en aftale. Illyria spørger om hun skal med til mødet. Winston bekræfter det ikke kan udelukkes. #waningmoon/lead
+- [[02 Player/Erukana (Nissen)/People/Illyria Starmantle\|Illyria Starmantle]] henvender sig til alle mens Bjørn danser. Han er fra Julland, nærmere betegnet byen [[02 Player/Erukana (Nissen)/Locations/Kolitan\|Kolitan]]. Han vil gerne snakke om en mulig handelsaftale. Han er den lettere androgyne mand Nibar observerede tidligere. Winston beder ham kontakte [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemiuex]] for at få en aftale. Illyria spørger om hun skal med til mødet. Winston bekræfter det ikke kan udelukkes. #waningmoon/lead
 - En tjener henvender sig til gruppen omkring kl. 22. Han overbringer en besked fra [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] som beder os  om at møde op ved vestporten kl. 24. Pak til flere dage står der.
 - Bjørn får besked midt i alt hans danseri med [[Lallana\|Lallana]] at vi skal smutte. Han beder sig på galant vis undskyldt og får Lallanas kort med hendes adresse. 
 
 # Party no more
-- Et stykke udenfor vestporten erfarer vi at [[Samy\|Samy]] har rapporteret til [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] og har fortalt en delegation er på vej til kongen med et scepter. Fafnir vil indhente delegationen og få fat i scepteret for at undgå at Blodrosen kommer mere i kongens favør.
+- Et stykke udenfor vestporten erfarer vi at [[02 Player/Erukana (Nissen)/People/Samy\|Samy]] har rapporteret til [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] og har fortalt en delegation er på vej til kongen med et scepter. Fafnir vil indhente delegationen og få fat i scepteret for at undgå at Blodrosen kommer mere i kongens favør.
 - Delegationen er 4 blodrose riddere og en rødhåret præstinde.
 - Vi eftersætter og bliver spottet efter nogle dage - vi skynder os efter.
 - 
@@ -43,7 +43,7 @@
 - [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica]] er [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Silvara]]'s søster
 - Ved at brænder den korrupteret [[Queensguard\|Queensguard]] chaptermaster har vi gjort noget godt 
 - Men der er ikke rigtigt nogen rest tilbage af ordenen
-- Silvara nævnte også at [[Edmund Vitano\|Edmund Vitano]] ikke kan indtage ham i ordenen
+- Silvara nævnte også at [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund Vitano]] ikke kan indtage ham i ordenen
 - Silvara nævner at tiden foran dem er en test, en prøvelse.
 - Slaget der vil forestå, vil gælde som Winston (og Claras prøve)
 - På vores vej igennem skov området inden bjergene begynder det at sne 
@@ -68,7 +68,7 @@
 
 - Baronen af Eresby er en udød styret af sin søn, som regerer baroniet by proxy.  #erukanasecretsnclues 
 - Den lilla plage var skyld i [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] fald #erukanasecretsnclues 
-- [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]] kom til [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]] for at kæmpe den kamp [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ikke kunne kæmpe #erukanasecretsnclues 
+- [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]] kom til [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana]] for at kæmpe den kamp [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] ikke kunne kæmpe #erukanasecretsnclues 
 - Nogle folk der tjener den lilla plage bærer en ring med 3 amatyst sten #erukanasecretsnclues 
 - Borgemester [[02 Player/Erukana (Nissen)/People/Denizar Volmar\|Denizar Volmar]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] bærer en ring med 3 amatyst sten #erukanasecretsnclues 
 - Den lilla plag er alles fjende #erukanasecretsnclues 

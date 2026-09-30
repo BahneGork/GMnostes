@@ -8,13 +8,13 @@
 # Session 23 - Void Ship Battle Continues
 
 - Void ship kampen fortsætter
-- [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] hidkalder mere lyn
+- [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]] hidkalder mere lyn
 - Lederen af det gode skib udråber sit navn og titler 
 - Sagn: stormens ed, drog ud for at finde et tempus artifakt der var blevet stjålet af en pirat. Det førte til en krig der har kørt i årtier og ind i himmerige. Der hvor det foregik er der nu et kæmpe krater, vortex, flere mil. 
 - Logan udråber "Tempus velsignet! Vi er blot rejsende fra Erukana, forbipasserende."
 - Vargoth udråber at han er følger af Tempus og en del titler mens han velsigner slagmarken
 - Tempus lederen er [[02 Player/Erukana (Nissen)/People/Zarafine\|Zarafine]] 
-- Vi kommer ombord på tempus skibet, [[02 Player/Erukana (Nissen)/Journal/stormens ed\|stormens ed]] 
+- Vi kommer ombord på tempus skibet, [[02 Player/Erukana (Nissen)/Locations/stormens ed\|stormens ed]] 
 - Skibet er forbandet til evig kamp med piraten indtil tempus artifakt er taget tilbage 
 - Vi bliver bespist med hellig mad og drikke
 - Zarafine vil vide hvad det er vi vil bruge portalen til 

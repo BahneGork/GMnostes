@@ -4,7 +4,7 @@
 
 
 ## Description
-Tempus tilhængere er en religiøs militærorden dedikeret til Tempus - krigens gud. Ordenens helligste sted er skibet [[02 Player/Erukana (Nissen)/Journal/stormens ed\|stormens ed]] (Stormens Ed), der er forbandet til evig kamp med pirater indtil et stjålet Tempus-artefakt er taget tilbage. Ordenen anerkender [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] som Tempus-følger.
+Tempus tilhængere er en religiøs militærorden dedikeret til Tempus - krigens gud. Ordenens helligste sted er skibet [[02 Player/Erukana (Nissen)/Locations/stormens ed\|stormens ed]] (Stormens Ed), der er forbandet til evig kamp med pirater indtil et stjålet Tempus-artefakt er taget tilbage. Ordenen anerkender [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] som Tempus-følger.
 
 ## Leadership
 - **[[02 Player/Erukana (Nissen)/People/Zarafine\|Zarafine]]** - Leder og kaptajn på Stormens Ed, kontrollerer en magisk portal
@@ -19,7 +19,7 @@ Tempus tilhængere er en religiøs militærorden dedikeret til Tempus - krigens 
 
 ## Relationships
 - **Guddom**: Tempus - krigens og slagets gud
-- **Helligsted**: [[02 Player/Erukana (Nissen)/Journal/stormens ed\|stormens ed]]
+- **Helligsted**: [[02 Player/Erukana (Nissen)/Locations/stormens ed\|stormens ed]]
 - **Leder**: [[02 Player/Erukana (Nissen)/People/Zarafine\|Zarafine]]
 - **Fjende**: [[02 Player/Erukana (Nissen)/People/pirat kaptajnen Arlis\|pirat kaptajnen Arlis]] - besidder Tempus ånde
 - **Kontakt**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]]

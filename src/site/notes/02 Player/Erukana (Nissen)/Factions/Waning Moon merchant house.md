@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]"],"category":"faction","faction_type":"merchant-company","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Assana Lemieux]]"],"affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","aliases":["Waning Moon","Waning moon merchant house"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen|session 45]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]"],"category":"faction","faction_type":"merchant-company","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Assana Lemieux]]"],"affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","aliases":["Waning Moon","Waning moon merchant house"],"tags":["erukana","faction"]}}
 ---
 
 
 ## Description
-Waning Moon merchant house er et handelshus i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] der er allieret med [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]. [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] er administrator og ansvarlig for handelsforretningen.
+Waning Moon merchant house er et handelshus i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] der er allieret med [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]. [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] var administrator og ansvarlig for handelsforretningen indtil hun døde under dracolich-angrebet på Astley (session 46).
 
 ## Notes
 ### Session 41
@@ -12,16 +12,26 @@ Waning Moon merchant house er et handelshus i [[02 Player/Erukana (Nissen)/Locat
 - Hushovmesteren overbringer papir til dem
 - Det var en seddel til [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]] om forespørgelse vedrørende udstyr
 
+### Session 45 - Dracolichen angriber
+- Gruppen samles i Waning Moon lige før jorden flækker under Soltræet og dracolichen angriber
+- En Hydra dukker op midt i handelshuset kort efter
+
+### Session 46 - Under Soltræet
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] flyver til Waning Moon mansion for at undersøge skaderne efter angrebet
+- [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]], administrator, findes død - lig næsten rent skelet, knust af faldende bygningskonstruktioner
+
 ## Relationships
-- **Administrator**: [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]]
+- **Administrator**: [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] (død)
 - **Allieret**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]
+- [[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen\|45 - The Dracolich attacks Delios - Nissen]]
+- [[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|46 - 080826 - Under Soltræet - Nissen]]
 
 ## Members
-- [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] - Administrator (human, 25-29 år)
+- [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] - Administrator (human, 25-29 år) - **død, session 46**
   - Bonus: Advantage på diplomacy checks, 1 reroll på Item Acquiring Lists
 
 ## Benefits - Acquisitions

@@ -4,13 +4,13 @@
 
 
 ## Description
-Dark Gem klanen er en kobold-stamme der beboer [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]. De er korrupteret af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og tjener [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]. Korrupterede medlemmer får ædelsten (opaler/amethyster) groende ud af deres hud og eksploderer i sorte flammer når de dør. De taler det [[02 Player/Erukana (Nissen)/Setting lore/sorte sprog\|sorte sprog]].
+Dark Gem klanen er en kobold-stamme der beboer [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]]. De er korrupteret af [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]] og tjener [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]. Korrupterede medlemmer får ædelsten (opaler/amethyster) groende ud af deres hud og eksploderer i sorte flammer når de dør. De taler det [[02 Player/Erukana (Nissen)/Setting lore/sorte sprog\|sorte sprog]].
 
 ## Notes
 ### Session 1
 - Ved huleindgangen mødte gruppen 2 kobold-vagter fra klanen
 - En kobold blev skudt af [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]], en anden af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] stabiliserede den sårede kobold
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] stabiliserede den sårede kobold
 - Kobolderne hviskede om [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] og [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]
 - En korrupteret kobold i lilla kåbe med opaler i huden talte det [[02 Player/Erukana (Nissen)/Setting lore/sorte sprog\|sorte sprog]]
 - Da den korrupterede kobold blev dræbt, eksploderede den i sorte flammer
@@ -20,9 +20,9 @@ Dark Gem klanen er en kobold-stamme der beboer [[Dark Gem Clan Caves\|Dark Gem C
 
 ## Relationships
 - **Leder**: [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] - frygtet leder med ædelsten i hud
-- **Beboelse**: [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]
+- **Beboelse**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]]
 - **Væsen**: [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] - mystisk kraft i hulerne
-- **Korruption**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
+- **Korruption**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1\|1-080723 - Changer of time session 1]]

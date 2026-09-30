@@ -4,11 +4,11 @@
 
 
 ## Description
-Ti ingots af et sort og mystisk metal fundet i [[Vinterspiret 1\|Vinterspiret 1]]. Metallet er hentet fra tempelminerne i [[02 Player/Erukana (Nissen)/Locations/Angramar\|Angramar]] og har ukendte egenskaber.
+Ti ingots af et sort og mystisk metal fundet i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]. Metallet er hentet fra tempelminerne i [[02 Player/Erukana (Nissen)/Locations/Angramar\|Angramar]] og har ukendte egenskaber.
 
 ## Notes
 ### Session 42
-- 10 sort metal ingots fundet i kammer i toppen af [[Vinterspiret 1\|Vinterspiret 1]]
+- 10 sort metal ingots fundet i kammer i toppen af [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]
 - Metallet er hentet i tempelminerne i [[02 Player/Erukana (Nissen)/Locations/Angramar\|Angramar]]
 - Gruppens NEXT goal inkluderer at finde ud af hvad det sorte metal er
 
@@ -18,7 +18,7 @@ Ti ingots af et sort og mystisk metal fundet i [[Vinterspiret 1\|Vinterspiret 1]
 
 ## Relationships
 - **Origin**: [[02 Player/Erukana (Nissen)/Locations/Angramar\|Angramar]] (tempelminer) → ultimate origin: **Skyggelandet** (Shadow Realm)
-- **Found in**: [[Vinterspiret 1\|Vinterspiret 1]]
+- **Found in**: [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]

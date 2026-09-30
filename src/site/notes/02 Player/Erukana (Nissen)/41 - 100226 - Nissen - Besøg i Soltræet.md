@@ -19,10 +19,10 @@
 	- [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] samler en hel del blade op af ponden, meget usædvanligt. 
 	- Clarabel introducerer Hr.Flick for [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] 
 		- Agressive Satyrer på vores rejse
-		- Vi skal snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] i [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]], han er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|Treeshaper]]
+		- Vi skal snakke med [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Visdommens kammer\|Visdommens kammer]], han er en [[02 Player/Erukana (Nissen)/Setting lore/Treeshaper\|Treeshaper]]
 		- Clara spørger til de mange blade. [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] viser et af bladene, et lille sammenkrøllet grønt og frodigt men mørkt, falmet og hårdt men ser vådt og slimet ud på kanterne.
 		- Clara kvaler en knurren inden det bliver for voldsomt og hendes hår skifter til farven grå 
-	- Hr.Flick og Clara fortsætter til [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]]
+	- Hr.Flick og Clara fortsætter til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Visdommens kammer\|Visdommens kammer]]
 	- ![Pasted image 20260210195330.png\|300](/img/user/10%20Attachments/Pasted%20image%2020260210195330.png)
 	- Krystallen i midten af kammeret skifter farve efter årstiden 
 	- Her finder vi [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] som ikke er begejstret for vores besøg 
@@ -30,13 +30,13 @@
 	- En af satyrene træder ud af luften som var han der i virkeligheden. 
 	- den har et lille bitte symbol/tegn der nærmest er brandemærket på den, en wyrm der sover og bider sig selv i halen. 
 	- Clara spørger om de ved hvad symbolet er og [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] har en mistanke om at det er noget..
-	- Clare fortæller om da Nibar rør "fængslet" hvor der var en drage og nævner [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] 
+	- Clare fortæller om da Nibar rør "fængslet" hvor der var en drage og nævner [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]] 
 	- [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] begynder at kvæle [[Hr.Flick\|Hr.Flick]] "ikke hvem som helst må vide om dette"
 	- Clara knurrer og tager svovl frem og siger "slip ham"
 	- [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] nægter og fortsætter med at med at forsøge kvæle Hr.Flick
 	- Hr.Flick spotter at han har et ar med omrids af lilla
 	- [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] får samlet sig selv
-	- Han spørger om vi kender [[02 Player/Erukana (Nissen)/Factions/Azur ordnen\|Azur ordnen]] og dens patron en sølvdrage 
+	- Han spørger om vi kender [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordnen]] og dens patron en sølvdrage 
 	- Sølvdragen gav sit liv og sjæl til staven som er nøglen til fængslet. 
 	- Tidsartifaktet og staven er nøgle og lås til fængslet. 
 	- Staven blev delt i 4, efter devisen at det er sværere at finde 4 dele end 1 del.

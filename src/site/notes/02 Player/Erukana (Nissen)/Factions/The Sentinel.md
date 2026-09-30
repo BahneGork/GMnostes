@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Sentinel/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"arcane-order","status":"unknown","friend-or-foe":"unknown","Location":["[[Hertugdømmet Botreaux]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/The Sentinel/","tags":["erukana","faction"],"dg-note-properties":{"category":"faction","faction_type":"arcane-order","status":"unknown","friend-or-foe":"unknown","Location":["[[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux]]"],"Campaign":"Erukana","tags":["erukana","faction"]}}
 ---
 
 
 ## Description
-The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave" i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. Tårnet er mystisk og lukket - kun få besøger det, med mindre man er direkte inviteret.
+The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave" i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. Tårnet er mystisk og lukket - kun få besøger det, med mindre man er direkte inviteret.
 
 ## Notes
 ### Organisation
 - Troldmandstårn
 - Dedikeret til læring om "The Weave"
-- Beliggende i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- Beliggende i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - Meget lidt kendes til tårnet
 
 ### Adgang
@@ -31,12 +31,12 @@ The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave"
 ## Relationships
 - **Uddannede**: [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
 - **Sponsor**: [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]]
-- **Lokation**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Kontakt**: Waning Moon
 
 ## Referenced In
 - [[Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
-- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Locations/Hertugdømmet Bortreaux]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Bortreaux]]
 - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|People/Marie Louise Duvall af Miragehill]]
 
 ## Tags

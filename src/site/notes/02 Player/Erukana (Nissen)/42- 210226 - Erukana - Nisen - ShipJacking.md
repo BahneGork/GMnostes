@@ -9,7 +9,7 @@
 Last session ending with the expedition to [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]] --> 
 NEXT move: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver op til det. Sørger for det er sikkert og så henter vi Kaelen og hans crew op på skibet og finder ud af hvad der skal til for at det er flyveværdigt 
 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-14' data-date-end='' data-img='Inline Example/Event_2.jpg' data-name='(42) Ship Jacking'></span>
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-14' data-date-end='' data-img='Inline Example/Event_2.jpg' data-name='(42) Ship Jacking'>(42) Ship Jacking</span>
 	- Location: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan\|Port Drakkan]] on the east coast of [[02 Player/Erukana (Nissen)/Locations/Nordheim\|Nordheim]] 
 	- a port of call for all kind of people, thugs, cutthroats, pirates, mercenaries and other oppertunistic people 
 	- **Evening**
@@ -17,8 +17,8 @@ NEXT move: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver o
 		- Vi får hver 50pp 717gp 61sp
 		- Vi går derefter hver til sit 
 		- Victor, Evelyn og Logan siger ja til at blive medlemmer af Astley Avengers 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-15' data-date-end='1517-Tarsakh-15' data-img='Inline Example/Event_2.jpg' data-name='(42) Vinterspiret'></span>
-	- Vi begiver os ind i  [[Vinterspiret 1\|Vinterspiret 1]]
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-15' data-date-end='1517-Tarsakh-15' data-img='Inline Example/Event_2.jpg' data-name='(42) Vinterspiret'>(42) Vinterspiret</span>
+	- Vi begiver os ind i  [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]
 	- Dørene blæser op, en dunst af gammel støv blæser os i ansigtet, de er lavet af en dyr træsort en rød eg med indlagt guld.
 	- Bag dørene er der et stort lokale, alt emmer af storslåethed, forfaldet dog.
 	- Lyset tvinger nærmest levende mørke væk fra sig, længere inde i kammeret er en vindeltrappe der fører højt op, rundt om står 4 statuer. 
@@ -61,7 +61,7 @@ NEXT move: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver o
 	- Golemmen er styret af en skygge engel. 
 	- Evelyn bliver udsat for power word kill og dør. 
 	- Victor dræber skygge englen med sidst shadow blade. 
-	- Organisationen som boede i [[Vinterspiret 1\|Vinterspiret 1]] hed [[02 Player/Erukana (Nissen)/Factions/Aethor Flåden\|Aethor Flåden]]  og deres symbol er en bjergtop med et skib foran.
+	- Organisationen som boede i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]] hed [[02 Player/Erukana (Nissen)/Factions/Aethor Flåden\|Aethor Flåden]]  og deres symbol er en bjergtop med et skib foran.
 	- i et kammer finder vi:
 		- 10 [[02 Player/Erukana (Nissen)/Items/sort metal ingots\|sort metal ingots]]
 		- en metal wand - whisperwind - som nok skal bruges til at kontrollere det flyvende skib 
@@ -72,8 +72,7 @@ NEXT move: Vi vil gerne op på flyve skibet, enten igennem spiret eller flyver o
 - Tårnet er nu fuldstændigt renset for skygger og ondskab
 - Det sorte metal er hentet i tempel minerne i Angramar
 - 20 obsidian arrows +1, eksplodes d6 force dmg 
-<span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-14' data-date-end='1517-Tarsakh-14' data-img='Inline Example/Event_2.jpg' data-name='Evelyn resurrection ritual'></span>
-- Logan, Winston, Nibar and Victor performs [[02 Player/Erukana (Nissen)/Journal/Evelyns resurrection ritual in Port Drakkan\|Evelyns resurrection ritual in Port Drakkan]]
+
 
 NEXT: få skibet i stand, find ud af det sorte metal, tilbage til mistville eller astley, tilbage til fæstningen 
 

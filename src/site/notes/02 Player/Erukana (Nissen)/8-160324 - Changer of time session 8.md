@@ -9,7 +9,7 @@ dato: 16 marts 2024 - nyråd
 # Redningen
 Vi iværksætter vores rednings plan mens lejren langsomt vågner op og indser de er under angreb. 
 
-[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] & [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] løber ind i skoven med [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] & [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] danner front mod orkerne. 
+[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] & [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] løber ind i skoven med [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]] mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] & [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] danner front mod orkerne. 
 
 Da vi alle er løbet ud i skoven og har fundet hinanden, overbeviser [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] os om at gøre en desperat handling. Vi aktiverer tids artefaktet og han forsøger at teleportere os væk.
 
@@ -23,7 +23,7 @@ Vi befandt os i et gigantisk rum, hvor vi ikke kunne se noget loft eller vægge.
 
 [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] undersøger spejlet og ser 2 store lilla øjne kigge intenst på ham. han lægger hånden på spejlet og bliver bombarderet med information og hans negle begynder at blive til amatyster. Vi får revet ham væk fra spejlet. 
 
-[[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] er overbevist om at [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] er blevet korrupteret, hun mindes om [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]. 
+[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] er overbevist om at [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] er blevet korrupteret, hun mindes om [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]. 
 
 Vi tænker at spejlet er en måde at kommunikere med noget som er i fangeskab.
 
@@ -31,7 +31,7 @@ Vi vælger at gå på opdagelse ud i mørket og rejser ud i det i flere dage. Vi
 
 - læder rustning #erukana/lootfound 
 - [[02 Player/Erukana (Nissen)/Loot/mace af sort stål\|mace af sort stål]] #vargot #erukana/lootfound 
-- [[02 Player/Erukana (Nissen)/Loot/amulet - keypass\|amulet - keypass]] #nibar #erukana/lootfound 
+- [[02 Player/Erukana (Nissen)/Items/amulet - keypass\|amulet - keypass]] #nibar #erukana/lootfound 
 - guld ring #erukana/lootfound 
 - pung med mønter (37) #erukana/lootfound 
 - bønnebog #erukana/lootfound 
@@ -44,7 +44,7 @@ Det virker.....   alt for godt....
 
 [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bliver trukket ned med lysets hast og resten af gruppen ryger efter med rebet. Men kun [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bliver transporteret til en overfladen dybt nede, resten falder blot. 
 
-[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bruger sin nyeste teleportations formular og hiver [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] ned på "jorden" mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] lander med nogle sygelige klask. Vi får stabiliseret og healet alle. 
+[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bruger sin nyeste teleportations formular og hiver [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] ned på "jorden" mens [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]] og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] lander med nogle sygelige klask. Vi får stabiliseret og healet alle. 
 
 Vi befinder os i en by, der ser komplet øde ud. Der er nogle tekster på bygningerne og heiroglypher. Det virker som om det kunne være det som Anakhet stammer fra. 
 
@@ -54,7 +54,7 @@ I en bygning tager [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar
 
 Vi finder en "simpel" robot i en anden bygning og tager dens amulet, så vi nu har 2 nøgler. I kælderen i de store vitige bygninger er der nogel cirkulære konstruktioner, 3 buede vægge med lidt mellemrum danner en cirkel. Muligvis noget generator. 
 
-Vi finder referencer til [[02 Player/Erukana (Nissen)/Setting lore/krigen i himlen\|krigen i himlen]], hvor det ser ud til at robot mændene står på samme side som [[02 Player/Erukana (Nissen)/Factions/safir ordenen\|safir ordenen]] og imod en stor drage med lilla lys/farve. 
+Vi finder referencer til [[02 Player/Erukana (Nissen)/Lore/krigen i himlen\|krigen i himlen]], hvor det ser ud til at robot mændene står på samme side som [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|safir ordenen]] og imod en stor drage med lilla lys/farve. 
 
 Vi drager tilbage til det store rum med 8 portaler, da vi er løbet aldeles tør for mad. Vi benytter artefaktet til at teleportere tilbage dertil og det virker. 
 

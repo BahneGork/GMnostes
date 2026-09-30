@@ -13,7 +13,7 @@ The Iron Tithe er et lejesoldatkompagni der opererer i Erukana. De kan potentiel
 - Professionelle soldater til leje
 
 ### Kontakter
-- [[02 Player/Erukana (Nissen)/People/Lord Vitano\|Lord Vitano]] kender [[02 Player/Erukana (Nissen)/People/Jarek De Guille\|Jarek De Guille]], en Iron Tithe officer
+- [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Vitano]] kender [[02 Player/Erukana (Nissen)/People/Jarek De Guille\|Jarek De Guille]], en Iron Tithe officer
 - Jarek De Guille er muligvis stadig aktiv i kompagniet
 - Potentiel rekrutteringsmulighed for alliancen
 
@@ -23,7 +23,7 @@ The Iron Tithe er et lejesoldatkompagni der opererer i Erukana. De kan potentiel
 
 ## Relationships
 - **Kontakt**: [[02 Player/Erukana (Nissen)/People/Jarek De Guille\|Jarek De Guille]] - officer
-- **Forbindelse via**: [[02 Player/Erukana (Nissen)/People/Lord Vitano\|Lord Vitano]]
+- **Forbindelse via**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Vitano]]
 - **Potentiel alliance**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 
 ## Referenced In

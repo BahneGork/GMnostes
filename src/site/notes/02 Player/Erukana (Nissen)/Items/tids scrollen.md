@@ -11,7 +11,7 @@ Tids scrollen (også kaldet Timescroll) er en magisk skriftrulle der sammen med 
 - En gruppe eventyrere hentede scrollet fra [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/Solstice\|Solstice]] for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
 - Gruppen blev dræbt af [[02 Player/Erukana (Nissen)/Factions/Rød tand stammen\|Rød tand stammen]] orker
 - [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] tog scrollet
-- Gruppen fik fat i scrollet fra [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]
+- Gruppen fik fat i scrollet fra [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]]
 - [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] tilbød 1000gp for scrollet
 
 ### Session 7

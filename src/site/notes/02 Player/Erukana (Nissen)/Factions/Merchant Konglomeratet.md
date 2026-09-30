@@ -16,11 +16,20 @@ Merchant Konglomeratet er et købmandskonsortium støttet af [[02 Player/Erukana
 - Nævnt i Clarabels downtime i Astley
 - Involveret i handelskonkurrence
 
+### Fra tidligere note "Merchant Konglomeratet"
+- Rival til Sølv Hånden
+
+### Fra tidligere note "Merchant Konglormeratets"
+Se også [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet\|Merchant Konglomeratet]]
+- Alternativ stavning af Merchant Konglomeratet
+- **Identitet**: Variant af [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet\|Merchant Konglomeratet]]
+
 ## Relationships
 - **Støtte**: [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]]
 - **Rival**: [[02 Player/Erukana (Nissen)/Factions/Sølvhånden\|Sølvhånden]]
 
 ## Referenced In
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[Journal/The Grand Alliance/Financial backing\|Journal/The Grand Alliance/Financial backing]]

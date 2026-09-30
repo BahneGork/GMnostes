@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/stormfang/","tags":["erukana","erukanaloot","weapon","cursed"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/34 - erukana - steffen - 12|session 34]]","[[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]"],"itemname":"Stormfang","itemtype":"weapon","used-by":"[[02 Player/Erukana (Nissen)/People/Evelyn Adair|Evelyn]]","attunement":"unknown","tags":["erukana","erukanaloot","weapon","cursed"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/stormfang/","tags":["erukana","erukanaloot","weapon","cursed"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/34 - erukana - steffen - 12|session 34]]","[[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]"],"itemname":"Stormfang","itemtype":"weapon","used-by":"[[02 Player/Erukana (Nissen)/Characters/Evelyn Adair|Evelyn]]","attunement":"unknown","tags":["erukana","erukanaloot","weapon","cursed"]}}
 ---
 
 
@@ -13,9 +13,9 @@ Stormfang er en forbandet great axe fundet sammen med frost giant plate armor. �
 - En hide cloak var også del af udstyret
 
 ### Session 36
-- [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn]] samlede Stormfang op og tog den med
+- [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn]] samlede Stormfang op og tog den med
 - Gruppen gik ned under sarkofagen og lukkede den bag sig
-- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] sikrede låget med spikes og reb
+- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] sikrede låget med spikes og reb
 
 ### Forbandelse
 - Våbenet er forbandet
@@ -23,7 +23,7 @@ Stormfang er en forbandet great axe fundet sammen med frost giant plate armor. �
 - Mulig forbindelse til frost giants
 
 ## Relationships
-- **Nuværende ejer**: [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn]]
+- **Nuværende ejer**: [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn]]
 - **Oprindelse**: Frost giant udstyr
 - **Forbindelse**: Frost giant plate armor, runer
 

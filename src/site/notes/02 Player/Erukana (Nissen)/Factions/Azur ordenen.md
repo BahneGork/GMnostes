@@ -4,7 +4,7 @@
 
 
 ## Description
-Azur ordenen (også kendt som Safir Ordenen) er en orden forbundet med [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]. Ordenens patron var en sølvdrage der gav sit liv og sjæl til [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]] - nøglen til fængslet der holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]].
+Azur ordenen (også kendt som Safir Ordenen) er en orden forbundet med [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]. Ordenens patron var en sølvdrage der gav sit liv og sjæl til [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]] - nøglen til fængslet der holder [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]].
 
 ## Notes
 ### Session 8
@@ -18,7 +18,7 @@ Azur ordenen (også kendt som Safir Ordenen) er en orden forbundet med [[02 Play
 ### Session 41
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] fortæller om Azur ordenens patron - en sølvdrage
 - Sølvdragen gav sit liv og sjæl til [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]]
-- Staven er nøglen til fængslet der holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]
+- Staven er nøglen til fængslet der holder [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]]
 - Staven blev delt i 4 dele for at gøre den sværere at finde
 
 ### Session 46 - Under Soltræet
@@ -33,11 +33,17 @@ Azur ordenen (også kendt som Safir Ordenen) er en orden forbundet med [[02 Play
 - Alle azurordenens brødre bliver langsomt til safirsten; Ægrins tid er ved at rinde ud
 - Ægrin giver Nibar [[02 Player/Erukana (Nissen)/Items/Oktogrammet\|Oktogrammet]]; Nibar skal rejse et nyt tårn og indgår dermed i Azurbroderskabet - hvilket ikke er det samme som Tidsvogterne
 
+### Safir ordenen (krigen i himlen)
+- Referencer til safir ordenen blev fundet i City of Steel
+- Ordenen kæmpede i [[02 Player/Erukana (Nissen)/Lore/krigen i himlen\|krigen i himlen]] på samme side som robot-mændene fra City of Steel
+- De stod imod en stor drage med lilla lys/farve - muligvis en tidlig manifestation af [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]]
+- Mulig forbindelse til gruppens safirblå tatoveringer
+
 ## Relationships
 - **Patron**: [[02 Player/Erukana (Nissen)/Lore/Sølvdragen\|Sølvdragen]] (gav sit liv til staven)
 - **Forbundet med**: [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
 - **Associeret**: [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]]
-- **Modstander**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]
+- **Modstander**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]]
 - **Artefakt**: [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Arcana tårnet\|Arcana tårnet]], [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] (1 af 4 fængselslokationer)
 - **Medlemmer**: [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] (ny, via [[02 Player/Erukana (Nissen)/Items/Oktogrammet\|Oktogrammet]])

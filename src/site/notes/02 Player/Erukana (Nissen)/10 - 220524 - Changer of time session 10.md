@@ -7,8 +7,8 @@
 
 # Swamp Trekking
 - The Hydra is Dead! 
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] samler hydraens hjerte op, efter at den er blevet til aske.
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] hjælper til med at samle de faldne soldater sammen. 
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] samler hydraens hjerte op, efter at den er blevet til aske.
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] hjælper til med at samle de faldne soldater sammen. 
 - Vandet er mørkt og ugennemsigtigt, samt svier som svag syre 
 - Soldaterne er tidligere Astley byvagt
 - [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]]'s væbner siger ingenting andet end kampråb
@@ -71,7 +71,7 @@
 - Vi bruger papir og kul fra bålet og prøver at lavet et aftryk af teksten 
 - B L x x  K  x x x A R 
 - black  listar, Ishtar, Friar... BLACKSPEAR 
-- [[Sir Seillings mausoleum 1\|Sir Seillings mausoleum 1]]syd på, Winstons drøm 
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum 1]]syd på, Winstons drøm 
 - Korrupteret ubalanceret skov syd på Vargoth's syn 
 - Vi drager syd på i skoven Feywood 
 - da vi forlader sumpen med ruinerne har vi fornemmelsen af at vi forlader en "hinde" og ruinen bag os er væk. 

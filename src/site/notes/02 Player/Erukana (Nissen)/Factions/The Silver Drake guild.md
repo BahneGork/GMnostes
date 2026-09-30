@@ -4,7 +4,7 @@
 
 
 ## Description
-The Silver Drake guild er et købmandslaug fra [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]] i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. De er en rival til [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet\|Merchant Konglomeratet]].
+The Silver Drake guild er et købmandslaug fra [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]] i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. De er en rival til [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet\|Merchant Konglomeratet]].
 
 ## Notes
 ### Organisation
@@ -24,7 +24,7 @@ The Silver Drake guild er et købmandslaug fra [[02 Player/Erukana (Nissen)/Loca
 ## Relationships
 - **Base**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]
 - **Rivaler**: [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet\|Merchant Konglomeratet]]
-- **Region**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Region**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]

@@ -19,7 +19,7 @@
 - Clarabel, winston og nibar forsøger at "[[No Graph/5e Reference/spells/Raise Dead\|Raise Dead]]" Tortrin men hans ånd er draget videre 
 - sending til Nibar's læremester "hej Nibars læremester, kan du fortælle mig en teleportation circle kode i nærheden som Nibar kan bruge?"
 - "hvad i aller dybe grotters navn er dette, har den knægt nu glemt mit navn, nej. find mig i det gamle tempel en halv dag nordøst fra colville"
-- Nibar åbner en teleportation circle til [[02 Player/Erukana (Nissen)/Sir sellings mausoleum\|Sir sellings mausoleum]]
+- Nibar åbner en teleportation circle til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir sellings mausoleum]]
 - Vi bliver angrebet af 3 wraiths og med en sunbeam destrueres de
 - der ligger nogle "offer gaver" 
 - Clarabel går hen til en 2m høj trædør op ad en trappe 

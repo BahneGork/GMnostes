@@ -14,7 +14,7 @@
 	- lilla årer i ambolten animerer sig og kravler hen imod Logan 
 	- Logan går ud og lukker døren, men den lilla ting kravler igennem dobbelt døren og angriber os 
 	- Da vi har besejret den går vi igen ind i rummet som er et shrine til gond 
-	- [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] og [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]] tager hver en lille clockwork ting 
+	- [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]] og [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]] tager hver en lille clockwork ting 
 - i et andet lokale ser det ud til at man har haft en fire elemental og en portal til fire plane 
 - i et andet lokale ser det ud til at man har haft noget vandtryk 
 - der viser sig at hvert kammer i "hjørnerne" af det ottekantet område er hvert sit element: ild, vand, jord og luft 

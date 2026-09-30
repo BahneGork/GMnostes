@@ -13,7 +13,7 @@ Baronessens råd er det rådgivende organ for [[02 Player/Erukana (Nissen)/Peopl
 - Mødes i [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]]
 
 ### Politisk betydning
-- [[02 Player/Erukana (Nissen)/People/Lord Vitano\|Lord Vitano]] arbejder på at få adgang til rådet
+- [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Vitano]] arbejder på at få adgang til rådet
 - Potentielt vigtigt for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]' diplomatiske indsats
 - Del af den større politiske strategi mod [[Baron Eresby\|Baron Eresby]]
 
@@ -21,7 +21,7 @@ Baronessens råd er det rådgivende organ for [[02 Player/Erukana (Nissen)/Peopl
 - **Leder**: [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
 - **Region**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]]
-- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Lord Vitano\|Lord Vitano]] (søger adgang)
+- **Kontakt**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Vitano]] (søger adgang)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]

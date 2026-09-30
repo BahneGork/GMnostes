@@ -18,11 +18,11 @@
 	- Logan ridder foran og scouter 
 	- Skoven virker meget mere stille 
 	- Raste pladsen 
-		- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] ser en forladt vogn på et tidspunkt, den ser meget gammel ud og der er ikke nogen der ligger i baghold 
+		- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] ser en forladt vogn på et tidspunkt, den ser meget gammel ud og der er ikke nogen der ligger i baghold 
 		- 4 eller flere fodspors sæt og pote aftryk og kradse tegn måske direwolves 
 		- de har slæbt sig hen imod skoven og rejst sig op med slæbende fødder 
 		- [[02 Player/Erukana (Nissen)/Characters/Viktor Baigorri\|Victor]] aner en aura i området, en rødlig energi som er gået ind i væsner og blevet en del af dem 
-		- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] og [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] undersøger om pote aftryk giver indtryk på korruption, nogle spor er måske lidt størrer end dire wolves og nogle af pote aftryk viser nærmest at der har været rødder viklet rundt om potenerne næsten som en "sko".
+		- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] og [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] undersøger om pote aftryk giver indtryk på korruption, nogle spor er måske lidt størrer end dire wolves og nogle af pote aftryk viser nærmest at der har været rødder viklet rundt om potenerne næsten som en "sko".
 		- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] finder ud af at vognen er fanget i en tidslomme hvor tiden går meget hurtigere 
 		- en ældre herre ankommer også til raste pladsen, med hesten egon. 
 		- han spiser ikke noget, står og kigger funderende mod [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og snitter træ i sin vogn 
@@ -31,10 +31,10 @@
 			- Det virker som om fangerne har brudt sig fri i en fangeflugt 
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-28' data-date-end='1517-Tarsakh-28' data-img='Inline Example/Event_2.jpg' data-name='Lord Fern rejser væk'></span>
 - <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-28' data-date-end='1517-Tarsakh-28' data-img='Inline Example/Event_2.jpg' data-name='Den lilla flok'>Den Lilla flok</span>
-	- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] oplever at skoven bliver meget mere levende og sadler af for at snige sig frem 
-	- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] ser en kæmpe flok af humanoider og dyr der bevæger sig Øst mod Vest 
+	- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] oplever at skoven bliver meget mere levende og sadler af for at snige sig frem 
+	- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] ser en kæmpe flok af humanoider og dyr der bevæger sig Øst mod Vest 
 	- bølgen af "lilla flok" vælter imod [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og vil nok nå frem til GreenGrass (31th tarsakh)
-	- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] guider gruppen med at gemme sig i lommer i flodbølgen af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|lilla plage]] inficeret væsener
+	- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] guider gruppen med at gemme sig i lommer i flodbølgen af [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|lilla plage]] inficeret væsener
 	- Vi ankommer til Riverdale 
 		- Byen er rømmet 
 		- vi holder lejr i byen 

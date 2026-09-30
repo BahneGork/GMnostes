@@ -4,7 +4,7 @@
 
 
 ## Description
-Opal kulten er en mystisk kult forbundet med korruption og ædelsten-infuserede væsener. Kulten er forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] - en ondsindet kraft der korrupterer levende væsener. Medlemmer og deres tjenere får ofte ædelsten (særligt opaler og amethyster) groende ud af deres hud, og eksploderer i sorte flammer når de dør.
+Opal kulten er en mystisk kult forbundet med korruption og ædelsten-infuserede væsener. Kulten er forbundet med [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]] - en ondsindet kraft der korrupterer levende væsener. Medlemmer og deres tjenere får ofte ædelsten (særligt opaler og amethyster) groende ud af deres hud, og eksploderer i sorte flammer når de dør.
 
 ## Notes
 ### Session 1
@@ -36,8 +36,23 @@ Den sociale manifestation af Opal kulten i [[02 Player/Erukana (Nissen)/Location
 - Gruppens næste skridt: til [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]] for at finde efterkommere af Nidviger-familien, som slog Opal kulten ned, og se hvad de har af informationer
 - Derefter til [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og biblioteket for at undersøge den sorte fyrste, Opal kulten, underdæmoner under [[Graz'zt\|Graz'zt]] og sjælespejle
 
+### Fra tidligere note "The cult of the Opal society"
+The cult of the Opal society (også kendt som [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]) var en dæmon-kult for de rige og magtfulde i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. De blev afsløret og nedkæmpet af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] i session 19.
+- Præsenterede sig som en "bogklub for de højere udviklede"
+- Afholdt møder i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Alistair estate\|Alistair estate]]
+- **[[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]** - Vært for kulten (afsløret som dæmon)
+- **[[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady Lucille Vitano]]** - Muligvis den egentlige magt bag kulten, flygtede
+- Fangede sjæle i spejle
+- Dekadente fester for overklassen
+- Benyttede [[02 Player/Erukana (Nissen)/Setting lore/sorte sprog\|sorte sprog]]
+- **Nedkæmpet** - Lord Alistair besejret
+- **Lady Lucille Vitano flygtede** - muligvis stadig aktiv
+- **Ledere**: [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]], [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady Lucille Vitano]]
+- **Forbindelser**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]], [[02 Player/Erukana (Nissen)/Factions/Adelhuset Vitano\|Adelhuset Vitano]]
+- **Fjender**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/Factions/The Sentinel\|The Sentinel]]
+
 ## Relationships
-- **Forbundet med**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]] — den ondskabsfulde kraft bag korruptionen
+- **Forbundet med**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Den lilla plage]] — den ondskabsfulde kraft bag korruptionen
 - **Relateret**: [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] — kobolder påvirket af kulten
 - **Leder (korruption)**: [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] — leder blandt kobolderne
 - **Væsen**: [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] — mystisk væsen i hulerne

@@ -19,14 +19,14 @@ Fafnirs gruppe er en modstandsbevægelse ledet af dværgen [[02 Player/Erukana (
 - Gruppen fik information om verdens tilstand derfra
 
 ### Session 20
-- [[Samy\|Samy]] rapporterede til Fafnir om Blodrosen-delegationen med scepteret
+- [[02 Player/Erukana (Nissen)/People/Samy\|Samy]] rapporterede til Fafnir om Blodrosen-delegationen med scepteret
 - Fafnir ville indhente delegationen for at få fat i scepteret
 
 ## Relationships
 - **Leder**: [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] - dværg og tidligere lejesoldat
 - **Allierede**: [[02 Player/Erukana (Nissen)/People/Beril Højmølle\|Beril Højmølle]], [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 - **Modstander**: [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]
-- **Informanter**: [[Samy\|Samy]], [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]]
+- **Informanter**: [[02 Player/Erukana (Nissen)/People/Samy\|Samy]], [[02 Player/Erukana (Nissen)/People/Merelda\|Merelda]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7\|7-170224 - Changer of time session 7]]

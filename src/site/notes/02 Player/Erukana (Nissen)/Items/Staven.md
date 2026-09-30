@@ -4,7 +4,7 @@
 
 
 ## Description
-Staven er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/Tidsartifaktet\|Tidsartifaktet]] udgør nøgle og lås til fængslet der holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]. En sølvdrage (patron af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]) gav sit liv og sjæl til staven. Staven blev delt i 4 dele for at gøre den sværere at finde.
+Staven er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/Tidsartifaktet\|Tidsartifaktet]] udgør nøgle og lås til fængslet der holder [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]]. En sølvdrage (patron af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]) gav sit liv og sjæl til staven. Staven blev delt i 4 dele for at gøre den sværere at finde.
 
 ## Notes
 ### Session 41
@@ -15,7 +15,7 @@ Staven er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/Tidsarti
 - [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] ligger under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 
 ### Session 45.5 - Logans tur til Skullborg
-- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] genkender en rubin i [[Dasdant\|Dasdant]]s halskæde som den formodede fjerde del - se [[Rubin-delen af staven\|Rubin-delen af staven]]
+- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] genkender en rubin i [[Dasdant\|Dasdant]]s halskæde som den formodede fjerde del - se [[Rubin-delen af staven\|Rubin-delen af staven]]
 
 ### Stavens dele
 1. [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] - under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
@@ -33,7 +33,7 @@ Staven er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/Tidsarti
 - **Oprindelse**: Sølvdragens liv og sjæl
 - **Funktion**: Nøgle til fængslet (sammen med [[02 Player/Erukana (Nissen)/Items/Tidsartifaktet\|Tidsartifaktet]])
 - **Dele**: [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]], [[Rubin-delen af staven\|Rubin-delen af staven]] (formodet) + 2 ukendte
-- **Relateret til**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
+- **Relateret til**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]

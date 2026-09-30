@@ -26,7 +26,7 @@ Vi fandt en [[02 Player/Erukana (Nissen)/Items/plante med blå blade\|plante med
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/1-080723 - Changer of time session 1\|1-080723 - Changer of time session 1]]
 - [[02 Player/Erukana (Nissen)/2-130723 - Changer of time session 2\|2-130723 - Changer of time session 2]]
-- [[Locations/Dark Gem Kobold clan caves\|Locations/Dark Gem Kobold clan caves]]
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Locations/Dark Gem Kobold clan caves]]
 - [[02 Player/Erukana (Nissen)/Journal/Natteblommer\|Journal/Natteblommer]]
 
 ## Tags

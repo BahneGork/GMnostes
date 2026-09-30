@@ -31,7 +31,7 @@
 	- nukka the bear 
 - Frost kæmpens ([[02 Player/Erukana (Nissen)/People/Hjarnak Icebone\|Hjarnak Icebone]]) udstyr:
 	- frost giant plate armor med runer 
-	- forbandet great axe "[[02 Player/Erukana (Nissen)/Loot/stormfang\|stormfang]]"
+	- forbandet great axe "[[02 Player/Erukana (Nissen)/Items/stormfang\|stormfang]]"
 	- en hide cloak
 	- en halskæde af store tænder
 	- symbol: en rund skive med en stor kæmpe der slås med en sol 

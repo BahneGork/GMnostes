@@ -27,7 +27,7 @@
 - Clara og Victor ser at Celedriels spor går videre i den første udgang og Clara fornemmer "sorg" i den anden udgang og den 3 udgang er mørk og ingen spor eller fornemmelser.
 - Clara og Victor hører på et tidspunkt en lyd af noget der kvaser sten og jord, måske bevæger sig igennem. 
 - en mærkelig hybrid af krokodille, lizardman, med munde på alle led.
-- Da den døde landede en [[Ember Snake\|Ember Snake]] midt imellem os og eksploderede ild og force ud over os. 
+- Da den døde landede en [[02 Player/Erukana (Nissen)/Lore/Ember Snake\|Ember Snake]] midt imellem os og eksploderede ild og force ud over os. 
 - Efter en meget kort og intens kamp (2 runde) dør slange væsenet. 
 - Winston og Clarabel står tilbage på 1 hp 
 - Clarabel mender winstons og victors våben som blev ødelagt af slangevæsenets varme 

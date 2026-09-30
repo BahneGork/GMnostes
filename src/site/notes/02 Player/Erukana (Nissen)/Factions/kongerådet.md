@@ -9,7 +9,7 @@ Kongerådet er det rådgivende organ for [[02 Player/Erukana (Nissen)/Setting lo
 ## Notes
 ### Funktion
 - Rådgivende organ for kongen
-- Politisk magtcentrum i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]]
+- Politisk magtcentrum i [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana]]
 - Beliggende i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
 
 ### Dværge-variant
@@ -24,7 +24,7 @@ Kongerådet er det rådgivende organ for [[02 Player/Erukana (Nissen)/Setting lo
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/Stenvogterne\|Factions/Stenvogterne]]
-- [[Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
 
 ## Tags
 #erukana #faction #politics #royalty #råd

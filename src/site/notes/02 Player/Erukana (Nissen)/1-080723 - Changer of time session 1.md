@@ -6,11 +6,11 @@
 #erukana #erukanasessionlog 
 
 # On the 6th of Flamerule in the Barony of Eresby
-På vej hjem til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] fra [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] beslutter gruppen sig for at søge mod en røgsøjle i horisonten for læ for natten. Men kort efter at de har vendt snuden vestpå ser de en flok fugle kredse og sender [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] afsted for at se det an. 
+På vej hjem til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] fra [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] beslutter gruppen sig for at søge mod en røgsøjle i horisonten for læ for natten. Men kort efter at de har vendt snuden vestpå ser de en flok fugle kredse og sender [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] afsted for at se det an. 
 
 ## Fallen Ambush
 Foran et buskads i kanten af en skov, der egner sig til et flaskehals baghold, ligger 17 døde Orker og en enkelt Sellsword. Manden har en hemmelig pung under armen med lidt mønter og et papir med en opgave fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. ([[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]])  
-Manden bar et [[02 Player/Erukana (Nissen)/Setting lore/symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] #erukanasecretsnclues 
+Manden bar et [[02 Player/Erukana (Nissen)/Lore/symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]] #erukanasecretsnclues 
 
 Orkerne har primitive amuletter med en rød ulvetand. [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] genkender dem som [[02 Player/Erukana (Nissen)/Factions/Rød tand stammen\|Rød tand stammen]], de er meget langt væk hjemmefra. #erukanasecretsnclues 
 
@@ -19,14 +19,14 @@ Orkerne bliver lagt anstændigt på rækker og brændt.
 
 Der er et trækspor med menneske blod og små fod spor med klo mærker, mange, som fører væk fra skoven og ind i bakkerne. Af frygt for at der er nogen der stadig er i live og har brug for redning, fortsætter jagten på sporet hele natten.
 
-## [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]
+## [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]]
 Ved en hule indgang møder vi 2 [[02 Player/Erukana (Nissen)/People/Kobold\|02 Player/Erukana (Nissen)/People/Kobold]] vagter fra [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]], en bliver skudt i ryggen af [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] da de flygter, den anden dødeligt såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] 's crossbow. 
-[[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
+[[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] stabiliserer kobolden og [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]] får den til bevidsthed med [[No Graph/5e Reference/spells/Spare the Dying\|Spare the Dying]]. 
 Vi får overbevist kolden om at den skal fortælle resten at vi er kommet for at få de mennesker tilbage som de har hentet ved de døde orker, samt deres ting da vi leder efter en meget vigtig ting [[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]].
 
 Efter at have ventet 10-15min går vi ind i hulen, stopper ved koboldernes barrikader og venter endnu længere på at de kommer med de faldne mennesker, som vi nu tror er en gruppe der arbejder for [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]. Da de 3 lig er fremskaffet, eftersøger vi dem og finder ud af at der ikke er nogen scroll på dem. Vi beder kobolderne komme med den, men [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] har taget den og den tør de ikke gå imod. Nogle kobolder hvisker til hinanden om de skal give os til [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]].
 
-[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  intimederer kobolderne, uden trusler og [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] ytre til sidst "bring os skriftrullen eller vi må tage den med magt", inden længe ligger der 8 døde kobolder. Clarabel's hår skifter til rødt i kampens hede.
+[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]  intimederer kobolderne, uden trusler og [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] ytre til sidst "bring os skriftrullen eller vi må tage den med magt", inden længe ligger der 8 døde kobolder. Clarabel's hår skifter til rødt i kampens hede.
 
 Længere inde i hulen er der 3 udgange: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Cave - Tunnel med vandrisle lyde\|Dark Gem Cave - Tunnel med vandrisle lyde]] - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Cave - Tunnel med violet lys\|Dark Gem Cave - Tunnel med violet lys]] - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Cave - Tunnel til affaldsrum\|Dark Gem Cave - Tunnel til affaldsrum]]
 
@@ -50,7 +50,7 @@ vi aftalte at bringe [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hv
 ### Violet Lys Rummet
 
 Vi fortsatte vores færd via den tunnel hvor der var et svagt violet lysskær.
-vi fandt en [[02 Player/Erukana (Nissen)/Loot/plante med blå blade\|plante med blå blade]] **(13 uses)**, som kan laves til pulp med [[02 Player/Erukana (Nissen)/Loot/jernurt\|jernurt]], som kan heale. *(Flemming har detaljerne).*
+vi fandt en [[02 Player/Erukana (Nissen)/Items/plante med blå blade\|plante med blå blade]] **(13 uses)**, som kan laves til pulp med [[02 Player/Erukana (Nissen)/Items/jernurt\|jernurt]], som kan heale. *(Flemming har detaljerne).*
 
 Vi fortsatte længere ind i hule systemet og kom til en hule hvor den ene ende blev til behandlet/bygget vægge, med en lukket dør uden håndtag.
 Her inde stod en kobold i lilla kåbe, med opaler i sin hud/kæbe, og talte det [[02 Player/Erukana (Nissen)/Setting lore/sorte sprog\|sorte sprog]]. #erukanasecretsnclues 
@@ -71,14 +71,14 @@ Derefter rejste vi tilbage (hjem) til [[02 Player/Erukana (Nissen)/Locations/Loc
 
 Da vi ankommer på [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] bemærker vi 3 personer der står lidt ud:
 - en ældre herre der halter på venstre ben, rige klæder, i rustning og bevæbnet, fremstår som en veteran.
-		- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] bemærker han bærer en [[02 Player/Erukana (Nissen)/Loot/amulet af en rose ranke\|amulet af en rose ranke]]. #erukanasecretsnclues 
+		- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]] bemærker han bærer en [[02 Player/Erukana (Nissen)/Items/amulet af en rose ranke\|amulet af en rose ranke]]. #erukanasecretsnclues 
 - en Elver mand i rige klæder på en lille scene der spiller musik.
 - en kvinde i en kåbe med hætten oppe, sølvern hår, skjold og sværd. 
 - en mand i kulsort rustning kommer ind og taler med [[02 Player/Erukana (Nissen)/People/den ældre veteran\|den ældre veteran]] på et tidspunkt og smutter igen. #erukanasecretsnclues 
 
 ### Debriefing
 [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] belønner os med 200gp for at overbringe ham [[02 Player/Erukana (Nissen)/Journal/Brakeshield Statue\|Brakeshield Statue]] og afslutte [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|The silver statue heirloom - mission 1]] 
-Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hentede fra [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/soltice\|soltice]].  #erukanasecretsnclues 
+Vi fortæller at vi har fundet ligene af en anden gruppe, samt den scroll de hentede fra [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/Solstice\|soltice]].  #erukanasecretsnclues 
 - Baronen i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]  er den som har hyret [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]  til  [[02 Player/Erukana (Nissen)/Missions/Timescroll Missionen\|Timescroll Missionen]] , vi beder om at mødes med [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]]  eller [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
 - vi fortæller [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] at vi ikke vil overdrage skriftrullen til baronen og at vi selv har en interesse i den. 
 - vi tilbydes 1000gp for at aflevere den til [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] 
@@ -103,13 +103,13 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 - [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] 
 
 # Monsters
-- [[dark gem kobolder\|dark gem kobolder]]
+- [[02 Player/Erukana (Nissen)/Factions/dark gem kobolder\|dark gem kobolder]]
 - korrupteret kobold 
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] 
 - rødtands orker 
 
 # Locations
-- [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] 
+- [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]] 
 - [[02 Player/Erukana (Nissen)/Locations/gamle glemte dværge haller\|gamle glemte dværge haller]] 
 - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/The Bronze Keg\|The Bronze Keg]] 
 
@@ -129,13 +129,13 @@ Nogle personer er ligesom "erstattet" af andre, men udfylder samme rolle som vi 
 
 
 # Secrets N Clues Discovered
-- Der er gamle dværge haller længere inde i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]  #erukanasecretsnclues 
+- Der er gamle dværge haller længere inde i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]]  #erukanasecretsnclues 
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] kender til dværge hallerne #erukanasecretsnclues 
 - [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/Solstice\|Solstice]] havde timescroll og timeglasset  #erukanasecretsnclues 
-- [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  har også en [[02 Player/Erukana (Nissen)/Loot/blå tattoovering\|blå tattoovering]] som resten af gruppen  #erukanasecretsnclues 
+- [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]  har også en [[02 Player/Erukana (Nissen)/Items/blå tattoovering\|blå tattoovering]] som resten af gruppen  #erukanasecretsnclues 
 - Kobold infused med gemstones eksploderer når den dør  #erukanasecretsnclues 
-- Der er en magisk forseglet dør ind til dværge hallerne i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]  #erukanasecretsnclues 
-- Død eventyrer ved ork ambush havde [[02 Player/Erukana (Nissen)/Setting lore/symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]]  på sin tabard #erukanasecretsnclues 
+- Der er en magisk forseglet dør ind til dværge hallerne i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]]  #erukanasecretsnclues 
+- Død eventyrer ved ork ambush havde [[02 Player/Erukana (Nissen)/Lore/symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]]  på sin tabard #erukanasecretsnclues 
 - [[rød tands klanen\|rød tands klanen]] er langt væk hjemmefra  #erukanasecretsnclues 
 
 

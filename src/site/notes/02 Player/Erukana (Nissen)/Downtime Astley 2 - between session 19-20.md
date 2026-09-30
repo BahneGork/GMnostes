@@ -10,7 +10,7 @@
 - Gruppen overtog [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s ejendom og forretning.
 - Gruppen har døbt sig selv Astley Avengers i deres debrief rapport til [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]]
 - [[02 Player/Erukana (Nissen)/People/Lady lucille vitano\|Lady lucille vitano]] er datter af [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] som ikke tog det særlig godt at vi fandt hans datter invovleret med [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]] 
-- [[Assana Lemiuex\|Assana Lemiuex]] er forvalter af [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]] som var [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s forretning som vi nu har overtaget.
+- [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemiuex]] er forvalter af [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]] som var [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]]'s forretning som vi nu har overtaget.
 > [!info]+ Debriefing rapport til [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] 
  @Winston @Nibar
  >

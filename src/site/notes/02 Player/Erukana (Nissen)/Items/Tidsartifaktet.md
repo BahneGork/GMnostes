@@ -4,17 +4,17 @@
 
 
 ## Description
-Tidsartifaktet er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]] udgør nøgle og lås til fængslet der holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]].
+Tidsartifaktet er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]] udgør nøgle og lås til fængslet der holder [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]].
 
 ## Notes
 ### Session 41
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]]] afslører at tidsartifaktet og staven er nøgle og lås til fængslet
-- Fængslet holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]
+- Fængslet holder [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]]
 - Forbundet med [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]] og sølvdragen
 
 ### Session 46 - Under Soltræet
 - De to metaldøre i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] kan måske aktiveres af Tidsartifaktet, men det skal repareres først
-- [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]], [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn]] forsøger at reparere det
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]], [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn]] forsøger at reparere det
 - Evelyn messer intenst til sin gudinde under processen; forbindelsen virker unormalt stærk
 - Tidsartifaktet bliver repareret, men prisen er at nogen frivilligt og oplyst giver sin essens - farven forsvinder fra Evelyns krop i takt med at timeglasset fyldes, til kun kroppen er tilbage
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] fortæller at nu hvor Tidsartifaktet er fikset, "ved [Den lilla plage] det", og plagens styrker vil strømme endnu kraftigere mod det
@@ -24,8 +24,8 @@ Tidsartifaktet er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/
 
 ## Relationships
 - **Funktion**: Nøgle/lås til fængslet (sammen med [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]])
-- **Relateret til**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]], [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
-- **Reparationens pris**: [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]s essens
+- **Relateret til**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]], [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
+- **Reparationens pris**: [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]]s essens
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]

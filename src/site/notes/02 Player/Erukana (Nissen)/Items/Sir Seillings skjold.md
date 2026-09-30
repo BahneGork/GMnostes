@@ -8,13 +8,13 @@ Simpelt heater shield +3 med blålig aura på metalkanten, ser ud som om det er 
 
 ## Notes
 ### Session 47 - After the dragon essence
-- Fundet i [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seillings]] kiste; lånt mod ed om at bruges efter ridderordenens værdier og i forsvar af Erukanas folkefærd
-- Skjold +3 - går til [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]]
+- Fundet i [[02 Player/Erukana (Nissen)/People/Sir Seilling\|Sir Seillings]] kiste; lånt mod ed om at bruges efter ridderordenens værdier og i forsvar af Erukanas folkefærd
+- Skjold +3 - går til [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]]
 
 ## Relationships
 - **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
-- **Owner**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] (lånt fra Sir Seilling)
-- **Related to**: [[02 Player/Erukana (Nissen)/People/Sir Selling\|Sir Seilling]], [[02 Player/Erukana (Nissen)/Items/Sir Seillings lanse\|Sir Seillings lanse]]
+- **Owner**: [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]] (lånt fra Sir Seilling)
+- **Related to**: [[02 Player/Erukana (Nissen)/People/Sir Seilling\|Sir Seilling]], [[02 Player/Erukana (Nissen)/Items/Sir Seillings lanse\|Sir Seillings lanse]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]

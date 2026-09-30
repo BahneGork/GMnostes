@@ -4,7 +4,7 @@
 
 
 ## Description
-En magisk halskæde købt af [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] på Undermarkedet for 9000gp og givet til Victor. Halskæden kan booste castere.
+En magisk halskæde købt af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] på Undermarkedet for 9000gp og givet til Victor. Halskæden kan booste castere.
 
 ## Notes
 ### Session 43
@@ -13,7 +13,7 @@ En magisk halskæde købt af [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] 
 - Effekt: booster castere (præcis effekt ukendt)
 
 ## Relationships
-- **Bought by**: [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]]
+- **Bought by**: [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]]
 - **Owner**: Victor
 - **Purchased at**: Undermarkedet
 

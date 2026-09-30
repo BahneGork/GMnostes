@@ -5,14 +5,14 @@
 
 # Helvedes Maskinen 
 
-- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-8' data-date-end='1517-Tarsakh-8' data-img='Inline Example/Event_2.jpg' data-name='36-Helvedes Maskinen'></span>
+- <span data-category='orange' data-calendar="Ceynor" data-date='1517-Tarsakh-8' data-date-end='1517-Tarsakh-8' data-img='Inline Example/Event_2.jpg' data-name='36-Helvedes Maskinen'>36-Helvedes Maskinen</span>
 - Helvedes hunde og dæmoniske gribbe er begyndt at interessere sig for langhuset vi er inde i.
 - Ivan fører os ned i kælderen til en hemmelig udvej.
 - Ivan og Evelyn skubber et sakrofag væk fra væggen, da Ivan siger der skal være et hul bagved som vi kan komme ud igennem.
 - Winston og Corwin i bjørneform skubber låget til sakrofaget over til at blokere døren 
 - en helvedes hund er kommet ned og står udenfor døren 
 - Logan sætter nogle spikes og reb op så låget står lidt bedre fast. 
-- Evelyn samler [[02 Player/Erukana (Nissen)/Loot/stormfang\|stormfang]] op og tager med 
+- Evelyn samler [[02 Player/Erukana (Nissen)/Items/stormfang\|stormfang]] op og tager med 
 - Så går vi ned under sakrofaget og lukker det bag os. 
 - Vi går længe og kommer udenfor ved en sø udenfor byen
 - Sen eftermiddag
@@ -47,7 +47,7 @@
 	- på hans hovede sidder en tre kant hat (alla dick turpin) med en glaive på ryggen 
 	- ikke påklædt til vejret heroppe nord på
 - manden hedder Viktor Baigorri, "fra tårnet", en kriger på jagt efter tidligere samarbejdere. 
-	- født sydpå i baroniet [[02 Player/Erukana (Nissen)/Locations/Botreaux\|Botreaux]], detalje "jeg er adel" 
+	- født sydpå i baroniet [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Botreaux]], detalje "jeg er adel" 
 	- trænet til at slås hos byens vagter
 	- var en del af et eventyr party der skulle udforske en grotte, efter en dags tid stødte de på dæmoner og eventyrene paralyserede Viktor og flygtede. 
 	- 

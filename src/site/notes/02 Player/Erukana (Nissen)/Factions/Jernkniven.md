@@ -14,6 +14,12 @@ Jernkniven var et tyvelaug i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astl
 - **Defunct** - udryddet af Blodrosen
 - Opererede tidligere i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
+### Fra tidligere note "Jernkniven 1"
+Jernkniven er ikke en person, men et tidligere tyvelaug i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] der blev udryddet af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]. Denne fil er fejlplaceret under People; det er en organisation/fraktion.
+- Et tidligere tyvelaug Jernkniven er blevet udrydet af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|blodrosen]].
+- **Fjende**: Udryddet af [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]
+- **Lokation**: Opererede i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
+
 ## Relationships
 - **Udryddet af**: [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]]
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]

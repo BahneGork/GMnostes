@@ -8,7 +8,7 @@ Skyggefolket er en mystisk gruppe der er involveret i et mørke der breder sig i
 
 ## Notes
 ### Session 28
-- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] og en kvinde leder begge efter skyggefolket
+- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] og en kvinde leder begge efter skyggefolket
 - De er involveret i "et mørke der breder sig"
 - [[Brunhilda\|Brunhilda]] havde en bog fra en rejsende med information om dem
 - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] læste bogen - hans øjne blev sorte et millisekund
@@ -20,7 +20,7 @@ Skyggefolket er en mystisk gruppe der er involveret i et mørke der breder sig i
 - Information om dem er sjælden og muligvis farlig
 
 ## Relationships
-- **Søges af**: [[02 Player/Erukana (Nissen)/People/Logan\|Logan]], ukendt kvinde
+- **Søges af**: [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]], ukendt kvinde
 - **Information fra**: [[Brunhilda\|Brunhilda]] - bog om dem
 - **Forbindelse**: Udbredende mørke
 

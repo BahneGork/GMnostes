@@ -8,12 +8,12 @@ Tyve magiske obsidian-pile. Hver pil er +1 og eksploderer ved hit for d6 force d
 
 ## Notes
 ### Session 42
-- 20 obsidian arrows +1 fundet i [[Vinterspiret 1\|Vinterspiret 1]]
+- 20 obsidian arrows +1 fundet i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]
 - Ved hit: eksploderer og giver d6 force damage
-- Fundet på altanen/i kammeret øverst i [[Vinterspiret 1\|Vinterspiret 1]]
+- Fundet på altanen/i kammeret øverst i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]
 
 ## Relationships
-- **Found in**: [[Vinterspiret 1\|Vinterspiret 1]]
+- **Found in**: [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking\|42- 210226 - Erukana - Nisen - ShipJacking]]
