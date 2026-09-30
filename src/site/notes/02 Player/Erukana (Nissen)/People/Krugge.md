@@ -4,12 +4,12 @@
 
 
 ## Description
-Krugge (også stavet Kruger) er en bagersvend i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] der var forlovet med [[Miri\|Miri Sangstrup]]. Han har ikke været set i 20 dage - samme periode hvor Miri forsvandt. Han er en potentiel mistænkt eller vidne i mordsagen.
+Krugge (også stavet Kruger) er en bagersvend i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] der var forlovet med [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri Sangstrup]]. Han har ikke været set i 20 dage - samme periode hvor Miri forsvandt. Han er en potentiel mistænkt eller vidne i mordsagen.
 
 ## Notes
 ### Session 13
 - Bagersvend i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
-- Forlovet med [[Miri\|Miri Sangstrup]]
+- Forlovet med [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri Sangstrup]]
 - Ikke set i 20 dage (forsvundet samtidig med Miri)
 - Endnu ikke udspurgt
 
@@ -18,7 +18,7 @@ Krugge (også stavet Kruger) er en bagersvend i [[02 Player/Erukana (Nissen)/Loc
 - Melde tilbage til [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]] ved vestporten
 
 ## Relationships
-- **Forlovet med**: [[Miri\|Miri Sangstrup]] - den myrdede
+- **Forlovet med**: [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri Sangstrup]] - den myrdede
 - **Kender**: [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] via Miri
 - **Status**: Forsvundet i 20 dage
 - **Rapport til**: [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|vagtkaptajn Samuel]]

@@ -4,17 +4,17 @@
 
 
 ## Description
-Stampenborg er et sted [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] nævnte i forbindelse med [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]s tilfangetagelse. Muligvis en borg eller fæstning i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]-regionen.
+Stampenborg er et sted [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] nævnte i forbindelse med [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]]s tilfangetagelse. Muligvis en borg eller fæstning i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]-regionen.
 
 ## Notes
 ### Session 43
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel Lancaster]] spørger [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til råds om Evelyns situation
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] spørger [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] til råds om Evelyns situation
 - Vaelon tænker på Stampenborg i den forbindelse
 - Evelyn er ifølge commune i bjergene sydpå i Eresby, grænsende mod [[Ceystanya\|Ceystanya]]
 
 ## Relationships
 - **Region**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] (sandsynligvis)
-- **Connected to**: [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] (mulig fangested)
+- **Connected to**: [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]] (mulig fangested)
 - **Mentioned by**: [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
 
 ## Referenced In

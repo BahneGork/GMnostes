@@ -12,7 +12,7 @@ Timescroll Missionen var den opgave der bragte [[02 Player/Erukana (Nissen)/Fact
 - En gruppe eventyrere blev sendt til [[02 Player/Erukana (Nissen)/Factions/Familien Narsi\|Familien Narsi]] i [[02 Player/Erukana (Nissen)/Locations/Solstice\|Solstice]] for at hente scrollet
 - Gruppen blev dræbt af 17 [[02 Player/Erukana (Nissen)/Factions/Rød tand stammen\|Rød tand stammen]] orker i et baghold
 - Den døde sellsword bar et papir med opgaven fra [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]]
-- Han bar også et [[02 Player/Erukana (Nissen)/Setting lore/symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]]
+- Han bar også et [[02 Player/Erukana (Nissen)/Lore/symbol af en gul rhombe med en pegasus på\|symbol af en gul rhombe med en pegasus på]]
 - [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]] og [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] tog scrollet fra ligene
 - [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] hentede scrollet fra hulerne
 - [[02 Player/Erukana (Nissen)/People/Vaelon Dunmere\|Vaelon Dunmere]] tilbød 1000gp for scrollet

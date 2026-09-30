@@ -4,7 +4,7 @@
 
 
 ## Description
-De gamle glemte dværge haller er en serie af antikke dværgeruiner der ligger dybere inde i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]. Ifølge [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] indeholder hallerne masser af viden. En magisk forseglet dør fører ind til dem. Efter 15 års tidsspring er der set drager ved hallernes bjerge.
+De gamle glemte dværge haller er en serie af antikke dværgeruiner der ligger dybere inde i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]]. Ifølge [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]] indeholder hallerne masser af viden. En magisk forseglet dør fører ind til dem. Efter 15 års tidsspring er der set drager ved hallernes bjerge.
 
 ## Notes
 ### Session 1
@@ -18,7 +18,7 @@ De gamle glemte dværge haller er en serie af antikke dværgeruiner der ligger d
 - Efter 15 års tidsspring er der set drager ved de gamle dværge hallers bjerge
 
 ## Relationships
-- **Indgang**: [[Dark Gem Clan Caves\|Dark Gem Clan Caves]]
+- **Indgang**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]]
 - **Bevogtere**: [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]], [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]]
 - **Artefakter**: Viden, magiske genstande
 - **Farer**: Drager (efter tidsspring)

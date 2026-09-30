@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler/","tags":["erukana","location","dungeon"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"location","name":"Knoglestammens huler","friend-or-foe":"neutral","tags":["erukana","location","dungeon"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler/","tags":["erukana","location","dungeon"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"location","name":"Knoglestammens huler","friend-or-foe":"neutral","aliases":["knoglestammens huler 1"],"tags":["erukana","location","dungeon"]}}
 ---
 
 
@@ -13,11 +13,11 @@ Knoglestammens huler er hjemsted for [[02 Player/Erukana (Nissen)/Factions/Knogl
 - En vagt med hærdet hud der næsten ligner skæl indenunder
 - Tronsalen har [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]], en 2,5 meter høj mand, på tronen
 - [[02 Player/Erukana (Nissen)/People/Urza\|Urza]] observerer fra mørket bag søjlerne med sin korrupterede stav
-- [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] blev holdt fanget i kæder under loftet
+- [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]] blev holdt fanget i kæder under loftet
 - Hallerne tilhørte engang Wayruth - i krigen mod stormkæmperne døde over halvdelen af stammen
 
 ### Session 27
-- Gruppen reddede [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] fra [[02 Player/Erukana (Nissen)/People/Urza\|Urza]]s ritualkammer
+- Gruppen reddede [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]] fra [[02 Player/Erukana (Nissen)/People/Urza\|Urza]]s ritualkammer
 - Der var et alter med en mørk necromancer-præstebog og toppen af Urzas stav
 - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] smadrede alteret
 - En anden knoglemoder, Brunhild, bor også i hulerne
@@ -26,7 +26,7 @@ Knoglestammens huler er hjemsted for [[02 Player/Erukana (Nissen)/Factions/Knogl
 - **Beboere**: [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]], [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]] (høvding), [[02 Player/Erukana (Nissen)/People/Urza\|Urza]] (knoglemoder)
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/StormBjerget\|StormBjerget]]
 - **Historie**: Tilhørte engang Wayruth-klanen
-- **Fanger**: [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] blev holdt her
+- **Fanger**: [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]] blev holdt her
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest]]

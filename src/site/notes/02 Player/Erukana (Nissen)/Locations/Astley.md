@@ -11,7 +11,7 @@ Byen er opdelt i flere distrikter, herunder Nord-distriktet som overvåges af en
 ## Vigtige Lokationer
 - **[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]** - Et helligt natursted, tilknyttet druide-cirklen og kirken
 - **Keepers Watch** - Byens militære hovedkvarter og fængsel
-- **[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]]** - Skjult Bahamut-tilbedelse finder sted her
+- **[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|Paladine templet i Astley]]** - Skjult Bahamut-tilbedelse finder sted her
 - **[[02 Player/Erukana (Nissen)/Locations/Svinestien - Bar i Astley shanty town\|Svinestien - Bar i Astley shanty town]]** - Værtshus i byens fattigere kvarter
 - **Varehus 13** - [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]] lager
 
@@ -33,7 +33,7 @@ Astley er politisk splittet mellem støtter af **Borgmesteren** og tilhængere a
 ## Relationships
 - **Baroni**: Del af [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 - **Fraktioner**: Hjemsted for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
-- **Personer**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] (tidligere Queensguard), [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]], [[Assana Lemiuex\|Assana Lemiuex]] (forvalter)
+- **Personer**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]] (tidligere Queensguard), [[02 Player/Erukana (Nissen)/People/Vagtkaptajn Samuel\|Vagtkaptajn Samuel]], [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemiuex]] (forvalter)
 - **Trusler**: Konflikter med [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]] og den lilla plage
 
 ## Referenced In

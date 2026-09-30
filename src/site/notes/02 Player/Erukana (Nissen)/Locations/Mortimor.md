@@ -14,12 +14,12 @@ Mortimor er hovedstaden i [[02 Player/Erukana (Nissen)/Locations/Baroniet Valenc
 
 ### Politisk status
 - Sæde for [[02 Player/Erukana (Nissen)/People/Lord Helmuth de Valencia\|Lord Helmuth de Valencia]]
-- Del af [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]], men søger uafhængighed
+- Del af [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]], men søger uafhængighed
 
 ## Relationships
 - **Region**: [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]
 - **Lensherre**: [[02 Player/Erukana (Nissen)/People/Lord Helmuth de Valencia\|Lord Helmuth de Valencia]]
-- **Overordnet**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Overordnet**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Locations/Baroniet Valence]]

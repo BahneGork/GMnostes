@@ -6,7 +6,7 @@
 #erukana #barony #states
 
 # Dukedoms
-- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Hertugdømmet Bortreaux]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Bortreaux]]
 
 # Baronies
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Blackmere\|Baroniet Blackmere]]

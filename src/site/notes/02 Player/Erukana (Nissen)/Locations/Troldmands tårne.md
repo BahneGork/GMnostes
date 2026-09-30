@@ -8,7 +8,7 @@ Troldmands tårne er en samlet betegnelse for de magiske tårne i [[02 Player/Er
 
 ## Notes
 ### Kendte troldmandstårne
-- **[[02 Player/Erukana (Nissen)/Factions/The Sentinel\|The Sentinel]]** - Dedikeret til læring og viden om "The Weave" i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **[[02 Player/Erukana (Nissen)/Factions/The Sentinel\|The Sentinel]]** - Dedikeret til læring og viden om "The Weave" i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **[[The arcana tower\|The arcana tower]]** - Troldmandstårn i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]], eksploderede mystisk
 - **[[02 Player/Erukana (Nissen)/Locations/Troldmands tårn ruin i nordlandet\|Troldmands tårn ruin i nordlandet]]** - Ruiner i nordlandet, relateret til opgave for [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]
 

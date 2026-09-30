@@ -4,7 +4,7 @@
 
 
 ## Description
-Kasimer Leitner er [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]s søn. Han blev fortryllet af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|Leitner-familien]] gennem [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulrika Leitner]] til at forråde sin far. Efter besøg hos Ulrika opførte han sig mekanisk og flygtede senere nordpå. Hans familie var involveret i et komplot mod Lord Magdova.
+Kasimer Leitner er [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]]s søn. Han blev fortryllet af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|Leitner-familien]] gennem [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulrika Leitner]] til at forråde sin far. Efter besøg hos Ulrika opførte han sig mekanisk og flygtede senere nordpå. Hans familie var involveret i et komplot mod Lord Magdova.
 
 ## Notes
 ### Session 38
@@ -14,7 +14,7 @@ Kasimer Leitner er [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]s s�
 - Han flygtede nordpå.
 
 ## Relationships
-- **Far**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
+- **Far**: [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]]
 - **Forfører**: [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulrika Leitner]] (fortryllede ham)
 - **Bagmand**: [[02 Player/Erukana (Nissen)/People/Erik Leitner\|Erik Leitner]] (planlagde komplottet)
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] (fjendtlig)

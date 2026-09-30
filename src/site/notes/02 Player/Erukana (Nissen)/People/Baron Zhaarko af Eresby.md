@@ -12,7 +12,7 @@ Related: [[02 Player/Erukana (Nissen)/Factions/Court of Baron Zhaarko\|Court of 
 
 ## In-game
 Wizard of [[the arcana tower\|the arcana tower]]
-søger efter [[02 Player/Erukana (Nissen)/Loot/scroll of time\|scroll of time]] 
+søger efter [[02 Player/Erukana (Nissen)/Items/scroll of time\|scroll of time]] 
 
 Folket i "Kegville" kender ikke rigtigt baronen ud over af navn. Det vides at baronen er gift men har kun et barn, som dog ikke er set de sidste 10-12 år. Der går en masse historier om det, men hvad er rigtigt og forkert?
 
@@ -20,7 +20,7 @@ Ved at spørge 10 forskellige, får du mindst 6 forskellige historier. De går f
 
 Selve Baronen blander sig ikke i folkets laden og gøren. De adelige, borgmestrene og hans riddere sørger for at besøge og beskytte riget. 
 
-Baronen fejrer hvert år sin søns fødselsdag sent inde den 20 dag i Kythorn (Sommer solhverv), for alle i byen [[02 Player/Erukana (Nissen)/People/Segreve\|Segreve]].
+Baronen fejrer hvert år sin søns fødselsdag sent inde den 20 dag i Kythorn (Sommer solhverv), for alle i byen [[02 Player/Erukana (Nissen)/Locations/Segreve\|Segreve]].
 
 
 ## Pre-game

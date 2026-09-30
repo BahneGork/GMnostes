@@ -13,12 +13,12 @@ Jarell Flick er historiker i [[02 Player/Erukana (Nissen)/Factions/Astley histor
 	- [[02 Player/Erukana (Nissen)/People/Hans Baudler\|Hans Baudler]], Sgt. [[02 Player/Erukana (Nissen)/Factions/Skjoldungerne\|Skjoldungerne]]
 
 ### Session 41
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] henter Hr. Flick til at besøge [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] henter Hr. Flick til at besøge [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]
 - Lægger mærke til en præst der er oprørt over en mand
 - Introduceres for [[02 Player/Erukana (Nissen)/People/Maelar\|Maelar]] af Clarabel
-- Besøger [[02 Player/Erukana (Nissen)/Journal/Visdommens kammer\|02 Player/Erukana (Nissen)/Journal/Visdommens kammer]] med Clara
+- Besøger [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Visdommens kammer\|Visdommens kammer]] med Clara
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] former en satyr fra Jarrells minder
-- Lord Fern begynder at kvæle Hr. Flick da [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] nævnes
+- Lord Fern begynder at kvæle Hr. Flick da [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]] nævnes
 - Spotter at Lord Fern har et ar med omrids af lilla
 - Clara viser Hr. Flick rundt i Soltræet som en turist
 - Besvimer af udmattelse, Clara vækker ham med [[No Graph/5e Reference/spells/Lesser Restoration\|Lesser Restoration]]

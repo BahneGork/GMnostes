@@ -7,7 +7,7 @@
 
 # Hviskeren I Mørket
 Et stort edderkoppe monster, der er intelligent. 
-befinder sig i [[Dark Gem Clan Caves\|Dark Gem Clan Caves]] #erukanalocation 
+befinder sig i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Dark Gem Kobold clan caves\|Dark Gem Clan Caves]] #erukanalocation 
 
 - laver store edderkoppespind
 - kan lave magisk mørke 

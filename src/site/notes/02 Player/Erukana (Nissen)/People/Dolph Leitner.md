@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dolph Leitner/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["nobility","antagonist"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]","[[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage]]"],"disposition":"enemy","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Dolph Leitner/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"human","role":["nobility","antagonist"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]","[[02 Player/Erukana (Nissen)/Lore/Den lilla plage]]"],"disposition":"enemy","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
 ---
 
 
 ## Description
-Dolph Leitner var et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] og var kraftigt inficeret af den Lilla Plage. Han ankom til duelstedet i stedet for [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer]] med 30-50 mænd. Dolph blev ødelagt af [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]]s guddommelige intervention, hvor [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Silvara]] og [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica Dawnspire]]s ånder drog ham væk.
+Dolph Leitner var et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] og var kraftigt inficeret af den Lilla Plage. Han ankom til duelstedet i stedet for [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer]] med 30-50 mænd. Dolph blev ødelagt af [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]]s guddommelige intervention, hvor [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Silvara]] og [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica Dawnspire]]s ånder drog ham væk.
 
 **Status**: Død
 
@@ -18,7 +18,7 @@ Dolph Leitner var et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitn
 ## Relationships
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
 - **Forbindelse**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] - erstattede ham ved duelstedet
-- **Infektion**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den Lilla Plage]] - kraftigt inficeret
+- **Infektion**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Den Lilla Plage]] - kraftigt inficeret
 - **Dødsfald**: Ødelagt af guddommelig intervention fra [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]
 
 ## Referenced In

@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/goshitura rockshelf/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"npc","Profession":["warrior"],"Faction":[],"Location":["[[Vinterspiret 1]]"],"Campaign":"Erukana","aliases":["goshitura rockshelf"],"tags":["erukana","npc"],"race":"unspecified","role":["military"],"social_status":"unknown","affiliation":[],"disposition":"unknown","status":"dead","location_primary":"[[Vinterspiret 1]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/goshitura rockshelf/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]"],"category":"npc","Profession":["warrior"],"Faction":[],"Location":["[[02 Player/Erukana (Nissen)/Locations/Vinterspiret|Vinterspiret 1]]"],"Campaign":"Erukana","aliases":["goshitura rockshelf"],"tags":["erukana","npc"],"race":"unspecified","role":["military"],"social_status":"unknown","affiliation":[],"disposition":"unknown","status":"dead","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Vinterspiret|Vinterspiret 1]]"}}
 ---
 
 
 ## Description
-goshitura rockshelf boede i et kammer i [[Vinterspiret 1\|Vinterspiret 1]]. Han var i besiddelse af to søskende kampøkser af mesterklasse.
+goshitura rockshelf boede i et kammer i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]. Han var i besiddelse af to søskende kampøkser af mesterklasse.
 
 ## Notes
 ### Session 42
-- Fundet i [[Vinterspiret 1\|Vinterspiret 1]]
+- Fundet i [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]
 - 2 søskende battle axes, mastercrafted
 
 ## Relationships
-- **Location**: [[Vinterspiret 1\|Vinterspiret 1]]
+- **Location**: [[02 Player/Erukana (Nissen)/Locations/Vinterspiret\|Vinterspiret 1]]
 - **Items**: 2 mastercrafted battle axes (søskende/paired)
 
 ## Referenced In

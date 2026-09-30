@@ -14,7 +14,7 @@ Lord Barriston Samuel er en [[02 Player/Erukana (Nissen)/Factions/The Queensguar
 - **Elev**: Trænede [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|Madam Silvara Dawnspire]]
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Characters/My characters/Clarabel/Clarabel Lancaster]]
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
 - [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|People/Madam Silvara Dawnspire]]
 
 ## Tags

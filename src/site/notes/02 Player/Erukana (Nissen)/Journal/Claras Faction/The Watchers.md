@@ -245,7 +245,7 @@ I am Watcher. I am free."*
 - **[[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]**: Former Queensguard, Pillar of Truth connection
 - **Hidden Bahamut Priests**: Network already meeting in secret in Astley
 - **[[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]'s Network**: Existing resistance infrastructure
-- **Waning Moon Contacts**: [[Assana Lemiuex\|Assana Lemiuex]] and trade connections
+- **Waning Moon Contacts**: [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemiuex]] and trade connections
 
 **Financial Assets:**
 - Waning Moon monthly income: 4,600gp profit
@@ -449,7 +449,7 @@ I am Watcher. I am free."*
 - **Function:** Military operations, local knowledge
 - **Approach:** Intelligence sharing, complementary operations
 
-**[[Assana Lemiuex\|Assana Lemiuex]]**
+**[[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemiuex]]**
 - Administrator of Waning Moon Merchant House
 - Proven capable
 - **Relationship:** Resource manager, cover provider

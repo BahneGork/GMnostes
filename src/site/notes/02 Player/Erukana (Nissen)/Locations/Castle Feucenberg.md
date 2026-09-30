@@ -19,17 +19,17 @@ Castle Feucenberg er en af forsvarsværkerne til [[02 Player/Erukana (Nissen)/Lo
 
 ### Beliggenhed
 - Nær [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
-- I [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- I [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - Strategisk placeret som forsvar for hovedstaden
 
 ## Relationships
 - **Organisation**: [[02 Player/Erukana (Nissen)/Factions/Knights of the Realm\|Knights of the Realm]]
 - **Forsvarer**: [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
-- **Region**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Region**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Leder**: [[02 Player/Erukana (Nissen)/Setting lore/Kong Janus af Erukana\|Kong Janus af Erukana]]
 
 ## Referenced In
-- [[Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
 - [[02 Player/Erukana (Nissen)/Factions/Knights of the Realm\|Factions/Knights of the Realm]]
 
 ## Tags

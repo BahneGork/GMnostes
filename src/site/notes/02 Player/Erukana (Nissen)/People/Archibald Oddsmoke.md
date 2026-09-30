@@ -15,7 +15,7 @@ Han er forbundet til sølvstatue-missionen og blev fanget og torteret af nekroma
 - Fanget og torteret af [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrick]] nekromanceren i hans kælder i Mistville
 
 ### Session 9
-- Forbundet til sølvstatue-missionen — var i besiddelse af [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|sølvstatuen]]
+- Forbundet til sølvstatue-missionen — var i besiddelse af [[02 Player/Erukana (Nissen)/Items/The Silver statue heirloom\|sølvstatuen]]
 
 ## Relationships
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] - bopæl

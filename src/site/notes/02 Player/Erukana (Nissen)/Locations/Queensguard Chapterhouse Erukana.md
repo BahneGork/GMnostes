@@ -14,7 +14,7 @@ The Queensguard Chapterhouse in Erukana - now destroyed. See [[02 Player/Erukana
 - Part of [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] organization
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Characters/My characters/Clarabel/Clarabel Lancaster]]
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]
 - [[02 Player/Erukana (Nissen)/People/Madam Silvara Dawnspire\|People/Madam Silvara Dawnspire]]
 

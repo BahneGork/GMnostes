@@ -4,17 +4,17 @@
 
 
 ## Description
-Wolfenburg er kongestaden i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]] og en af de vigtigste byer i riget. Byen er kendt for sine store universiteter og akademier, og er centrum for handel og kultur.
+Wolfenburg er kongestaden i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]] og en af de vigtigste byer i riget. Byen er kendt for sine store universiteter og akademier, og er centrum for handel og kultur.
 
 ## Notes
 ### Betydning
-- Kongestaden i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- Kongestaden i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - Kendt for store universiteter og akademier
 - Centrum for handel - rigdom strømmer gennem byen
 - Befolkningen anser sig selv for bedre end resten af baronierne
 
 ### Organisationer
-- [[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]] leder [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana1]] ud fra sit palæ her
+- [[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]] leder [[02 Player/Erukana (Nissen)/Locations/Erukana1\|Erukana]] ud fra sit palæ her
 - [[Erukana Chapterhouse\|Erukana Chapterhouse]] lå lidt udenfor byen
 - Hoffet i Wolfenburg er et vigtigt diplomatisk mål
 
@@ -27,12 +27,12 @@ Wolfenburg er kongestaden i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]] o
 - Skibet "Havfruens løfte" satte kurs mod Wolfenburg
 
 ### Sølvstatuen
-- [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|Sølvstatuen]] gik tabt under transport fra [[02 Player/Erukana (Nissen)/Locations/Pembroke\|Pembroke]] til Wolfenburg
+- [[02 Player/Erukana (Nissen)/Items/The Silver statue heirloom\|Sølvstatuen]] gik tabt under transport fra [[02 Player/Erukana (Nissen)/Locations/Pembroke\|Pembroke]] til Wolfenburg
 
 ## Relationships
-- **Hertugdømme**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Hertugdømme**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Leder af Erukana**: [[02 Player/Erukana (Nissen)/People/Lord Chandler Virmingham\|Lord Chandler Virmingham]]
-- **Nærliggende**: [[Erukana Chapterhouse\|Erukana Chapterhouse]], [[Botreaux byen\|Botreaux byen]]
+- **Nærliggende**: [[Erukana Chapterhouse\|Erukana Chapterhouse]], [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Botreaux byen]]
 - **Transportrute**: [[02 Player/Erukana (Nissen)/Locations/Pembroke\|Pembroke]]
 
 ## Referenced In

@@ -27,7 +27,7 @@ Hun rakte også ud til **Vaelon Dunmere** (den tidligere arbejdsgiver fra Bronze
 **Assana & Handelsintelligens (9. Tarsakh):**
 - Få ville åbent stille sig op imod Eresby, fordi Baron Zhaarko støtter **Merchant Konglomeratet i Wolfenburg** — den mægtigste handelsorganisation i Erukana. 
 - Deres største modkandidat er **The Silver Drake Guild fra Valence** — en potentiel allieret værd at undersøge nærmere. 
-	- Clara/Assana har sendt brev til [[02 Player/Erukana (Nissen)/Factions/The Silver Drake guild\|The Silver Drake guild]] med ønske om at mødes og diskutere [[02 Player/Erukana (Nissen)/People/Merchant Konglomeratet\|Merchant Konglomeratet]]
+	- Clara/Assana har sendt brev til [[02 Player/Erukana (Nissen)/Factions/The Silver Drake guild\|The Silver Drake guild]] med ønske om at mødes og diskutere [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet 1\|Merchant Konglomeratet 1]]
 		- udveksling af erfaringer og ideer
 		- en slags tænketank
 - Lejesoldatskontakter og leverandører af krigsmateriale kan findes i **Wolfenburg**, **Mecina** og **Castle Brienne**.

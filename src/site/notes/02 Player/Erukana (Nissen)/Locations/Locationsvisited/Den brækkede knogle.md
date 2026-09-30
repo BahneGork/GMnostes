@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Locationsvisited/Den brækkede knogle/","tags":["erukana","location","tavern","astley"],"dg-note-properties":{"type":"location","subtype":"tavern","campaign":"Erukana","aliases":["Den brækkede knogle","Kromutter"],"tags":["erukana","location","tavern","astley"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Locationsvisited/Den brækkede knogle/","dg-note-properties":{"type":"location","subtype":"tavern","campaign":"Erukana","aliases":["Den brækkede knogle","Kromutter",{"Den brækkede knogle Kromuttertags":["erukana","location","tavern","astley"]}],"sessions":["[[02 Player/Erukana (Nissen)/18 - 080824 - Changer of time - nissen - session 14|session 18]]"]}}
 ---
 
 
@@ -20,6 +20,17 @@ Den brækkede knogle er et drikkested i [[02 Player/Erukana (Nissen)/Locations/A
 ### Forbindelser
 - [[02 Player/Erukana (Nissen)/People/Elvira\|Elvira]] var gadebarn ligesom [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]]
 - Elvira bar en skjult ring med initialerne "A.E."
+
+### Fra tidligere note "den brækkede knogle"
+Den brækkede knogle er et drikkested i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]], beliggende i en smal gyde. Stedet er kendt for sin klientel af drankere og er ikke blandt byens finere etablissementer.
+- Gruppen søgte efter en person der ofte opholder sig her
+- Ankom via en smal gyde
+- Drikkested fyldt med drankere
+- Besøgt under efterforskningen af [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri Sangstrup]]s mord
+- Muligvis et sted hvor vidner eller mistænkte færdes
+- **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] - i en smal gyde
+- **Sag**: [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri Sangstrup]] mordefterforskning
+- **Karakter**: Tarvelig tavern, drankere
 
 ## Relationships
 - **Placering**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]

@@ -18,7 +18,7 @@ Colville (også stavet Coleville) er en by i [[02 Player/Erukana (Nissen)/Locati
 - Interview af Nidviger familien planlagt her
 
 ### Politisk forbindelse
-- [[02 Player/Erukana (Nissen)/People/Lord Vitano\|Lord Vitano]] arbejder på at få adgang til baronessens råd i Colville
+- [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Lord Vitano]] arbejder på at få adgang til baronessens råd i Colville
 
 ### Session 47 - After the dragon essence
 - Det gamle tempel hvor [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]] opholder sig ligger en halv dags rejse nordøst for Colville - se [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Det gamle tempel nordøst for Colville\|Det gamle tempel nordøst for Colville]]

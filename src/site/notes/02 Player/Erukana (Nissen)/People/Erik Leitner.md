@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Erik Leitner/","tags":["erukana","npc","nobility","enemy"],"dg-note-properties":{"category":"npc","Profession":["Adelig","Konspirator"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]"],"Location":null,"Campaign":"Erukana","tags":["erukana","npc","nobility","enemy"],"race":"human","role":["nobility","antagonist"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]","[[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage]]"],"disposition":"enemy","status":"alive","location_primary":"unspecified"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Erik Leitner/","tags":["erukana","npc","nobility","enemy"],"dg-note-properties":{"category":"npc","Profession":["Adelig","Konspirator"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]"],"Location":null,"Campaign":"Erukana","tags":["erukana","npc","nobility","enemy"],"race":"human","role":["nobility","antagonist"],"social_status":"lord","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Leitner]]","[[02 Player/Erukana (Nissen)/Lore/Den lilla plage]]"],"disposition":"enemy","status":"alive","location_primary":"unspecified"}}
 ---
 
 
 ## Description
-Erik Leitner er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] og bagmanden bag komplottet mod [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]. Han planlagde at snigmyrde Magdova og indsætte [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] som marionet-leder.
+Erik Leitner er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]] og bagmanden bag komplottet mod [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]]. Han planlagde at snigmyrde Magdova og indsætte [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] som marionet-leder.
 
 ## Notes
 ### Komplottet mod Lord Magdova
-- Planlagde at snigmyrde [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]]
+- Planlagde at snigmyrde [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]]
 - Ville indsætte [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]] som marionet
 - Arbejdede sammen med [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]] der fortryllede Kasimer
-- Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]] gennem familien
+- Forbundet med [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den Lilla Plage]] gennem familien
 
 ### Familie
 - Del af [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
@@ -21,10 +21,10 @@ Erik Leitner er et medlem af [[02 Player/Erukana (Nissen)/Factions/House Leitner
 
 ## Relationships
 - **Familie**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|House Leitner]]
-- **Mål**: [[02 Player/Erukana (Nissen)/Lord Magdova\|Lord Magdova]] - snigmords-target
+- **Mål**: [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]] - snigmords-target
 - **Sammensvorne**: [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]]
 - **Marionet**: [[02 Player/Erukana (Nissen)/People/Kasimer Leitner\|Kasimer Leitner]]
-- **Forbindelse**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den Lilla Plage]]
+- **Forbindelse**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den Lilla Plage]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/En Bøn og sidste farvel\|Journal/En Bøn og sidste farvel]]

@@ -11,11 +11,11 @@ Hjertekammeret er et kammer dybt i katakomberne under [[02 Player/Erukana (Nisse
 - Nås ned gennem udgangen fra kammeret hvor [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedriel]] og [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] blev reddet, mod fornemmelsen af "den store sorg"
 - Seralyths dragelig ligger hernede sammen med krystalkarret hvor blod-delen har ligget
 - [[02 Player/Erukana (Nissen)/Characters/Viktor Baigorri\|Victor]] får noget af det rene blod fra karret op i sig og føler han har åbnet en dør til ny magi
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] knæler ved dragekraniet, beder til Bahamut, begræder at Seralyths essens er korrumperet og sat fri i verden, og sværger at finde en vej til at gøre en ende på det
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] knæler ved dragekraniet, beder til Bahamut, begræder at Seralyths essens er korrumperet og sat fri i verden, og sværger at finde en vej til at gøre en ende på det
 - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] tager nogle krystaller
 - Legend Lore afslører: Hjertekammeret er 1 af 4 lokationer brugt af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] til at spærre [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]] inde. Beskyttet af mægtig magi skabt af en triade af guder sammen med menneskelig magi
 - To metaldøre kan måske aktiveres af [[02 Player/Erukana (Nissen)/Items/Tidsartifaktet\|Tidsartifaktet]], men det skal repareres først
-- Vægbilleder viser øjeblikke fra gruppens liv, herunder et billede af [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn]] med det ødelagte Tidsartifakt der overgår til et helt Tidsartifakt - men uden Evelyn
+- Vægbilleder viser øjeblikke fra gruppens liv, herunder et billede af [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn]] med det ødelagte Tidsartifakt der overgår til et helt Tidsartifakt - men uden Evelyn
 - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] caster Fly på gruppen, som flyver op gennem sprækken over kammeret
 
 ### Session 47 - After the dragon essence

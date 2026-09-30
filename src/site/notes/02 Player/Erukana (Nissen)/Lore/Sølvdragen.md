@@ -4,7 +4,7 @@
 
 
 ## Description
-Sølvdragen, ved navn **Seralyth**, var patron af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]. Den gav sit liv og sjæl til [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]] som er nøglen til fængslet der holder [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]. Da hendes blod blev korrumperet, rejste et vanvittigt og rasende "Aspekt" af hende sig som Dracolich og angreb Astley i session 45.
+Sølvdragen, ved navn **Seralyth**, var patron af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]. Den gav sit liv og sjæl til [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]] som er nøglen til fængslet der holder [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]]. Da hendes blod blev korrumperet, rejste et vanvittigt og rasende "Aspekt" af hende sig som Dracolich og angreb Astley i session 45.
 
 ## Notes
 ### Session 41
@@ -18,13 +18,13 @@ Sølvdragen, ved navn **Seralyth**, var patron af [[02 Player/Erukana (Nissen)/F
 - Jorden flækker under [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] og Seralyths genfærd, forvreden og drevet af vanvid og raseri over at hendes blod er blevet korrumperet, river sig op som Dracolich og angriber Astley
 - Skriger om de dødeliges brud på deres løfte om at passe på hendes blod og legeme
 - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] fremkalder en illusion af Seralyth og viser en del af Staven frem
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] caster Calm Emotions og påkalder Bahamut, Mielikki, Queensguarden og Azur Ordenen, og beder hende kvæle sin vrede og genoptage eden
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] caster Calm Emotions og påkalder Bahamut, Mielikki, Queensguarden og Azur Ordenen, og beder hende kvæle sin vrede og genoptage eden
 - Clarabel lægger hånd på dragen og caster Remove Curse, og får en indsigt: det er ikke dragen selv, men et bundløst ondt "Aspekt". Gruppens håndtering hidtil har været mirakuløs og burde ikke have virket - det er kun et spørgsmål om tid før hun vrister sig helt løs igen
 - [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] bryder den sidste kæde der binder hende, så hun flyver mod den lilla horde i stedet for byen
 
 ### Session 46 - Under Soltræet
 - Hendes dragelig ligger i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] sammen med det tomme krystalkar hvor [[02 Player/Erukana (Nissen)/Items/Blod delen af staven\|Blod delen af staven]] har ligget
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] knæler ved dragekraniet, beder til Bahamut, begræder at Seralyths essens er blevet korrumperet og sat fri i verden som en forvrænget udgave af hende, og sværger at finde en vej til at gøre en ende på det
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] knæler ved dragekraniet, beder til Bahamut, begræder at Seralyths essens er blevet korrumperet og sat fri i verden som en forvrænget udgave af hende, og sværger at finde en vej til at gøre en ende på det
 - Legend Lore: Hjertekammeret er 1 af 4 lokationer [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]] brugte til at spærre Staven inde
 
 ### Session 47 - After the dragon essence
@@ -33,7 +33,7 @@ Sølvdragen, ved navn **Seralyth**, var patron af [[02 Player/Erukana (Nissen)/F
 ## Relationships
 - **Patron for**: [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
 - **Ofrede sig til**: [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]]
-- **Modstander af**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]]
+- **Modstander af**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]]
 - **Korrumperet aspekt**: Dracolichen der angreb Astley (session 45)
 - **Dragelig**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]]
 

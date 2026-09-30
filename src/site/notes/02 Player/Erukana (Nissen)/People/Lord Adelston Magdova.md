@@ -1,21 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Adelston Magdova/","tags":["erukana","npc","stirling","noble","magdova"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","aliases":["Lord Magdova","Adelston Magdova"],"Profession":["Lensherre"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Magdova]]"],"Location":["[[Stirling]]"],"Campaign":"Erukana","tags":["erukana","npc","stirling","noble","magdova"],"race":"human","role":["noble","lord"],"social_status":"noble","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Magdova]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[Stirling]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Lord Adelston Magdova/","tags":["erukana","npc","stirling","noble","magdova"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]"],"category":"npc","aliases":["Lord Magdova","Adelston Magdova"],"Profession":["Lensherre"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/House Magdova]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Stirling]]"],"Campaign":"Erukana","tags":["erukana","npc","stirling","noble","magdova"],"race":"human","role":["noble","lord"],"social_status":"noble","affiliation":["[[02 Player/Erukana (Nissen)/Factions/House Magdova]]","[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Stirling]]"}}
 ---
 
 
 ## Description
-Lord Adelston Magdova er lensherre over [[Stirling\|Stirling]] og overhoved for [[02 Player/Erukana (Nissen)/Factions/House Magdova\|Adelshuset Magdova]]. Han er enkemand — hans kone døde i barselsengen ved den yngste datters fødsel for 17-19 år siden. Han har 1 søn og fire døtre. Tidligere et brushoved og kendt som en dygtig sværdkæmper, men er siden blevet gammel og slidt.
+Lord Adelston Magdova er lensherre over [[02 Player/Erukana (Nissen)/Locations/Stirling\|Stirling]] og overhoved for [[02 Player/Erukana (Nissen)/Factions/House Magdova\|Adelshuset Magdova]]. Han er enkemand — hans kone døde i barselsengen ved den yngste datters fødsel for 17-19 år siden. Han har 1 søn og fire døtre. Tidligere et brushoved og kendt som en dygtig sværdkæmper, men er siden blevet gammel og slidt.
 
 ## Notes
 ### Session 38
-- Hidkaldte [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Wildwood]], men da han var udenbys tog [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] hans sted
+- Hidkaldte [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Wildwood]], men da han var udenbys tog [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] hans sted
 - Hans søn [[Kasimér Magdova\|Kasimér Magdova]] var fortryllet af [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]] og planlagde at forråde ham
 - [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]] ankom til duelstedet med 30-50 mænd — forsøg på overtagelse af lensherredømmet
 - Dolph Leitner blev ødelagt ved guddommelig intervention
 - Magdova blev herefter en fast allieret af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 
+### Originale noter
+- Lensherren i [[02 Player/Erukana (Nissen)/Locations/Stirling\|Stirling]]
+- Har 1 søn, Kasimér
+- Er enkemand, hvis kone døde i barselssengen for 17-19 år siden
+- Langvarig rival med [[House Lightner\|House Lightner]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]
+- Magdova-familien har støttet [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]] i mange årtier
+
 ## Relationships
-- **Lensherredømme**: [[Stirling\|Stirling]]
+- **Lensherredømme**: [[02 Player/Erukana (Nissen)/Locations/Stirling\|Stirling]]
 - **Hus**: [[02 Player/Erukana (Nissen)/Factions/House Magdova\|Factions/House Magdova]]
 - **Søn**: [[Kasimér Magdova\|Kasimér Magdova]] - fortryllet, flygtede nordpå
 - **Rival**: [[02 Player/Erukana (Nissen)/Factions/House Leitner\|Factions/House Leitner]] i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]

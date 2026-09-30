@@ -30,7 +30,7 @@ Deltafloden er en hellig flod i [[02 Player/Erukana (Nissen)/Locations/Anaksa\|A
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]
-- [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Setting lore/Queen Neferata]]
+- [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Setting lore/Queen Neferata]]
 - [[02 Player/Erukana (Nissen)/People/Queen Neferata\|People/Queen Neferata]]
 
 ## Tags

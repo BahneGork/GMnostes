@@ -4,19 +4,19 @@
 
 
 ## Description
-Elvira er en blomsterhandler i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og veninde til [[Miri\|Miri Sangstrup]]. Hun er en potentiel vidne i sagen om Miris mord.
+Elvira er en blomsterhandler i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] og veninde til [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri Sangstrup]]. Hun er en potentiel vidne i sagen om Miris mord.
 
 ## Notes
 ### Session 13
 - Sælger blomster
-- Veninde til [[Miri\|Miri Sangstrup]]
+- Veninde til [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri Sangstrup]]
 - Endnu ikke udspurgt om Miris forsvinden/mord
 
 ### Planlagt undersøgelse
-- Udspørge Elvira om [[Miri\|Miri]]
+- Udspørge Elvira om [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri]]
 
 ## Relationships
-- **Veninde**: [[Miri\|Miri Sangstrup]] - den myrdede
+- **Veninde**: [[02 Player/Erukana (Nissen)/People/miri sangstrup\|Miri Sangstrup]] - den myrdede
 - **Forbindelse til**: [[02 Player/Erukana (Nissen)/People/Krugge\|Krugge]] via Miri
 - **Rolle**: Potentielt vidne i mordsagen
 

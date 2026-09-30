@@ -4,7 +4,7 @@
 
 
 ## Description
-Pembroke er en lokation i Erukana hvor et vigtigt slag fandt sted. Slaget ved Pembroke blev tabt af modstanden mod [[02 Player/Erukana (Nissen)/Factions/Blodrosen\|Blodrosen]], hvilket førte til at Eresby blev forstærket fra [[Mowbray\|Mowbray]].
+Pembroke er en lokation i Erukana hvor et vigtigt slag fandt sted. Slaget ved Pembroke blev tabt af modstanden mod [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Blodrosen]], hvilket førte til at Eresby blev forstærket fra [[Mowbray\|Mowbray]].
 
 ## Notes
 ### Historisk betydning
@@ -14,7 +14,7 @@ Pembroke er en lokation i Erukana hvor et vigtigt slag fandt sted. Slaget ved Pe
 - Kun elementer af Rosen holder ud men falder tilbage
 
 ### Sølvstatuen
-- [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|Sølvstatuen]] gik tabt under transport mellem Pembroke og [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
+- [[02 Player/Erukana (Nissen)/Items/The Silver statue heirloom\|Sølvstatuen]] gik tabt under transport mellem Pembroke og [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]]
 - En af familiens døtre omkom under et angreb på denne rute
 
 ### Danicas Sending
@@ -26,6 +26,7 @@ Pembroke er en lokation i Erukana hvor et vigtigt slag fandt sted. Slaget ved Pe
 - **Information**: [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica Dawnspire]] - rapporterede om slaget
 
 ## Referenced In
+- [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley Ches n Tarsakh 1517\|Journal/Clara downtime Astley Ches n Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Missions/The silver statue heirloom - mission 1\|Missions/The silver statue heirloom - mission 1]]
 

@@ -4,7 +4,7 @@
 
 
 ## Description
-Segreve (også stavet Segrave) er en by i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]. Det er her [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko]] fejrer sin søns fødselsdag, og byen har et marked hvor [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|sølvstatuen]] blev solgt.
+Segreve (også stavet Segrave) er en by i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]. Det er her [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko]] fejrer sin søns fødselsdag, og byen har et marked hvor [[02 Player/Erukana (Nissen)/Items/The Silver statue heirloom\|sølvstatuen]] blev solgt.
 
 ## Notes
 ### Baronens fejring
@@ -13,13 +13,18 @@ Segreve (også stavet Segrave) er en by i [[02 Player/Erukana (Nissen)/Locations
 - En årlig begivenhed for hele byen
 
 ### Sølvstatuen
-- [[02 Player/Erukana (Nissen)/Loot/The Silver statue heirloom\|Sølvstatuen]] blev solgt på markedet her
+- [[02 Player/Erukana (Nissen)/Items/The Silver statue heirloom\|Sølvstatuen]] blev solgt på markedet her
 - En kunstsamler købte den
 - Kunstsamleren har sommerresidensen i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
 
 ### Beliggenhed
 - I [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]
 - Nær [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]] som ligger tæt på grænsen til [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
+
+### Fra tidligere note "Segreve"
+- [[02 Player/Erukana (Nissen)/Items/The Silver statue heirloom\|The Silver statue heirloom]] blev købt her af en kunstsamler
+- Statuen endte i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
+- **Relateret mission**: [[02 Player/Erukana (Nissen)/Items/The Silver statue heirloom\|The Silver statue heirloom]]
 
 ## Relationships
 - **Baroni**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]]

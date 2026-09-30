@@ -10,12 +10,12 @@ Kongens Hvil er et værtshus i [[02 Player/Erukana (Nissen)/Locations/Astley\|As
 ### Session 7
 - Værtshus drevet af gnomefamilien [[02 Player/Erukana (Nissen)/People/Tizzelspark\|Tizzelspark]]
 - Gruppen fik værelse her efter retssagen
-- Om natten blev gruppen overfaldet af "ninjaer" der stjal [[02 Player/Erukana (Nissen)/Loot/tids scrollen\|tids scrollen]] til artefaktet
+- Om natten blev gruppen overfaldet af "ninjaer" der stjal [[02 Player/Erukana (Nissen)/Items/tids scrollen\|tids scrollen]] til artefaktet
 
 ## Relationships
 - **Ejere**: [[02 Player/Erukana (Nissen)/People/Tizzelspark\|Tizzelspark]] gnomefamilie
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
-- **Begivenhed**: Tyveriet af [[02 Player/Erukana (Nissen)/Loot/tids scrollen\|tids scrollen]]
+- **Begivenhed**: Tyveriet af [[02 Player/Erukana (Nissen)/Items/tids scrollen\|tids scrollen]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/7-170224 - Changer of time session 7\|7-170224 - Changer of time session 7]]

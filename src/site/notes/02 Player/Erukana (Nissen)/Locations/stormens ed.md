@@ -9,7 +9,7 @@ Stormens Ed er et helligt skib tilhørende Tempus-tilhængerne, ført af [[02 Pl
 ## Notes
 ### Session 23
 - Tempus-skib ledet af [[02 Player/Erukana (Nissen)/People/Zarafine\|Zarafine]]
-- [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] udråbte "Tempus velsignet! Vi er blot rejsende fra Erukana, forbipasserende."
+- [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] udråbte "Tempus velsignet! Vi er blot rejsende fra Erukana, forbipasserende."
 - Gruppen kom ombord og blev bespist med hellig mad og drikke
 
 ### Sagn om Stormens Ed

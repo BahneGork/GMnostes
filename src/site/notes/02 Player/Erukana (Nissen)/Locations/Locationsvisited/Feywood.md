@@ -11,7 +11,7 @@ Feywood er en mystisk og farlig skov nær [[02 Player/Erukana (Nissen)/Locations
 - Gruppen fik information om Feywood bæstet fra "Carl" i [[02 Player/Erukana (Nissen)/Locations/Svinestien - Bar i Astley shanty town\|Svinestien - Bar i Astley shanty town]]
 - Det gamle [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] har mere information om bæstet
 - Konstabel ved byvagten har udstedt dusøren på 500gp
-- Skoven har levende lianer - en viklet sig om [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] mens hun sov
+- Skoven har levende lianer - en viklet sig om [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] mens hun sov
 - Gruppen fandt en frisk grav undervejs
 - Ved ruinerne "Eastwatch" mødte de [[02 Player/Erukana (Nissen)/Factions/Ridderne af Blodrosen\|Ridderne af Blodrosen]] soldater under [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]]
 
@@ -24,14 +24,14 @@ Feywood er en mystisk og farlig skov nær [[02 Player/Erukana (Nissen)/Locations
 
 ### Session 41
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] mener korruptionen af naturens væsner måske ligger ude i Feywood
-- Forbundet med [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Time Ender]] korruption
+- Forbundet med [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]] korruption
 
 ## Relationships
 - **Nærliggende**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 - **Ruiner**: Blackspear vagttårn, Eastwatch
 - **Farer**: Feywood bæst, levende lianer, sump-monstre
 - **Blodrosen tilstedeværelse**: [[02 Player/Erukana (Nissen)/People/Lucious Vormend\|Lucious Vormend]]s tropper
-- **Korruption**: Mulig kilde til naturvæsen-korruption ([[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]])
+- **Korruption**: Mulig kilde til naturvæsen-korruption ([[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Den lilla plage]])
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9\|9 -150524 - Changer of time session 9]]

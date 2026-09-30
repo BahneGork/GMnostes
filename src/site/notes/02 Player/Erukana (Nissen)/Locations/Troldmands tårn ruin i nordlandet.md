@@ -8,7 +8,7 @@ Troldmands tårn ruin i nordlandet er ruinerne af et gammelt troldmandstårn bel
 
 ## Notes
 ### Session 5
-- [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] og [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] besøger [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]] og [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] besøger [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]
 - De får omsat 4 tradebars og en scroll med 2 x [[No Graph/5e Reference/spells/Fireball\|Fireball]]
 - Som betaling for dette siger de ja til en opgave ved troldmandstårn ruinen
 - Detaljerne om opgaven mangler stadig
@@ -19,7 +19,7 @@ Troldmands tårn ruin i nordlandet er ruinerne af et gammelt troldmandstårn bel
 
 ## Relationships
 - **Opdragsgiver**: [[02 Player/Erukana (Nissen)/People/Lady De'evers\|Lady De'evers]]
-- **Tilknyttede PCs**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]
+- **Tilknyttede PCs**: [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]
 - **Region**: Nordlandet
 - **Betaling**: 2 x Fireball scroll
 

@@ -77,11 +77,11 @@ Andre målsætninger.
 - [ ] Hvordan bliver folk inficeret?
 
 ## Sir Seilings Mausoleum - Mid Term Goal
-- Explore [[Sir Seillings mausoleum 1\|Sir Seillings mausoleum 1]]
+- Explore [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum 1]]
 ### Short Term Goals
 - [x] Find out it's location ✅ 2024-08-02
 - [x] Research the history of Sir Seiling ✅ 2024-08-02
-	- [x] [[02 Player/Erukana (Nissen)/People/Sir Seiling\|Sir Seiling]] research ✅ 2024-08-02
+	- [x] [[02 Player/Erukana (Nissen)/People/Sir Seilling\|Sir Seiling]] research ✅ 2024-08-02
 - [ ] Prepare the expedition
 - [ ] Start the expedition 
 - [ ] Find the tomb
@@ -150,7 +150,7 @@ Andre målsætninger.
 ## Mistville - 23rd - 25th Flamerule - Session 4-5
 1. [x] (personlig) Få tilset udstyr af den lokale smed, samt bruge mending på andet. ✅ 2023-10-24
 2. [x] (personlig) Gå resten af udstyret igennem og reparere det som kan med mending ✅ 2023-10-24
-3. [x] (personlig)(træning) Opsøge [[02 Player/Erukana (Nissen)/People/Ulrik Stadtfelt\|Ulrik Stadtfelt]] og reflektere over deres rejse med ham, hendes handlinger, hendes interne konflikter med kontrol. ✅ 2024-02-16
+3. [x] (personlig)(træning) Opsøge [[02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt\|Ulrik Stadtfelt]] og reflektere over deres rejse med ham, hendes handlinger, hendes interne konflikter med kontrol. ✅ 2024-02-16
 	1. [x] udelader alle detaljer om ulve og fokuserer på law vs chaos konflikten. ✅ 2023-10-27
 	2. [x] spørger ind til hans religion, ritualer, traditioner og dogma ✅ 2023-10-27
 	3. [x] tilbyder at tale med folk ud fra Bahamuts dogma, eller udføre Bahamut ritualer/traditioner for/med folk der ønsker hans velsignelser udover Chauntea's. ✅ 2024-02-16

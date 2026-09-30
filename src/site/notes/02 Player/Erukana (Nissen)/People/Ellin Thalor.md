@@ -14,7 +14,7 @@
 - **Type**: Elvisk nation/stat i Erukana
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Locations/Hertugdømmet Bortreaux]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Bortreaux]]
 - [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|Locations/States and Baronies of Erukana]]
 
 ## Tags

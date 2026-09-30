@@ -4,7 +4,7 @@
 
 
 ## Description
-Castle De Ros er et citadel i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. Det blev bygget af [[02 Player/Erukana (Nissen)/Factions/familien Botreaux\|familien Botreaux]] for mange generationer siden og fungerer nu som en stor militær garrison.
+Castle De Ros er et citadel i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. Det blev bygget af [[02 Player/Erukana (Nissen)/Factions/familien Botreaux\|familien Botreaux]] for mange generationer siden og fungerer nu som en stor militær garrison.
 
 ## Notes
 ### Historie
@@ -24,13 +24,13 @@ Castle De Ros er et citadel i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 ## Relationships
 - **Oprindelig bygger**: [[02 Player/Erukana (Nissen)/Factions/familien Botreaux\|familien Botreaux]]
 - **Nuværende hersker**: [[02 Player/Erukana (Nissen)/People/Hertug Robert De Ros\|Hertug Robert De Ros]]
-- **Region**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Region**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Funktion**: Militær garrison
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
-- [[Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
 - [[02 Player/Erukana (Nissen)/Journal/Astley Avengers - Diplomacy\|Journal/Astley Avengers - Diplomacy]]
 
 ## Tags

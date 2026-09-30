@@ -4,7 +4,7 @@
 
 
 ## Description
-Port Alexander er en havn/by der blev afsøgt af gruppen da [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] blev taget til fange af draconians (Tarsakh 21).
+Port Alexander er en havn/by der blev afsøgt af gruppen da [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]] blev taget til fange af draconians (Tarsakh 21).
 
 ## Notes
 ### Session 43
@@ -13,7 +13,7 @@ Port Alexander er en havn/by der blev afsøgt af gruppen da [[02 Player/Erukana 
 
 ## Relationships
 - **Region**: Unknown
-- **Related to**: [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]], [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] capture
+- **Related to**: [[02 Player/Erukana (Nissen)/Items/Whisperwind\|Whisperwind]], [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]] capture
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds\|43 - 280326 - Erukana - Nissen - Sailing in the clouds]]

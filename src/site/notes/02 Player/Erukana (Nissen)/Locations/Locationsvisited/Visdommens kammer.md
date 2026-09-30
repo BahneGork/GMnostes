@@ -6,12 +6,18 @@
 ## Description
 Visdommens kammer (Chamber of Wisdom) er et kammer i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] hvor [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] opholder sig. Kammeret har en krystal i midten der skifter farve efter årstiden.
 
+![Pasted image 20260210195506.png](/img/user/10%20Attachments/Pasted%20image%2020260210195506.png)
+
 ## Notes
+### Originale noter
+- I midten er en stor krystal som skifter farve efter årstiden
+- Rundt om er 4 statuer der vokser op af træet selv, de ligner feer
+
 ### Session 41
-- [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]] besøger kammeret
+- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]] besøger kammeret
 - Krystallen i midten skifter farve efter årstiden
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] kan forme minder til virkelighed her (kaster vand fra en åkande)
-- Her afsløres information om [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]], staven og fængslet
+- Her afsløres information om [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]], staven og fængslet
 
 ## Relationships
 - **Beliggenhed**: I [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]]

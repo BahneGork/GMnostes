@@ -6,7 +6,7 @@
 ## Description
 Vardestjernen er en oldgammel underjordisk troldmandsfacilitet/bunker, tilhørende [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]. Adgang sker via et magisk "hus" med en platform af 4 krystalpyloner der synker ned under jorden. Faciliteten har et ottesidet layout med elementarkamre, et centralt værksted, bibliotek, storsale, soveværelser og teleportationscirkler.
 
-Faciliteten var nedlukket i 31.325 dage (~85 år) og blev inficeret af [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] i år 1420 (97 år før nu).
+Faciliteten var nedlukket i 31.325 dage (~85 år) og blev inficeret af [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]] i år 1420 (97 år før nu).
 
 ## Layout
 - **Platform med krystalpyloner** — indgang, synker ned
@@ -21,8 +21,8 @@ Faciliteten var nedlukket i 31.325 dage (~85 år) og blev inficeret af [[02 Play
 
 ## Konstruktionen / Vogteren
 En metalvogter-konstruktion i det centrale kammer scannede gruppen ved ankomst:
-- **[[Victor\|Victor]]** & **[[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]]** — "arkanisk match, broder af ordnen" (Azur Ordenen)
-- **[[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]]** — "guddommelig tilstedeværelse registreret, hellighed accepteret"
+- **[[Victor\|Victor]]** & **[[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]]** — "arkanisk match, broder af ordnen" (Azur Ordenen)
+- **[[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]]** — "guddommelig tilstedeværelse registreret, hellighed accepteret"
 - **[[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]** — "Queensguard ridder, queensguard havde kontraktlig adgang"
 - **[[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]]** — "primal, nordisk nedstamning, individ registreret udenfor..."
 
@@ -40,17 +40,17 @@ En metalvogter-konstruktion i det centrale kammer scannede gruppen ved ankomst:
 - Tegn på **disintegration attacks** i områder der ikke er ramt af disintegration-angreb fra konstruktionen
 - Klo-fodspor fundet — fødder med kløer, lidt større end de draconkin-lignende væsner gruppen mødte i nordlandet
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Logan the nine/Logan 'the nine' Hlafdan\|Logan 'the nine' Hlafdan]] samler hjelmen fra metalvogteren op ([[02 Player/Erukana (Nissen)/Items/Vogterens hjelm\|Vogterens hjelm]])
-- [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]]: mener at nogen er blevet disintegrated, men sporene tyder på noget andet end konstruktionens forsvar
+- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]]: mener at nogen er blevet disintegrated, men sporene tyder på noget andet end konstruktionens forsvar
 
 ## History
 - Bygget og brugt af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
-- År 1420: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] inficerede faciliteten — nedlukning aktiveret
+- År 1420: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]] inficerede faciliteten — nedlukning aktiveret
 - År 1517 (session 39-40): Gruppen udforsker og rydder faciliteten
 
 ## Relationships
 - **Tilhører**: [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
 - **Forfatter af dagbog**: [[Jormund\|Jormund]]
-- **Trussel**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]]
+- **Trussel**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]]
 - **Forbundet med**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Port Drakkan\|Port Drakkan]] via teleportationscirkel
 
 ## Referenced In

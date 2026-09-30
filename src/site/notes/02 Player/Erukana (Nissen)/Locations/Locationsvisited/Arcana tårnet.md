@@ -14,7 +14,7 @@ Arcana tårnet var et troldmandstårn i [[02 Player/Erukana (Nissen)/Locations/L
 - Belønning: Kendskab til [[02 Player/Erukana (Nissen)/Factions/De vilde elvere\|De vilde elvere]] (race låst op)
 
 ### Session 21
-- [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] talte med Sammy om Arcana tårnet og fortalte om turen derned
+- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] talte med Sammy om Arcana tårnet og fortalte om turen derned
 
 ## Relationships
 - **Tilknyttet**: [[02 Player/Erukana (Nissen)/People/Baron Zhaarko af Eresby\|Baron Zhaarko af Eresby]]

@@ -6,7 +6,7 @@
 ## Description
 Each character perform a small ritual, making up a larger ritual as part of a resurrection spell to get Evelyn back to life after she was killed by a powerword kill. 
 
-### [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]]
+### [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]]
 explains all the technical magical structures underlying the ressurection spell. 
 
 ### [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]]

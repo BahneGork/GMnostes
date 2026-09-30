@@ -4,7 +4,7 @@
 
 
 ## Description
-The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave" i [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. Tårnet er mystisk og lukket - kun få besøger det, med mindre man er direkte inviteret.
+The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave" i [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]. Tårnet er mystisk og lukket - kun få besøger det, med mindre man er direkte inviteret.
 
 ## Notes
 ### Karakteristika
@@ -24,14 +24,14 @@ The Sentinel er et troldmandstårn dedikeret til læring og viden om "The Weave"
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] kontaktpunkt
 
 ## Relationships
-- **Region**: [[Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
+- **Region**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Botreaux]]
 - **Uddannede**: [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|Marie Louise Duvall af Miragehill]]
 - **Netværk**: [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]]
 - **Undersøgelse**: [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]] (sjælespejle)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/People/Marie Louise Duvall af Miragehill\|People/Marie Louise Duvall af Miragehill]]
-- [[Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
+- [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Locations/Hertugdømmet Botreaux]]
 - [[Journal/The Grand Alliance/Opal kulten - investigation\|Journal/The Grand Alliance/Opal kulten - investigation]]
 
 ## Tags

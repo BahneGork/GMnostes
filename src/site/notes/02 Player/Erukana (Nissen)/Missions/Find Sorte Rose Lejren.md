@@ -27,7 +27,7 @@ Vi har hørt fra [[02 Player/Erukana (Nissen)/People/Vallis\|Vallis]] i House De
 - [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## NPC's Encountered on Mission
-[[02 Player/Erukana (Nissen)/People/Sammy\|Sammy]]
+[[02 Player/Erukana (Nissen)/People/Samy\|Sammy]]
 [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]
 
 
