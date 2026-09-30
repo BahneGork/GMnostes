@@ -19,7 +19,7 @@ Silverstream er en dværgehalle beliggende i bjergene sydøst fra [[02 Player/Er
 - **[[Dronningen Frava den kløgtige\|Dronningen Frava den kløgtige]]** - Dronning over Silverstream (gnom)
 
 ### Aktuel situation
-- [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] har forbindelse hertil
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]] har forbindelse hertil
 - Rygter om jordskælv og tåge plager dem
 - Vargoth og Isilme er faldet i kamp (nyheder fra Winston)
 
@@ -31,7 +31,7 @@ Silverstream er en dværgehalle beliggende i bjergene sydøst fra [[02 Player/Er
 ## Relationships
 - **Rival**: [[02 Player/Erukana (Nissen)/Locations/Slatestone dværgehallerne\|Slatestone dværgehallerne]]
 - **Herskere**: [[Højkongen Gorm den tålmodige\|Højkongen Gorm den tålmodige]], [[Dronningen Frava den kløgtige\|Dronningen Frava den kløgtige]]
-- **Tilknyttet PC**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]]
+- **Tilknyttet PC**: [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]]
 - **Fraktion**: [[02 Player/Erukana (Nissen)/Factions/Dværgene\|Dværgene]], [[02 Player/Erukana (Nissen)/Factions/Bjergenes Børn\|Bjergenes Børn]]
 
 ## Referenced In

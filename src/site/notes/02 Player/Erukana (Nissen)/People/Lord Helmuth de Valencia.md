@@ -15,7 +15,7 @@ Lord Helmuth de Valencia er lensherre af [[02 Player/Erukana (Nissen)/Locations/
 ## Relationships
 - **Titel**: Lensherre af [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Baroniet Valence]]
 - **Hovedstad**: [[02 Player/Erukana (Nissen)/Locations/Mortimor\|Mortimor]]
-- **Oprindelse**: Afspaltning fra [[Bortreaux\|Bortreaux]]
+- **Oprindelse**: Afspaltning fra [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Bortreaux]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Locations/Baroniet Valence\|Locations/Baroniet Valence]]

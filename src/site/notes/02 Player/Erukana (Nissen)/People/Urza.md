@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Urza/","tags":["erukana","npc","shaman","antagonist"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"npc","Profession":["Knoglemoder (Bone Mother/Shaman)"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Knoglestammen]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler 1]]"],"Campaign":"Erukana","tags":["erukana","npc","shaman","antagonist"],"race":"human","role":["shaman","antagonist"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Knoglestammen]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler 1]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Urza/","tags":["erukana","npc","shaman","antagonist"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -|session 27]]"],"category":"npc","Profession":["Knoglemoder (Bone Mother/Shaman)"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Knoglestammen]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler|knoglestammens huler 1]]"],"Campaign":"Erukana","tags":["erukana","npc","shaman","antagonist"],"race":"human","role":["shaman","antagonist"],"social_status":"priest","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Knoglestammen]]"],"disposition":"enemy","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler|knoglestammens huler 1]]"}}
 ---
 
 
 ## Description
-Urza er knoglestammens øverste knoglemoder (shaman). Hun er en tynd og ranglet kvindeskikkelse, mærket med symboler af knogleherren/den sorte ged. Hun bærer en stav med et stykke knogle i toppen - et fragment af den sølvdrageknoglestav som [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] så i sin drøm. Stavtoppen virker korrupteret. Hun har en hytte i landsbyen og en ritual-hule hvor knogle mødrene mødes.
+Urza er knoglestammens øverste knoglemoder (shaman). Hun er en tynd og ranglet kvindeskikkelse, mærket med symboler af knogleherren/den sorte ged. Hun bærer en stav med et stykke knogle i toppen - et fragment af den sølvdrageknoglestav som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] så i sin drøm. Stavtoppen virker korrupteret. Hun har en hytte i landsbyen og en ritual-hule hvor knogle mødrene mødes.
 
 ## Notes
 ### Session 26
 - Observerer gruppen fra mørket bag søjlerne i tronsalen
-- Er imod [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|den lilla plage]] og stammens pligt overfor den
+- Er imod [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]] og stammens pligt overfor den
 - Vil ikke af med stavens top-del (ben-fragmentet)
-- [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] forsøgte at få hendes hjælp mod den lilla plage
-- Jagede [[02 Player/Erukana (Nissen)/People/Logan\|Logan]] gennem korridorerne da han forsøgte at redde [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]]
+- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] forsøgte at få hendes hjælp mod den lilla plage
+- Jagede [[02 Player/Erukana (Nissen)/Characters/Logan\|Logan]] gennem korridorerne da han forsøgte at redde [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]]
 - Kæmpede mod gruppen men flygtede til sidst
 
 ### Session 27
-- Gruppen reddede [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] fra Urzas ritualkammer
-- [[02 Player/Erukana (Nissen)/People/Nibar\|Nibar]] fandt et alter med en mørk necromancer-præstebog og toppen af Urzas stav
+- Gruppen reddede [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]] fra Urzas ritualkammer
+- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] fandt et alter med en mørk necromancer-præstebog og toppen af Urzas stav
 - [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth]] rensede alter og korridor og smadrede alteret
 - En anden knoglemoder, Brunhild, blev spurgt om hvor Urza kunne være
 
@@ -26,7 +26,7 @@ Urza er knoglestammens øverste knoglemoder (shaman). Hun er en tynd og ranglet 
 - **Leder**: Tjener under [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]]
 - **Tilbedelse**: Knogleherren/den sorte ged
 - **Artefakt**: Bærer ben-fragmentet af sølvdragestaven
-- **Fjende**: [[02 Player/Erukana (Nissen)/Setting lore/Den lilla plage\|Den lilla plage]] - er imod den
+- **Fjende**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Den lilla plage]] - er imod den
 - **Kollega**: Brunhild - en anden knoglemoder
 
 ## Referenced In

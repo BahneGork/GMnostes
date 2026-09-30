@@ -6,7 +6,7 @@
 #erukana #kultur #botreaux-duchy
 
 Main: [[02 Player/Erukana (Nissen)/Locations/States and Baronies of Erukana\|States and Baronies of Erukana]] 
-Related: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Bortreaux\|Hertugdømmet Bortreaux]]
+Related: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Hertugdømmet Bortreaux]]
 
 # Skik Og Kultur I Botreau Hertugdømmet
 
@@ -14,6 +14,6 @@ Botreaux er juvelen i riget, hvilket over tiden har skabt et hårdt arbejdende f
 
 Det er i Botreaux at de flest lærde kommer fra og til i riget. 
 
-[[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Kongestaden]] og [[Botreaux byen\|Botreaux byen]] selv er kendt for deres store universiteter og akademier. Sammen med den rigdom som kommer igennem handel, har det gjort at rigets befolkning anser sig selv for bedre end resten af baronierne og har en tildens til at have næsen fast plantet i skyerne. 
+[[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Kongestaden]] og [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Botreaux byen]] selv er kendt for deres store universiteter og akademier. Sammen med den rigdom som kommer igennem handel, har det gjort at rigets befolkning anser sig selv for bedre end resten af baronierne og har en tildens til at have næsen fast plantet i skyerne. 
 
 *Deres fine hud og mørke hår, tangerende til dyb sort*, er med til samtidig at gøre dem til et smukt folkefærd.

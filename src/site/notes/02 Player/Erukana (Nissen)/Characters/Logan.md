@@ -1,0 +1,53 @@
+---
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Logan/","tags":["erukana","pc","rogue"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1|session 21]]","[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen|session 44]]"],"category":"pc","Profession":["Rogue/Cobbler"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","tags":["erukana","pc","rogue"],"race":"human","role":"resistance","social_status":"commoner","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Astley]]"}}
+---
+
+
+## Description
+Logan er et medlem af [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] gruppen. Han er dygtig til snigende operationer og har en baggrund som skomager (cobbler). Han har en speciel forbindelse til en mystisk væsen kaldet "Wyrdlingen" som han efterlader gaver til.
+
+## Notes
+### Session 21
+- Lægger små gaver rundt om huset til Wyrdlingen
+- Modtog en magisk pipe "fjolletobak" (pipe of remembrance) som svar fra Wyrdlingen
+- Talte med Daine Waymar om rod of resurrection - kan slå guder ihjel
+- Jagede helvedes hunde i gaderne om natten
+
+### Session 26
+- Bruger sit cobbler's tool til at reparere gruppens fodtøj undervejs
+- Blev polymorfet til en kæmpeugle af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] for at spejde i bjergene
+- Uglens instinkter advarede ham om at [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/StormBjerget\|StormBjerget]] var farligt for flyvende væsener
+- Infiltrerede [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler\|knoglestammens huler 1]] for at redde [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]]
+- Sneg sig gennem tronsalen hvor [[02 Player/Erukana (Nissen)/People/Skarn\|Skarn]] sad
+- Fandt [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]] hængende i kæder under loftet
+- Blev opdaget og angrebet af en vagt
+- Kæmpede mod 2 vagter og [[02 Player/Erukana (Nissen)/People/Urza\|Urza]]
+
+### Session 27
+- Spurgte Svala om hvor [[02 Player/Erukana (Nissen)/People/Urza\|Urza]] ville søge tilflugt
+- Fik af vide at Urza har en hytte i landsbyen og en ritual-hule
+
+### Session 38
+- Deltog i delegationen til [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]]
+
+### Session 44 - Feywood-ekspeditionen
+- Rider foran og scouter under vejen ind i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]
+- Ser en forladt vogn ved rastepladsen, fanget i en tidslomme hvor tiden går hurtigere
+- Undersøger sammen med [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] om potaftryk giver indtryk af korruption
+- Ser skoven blive levende og guider gruppen med at gemme sig i lommer i den lilla flods flok af inficerede væsener
+- Starter kampen ved den første amethyst-stensøjle med at skyde en pil i baghovedet på en kobold og dræber den
+
+## Relationships
+- **Gruppemember**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
+- **Mystisk forbindelse**: Wyrdlingen - efterlader gaver, modtager magiske genstande
+- **Reddet**: [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]] - hjalp med at redde fra [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/knoglestammens huler\|knoglestammens huler 1]]
+
+## Referenced In
+- [[02 Player/Erukana (Nissen)/21 - 220225 - Changer of time - nisse 17 - steffen 1\|21 - 220225 - Changer of time - nisse 17 - steffen 1]]
+- [[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest\|26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest]]
+- [[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -\|27 - 210625 - Eurkana - nissen 19 -]]
+- [[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova\|38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova]]
+- [[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|44 - rescue mission Evelyn in Feywood - Nissen]]
+
+## Tags
+#erukana #pc #rogue #stealth

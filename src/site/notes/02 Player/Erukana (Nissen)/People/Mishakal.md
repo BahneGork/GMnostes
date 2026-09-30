@@ -24,7 +24,7 @@ Mishakal er Prime Goddess of Life, healing, beauty, love and nature i [[02 Playe
 - Hvis gruppen handler mod Paladine og Mishakals vilje, mister de deres boons
 
 ### Handlinger i hendes navn
-- [[02 Player/Erukana (Nissen)/People/Evelyn Adair\|Evelyn Adair]] henrettede en ork-fange "i Mishakals navn"
+- [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]] henrettede en ork-fange "i Mishakals navn"
 
 ## Relationships
 - **Partner-guddom**: [[02 Player/Erukana (Nissen)/People/Paladine\|Paladine]], [[02 Player/Erukana (Nissen)/People/Bahamut\|Bahamut]]
@@ -34,7 +34,7 @@ Mishakal er Prime Goddess of Life, healing, beauty, love and nature i [[02 Playe
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]
-- [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Setting lore/Queen Neferata]]
+- [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Setting lore/Queen Neferata]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Deities of Ceynor\|Setting lore/Deities of Ceynor]]
 
 ## Tags

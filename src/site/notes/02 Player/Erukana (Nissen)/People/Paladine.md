@@ -27,7 +27,7 @@ Paladine (også kendt som Bahamut) er den Prime God of the Light i [[02 Player/E
 ### Tilbedelse
 - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]] - tempel i Astley
 - [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Paladine's bibliotek i Astley\|Paladine's bibliotek i Astley]] - stort bibliotek med historisk viden
-- [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] bad til Paladine om guidance
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]] bad til Paladine om guidance
 - Præster inkluderer [[02 Player/Erukana (Nissen)/People/Beril Højmølle\|Beril Højmølle]]
 - Bahamut tilbedes hemmeligt bag Paladines facade
 - Tempelpersonale bærer skjult mærke
@@ -40,7 +40,7 @@ Paladine (også kendt som Bahamut) er den Prime God of the Light i [[02 Player/E
 ### Astley Avengers
 - Patron for [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] sammen med [[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]]
 - Hvis gruppen handler mod Paladine og Mishakals vilje, mister de deres boons
-- [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] bad til Paladine om guidance
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]] bad til Paladine om guidance
 
 ## Relationships
 - **Partner-guddom**: [[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]]
@@ -51,7 +51,7 @@ Paladine (også kendt som Bahamut) er den Prime God of the Light i [[02 Player/E
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]
-- [[02 Player/Erukana (Nissen)/Setting lore/Queen Neferata\|Setting lore/Queen Neferata]]
+- [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Setting lore/Queen Neferata]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Deities of Ceynor\|Setting lore/Deities of Ceynor]]
 - [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Characters/My characters/Clarabel/Clarabel Lancaster]]
 

@@ -11,5 +11,5 @@
 [[300923 - Changer of time session 3\|300923 - Changer of time session 3]]
 [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]] 
 [[02 Player/Erukana (Nissen)/Factions/Zazmir stamme\|Zazmir stamme]]
-[[02 Player/Erukana (Nissen)/Loot/Zazmir scimitars\|Zazmir scimitars]]
+[[02 Player/Erukana (Nissen)/Items/Zazmir scimitars\|Zazmir scimitars]]
 [[02 Player/Erukana (Nissen)/People/Azul\|Azul]] - en gud?

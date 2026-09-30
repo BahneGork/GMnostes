@@ -4,12 +4,12 @@
 
 
 ## Description
-Tortin Mikkelborg er en Queensguard-ridder rejst nordfra til [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] sammen med [[Saren Valensia\|Saren Valensia]] for at finde en Queensguard-ridder der ville genetablere ordenen.
+Tortin Mikkelborg er en Queensguard-ridder rejst nordfra til [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] sammen med [[02 Player/Erukana (Nissen)/People/Saren Valensia\|Saren Valensia]] for at finde en Queensguard-ridder der ville genetablere ordenen.
 
 ## Notes
 ### Session 46 - Under Soltræet
-- Ankommer til Astley med [[Saren Valensia\|Saren Valensia]], rejst nordfra for at finde en ridder der vil genetablere Queensguard-ordenen
-- Knæler sammen med Saren for [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]] og sværger troskab til ham og hans genopbygning af ordenen
+- Ankommer til Astley med [[02 Player/Erukana (Nissen)/People/Saren Valensia\|Saren Valensia]], rejst nordfra for at finde en ridder der vil genetablere Queensguard-ordenen
+- Knæler sammen med Saren for [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og sværger troskab til ham og hans genopbygning af ordenen
 
 ### Session 47 - After the dragon essence
 - Stavet "Tortrin" i sessionslog 47
@@ -17,8 +17,8 @@ Tortin Mikkelborg er en Queensguard-ridder rejst nordfra til [[02 Player/Erukana
 - Clarabel, Winston og Nibar forsøger "[[No Graph/5e Reference/spells/Raise Dead\|Raise Dead]]", men hans ånd er draget videre
 
 ## Relationships
-- **Rejsefælle**: [[Saren Valensia\|Saren Valensia]]
-- **Sværger troskab til**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]]
+- **Rejsefælle**: [[02 Player/Erukana (Nissen)/People/Saren Valensia\|Saren Valensia]]
+- **Sværger troskab til**: [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]]
 - **Orden**: [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|The Queensguard]]
 
 ## Referenced In

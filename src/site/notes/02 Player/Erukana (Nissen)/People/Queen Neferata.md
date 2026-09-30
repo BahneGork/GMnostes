@@ -18,6 +18,9 @@ En årelang krig fulgte og sluttede til sidste med at mørket blev fordrevet fra
 
 Den dag i dag, regerer Dronning Neferata riget [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]] fra hendes palads i junglen ved [[02 Player/Erukana (Nissen)/Locations/Deltafloden\|Deltafloden]]. Hendes [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Queen's Guard]] har spredt sig til alle hjørner af [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]], hvor de for det meste, fortsat anses for at være trofaste følgere af Lyset og allierede til de lovlydige og godhjertet racer.
 
+### Fra tidligere note "Queen Neferata"
+Den dag i dag, regerer Dronning Neferata riget [[02 Player/Erukana (Nissen)/Locations/Anaksa\|Anaksa]] fra hendes palads i junglen ved [[02 Player/Erukana (Nissen)/Locations/Deltafloden\|Deltafloden]]. Hendes [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Queen’s Guard]] har spredt sig til alle hjørner af [[02 Player/Erukana (Nissen)/Setting lore/Ceynor\|Ceynor]], hvor de for det meste, fortsat anses for at være trofaste følgere af Lyset og allierede til de lovlydige og godhjertet racer.
+
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]
 

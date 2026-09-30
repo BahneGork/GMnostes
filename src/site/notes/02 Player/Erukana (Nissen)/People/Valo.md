@@ -17,7 +17,7 @@ Valo er en tyv der blev opdaget af [[02 Player/Erukana (Nissen)/Factions/Astley 
 ### Kontekst
 - Gruppen undersøgte varehusområdet efter rapporter om røde øjne i mørket
 - Mistanke om helvedes hunde i området
-- [[02 Player/Erukana (Nissen)/People/Isilme\|Isilme]] holdt vagt ved varehusene
+- [[02 Player/Erukana (Nissen)/Characters/Isilme\|Isilme]] holdt vagt ved varehusene
 
 ## Relationships
 - **Kreditor**: Sgt. Dresk - skyldte penge til

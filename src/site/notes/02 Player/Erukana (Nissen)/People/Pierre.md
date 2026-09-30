@@ -4,7 +4,7 @@
 
 
 ## Description
-Pierre er en tjener der arbejder for [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]. Han fungerer som [[02 Player/Erukana (Nissen)/People/Sir Winston\|Winston]]s vej ind i præsternes møder og er dermed en vigtig kontakt for at få adgang til religiøse cirkler i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]].
+Pierre er en tjener der arbejder for [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]. Han fungerer som [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]]s vej ind i præsternes møder og er dermed en vigtig kontakt for at få adgang til religiøse cirkler i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]].
 
 ## Notes
 ### Session 12
@@ -14,7 +14,7 @@ Pierre er en tjener der arbejder for [[02 Player/Erukana (Nissen)/People/Edmund 
 
 ## Relationships
 - **Arbejdsgiver**: [[02 Player/Erukana (Nissen)/People/Edmund af Vitano\|Edmund af Vitano]]
-- **Kontakt for**: [[02 Player/Erukana (Nissen)/People/Sir Winston\|Sir Winston]] - giver adgang til præstemøder
+- **Kontakt for**: [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Winston]] - giver adgang til præstemøder
 - **Lokation**: [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
 
 ## Referenced In

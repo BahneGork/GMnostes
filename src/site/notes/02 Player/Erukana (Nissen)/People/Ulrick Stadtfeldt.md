@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt/","tags":["erukana/npc","erukana/villain"],"dg-note-properties":{"Location":["Mistville"],"Profession":["Præst"],"category":"npc","Religion":"[[02 Player/Erukana (Nissen)/People/Chauntea]]","Campaign":"Erukana","tags":["erukana/npc","erukana/villain"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt/","tags":["erukana/npc","erukana/villain"],"dg-note-properties":{"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]"],"Profession":["Præst"],"category":"npc","Religion":"[[02 Player/Erukana (Nissen)/People/Chauntea]]","Campaign":"Erukana","aliases":["Ulrik Stadtfelt","Ulrik"],"race":"human","role":["religious","antagonist"],"social_status":"priest","disposition":"enemy","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]","tags":["erukana/npc","erukana/villain"]}}
 ---
 
 
@@ -45,3 +45,7 @@ Related: [[02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1\|Downtime Mis
 	- På grund af din snak med Stadtfeldt, omkring flora og medicin, kan du få **advantage 1 gang pr. dag i et medicin roll hvor som omhandler gift.** 
 
 </div></div>
+
+
+## Referenced In
+- [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Journal/Personal Agenda]]

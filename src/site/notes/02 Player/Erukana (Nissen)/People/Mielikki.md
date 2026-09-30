@@ -4,7 +4,7 @@
 
 
 ## Description
-**Fejlplaceret**: Mielikki er en guddom, ikke en person. Hun er naturgudinden i Erukana. [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] er hendes helligdom, med [[Celedriels\|Celedrial]] som keeper. [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]] skiftede til Mielikki som sin guddom og modtog guddommelig intervention flere gange.
+**Fejlplaceret**: Mielikki er en guddom, ikke en person. Hun er naturgudinden i Erukana. [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] er hendes helligdom, med [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial]] som keeper. [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] skiftede til Mielikki som sin guddom og modtog guddommelig intervention flere gange.
 
 ## Notes
 ### Session 1
@@ -12,13 +12,13 @@
 
 ### Session 7
 - I [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]] ligger et oldgammelt tempel til Mielikki
-- Varetageren er en halv hjort, halv kvinde ([[Celedriels\|Celedrial]])
-- Hun tilbød at hjælpe [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clara]] med at kontrollere sin varulve-identitet
+- Varetageren er en halv hjort, halv kvinde ([[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial]])
+- Hun tilbød at hjælpe [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] med at kontrollere sin varulve-identitet
 
 ## Relationships
 - **Helligdom**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Soltræet\|Soltræet]] i [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
-- **Keeper**: [[Celedriels\|Celedrial]]
-- **Følgere**: [[02 Player/Erukana (Nissen)/People/Clarabel Lancaster\|Clarabel]], [[02 Player/Erukana (Nissen)/People/Seiran\|Seiran]]
+- **Keeper**: [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedrial]]
+- **Følgere**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]], [[02 Player/Erukana (Nissen)/People/Seiran\|Seiran]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1\|13 - 220624 - steffen session 1]]
