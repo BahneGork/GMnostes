@@ -24,12 +24,12 @@ Også kaldet Frøken Lemieux; forvalter (steward) af [[02 Player/Erukana (Nissen
 - En tjener henvender sig til gruppen omkring kl. 22. Han overbringer en besked fra [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]] som beder os  om at møde op ved vestporten kl. 24. Pak til flere dage står der.
 
 ### Session 46 - Under Soltræet (død)
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] finder hendes lig under forsvaret af Astley - næsten rent skelet, knust af bygningskonstruktioner der faldt ned i hendes seng under dracolich-angrebet
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] finder hendes lig under forsvaret af Astley - næsten rent skelet, knust af bygningskonstruktioner der faldt ned i hendes seng under dracolich-angrebet
 
 ## Relationships
 - **Organisation**: Forvalter af [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning moon merchant house]]
 - **Arbejdsgivere**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] (tidligere [[02 Player/Erukana (Nissen)/People/Lord Alistair\|Lord Alistair]])
-- **Samarbejde**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] - har etableret et godt arbejdsforhold
+- **Samarbejde**: [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel Lancaster]] - har etableret et godt arbejdsforhold
 - **Netværk**: Kontakter til købmænd i [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]], [[02 Player/Erukana (Nissen)/People/Mecina\|Mecina]], [[02 Player/Erukana (Nissen)/Locations/Castle Brienne\|Castle Brienne]], og flere lejesoldatsorganisationer i [[Mowbray\|Mowbray]] og [[Welles\|Welles]]
 - **Rivaler**: Kender til [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet\|Merchant Konglomeratet]] som [[02 Player/Erukana (Nissen)/People/Baron Zhaarko\|Baron Zhaarko]] støtter, og deres modstander [[02 Player/Erukana (Nissen)/Factions/The Silver Drake guild\|The Silver Drake guild]] fra Valence
 

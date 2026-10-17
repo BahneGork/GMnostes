@@ -14,7 +14,7 @@ Tidsartifaktet er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/
 
 ### Session 46 - Under Soltræet
 - De to metaldøre i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Hjertekammeret\|Hjertekammeret]] kan måske aktiveres af Tidsartifaktet, men det skal repareres først
-- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]], [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn]] forsøger at reparere det
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]], [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]], [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn]] forsøger at reparere det
 - Evelyn messer intenst til sin gudinde under processen; forbindelsen virker unormalt stærk
 - Tidsartifaktet bliver repareret, men prisen er at nogen frivilligt og oplyst giver sin essens - farven forsvinder fra Evelyns krop i takt med at timeglasset fyldes, til kun kroppen er tilbage
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] fortæller at nu hvor Tidsartifaktet er fikset, "ved [Den lilla plage] det", og plagens styrker vil strømme endnu kraftigere mod det

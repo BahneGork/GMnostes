@@ -61,6 +61,7 @@
 - [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet\|Merchant Konglomeratet]]
 - [[02 Player/Erukana (Nissen)/Factions/Merchant Konglomeratet 1\|Merchant Konglomeratet 1]]
 - [[02 Player/Erukana (Nissen)/Factions/Mielikki tilhængere\|Mielikki tilhængere]]
+- [[02 Player/Erukana (Nissen)/Factions/Nidvig familien\|Nidvig familien]]
 - [[02 Player/Erukana (Nissen)/Factions/Nordlandets stammer\|Nordlandets stammer]]
 - [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
 - [[02 Player/Erukana (Nissen)/Factions/Pillar of Truth\|Pillar of Truth]]

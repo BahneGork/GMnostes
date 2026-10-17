@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt/","tags":["erukana/npc","erukana/villain"],"dg-note-properties":{"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]"],"Profession":["Præst"],"category":"npc","Religion":"[[02 Player/Erukana (Nissen)/People/Chauntea]]","Campaign":"Erukana","aliases":["Ulrik Stadtfelt","Ulrik"],"race":"human","role":["religious","antagonist"],"social_status":"priest","disposition":"enemy","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]","tags":["erukana/npc","erukana/villain"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Ulrick Stadtfeldt/","tags":["erukana/npc","erukana/villain"],"dg-note-properties":{"Location":["[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]"],"Profession":["Præst"],"sessions":["[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]"],"category":"npc","Religion":"[[02 Player/Erukana (Nissen)/People/Chauntea]]","Campaign":"Erukana","aliases":["Ulrik Stadtfelt","Ulrik"],"race":"human","role":["religious","antagonist"],"social_status":"priest","disposition":"enemy","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville]]","tags":["erukana/npc","erukana/villain"]}}
 ---
 
 
@@ -47,5 +47,14 @@ Related: [[02 Player/Erukana (Nissen)/Journal/Downtime Mistville 1\|Downtime Mis
 </div></div>
 
 
+## Notes
+### Session 48 - Investigating the opal cult
+- I det aflåste område i [[02 Player/Erukana (Nissen)/Locations/Deneir templet i Colville\|Deneir templet i Colville]] findes bl.a. en bog med familienavnet på "Necromanceren fra Mistville" - Ulrick
+
+## Relationships
+- **Gud (skjult)**: [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]] - necromancer-præst
+- **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Mistville\|Mistville]]
+
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Personal Agenda\|Journal/Personal Agenda]]
+- [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]

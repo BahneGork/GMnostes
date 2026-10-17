@@ -18,7 +18,7 @@ Den safirblå tatovering er et mystisk mærke som alle medlemmer af [[02 Player/
 - Med et brag og røg dukkede [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] op - han teleporterede sig selv via tatoveringernes forbindelse
 
 ## Relationships
-- **Bærere**: [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]], [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]], [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]], [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
+- **Bærere**: [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]], [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston Wildwood]], [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel Lancaster]], [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]], [[02 Player/Erukana (Nissen)/People/Baronesse Avalande\|Baronesse Avalande]]
 - **Forbundet med**: [[02 Player/Erukana (Nissen)/Loot/timeglasset\|timeglasset]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|safir ordenen]]
 - **Funktion**: Aktivering af tidsartefakt, teleportation mellem bærere
 

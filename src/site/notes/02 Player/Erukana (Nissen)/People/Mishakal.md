@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mishakal/","tags":["erukana","deity","good","healing"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]"],"category":"deity","Profession":["Gudinde"],"Faction":null,"Location":null,"Campaign":"Erukana","aliases":["Mishakals"],"tags":["erukana","deity","good","healing"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Mishakal/","tags":["erukana","deity","good","healing"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]","[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]"],"category":"deity","Profession":["Gudinde"],"Faction":null,"Location":null,"Campaign":"Erukana","aliases":["Mishakals"],"tags":["erukana","deity","good","healing"]}}
 ---
 
 
@@ -26,6 +26,10 @@ Mishakal er Prime Goddess of Life, healing, beauty, love and nature i [[02 Playe
 ### Handlinger i hendes navn
 - [[02 Player/Erukana (Nissen)/Characters/Evelyn Adair\|Evelyn Adair]] henrettede en ork-fange "i Mishakals navn"
 
+### Session 48 - Investigating the opal cult
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] besøger Bahamuts og Mishakals tempel i [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]]
+- [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] laver et image af en sølvdrage der flyver rundt om et gyldent hjerte ved Clarabels tempel (et gyldent hjerte er et af Mishakals symboler, jf. denne note)
+
 ## Relationships
 - **Partner-guddom**: [[02 Player/Erukana (Nissen)/People/Paladine\|Paladine]], [[02 Player/Erukana (Nissen)/People/Bahamut\|Bahamut]]
 - **Avatar**: [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Neferata]] (tidligere præstinde)
@@ -36,6 +40,7 @@ Mishakal er Prime Goddess of Life, healing, beauty, love and nature i [[02 Playe
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]
 - [[02 Player/Erukana (Nissen)/People/Queen Neferata\|Setting lore/Queen Neferata]]
 - [[02 Player/Erukana (Nissen)/Setting lore/Deities of Ceynor\|Setting lore/Deities of Ceynor]]
+- [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]
 
 ## Tags
 #erukana #deity #good #healing #life #nature #queensguard

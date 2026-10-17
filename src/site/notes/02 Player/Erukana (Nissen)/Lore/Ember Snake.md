@@ -11,7 +11,7 @@ En Ember Snake er et ild/kraft-eksploderende slangevæsen mødt i katakomberne u
 - En hybrid af krokodille og lizardman, med munde på alle led, dræbte og drænede et lig for liv/blod i katakomberne (fundet med brandskade og 2 puncture wounds)
 - Da hybriden dør, springer en Ember Snake frem mellem gruppen og eksploderer med ild- og kraftskade
 - Efter en meget kort og intens kamp (2 runder) dør slangevæsenet
-- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] ender på 1 hp
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] ender på 1 hp
 - Ødelægger [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]]s og [[02 Player/Erukana (Nissen)/Characters/Viktor Baigorri\|Victor]]s våben med sin varme (senere mendet af Clarabel)
 - 2 yderligere Ember Snakes optræder senere som vogtere sammen med en blight druid og en gedemands-præst af [[02 Player/Erukana (Nissen)/People/Morgion\|Morgion]], holdt tilbage af [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] fra at nå [[02 Player/Erukana (Nissen)/People/Celedrial keeper of mielikki suntree\|Celedriel]]
 

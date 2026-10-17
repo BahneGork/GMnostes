@@ -10,7 +10,7 @@ Kobolder er en monstertype i Erukana. [[02 Player/Erukana (Nissen)/Factions/Dark
 ### Session 1
 - Ved en hule indgang møder gruppen 2 [[02 Player/Erukana (Nissen)/People/Kobold\|Kobold]] vagter fra [[02 Player/Erukana (Nissen)/Factions/Dark Gem klanen\|Dark Gem klanen]].
 - En bliver skudt af [[02 Player/Erukana (Nissen)/Characters/Vargoth Sul\|Vargoth Sul]], den anden såret af [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar Brassbit]]s crossbow.
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] stabiliserer kobolden.
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] stabiliserer kobolden.
 - Kobolderne tør ikke gå imod [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]] der har taget tids-scrollen.
 - Nogle kobolder hvisker om de skal give gruppen til [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]].
 

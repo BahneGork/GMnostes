@@ -30,6 +30,7 @@ Rod of Resurrection
 
 # Sessions
 
+- [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]
 - [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]
 - [[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|46 - 080826 - Under Soltræet - Nissen]]
 - [[02 Player/Erukana (Nissen)/45.5 - Logan's trip to Skullborg - Nisse - 'offline'\|45.5 - Logan's trip to Skullborg - Nisse - 'offline']]

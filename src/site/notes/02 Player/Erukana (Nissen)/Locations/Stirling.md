@@ -28,7 +28,7 @@ Stirling (også stavet Stirring) er et lensherred i [[02 Player/Erukana (Nissen)
 Stirling (også stavet Stirring) er et ældgammelt lensherred beliggende nord for [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Feywood\|Feywood]]-skoven og øst for [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]. Lenet ligger i [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]] og styres af [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Adelston Magdova]] fra familiens herresæde, Jarlsborg.
 - Inkluderer adskillige landsbyer og herresædet Jarlsborg
 - [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Adelston Magdova]] er lensherre
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] sendte en delegation afsted d. 11 Tarsakh 1517
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel Lancaster]] sendte en delegation afsted d. 11 Tarsakh 1517
 - Delegationen mødte [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Adelston Magdova]] d. 13 Tarsakh
 - En Eresby-minion forstærket af [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]] forsøgte at overtage lensherredømmet
 - Bekymrende styrke af lilla korruption blev observeret

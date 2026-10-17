@@ -9,12 +9,12 @@ Short spear/lanse +3 fra Sir Seillings kiste. Altid crit mod drager og dragekin.
 ## Notes
 ### Session 47 - After the dragon essence
 - Fundet i [[02 Player/Erukana (Nissen)/People/Sir Seilling\|Sir Seillings]] kiste; lånt mod ed om at bruges efter ridderordenens værdier og i forsvar af Erukanas folkefærd
-- Går til [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]]
+- Går til [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clara]]
 - Short spear/lance +3, altid crit mod dragon/dragonkin
 
 ## Relationships
 - **Location**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Sir Seillings mausoleum\|Sir Seillings mausoleum]]
-- **Owner**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] (lånt fra Sir Seilling)
+- **Owner**: [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel Lancaster]] (lånt fra Sir Seilling)
 - **Related to**: [[02 Player/Erukana (Nissen)/People/Sir Seilling\|Sir Seilling]], [[02 Player/Erukana (Nissen)/Items/Sir Seillings skjold\|Sir Seillings skjold]]
 
 ## Referenced In

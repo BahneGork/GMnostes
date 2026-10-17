@@ -18,7 +18,7 @@
 - Dette viser at korruptionen spreder sig til andre racer
 
 ### Session 8
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] mindedes den store stemme da hun så [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]]s negle begynde at blive til amethyster
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clara]] mindedes den store stemme da hun så [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]]s negle begynde at blive til amethyster
 - Hun frygtede at Nibar var blevet korrupteret på samme måde
 
 ## Relationships

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Viktor Baigorri/","tags":["erukana","pc","warrior","azur-ordenen","astley-avengers"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]","[[02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15|session 37]]","[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]","[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]","[[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]","[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen|session 44]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]","[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"category":"pc","Profession":["Warrior"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux|Baroniet Botreaux]]"],"Campaign":"Erukana","aliases":["Viktor","Victor","Viktor Baigorri"],"tags":["erukana","pc","warrior","azur-ordenen","astley-avengers"],"race":"human","role":["military"],"social_status":"nobility","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux|Baroniet Botreaux]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Viktor Baigorri/","tags":["erukana","pc","warrior","azur-ordenen","astley-avengers"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14|session 36]]","[[02 Player/Erukana (Nissen)/37 - 261125 - Erukana - Steffen - Infernal Machine - 15|session 37]]","[[02 Player/Erukana (Nissen)/39 - 151225 - Erukana - steffen 16 - Return to Vardestjernen|session 39]]","[[02 Player/Erukana (Nissen)/42- 210226 - Erukana - Nisen - ShipJacking|session 42]]","[[02 Player/Erukana (Nissen)/43 - 280326 - Erukana - Nissen - Sailing in the clouds|session 43]]","[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen|session 44]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]","[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]","[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]"],"category":"pc","Profession":["Warrior"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux|Baroniet Botreaux]]"],"Campaign":"Erukana","aliases":["Viktor","Victor","Viktor Baigorri"],"tags":["erukana","pc","warrior","azur-ordenen","astley-avengers"],"race":"human","role":["military"],"social_status":"nobility","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]","[[02 Player/Erukana (Nissen)/Factions/Azur ordenen]]"],"disposition":"ally","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux|Baroniet Botreaux]]"}}
 ---
 
 
 ## Description
-Viktor Baigorri er en kriger fra [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Baroniet Botreaux]] med adelig afstamning. Han er uddannet ved byens vagter og bærer en glaive. Han har en særlig forbindelse til [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] — [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Vardestjernen\|Vardestjernen]]s metalvogter identificerede ham som "arkanisk match, broder af ordnen". Han sluttede sig til gruppen i session 36 efter at hans tidligere eventyrergruppe forlod ham under en dæmonangreb.
+Viktor Baigorri er en kriger fra [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Baroniet Botreaux]] med adelig afstamning. Han er uddannet ved byens vagter og bærer en glaive. Han har en særlig forbindelse til [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] — [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]]s metalvogter identificerede ham som "arkanisk match, broder af ordnen". Han sluttede sig til gruppen i session 36 efter at hans tidligere eventyrergruppe forlod ham under en dæmonangreb.
 
 ## Notes
 ### Session 36 — Introduktion
@@ -51,12 +51,23 @@ Viktor Baigorri er en kriger fra [[02 Player/Erukana (Nissen)/Locations/Hertugd�
 - Kaster Speak with Dead på [[02 Player/Erukana (Nissen)/People/Sir Seilling\|Sir Seilling]] også, hvorefter Winston og Clarabel sværger en ed om brugen af hans udstyr
 - Modtager [[02 Player/Erukana (Nissen)/Items/Crown of the kings\|Crown of the kings]] (lånt fra Kong Norgassa)
 
+### Session 48 - Investigating the opal cult
+- Vælger at bo "aristokratisk" på [[02 Player/Erukana (Nissen)/Locations/Det gyldne krus\|Det gyldne krus]] i [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]]
+- Forsøger at bruge [[No Graph/5e Reference/spells/Comprehend Languages\|Comprehend Languages]] på den overstregede skrift i [[02 Player/Erukana (Nissen)/Locations/Deneir templet i Colville\|Deneir templet i Colville]]
+- Husker sammen med Nibar byen [[02 Player/Erukana (Nissen)/Locations/Zelatar\|Zelatar]] i Afgrunden
+- Betaler for overfarten over [[02 Player/Erukana (Nissen)/Locations/Saltfloden\|Saltfloden]] med mindet om at han taler med den ærbødige konge, [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]] - **ingen i gruppen kan længere huske mødet med kongen**
+- Har også mistet mindet om [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]] (Nibars betaling)
+- Drikker af den gode vin som [[02 Player/Erukana (Nissen)/People/Anders Lassen\|Anders Lassen]] havde, mens gruppen venter i [[02 Player/Erukana (Nissen)/Locations/Spirenes hus\|Spirenes hus]]
+- **Næste gang**: vil sammen med Nibar forsøge at forhandle videre med [[02 Player/Erukana (Nissen)/People/Den sorte fyrste\|herren i huset]] om [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]]
+
 ## Relationships
 - **Gruppe**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
 - **Orden**: [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur ordenen]] (uforklaret forbindelse)
 - **Hjemsted**: [[02 Player/Erukana (Nissen)/Locations/Hertugdømmet Botreaux\|Baroniet Botreaux]]
 - **Kontakt**: Ukendt (fremskaffer dokumenter, info om sort metal)
 - **Udstyr**: Magisk bracer-skjold (ild-fokus), glaive, [[02 Player/Erukana (Nissen)/Items/Halskæde - Caster boost\|Halskæde - Caster boost]], [[02 Player/Erukana (Nissen)/Items/Crown of the kings\|Crown of the kings]]
+- **Forhandler med**: [[02 Player/Erukana (Nissen)/People/Den sorte fyrste\|Den sorte fyrste]] (om [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]])
+- **Mistede minder**: mødet med [[02 Player/Erukana (Nissen)/People/Kong Norgassa\|Kong Norgassa]], [[02 Player/Erukana (Nissen)/Locations/Vardestjernen\|Vardestjernen]] (session 48)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/36 - Erukana - Steffen - Corwin & Viktor 14\|36 - Erukana - Steffen - Corwin & Viktor 14]]
@@ -67,6 +78,7 @@ Viktor Baigorri er en kriger fra [[02 Player/Erukana (Nissen)/Locations/Hertugd�
 - [[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|44 - rescue mission Evelyn in Feywood - Nissen]]
 - [[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|46 - 080826 - Under Soltræet - Nissen]]
 - [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]
+- [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]
 
 ## Tags
 #erukana #pc #warrior #azur-ordenen #astley-avengers

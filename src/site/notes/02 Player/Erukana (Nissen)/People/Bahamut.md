@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Bahamut/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10|session 10]]","[[02 Player/Erukana (Nissen)/14 190624 - steffen session 2|session 2]]","[[02 Player/Erukana (Nissen)/15-110724 - steffen seesion 3|session 15]]","[[02 Player/Erukana (Nissen)/4-091023 - Changer of time session 4|session 4]]","[[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5|session 5]]","[[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1|session 1]]","[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"unspecified","role":"religious","social_status":"royalty","affiliation":["Paladine Temple"],"disposition":"ally","status":"alive","location_primary":"Divine Realm"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Bahamut/","tags":["erukana","npc"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/17 - 250624 - Changer of time - nissen - session 13|session 13]]","[[02 Player/Erukana (Nissen)/12 - 200624 - Changer of time session 12 - downtime Astley|session 12]]","[[02 Player/Erukana (Nissen)/10 - 220524 - Changer of time session 10|session 10]]","[[02 Player/Erukana (Nissen)/14 190624 - steffen session 2|session 2]]","[[02 Player/Erukana (Nissen)/15-110724 - steffen seesion 3|session 15]]","[[02 Player/Erukana (Nissen)/4-091023 - Changer of time session 4|session 4]]","[[02 Player/Erukana (Nissen)/5-281023 - Changer of time session 5|session 5]]","[[02 Player/Erukana (Nissen)/13 - 220624 - steffen session 1|session 1]]","[[02 Player/Erukana (Nissen)/9 -150524 - Changer of time session 9|session 9]]","[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]"],"category":"npc","Profession":[null],"Faction":null,"Location":[null],"Campaign":"Erukana","tags":["erukana","npc"],"race":"unspecified","role":"religious","social_status":"royalty","affiliation":["Paladine Temple"],"disposition":"ally","status":"alive","location_primary":"Divine Realm"}}
 ---
 
 
 ## Description
-Bahamut er en guddom i Erukana. Han tilbedes hemmeligt ved [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]], hvor tempelpersonalet bærer et skjult mærke. Bahamut var [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]s oprindelige guddom, før hun skiftede til [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]. Dronningen af Anaksa blev avatar af Paladine/Bahamut og [[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]] efter at have badet i den hellige Deltaflod.
+Bahamut er en guddom i Erukana. Han tilbedes hemmeligt ved [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]], hvor tempelpersonalet bærer et skjult mærke. Bahamut var [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel Lancaster]]s oprindelige guddom, før hun skiftede til [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]. Dronningen af Anaksa blev avatar af Paladine/Bahamut og [[02 Player/Erukana (Nissen)/People/Mishakal\|Mishakal]] efter at have badet i den hellige Deltaflod.
 
 ## Notes
 ### Session 7, 9
@@ -14,16 +14,21 @@ Bahamut er en guddom i Erukana. Han tilbedes hemmeligt ved [[02 Player/Erukana (
 ### Session 12-17
 - Clarabel skiftede fra Bahamut til Mielikki
 
+### Session 48 - Investigating the opal cult
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] forkynder Bahamuts og [[02 Player/Erukana (Nissen)/People/Mielikki\|Mielikki]]s ord for menneskemængden foran [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]]s porte
+- Der er et Bahamut-tempel i Colville, som Clarabel besøger (senere sammen med Winston)
+
 ## Relationships
 - **Tempel**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/paladine templet i Astley\|paladine templet i Astley]] - hemmelig tilbedelse her
-- **Tilhænger (tidl.)**: [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]] - skiftede til Mielikki
+- **Tilhænger (tidl.)**: [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel Lancaster]] - skiftede til Mielikki
 - **Avatar**: [[02 Player/Erukana (Nissen)/People/Dronningen af Anaksa\|Dronningen af Anaksa]] - blev avatar af Paladine/Bahamut
 - **Forbundet guddom**: [[02 Player/Erukana (Nissen)/People/Paladine\|Paladine]] - Bahamut tilbedes hemmeligt bag Paladines facade
 
 ## Referenced In
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel Lancaster]]
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel Lancaster]]
 - [[02 Player/Erukana (Nissen)/Factions/The Queensguard\|Factions/The Queensguard]]
 - [[02 Player/Erukana (Nissen)/People/Queen Neferata\|02 Player/Erukana (Nissen)/People/Queen Neferata]]
+- [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]
 
 ## Tags
 #erukana #deity #bahamut #paladine

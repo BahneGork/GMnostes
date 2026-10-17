@@ -14,7 +14,7 @@ Visdommens kammer (Chamber of Wisdom) er et kammer i [[02 Player/Erukana (Nissen
 - Rundt om er 4 statuer der vokser op af træet selv, de ligner feer
 
 ### Session 41
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]] besøger kammeret
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] og [[02 Player/Erukana (Nissen)/People/Jarell Flick\|Hr. Flick]] besøger kammeret
 - Krystallen i midten skifter farve efter årstiden
 - [[02 Player/Erukana (Nissen)/People/Lord Fern\|Lord Fern]] kan forme minder til virkelighed her (kaster vand fra en åkande)
 - Her afsløres information om [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|den lilla plage]], staven og fængslet

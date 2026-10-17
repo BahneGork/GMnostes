@@ -75,6 +75,6 @@ Jægerne af Azurordenen kalder sig skyggekompagniet
 
 
 
-[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|<< Previous Session 46 ]] ----[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|TOP]]----  [[48 -  \|Next Session 48  >>]]
+[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|<< Previous Session 46 ]] ----[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|TOP]]----  [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|Next Session 48  >>]]
 
 [[02 Player/Erukana (Nissen)/_Erukana home\|_Erukana home]]

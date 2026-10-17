@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Castle Brienne/","tags":["erukana","location","castle"],"dg-note-properties":{"type":"location","subtype":"castle","campaign":"Erukana","tags":["erukana","location","castle"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Locations/Castle Brienne/","tags":["erukana","location","castle"],"dg-note-properties":{"type":"location","subtype":"castle","campaign":"Erukana","tags":["erukana","location","castle"],"sessions":["[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]"]}}
 ---
 
 
@@ -18,19 +18,24 @@ Castle Brienne er et slot i [[02 Player/Erukana (Nissen)/Locations/Locationsvisi
 
 ### Kontakter
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]] har kontaktpunkt her
-- Nogen [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] kender er stationeret her
+- Nogen [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clara]] kender er stationeret her
 - Besked: "Lancaster, der er en person som jeg ikke forventede at høre fra igen. Jeg er i Castle Brienne. Måske på tilbagevejen kan svinge forbi Astley."
+
+### Session 48 - Investigating the opal cult
+- Ifølge [[02 Player/Erukana (Nissen)/People/Nimrod Lavassa\|Nimrod Lavassa]] i Colville var [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]] ikke kun i [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]], men også i Castle Brienne, og den havde inficeret stort set alt
 
 ## Relationships
 - **Region**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Welles\|Baroniet Welles]]
 - **Handel**: Krigsmateriale, udstyr
 - **Netværk**: [[02 Player/Erukana (Nissen)/Journal/Clarabels atomic agenda/Waning Moon\|Waning Moon]]
 - **Handelsrute**: [[02 Player/Erukana (Nissen)/Locations/Wolfenburg\|Wolfenburg]], [[02 Player/Erukana (Nissen)/People/Mecina\|Mecina]]
+- **Historie**: [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]] var aktiv her (session 48)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Clara downtime Astley 6th to 16th Tarsakh 1517\|Clara downtime Astley 6th to 16th Tarsakh 1517]]
 - [[02 Player/Erukana (Nissen)/Journal/Clarabels full downtime activities in Astley during Tarsakh 6th - 18th\|Clarabels full downtime activities in Astley during Tarsakh 6th - 18th]]
 - [[Locations/Baroniet Welles\|Locations/Baroniet Welles]]
+- [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]
 
 ## Tags
 #erukana #location #castle #welles #trade

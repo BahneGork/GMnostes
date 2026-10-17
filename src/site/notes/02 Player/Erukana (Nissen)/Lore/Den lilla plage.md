@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Lore/Den lilla plage/","tags":["erukana","lore","villain","dragon","corruption","purpleplague"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4|session 16]]","[[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15|session 19]]","[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16|session 20]]","[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -|session 27]]","[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon|session 40]]","[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen|session 44]]","[[02 Player/Erukana (Nissen)/45.5 - Logan's trip to Skullborg - Nisse - 'offline'|session 45.5]]"],"type":"lore","category":"entity","campaign":"Erukana","aliases":["Time Ender","The Purple Plague","Lilla plage","Purple Plague","Den Lilla Plage"],"tags":["erukana","lore","villain","dragon","corruption","purpleplague"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Lore/Den lilla plage/","tags":["erukana","lore","villain","dragon","corruption","purpleplague"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/16 - 160724 - steffen session 4|session 16]]","[[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15|session 19]]","[[02 Player/Erukana (Nissen)/20 - 110125 - Changer of time - nissen - session 16|session 20]]","[[02 Player/Erukana (Nissen)/26 - 310525 - Erukana - nissen 18 - Frosty Northern Forest|session 26]]","[[02 Player/Erukana (Nissen)/27 - 210625 - Eurkana - nissen 19 -|session 27]]","[[02 Player/Erukana (Nissen)/38 - 061225 - Erukana - Nissen - Clarabel - Lord Magdova|session 38]]","[[02 Player/Erukana (Nissen)/40 - 170126 -  steffen - Erukana - Exploring Vardestjernen dungeon|session 40]]","[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen|session 44]]","[[02 Player/Erukana (Nissen)/45.5 - Logan's trip to Skullborg - Nisse - 'offline'|session 45.5]]","[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]"],"type":"lore","category":"entity","campaign":"Erukana","aliases":["Time Ender","The Purple Plague","Lilla plage","Purple Plague","Den Lilla Plage"],"tags":["erukana","lore","villain","dragon","corruption","purpleplague"]}}
 ---
 
 
@@ -35,7 +35,7 @@ Den Lilla Plage er en mystisk og ondskabsfuld kraft der korrupterer og inficerer
 
 ### Modstand
 - [[02 Player/Erukana (Nissen)/People/Urza\|Urza]] fra [[02 Player/Erukana (Nissen)/Factions/Knoglestammen\|Knoglestammen]] er imod plagen
-- [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clara]] taler med [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]] om at rejse forsvar mod plagen
+- [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clara]] taler med [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]] om at rejse forsvar mod plagen
 - Den lilla plage er alles fjende
 
 ### Session 41
@@ -65,6 +65,11 @@ Den Lilla Plage er en mystisk og ondskabsfuld kraft der korrupterer og inficerer
 - Den lilla plage er i gang med at "lukke deres afdeling ned" i [[02 Player/Erukana (Nissen)/Skullborg\|Skullborg]], som om de har opnået det de ville dér
 - En af TimeEnders løjtnanter, [[Dasdant\|Dasdant]], er fundet i Skullborg med hvad der menes at være den fjerde stavdel
 
+### Session 48 - Investigating the opal cult
+- En [[02 Player/Erukana (Nissen)/Lore/Riften i stjernehimlen\|rift i stjernehimlen]] åbner sig med et lilla lys, mens gruppen er ved [[02 Player/Erukana (Nissen)/Locations/Colville\|Colville]]. Samme nat falder 4 lysende objekter ned fra den, langt mod nord forbi [[02 Player/Erukana (Nissen)/Locations/Astley\|Astley]]
+- Plagens rifter er dem, som [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibars]] krystalkugle viser på sit 3D-verdenskort (session 40)
+- Opal kultens mester, [[02 Player/Erukana (Nissen)/People/Den sorte fyrste\|Den sorte fyrste]], fik at vide at gruppen bekæmper den lilla plage, og at [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]] kan have en vigtig rolle
+
 ## Relationships
 - **Fængsel**: Låst med staven og tidsartifaktet
 - **Modstander**: [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]], sølvdragen
@@ -75,6 +80,7 @@ Den Lilla Plage er en mystisk og ondskabsfuld kraft der korrupterer og inficerer
 - **Forbundne**: [[02 Player/Erukana (Nissen)/Locations/Locationsvisited/Baroniet Eresby\|Baroniet Eresby]], Borgmester Volmar, enkelte Blodrosen-riddere
 - **Fjender**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]], [[02 Player/Erukana (Nissen)/People/Urza\|Urza]], [[02 Player/Erukana (Nissen)/People/Lord Adelston Magdova\|Lord Magdova]]
 - **Artefakt**: [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]] - mulig forbindelse
+- **Rifter**: [[02 Player/Erukana (Nissen)/Lore/Riften i stjernehimlen\|Riften i stjernehimlen]] (session 48); vist på Nibars krystalkugle-kort (session 40)
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/Journal/Kapitel 1 - Afslutning\|Journal/Kapitel 1 - Afslutning]]
@@ -85,6 +91,7 @@ Den Lilla Plage er en mystisk og ondskabsfuld kraft der korrupterer og inficerer
 - [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]
 - [[02 Player/Erukana (Nissen)/44 - rescue mission Evelyn in Feywood - Nissen\|44 - rescue mission Evelyn in Feywood - Nissen]]
 - [[02 Player/Erukana (Nissen)/45.5 - Logan's trip to Skullborg - Nisse - 'offline'\|45.5 - Logan's trip to Skullborg - Nisse - 'offline']]
+- [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]
 
 ## Tags
 #erukana #lore #villain #dragon #corruption #timeender #purpleplague #erukanasecretsnclues

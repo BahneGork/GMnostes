@@ -8,7 +8,7 @@ Lord Adelston Magdova er lensherre over [[02 Player/Erukana (Nissen)/Locations/S
 
 ## Notes
 ### Session 38
-- Hidkaldte [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Wildwood]], men da han var udenbys tog [[02 Player/Erukana (Nissen)/Characters/My characters/Clarabel/Clarabel Lancaster\|Clarabel]] hans sted
+- Hidkaldte [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Sir Wildwood]], men da han var udenbys tog [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] hans sted
 - Hans søn [[Kasimér Magdova\|Kasimér Magdova]] var fortryllet af [[02 Player/Erukana (Nissen)/People/Ulricha Leitner\|Ulricha Leitner]] og planlagde at forråde ham
 - [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]] ankom til duelstedet med 30-50 mænd — forsøg på overtagelse af lensherredømmet
 - Dolph Leitner blev ødelagt ved guddommelig intervention
