@@ -6,7 +6,6 @@
 #erukana #npc #list 
 
 # People of Erukana
-- [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]]
 - [[02 Player/Erukana (Nissen)/People/Amit AnTuu\|Amit AnTuu]]
 - [[02 Player/Erukana (Nissen)/People/Anders Lassen\|Anders Lassen]]
 - [[02 Player/Erukana (Nissen)/People/Arakas Zhaarko\|Arakas Zhaarko]]
@@ -35,9 +34,9 @@
 - [[02 Player/Erukana (Nissen)/People/Daine waymar\|Daine waymar]]
 - [[02 Player/Erukana (Nissen)/People/Danica Dawnspire\|Danica Dawnspire]]
 - [[02 Player/Erukana (Nissen)/People/De Ældste\|De Ældste]]
-- [[02 Player/Erukana (Nissen)/People/den ældre veteran\|den ældre veteran]]
 - [[02 Player/Erukana (Nissen)/People/Den sorte fyrste\|Den sorte fyrste]]
 - [[02 Player/Erukana (Nissen)/People/den store stemme\|den store stemme]]
+- [[02 Player/Erukana (Nissen)/People/den ældre veteran\|den ældre veteran]]
 - [[02 Player/Erukana (Nissen)/People/Denizar Volmar\|Denizar Volmar]]
 - [[02 Player/Erukana (Nissen)/People/Dolph Leitner\|Dolph Leitner]]
 - [[02 Player/Erukana (Nissen)/People/Dronningen af Anaksa\|Dronningen af Anaksa]]
@@ -53,7 +52,6 @@
 - [[02 Player/Erukana (Nissen)/People/Fafnir\|Fafnir]]
 - [[02 Player/Erukana (Nissen)/People/goshitura rockshelf\|goshitura rockshelf]]
 - [[02 Player/Erukana (Nissen)/People/Graz'zt\|Graz'zt]]
-- [[02 Player/Erukana (Nissen)/People/Håkan\|Håkan]]
 - [[02 Player/Erukana (Nissen)/People/Hans Baudler\|Hans Baudler]]
 - [[02 Player/Erukana (Nissen)/People/Hertug Robert De Ros\|Hertug Robert De Ros]]
 - [[02 Player/Erukana (Nissen)/People/Hjalmer Dynn\|Hjalmer Dynn]]
@@ -61,6 +59,7 @@
 - [[02 Player/Erukana (Nissen)/People/Hofmesteren\|Hofmesteren]]
 - [[02 Player/Erukana (Nissen)/People/hviskeren i mørket\|hviskeren i mørket]]
 - [[02 Player/Erukana (Nissen)/People/Hydra\|Hydra]]
+- [[02 Player/Erukana (Nissen)/People/Håkan\|Håkan]]
 - [[02 Player/Erukana (Nissen)/People/Icefang\|Icefang]]
 - [[02 Player/Erukana (Nissen)/People/Illyria Starmantle\|Illyria Starmantle]]
 - [[02 Player/Erukana (Nissen)/People/Imale shawn\|Imale shawn]]
@@ -165,6 +164,7 @@
 - [[02 Player/Erukana (Nissen)/People/Voldumand den tredje\|Voldumand den tredje]]
 - [[02 Player/Erukana (Nissen)/People/Yasmina AnTuu\|Yasmina AnTuu]]
 - [[02 Player/Erukana (Nissen)/People/Zarafine\|Zarafine]]
+- [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]]
 
 { .block-language-dataview}
 
