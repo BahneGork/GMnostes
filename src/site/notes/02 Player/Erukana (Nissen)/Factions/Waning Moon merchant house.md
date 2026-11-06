@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen|session 45]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]"],"category":"faction","faction_type":"merchant-company","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Assana Lemieux]]"],"affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","aliases":["Waning Moon","Waning moon merchant house"],"tags":["erukana","faction"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house/","tags":["erukana","faction"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen|session 45]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]","[[02 Player/Erukana (Nissen)/49 - 311026 - nissen - Den sorte fyrste|session 49]]"],"category":"faction","faction_type":"merchant-company","status":"active","friend-or-foe":"ally","leader":["[[02 Player/Erukana (Nissen)/People/Assana Lemieux]]"],"affiliation":["[[02 Player/Erukana (Nissen)/Factions/Astley Avengers]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Astley]]"],"Campaign":"Erukana","aliases":["Waning Moon","Waning moon merchant house"],"tags":["erukana","faction"]}}
 ---
 
 
@@ -20,6 +20,10 @@ Waning Moon merchant house er et handelshus i [[02 Player/Erukana (Nissen)/Locat
 - [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] og [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] flyver til Waning Moon mansion for at undersøge skaderne efter angrebet
 - [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]], administrator, findes død - lig næsten rent skelet, knust af faldende bygningskonstruktioner
 
+### Session 49 - Den sorte fyrste
+- Gruppen kommer hjem fra Afgrunden med [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]] og står "hjemme i vores nedbrændte hus"
+- [[02 Player/Erukana (Nissen)/Characters/Viktor Baigorri\|Victor]] sidder på knæ og øser sort blod ud af sine sår, med [[No Graph/5e Reference/items/blackrazor\|blackrazor]] i hænderne
+
 ## Relationships
 - **Administrator**: [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] (død)
 - **Allieret**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
@@ -29,6 +33,7 @@ Waning Moon merchant house er et handelshus i [[02 Player/Erukana (Nissen)/Locat
 - [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]
 - [[02 Player/Erukana (Nissen)/45 - The Dracolich attacks Delios - Nissen\|45 - The Dracolich attacks Delios - Nissen]]
 - [[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|46 - 080826 - Under Soltræet - Nissen]]
+- [[02 Player/Erukana (Nissen)/49 - 311026 - nissen - Den sorte fyrste\|49 - 311026 - nissen - Den sorte fyrste]]
 
 ## Members
 - [[02 Player/Erukana (Nissen)/People/Assana Lemieux\|Assana Lemieux]] - Administrator (human, 25-29 år) - **død, session 46**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Fritte/","tags":["MichaelNissen","erukanapc","erukana","erukana/campaign/steffen"],"dg-note-properties":{"aliases":["Fritte"],"type":"pc","status":"inactive","sessions":["[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]"],"campaign":"Erukana - steffen","tags":["MichaelNissen","erukanapc","erukana","erukana/campaign/steffen"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Characters/Fritte/","tags":["MichaelNissen","erukanapc","erukana","erukana/campaign/steffen"],"dg-note-properties":{"aliases":["Fritte"],"type":"pc","status":"active","sessions":["[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]","[[02 Player/Erukana (Nissen)/49 - 311026 - nissen - Den sorte fyrste|session 49]]"],"campaign":"Erukana - steffen","tags":["MichaelNissen","erukanapc","erukana","erukana/campaign/steffen"]}}
 ---
 
 
@@ -24,8 +24,14 @@ Rogue
 - Gruppen fortæller at de bekæmper den lilla plage, og at Fritte kan have en vigtig rolle
 - Ingen aftale endnu; [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] og [[02 Player/Erukana (Nissen)/Characters/Viktor Baigorri\|Victor]] vil forhandle videre
 
+### Session 49 - Den sorte fyrste
+- **Befriet fra helvede.** [[02 Player/Erukana (Nissen)/Characters/Viktor Baigorri\|Victor]] finder hendes spejl i fløjlssalen; [[02 Player/Erukana (Nissen)/Characters/Clarabel Lancaster\|Clarabel]] dispeller det og overtaler hende til at komme ud, mens de andre kæmper mod en Balor
+- Da hun hopper ud, kaster [[02 Player/Erukana (Nissen)/Characters/Nibar Brassbit\|Nibar]] Disintegrate på spejlet
+- Hun opfatter den penible situation og rækker ud mod [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]], som har [[02 Player/Erukana (Nissen)/Items/Tidsartifaktet\|tidsglasset]]. Et gyldent lys omfatter gruppen, Baloren råber "Neeeeej!", og de står hjemme i det nedbrændte [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning Moon mansion]]
+
 ## Relationships
-- **Sjælespejl ejet af**: [[02 Player/Erukana (Nissen)/People/Den sorte fyrste\|Den sorte fyrste]]
+- **Sjælespejl**: tidligere ejet af [[02 Player/Erukana (Nissen)/People/Den sorte fyrste\|Den sorte fyrste]]; ødelagt af Nibar (session 49)
+- **Reddet af**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] (session 49)
 - **Mission**: [[02 Player/Erukana (Nissen)/Missions/Befri Fritte i helvede\|Befri Fritte i helvede]]
 - **Kender**: [[02 Player/Erukana (Nissen)/Characters/Bjørn of Nordheim\|Bjørn]] (soldat sammen med hende)
 
@@ -33,3 +39,4 @@ Rogue
 - [[02 Player/Erukana (Nissen)/19 - 140824- Changer of time - nissen -  session 15\|19 - 140824- Changer of time - nissen -  session 15]]
 - [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]
 - [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]
+- [[02 Player/Erukana (Nissen)/49 - 311026 - nissen - Den sorte fyrste\|49 - 311026 - nissen - Den sorte fyrste]]

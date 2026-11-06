@@ -49,7 +49,7 @@
 - Victor løber ud og samler Balorens sværd op
 - Fritte opfatter den penible situation vi er i og rækker ud mod Winston, som har tidsglasset, vi omfattes af et gyldent lys og vi kan høre Baloren råbe  "Neeeeej!" 
 - Da lyset forsvinder står vi hjemme i vores nedbrændte hus
-- Victor sidder på knæ og øser sort blod ud af sine sår og virker vred, vred på hele verdenen
+- Victor sidder på knæ og øser sort blod ud af sine sår og virker vred, vred på hele verdenen, med [[No Graph/5e Reference/items/blackrazor\|blackrazor]] i hænderne.
 
 Vi har reddet Fritte fra helvede 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Tidsartifaktet/","tags":["erukana","item","artifact","time","key"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]","[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]"],"type":"item","category":"artifact","campaign":"Erukana","aliases":["Time Artifact","Tidsartefaktet"],"tags":["erukana","item","artifact","time","key"]}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/Items/Tidsartifaktet/","tags":["erukana","item","artifact","time","key"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet|session 41]]","[[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen|session 46]]","[[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence|session 47]]","[[02 Player/Erukana (Nissen)/49 - 311026 - nissen - Den sorte fyrste|session 49]]"],"type":"item","category":"artifact","campaign":"Erukana","aliases":["Time Artifact","Tidsartefaktet","tidsglasset"],"tags":["erukana","item","artifact","time","key"]}}
 ---
 
 
@@ -22,6 +22,10 @@ Tidsartifaktet er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/
 ### Session 47 - After the dragon essence
 - [[02 Player/Erukana (Nissen)/People/Ægrin\|Ægrin]] fortæller at Tidsartifaktet også er skabt af [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azurbroderskabet]]
 
+### Session 49 - Den sorte fyrste
+- [[02 Player/Erukana (Nissen)/Characters/Winston Wildwood\|Winston]] har tidsglasset, da [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]] rækker ud mod ham i fløjlssalen i Afgrunden. Et gyldent lys omfatter gruppen, og de står hjemme i det nedbrændte [[02 Player/Erukana (Nissen)/Factions/Waning Moon merchant house\|Waning Moon mansion]]
+- Om det er Frittes evne (hun var guide i portalrummet) eller artefaktets kraft, siger loggen ikke
+
 ## Relationships
 - **Funktion**: Nøgle/lås til fængslet (sammen med [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]])
 - **Relateret til**: [[02 Player/Erukana (Nissen)/Lore/Den lilla plage\|Time Ender]], [[02 Player/Erukana (Nissen)/Items/Staven\|Staven]], [[02 Player/Erukana (Nissen)/Factions/Azur ordenen\|Azur Ordenen]]
@@ -31,6 +35,7 @@ Tidsartifaktet er et artefakt der sammen med [[02 Player/Erukana (Nissen)/Items/
 - [[02 Player/Erukana (Nissen)/41 - 100226 - Nissen - Besøg i Soltræet\|41 - 100226 - Nissen - Besøg i Soltræet]]
 - [[02 Player/Erukana (Nissen)/46 - 080826 - Under Soltræet - Nissen\|46 - 080826 - Under Soltræet - Nissen]]
 - [[02 Player/Erukana (Nissen)/47 - 200926 - Erukana - Nissen - After the dragon essence\|47 - 200926 - Erukana - Nissen - After the dragon essence]]
+- [[02 Player/Erukana (Nissen)/49 - 311026 - nissen - Den sorte fyrste\|49 - 311026 - nissen - Den sorte fyrste]]
 
 ## Tags
 #erukana #item #artifact #time #key #prison

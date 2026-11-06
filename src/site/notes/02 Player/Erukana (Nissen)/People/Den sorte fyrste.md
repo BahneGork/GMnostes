@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Den sorte fyrste/","tags":["erukana","npc","antagonist","abyss"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]"],"category":"npc","Profession":["Dæmonfyrste-løjtnant","Sjælehandler"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Opal kulten]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Spirenes hus]]"],"Campaign":"Erukana","aliases":["Sjælebesidderen","Den sorte handler","Den mægtige","Graz'zts højre blad","Herren i huset"],"tags":["erukana","npc","antagonist","abyss"],"race":"unspecified (tidligere dødelig)","role":["antagonist","merchant"],"social_status":"baron","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Opal kulten]]"],"disposition":"conditional","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Spirenes hus]]"}}
+{"dg-publish":true,"permalink":"/02 Player/Erukana (Nissen)/People/Den sorte fyrste/","tags":["erukana","npc","antagonist","abyss"],"dg-note-properties":{"sessions":["[[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult|session 48]]","[[02 Player/Erukana (Nissen)/49 - 311026 - nissen - Den sorte fyrste|session 49]]"],"category":"npc","Profession":["Dæmonfyrste-løjtnant","Sjælehandler"],"Faction":["[[02 Player/Erukana (Nissen)/Factions/Opal kulten]]"],"Location":["[[02 Player/Erukana (Nissen)/Locations/Spirenes hus]]"],"Campaign":"Erukana","aliases":["Sjælebesidderen","Den sorte handler","Den mægtige","Graz'zts højre blad","Herren i huset"],"tags":["erukana","npc","antagonist","abyss"],"race":"unspecified (tidligere dødelig)","role":["antagonist","merchant"],"social_status":"baron","affiliation":["[[02 Player/Erukana (Nissen)/Factions/Opal kulten]]"],"disposition":"hostile","status":"alive","location_primary":"[[02 Player/Erukana (Nissen)/Locations/Spirenes hus]]"}}
 ---
 
 
@@ -17,18 +17,25 @@ Den sorte fyrste var en dødelig, som solgte sin sjæl til [[02 Player/Erukana (
 - Modbud 2: gruppen kan låne Fritte, men skal aflevere hende tilbage
 - Ingen aftale endnu; Nibar og Victor vil forhandle videre
 
+### Session 49 - Den sorte fyrste
+- Viser sig ikke. [[02 Player/Erukana (Nissen)/People/Hofmesteren\|Hofmesteren]] vil have gruppen til at fjerne sin herre, så han selv kan overtage
+- Gruppen tager i stedet [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]] med magt: hans sjælespejl i fløjlssalen ødelægges med Dispel Magic og Disintegrate
+- Spejlet er beskyttet: da det bliver dispellet, ringer en klokke, og en Balor træder ud af en portal
+- Gruppen flygter med Fritte, mens Baloren råber "Neeeeej!". Ifølge hans eget hus er det "ve dem som kommer efter dårlige handler eller tyveri"
+
 ## Relationships
 - **Herre**: [[02 Player/Erukana (Nissen)/People/Graz'zt\|Graz'zt]] (løjtnant)
 - **Baroni**: En del af [[02 Player/Erukana (Nissen)/Locations/Azzagrat\|Azzagrat]]
 - **Bolig**: [[02 Player/Erukana (Nissen)/Locations/Spirenes hus\|Spirenes hus]]
 - **Tjener**: [[02 Player/Erukana (Nissen)/People/Hofmesteren\|Hofmesteren]]
 - **Kult**: [[02 Player/Erukana (Nissen)/Factions/Opal kulten\|Opal kulten]]
-- **Ejer**: [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]]s sjælespejl
-- **Forhandler med**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]]
+- **Ejede**: [[02 Player/Erukana (Nissen)/Characters/Fritte\|Fritte]]s sjælespejl (ødelagt session 49)
+- **Bestjålet af**: [[02 Player/Erukana (Nissen)/Factions/Astley Avengers\|Astley Avengers]] (session 49)
 - **Mission**: [[02 Player/Erukana (Nissen)/Missions/Befri Fritte i helvede\|Befri Fritte i helvede]]
 
 ## Referenced In
 - [[02 Player/Erukana (Nissen)/48 - 11102026 - nissen - erukana - Investigating the opal cult\|48 - 11102026 - nissen - erukana - Investigating the opal cult]]
+- [[02 Player/Erukana (Nissen)/49 - 311026 - nissen - Den sorte fyrste\|49 - 311026 - nissen - Den sorte fyrste]]
 
 ## Tags
 #erukana #npc #antagonist #abyss
